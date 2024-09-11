@@ -13,7 +13,7 @@ import datetime
 
 # View to render the index page
 def my_view(request):
-    return render(request, "index5.html")
+    return render(request, "index.html")
 
 # Helper function to generate a unique user ID
 def generate_user_id():
