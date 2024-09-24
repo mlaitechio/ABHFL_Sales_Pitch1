@@ -1,0 +1,40 @@
+GROSS TURNOVER METHOD
+
+    Loan Amount:
+        • Minimum →5L
+        • Maximum →15 CR
+
+    FOIR: Max 65%
+    LTV: As per Product
+
+    Applicable for SENP Customers
+        1. Eligible Income = Gross Turnover * Margin
+            • Gross Turnover as reported in ﬁnancials
+            • Margin is deﬁned as per Policy
+        2. Clubbing of More than one business
+            • Clubbing is allowed for similar line of business & can be considered for income computation
+            • Vintage of each line of business to be considered
+            • Margin to be considered separately for each line of business considered
+            • Where % growth in turnover is up to 20% of the last year’s Turnover current year turnover is to be considered.
+            • Where % growth is more than 20% but less than or equal to 50% of last year’s turnover.
+            • Average of 2 years or 20% growth whichever is higher is to be considered.
+            • Wherever growth in current year turnover is more than 50%, then average of 2 years is required.
+        3. Gross Turnover vis-à- vis EBITDA clause
+            • Eligible Income as per Gross Turnover to be 3 times of EBITDA
+        4. Other Income
+            • Other income can be considered at actual capped at 100% of eligible income.
+
+        5. Rental Income
+            Income from House Property /Rental Income Subject to property mortgaged and rentals escrowed with ABHFL can be considered 100%(i.e., actual net rent)
+            Rent consideration norm: Current rentals as per copy of lease deed (min 3 months old) with credits reﬂecting into bank account (6months period) / occupancy veriﬁed by Credit team or in the absence of registered lease agreement, average of last 2 years rentals as reﬂecting in the ITR
+        6. Banking Norm:
+            Operating account norm:
+            • Annualized Credits (annualized from 6 months banking) should be min 60% of reported turnover.
+            • Inward clearing Cheque returns capped at 2% or 10 cheque whichever is lower in last 6 months.
+            • Min 3 customer-initiated transactions in a month in the last 3 months.
+            • Loan repayment required from bank account meeting above norm.
+        7. Documentation:
+            • Latest 6 months banking required from the operating account.
+            • Loan up to 1 Cr based on ITR/unaudited ﬁnancials.
+            • Mandatory 2 years audited ﬁnancials for loans greater than 1 Cr.
+            • In case wherein there is huge variance between Industry Margin List and Book Margin as per ﬁnancial, Credit Manager to analyze the reason for the same and the same need to be documented in the proposal note as well.

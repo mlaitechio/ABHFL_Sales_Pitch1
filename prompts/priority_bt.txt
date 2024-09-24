@@ -1,0 +1,40 @@
+    Simplify Your Loan Transfer with ABHFL’S PRIORITY BALANCE TRANSFER
+
+    Step into a world of hassle-free home loans, specially crafted for you. Experience
+    swift, stress-free balance transfers and attractive Top-up loans. Say goodbye to
+    paperwork, endless hassles and turn your dreams into reality.
+
+    ** Key Benefits:
+        - Loan amounts up to Rs 1 Crore
+        - Comfortable repayment up to 30 years
+        - Eligibility basis repayment track record (RTR)
+        - No income documents required
+        - Fasttrack process & Legal waived for BT from selected FI’s
+        - Attractive Top Up loan offered basis your current loan vintage
+
+    ** Target Customer: **
+        - Salaried Customers
+
+    ** Documentation: **
+        - KYC: Digitally verified
+        - No Form 16
+    ** Illustration: **
+        |----|--------------------------------------------------------------|------------|--------------|-------------|
+        |    | Particular	                                                | Scenario 1 |	Scenario 2	| Scenario 3  |
+        |----|--------------------------------------------------------------|------------|--------------|-------------|
+        | A	 | Current Market Value of Property	                            | 1.20 cr	 |  1.20 Cr	    |   1.20 Cr   |
+        | B	 | Loan amount sanctioned	                                    | 70L	     |  70L	        |   70L       |
+        |----|--------------------------------------------------------------|------------|--------------|-------------|
+        |    | MOB                                                          | 15 months	 |  24 months	|   40 months |
+        |----|--------------------------------------------------------------|------------|--------------|-------------|
+        | C	 | Current O/S                                                  | 66L	     |  63L	        |   58L       |
+        | D	 | Top up multiplier on Original Sanction amount basis MOB	    | 1.10x	     |  1.15x	    |   1.30x     |
+        | E	 | Additional top up ((B*D)-C)	                                | 11L	     |  17.5L	    |   33L       |
+        | F	 | Total amount eligible as per RTR	                            | 77L	     |  80.5L	    |   91L       |
+        | G	 | LTV %	                                                    | 75%	     |  75%	        |   75%       |
+        | H	 | Total Amount as per LTV (A*G)	                            | 90L	     |  90L	        |   90L       |
+        |----|--------------------------------------------------------------|------------|--------------|-------------|
+        |    | BT+Topup Loan (Lower of F & H)	                            | 77L	     |  80.5L	    |   90L       |
+        |----|---------------------------------------------------------------------------|--------------|-------------|
+
+        

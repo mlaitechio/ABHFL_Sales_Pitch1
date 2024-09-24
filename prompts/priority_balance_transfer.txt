@@ -1,0 +1,118 @@
+PRIORITY BALANCE TRANSFER
+
+    Introduced to cater to ABC employees and ABC Salaried Customers seeking balance transfer option with attractive interest rate.
+
+    ** TYPE OF LOAN: **
+        Home Loan Balance Transfer
+
+    ** TARGET SEGMENT: **
+        ABC employees, ABC Salaried Customers
+
+    ** TICKET SIZE: **
+        Loan amount up to 3 Crores
+
+    ** LOAN TENURE: **
+        Loan tenure up to 30 years
+
+    ** DOCUMENTATION: **
+        • No income documents required
+        • Only Sanction Letter, Statement of Account (SOA) & List of documents (LOD) from BT Bank required
+
+    |--------------|--------------------|-----------------------|-----------------------|
+    | Parameter    | Parameter          | ABC Employees         | ABC Customers –       |
+    |              |                    |                       | Salaried – Cat A & B  |
+    |              |                    |                       | employers only        |
+    |--------------|--------------------|-----------------------|-----------------------|
+    |  Product     | Product Applicable | HL & LAP              | HL                    |
+    |              |--------------------|-----------------------|-----------------------|
+    |              | Loan Amount        | Upto 3 Crs            | Upto 1 Cr             |
+    |              |--------------------|-----------------------|-----------------------|
+    |              | CIBIL              | 675 & above           | 730 & above           |
+    |              |--------------------|-----------------------|-----------------------|
+    |              | Tenure             | HL -30 yrs            | HL - 30 yrs           |
+    |              |                    | LAP - 15 yrs          |                       |
+    |              |--------------------|-----------------------|-----------------------|
+    |              | LTV                | HL - As per NHB norms | HL - As per           |
+    |              |                    | LAP - Resi :70%       | NHB norms             |
+    |              |                    | LAP - Comm :60%       |                       |
+    |--------------|--------------------|-----------------------|-----------------------|
+    |  Login       | Employee Vintage   | 6 months              | 6 months              |
+    |              | with current       |                       |                       |
+    |              | organization       |                       |                       |
+    |              |--------------------|-----------------------|-----------------------|
+    |              | Top Up             | Minimum vintage for Balance Transfer and      |
+    |              | applicable         | top up % (Top up limit on original Sanction   |
+    |              |                    | Amount)                                       |
+    |              |                    | 1. < 11 MOB: BT allowed but No top-up allowed.|
+    |              |                    | 2. > 11 to 18 MOB : BT allowed and max        |
+    |              |                    | top-up up to 10%                              |
+    |              |                    | 3. > 18 to 24 MOB: BT allowed and max         |
+    |              |                    | top-up up to 15%                              |
+    |              |                    | 4. > 24 to 36 MOB: BT allowed and max         |
+    |              |                    | top-up up to 20%                              |
+    |              |                    | 5. > 36 MOB : BT allowed & max top-up         |
+    |              |                    | up to 30%                                     |
+    |--------------|--------------------|-----------------------------------------------|
+
+    • No income documents required
+    • No legal required for BT from Top 13 institutions
+ 
+ Here is the extracted table from the image:
+
+### BT Variant Comparison for ABC Employees and Existing/New ABC Customers – Salaried
+
+| **Parameter**               | **Parameters**                      | **ABC Employees**                 | **Existing / New to ABC Customers – Salaried**               |
+|-----------------------------|-------------------------------------|-----------------------------------|-------------------------------------------------------------|
+| **Approach**                 | BT Variant                          | GREEN BT                          | GREEN BT for CAT A & B Salaried                              |
+|                             | BT Institution                      | All approved list of FIs           | 13 approved BT Institutions                                  |
+| **Product**                  | Product Applicable                  | HL & LAP                          | HL                                                          |
+|                             | Loan Amount                         | Upto 3 Crs                        | Upto 1 Cr                                                   |
+|                             | CIBIL                               | 675 & above                       | 730 & above                                                  |
+|                             | Tenure                              | HL - 30 yrs, LAP - 15 yrs         | HL - 30 yrs                                                  |
+|                             | LTV                                 | HL - As per NHB norms<br>LAP - Resi: 70%, LAP - Com: 60% | HL - As per NHB norms                                        |
+|                             | ROI                                 | As per Staff grid                 | As per Pricing Grid                                          |
+| **Login**                    | Emp Vintage with Current Org        | 6 months                          | 6 months (to be verified by EPFO)                            |
+|                             | KYC                                 | Y (Not required if digitally verified) | Y (Not required if digitally verified)                        |
+|                             | Salary Slip                         | N                                 | N                                                           |
+|                             | Bank Statement                      | N                                 | N                                                           |
+|                             | Form 16                             | N                                 | N                                                           |
+| **Financial Sanction**       | FI - Residential                    | N (if HR gives confirmation of address) | Y                                                           |
+|                             | FI - Office                         | N (if work email is verified through EPFO) | N (if work email is verified through EPFO)                    |
+|                             | RCU                                 | N                                 | N                                                           |
+|                             | PD                                  | Welcome call by Credit            | Welcome call by Credit                                       |
+| **Final Sanction**           | LOD & FC from Current Lender        | Y                                 | Y                                                           |
+|                             | Latest SOA from repayment date      | Y                                 | Y                                                           |
+|                             | Technical                           | As per existing policy            | As per existing policy                                       |
+|                             | Legal                               | N                                 | N                                                           |
+|                             | TSR                                 | Y                                 | Y                                                           |
+|                             | Vetting                             | Y                                 | Y                                                           |
+
+This table compares the product offerings and eligibility criteria for ABC employees and existing or new ABC salaried customers applying for BT (Balance Transfer).
+ 
+Here’s the information you provided in a tabular format:
+
+| **Parameter**      | **Norms**                                                                                                                                                                                                                                            |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **LTV norms**      | - **Home Loan**:<br>   - Loan amount up to 30 lakhs: 90%<br>   - Loan amount 30-75 lakhs: 80%<br>   - Loan amount >75 lakhs: 75%<br>- **LAP**:<br>   - Residential: 70%<br>   - Commercial: 60%<br>- **Top-up**:<br>   - Up to 20% of HL sanction amount: HL LTV considered<br>   - More than 20% of HL sanction amount: LAP LTV considered for entire exposure<br>**Note**: Top-up loan to be booked as a separate loan & cross-linked to BT account |
+| **Top Up**         | - **Minimum Vintage for Balance Transfer (BT) and Top-up % on Original Sanction Amount**:<br>   - 11 MoB: BT allowed but no top-up allowed<br>   - >11 to 18 MoB: BT allowed, max top-up up to 10%<br>   - >18 to 24 MoB: BT allowed, max top-up up to 15%<br>   - >24 to 36 MoB: BT allowed, max top-up up to 20%<br>   - >36 MoB: BT allowed, max top-up up to 30%<br>**For Developer Under Construction Loan**:<br>   - Only BT allowed post 12 MoB; top-up allowed only after 90% construction completion | 
+ 
+ 
+Here is the list of the top 13 Financial Institutions (FI’s) for the Green Channel in a tabular format:
+
+| **Sr No** | **List of Top 13 FI's for Green Channel**      |
+|-----------|------------------------------------------------|
+| 1         | HDFC Bank                                      |
+| 2         | ICICI Bank                                     |
+| 3         | Axis Bank                                      |
+| 4         | Kotak Mahindra Bank                            |
+| 5         | Standard Chartered Bank (SCB)                  |
+| 6         | HSBC                                           |
+| 7         | State Bank of India (SBI)                      |
+| 8         | Bank of Baroda                                 |
+| 9         | Bank of India                                  |
+| 10        | Punjab National Bank (PNB)                     |
+| 11        | ICICI Home Finance Ltd                         |
+| 12        | Tata Capital Housing Finance                   |
+| 13        | PNB Housing Finance                            |
+
+

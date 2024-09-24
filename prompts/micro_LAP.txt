@@ -1,0 +1,128 @@
+MICRO LAP
+
+    Introduced to cater to Affordable & Informal customers looking to avail LAP against collaterals with deviations
+
+    ** ELIGIBLE PRODUCTS: **
+        LAP – Self Occupied Residential Property & LAP – Self Occupied Commercial Property
+
+    ** TARGETED YIELD: ** 12% - 18%
+
+    ** TYPE OF LOAN: **
+        Term Loan (to be booked as non-HL) provided for  business expansion
+
+    ** TARGET SEGMENT: **
+        Salaried / Self-employed /Partnership Firms / LLP
+
+    ** TICKET SIZE: **
+        Ranging from Rs. 5 Lakhs to Rs. 75 Lakhs depending on the location & collateral category
+
+    ** LOAN TENURE: **
+        - Minimum – 12 months
+        - Maximum – 180 months
+
+    ** CIBIL: **
+        • Score : >= 700 / NTC
+        • Enquiries: <=7 in 3 months
+
+    ** Income Assessment Methods: **
+        • Financial Based : Salary Income – Bank credit & Cash Proﬁt Method (CPM)
+        • Surrogate Based Methods
+            • Average Banking Program
+            • Cash Salaried
+
+    ** Age Norms: **
+        • Min age: 25 yrs for Salaried & SENP
+        • Max age: 60 yrs for Salaried & 65 Years for SENP (for Co-applicant if income is not considered, max age to be 75 yrs)
+        # Maximum age is at the end of loan tenure
+
+    ** FOIR: **
+        SENP (Formal) : 70%
+        Salaried Bank : 70%
+        SEP : 70%
+        SENP (Assessed) : 60%
+        Salaried Cash : 50%
+
+    ** Business Stability: **
+        • Salaried : Minimum 3 years overall experience & min 6 months employment with current organization
+        • Self Employed : Minimum >5 years of work experience in same profession
+
+    ** Residence Stability: **
+        • Rented Residence: Minimum 2 years residence stability in the same city & 1 year in current residence.
+        • Owned Residence: Minimum 1 year in current residence.
+
+    |------------------|---------------|------------|--------------|-------------|---------------|---------------|
+    | Eligibility      | Type II -     | Type II -  |  Type III -  |  Type III - |  Type IV/     |  Type IV/     |
+    | Program          | Residential   | Commercial |  Residential |  Commercial |  Special -    |  Special -    |
+    |                  |               |            |              |             |  Residential  |  Commercial   |
+    |------------------|---------------|------------|--------------|-------------|---------------|---------------|
+    | Formal Income    |  70%          | 65%        | 60%          | 55%         | 55%           | 50%           |
+    |------------------|---------------|------------|--------------|-------------|---------------|---------------|
+    | Assessed/        |               |            |              |             |               |               |
+    | Surrogate Income |  65%          | 60%        | 55%          | 50%         | 50%           | 45%           |
+    |------------------|---------------|------------|--------------|-------------|---------------|---------------|
+
+
+Table 1: Micro LAP - Detailed Norms
+
+### Table 1: Micro LAP - Detailed Norms
+
+| Parameter              | Norm Description                                                                                                                                                                                                                                           |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Business Stability      | - Salaried: Minimum 3 years overall experience & min 6 months employment with current organization<br>- Self Employed: Minimum >5 years of work experience in same profession                                                                              |
+| Residence Stability     | - Rented Residence: Minimum 2 years residence stability in the same city & 1 year in current residence.<br>- Owned Residence: Minimum 1 year in current residence.                                                                                        |
+| Bank Statement          | 6 Months bank statement needs to be collected. Bank statement should not be more than 30 days old before sanctioning of the loan.                                                                                                                         |
+| Norms for BT cases      | Minimum vintage for Balance Transfer and top up % (Top up limit on original Sanction Amount)<br>- <12 MOB BT Not allowed<br>- >12-18 MOB BT allowed and max top-up up to 10%<br>- >18-24 MOB BT allowed and max top-up up to 15%<br>- >24MOB BT allowed and Top-up as per financial and collateral eligibility |
+
+---
+
+### Table 2: LTV Grid
+
+| Eligibility Program       | Type II - Residential | Type II - Commercial | Type III - Residential | Type III - Commercial | Type IV/Special - Residential | Type IV/Special - Commercial |
+|---------------------------|-----------------------|----------------------|------------------------|------------------------|-------------------------------|------------------------------|
+| Formal Income              | 70%                  | 65%                  | 60%                    | 55%                    | 55%                           | 50%                          |
+| Assessed/Surrogate Income  | 65%                  | 60%                  | 55%                    | 50%                    | 50%                           | 45%                          |
+
+*Note: For Type II Collateral, no further deviation allowed in LTV even to accommodate insurance/processing charges etc.*
+
+---
+
+### Table 3: Micro LAP - Pricing Grid
+
+| Pricing                  | Type II |         |          |        | Type III |         |          |         | Type IV/Special |         |          |         |
+|--------------------------|---------|---------|----------|--------|----------|---------|----------|---------|-----------------|---------|----------|---------|
+|                          | Residential |  | Commercial |  | Residential |  | Commercial |  | Residential |  | Commercial |  |
+|                          | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP |
+| CPM /Salary Income        |         |         |          |        |          |         |          |         |                 |         |          |         |
+| CIBIL score 730+          | 11.50%  | 12.00%  | 12.00%   | 12.50% | 13.50%   | 14.00%  | 14.50%   | 14.75%  | 14.50%          | 15.00%  | 15.50%   | 15.75%  |
+| CIBIL score 700-730 & NTC | 11.75%  | 12.25%  | 12.25%   | 12.75% | 13.75%   | 14.25%  | 15.00%   | 15.25%  | 15.00%          | 15.50%  | 16.00%   | 16.25%  |
+| Surrogate Income Programs |         |         |          |        |          |         |          |         |                 |         |          |         |
+| CIBIL score 730+          | 12.00%  | 12.50%  | 12.50%   | 13.00% | 14.50%   | 14.75%  | 15.50%   | 16.00%  | 15.75%          | 16.00%  | 16.75%   | 17.00%  |
+| CIBIL score 700-730 & NTC | 12.25%  | 12.75%  | 12.75%   | 13.25% | 14.75%   | 15.00%  | 15.75%   | 16.25%  | 16.25%          | 16.50%  | 17.25%   | 17.50%  |
+| Assessed Income (CM / Cash Salary) | |         |          |        |          |         |          |         |                 |         |          |         |
+| CIBIL score 730+          | 12.50%  | 13.00%  | 13.00%   | 13.50% | 14.50%   | 14.75%  | 15.50%   | 16.00%  | 15.75%          | 16.00%  | 16.75%   | 17.00%  |
+| CIBIL score 700-730 & NTC | 12.75%  | 13.25%  | 13.25%   | 13.75% | 14.75%   | 15.00%  | 15.75%   | 16.25%  | 16.25%          | 16.50%  | 17.25%   | 17.50%  |
+
+*Note: For CIBIL Score < 700, Rate will be 100 bps higher on the above RAAC rate & also applicable on floor rate*
+
+---
+
+### Table 4: Processing Fee
+
+| Processing Fee (excl. GST) | Direct / RP Sourcing | DSA Sourcing |
+|----------------------------|----------------------|--------------|
+| CPM /Salary Income          | 0.50%                | 0.75%        |
+| GP / GT / GR / ABB / GST*   | 0.75%                | 1.00%        |
+| Pure Rental Program / Low LTV* | 1.00%            | 1.50%        |
+| Assessed Income / Cash Salary | 1.50%            | 2.00%        |
+
+*Note: 0.25% Additional premium for Vacant property & Commercial Property*
+
+---
+
+### Table 5: Semi Fixed Product
+
+| Product   | Fixed Tenure | Additional Rate over existing ROI |
+|-----------|--------------|-----------------------------------|
+| Micro LAP | 2 Yrs.       | 0.60%                            |
+|           | 3 Yrs.       | 0.50%                            |
+|           | 5 Yrs.       | 0.30%                            |

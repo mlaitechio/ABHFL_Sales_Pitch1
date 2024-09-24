@@ -1,0 +1,68 @@
+STEP-UP
+
+    Introduced for young salaried professionals wanting to have their own house with higher loan eligibility & balanced repayment tenure.
+
+    ** TYPE OF LOAN: **
+        Home Loan
+
+    ** TARGET SEGMENT: **
+        Young Professionals, Salaried Employees
+
+    ** LOAN ELIGIBILITY: **
+        Upto 20% higher eligibility basis current income
+
+    ** LOAN TENURE: **
+        Loan tenure up to 25 years
+
+
+    • Graduate & above
+    • Salaried Customers
+    • Working in CAT A & B Companies
+    • Minimum 3 years of work experience
+    • Prime & Affordable segment
+    • Cibil score 700+ / NTC
+    • Max 45 years at the time of loan origination
+    • Minimum net monthly income of Rs. 40000/- per month
+    • Tenure – Up to 300 months (Primary – up to 36 months, under which EMI is paid with nominal principal amount)
+    • Co-applicant mandatory to the loan
+    • No prepayments allowed during primary tenure
+    • Applicable to fresh transactions only (No BT)
+
+    ** Home Loan EMI Calculator: **
+        Standard EMI:
+            Loan Amount:  ₹ 28,50,000
+            Primary Tenure:  300 mos
+            Primary EMI:  ₹ 24,000
+
+        AdvantEdge EMI:
+            Loan Amount: ₹ 37,05,000
+            Primary Tenure: 36 mos
+            Primary EMI: ₹ 24,000
+            Secondary Tenure: 264 mos
+            Secondary EMI; ₹ 25,920
+
+        Higher Loan Amount ₹ 8,55,000
+        Higher Loan Eligibility Upto 30%
+
+Step Up EMI – Detailed Norms:
+
+| **Parameter**              | **Norm Description**                                                                                                          |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Type of Facility**        | Home Loan - Allows the customer to seek higher loan eligibility based on expected growth in income                            |
+| **Loans Applicable For**    | Salaried customers working in CAT A companies with a total work experience of a minimum of 3 years                            |
+| **Qualification**           | Graduate & above                                                                                                             |
+| **Customer Segment**        | Prime & Affordable                                                                                                           |
+| **CIBIL Norms**             | 700 & above / NTC                                                                                                            |
+| **Eligibility Method**      | Financial-based eligibility methods only                                                                                     |
+| **Net Monthly Income**      | Net monthly income of ₹40,000 as reflected in bank statement                                                                  |
+| **Tenure**                  | Up to 300 months                                                                                                             |
+| **Primary Tenure**          | Up to 36 months - During this period, the customer pays EMI with a nominal principal amount                                    |
+| **Secondary Tenure**        | Balance tenure - Both principal and interest are payable                                                                      |
+| **Age Norms**               | Maximum 45 years at the time of loan origination <br> Maximum age at loan maturity to be as per product program               |
+| **Rate of Interest**        | Floating rate of interest linked to ABHFL Reference Rate (ARR)                                                                |
+| **LTV Applicable**          | As per NHB norms                                                                                                              |
+|                            | As per product program                                                                                                        |
+| **FOIR Norms**              | - FOIR to be calculated on current net income and EMI proposed for primary loan tenure <br> - Increase in EMI not to exceed 25% of original EMI amount |
+| **Prepayment**              | No prepayments allowed during the primary tenure                                                                              |
+| **Other Norms**             | Co-applicant mandatory for the loan <br> Applicable only to fresh purchase transactions                                       |
+| **Program Review**          | Overall portfolio not exceeding 500 Crs of loan outstanding                                                                  |

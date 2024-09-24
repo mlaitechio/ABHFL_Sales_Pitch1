@@ -1,0 +1,39 @@
+CASH PROFIT METHOD (CPM)
+
+  1. Loan Amount:
+    • Minimum →5L
+    • Maximum →15 CR
+
+  2. FOIR: Max 80%
+  3. LTV: As per Product
+
+  4. Eligibility Computation:
+    Eligible Income = (Core Income + EBITDA + Income from House Property)/Rental Income + Other Income
+
+  5. Income Consideration Norms:
+    • Salary Income: Net salary as per ITR • 100%
+    • EBITDA: PBT + Depreciation + Salary or Int paid to Directors or Partners • 100%
+    • Interest Paid • 100%
+    • Income from House Property/Rentals • 100%
+
+  6. Interest Norms:
+    • Interest paid to close family/relatives can be considered, as
+    reﬂecting in 40 A (2) (b) as per tax audit report
+    • Interest on CC/OD is neither to be added back nor it is to be
+    considered as obligation
+
+  7. EBITDA Norms:
+    EBITDA data is to be taken from latest ﬁnancials as ﬁled with IT
+    Body / Audit Reports
+    Growth / Decline in EBITDA in current year vis-à-vis previous year:
+      - Where Current Year EBITDA %growth is up to 50% of the
+      previous year EBITDA, Current Year EBITDA is to be considered
+      - Where Current Years EBITDA % growth is >50% of the last year
+      EBITDA, average of Last 2 year’s or 50% of growth over previous
+      year EBITDA whichever is higher
+      - Approval is required for >20% decline in EBITDA
+
+  8. Other Income Norms:
+    100% Avg Agricultural Income of last 2 years, as per ITR
+    100% Avg income of the last 2 years from Other Sources as per ITR
+    Other Income capped at 100% of (Salary Income + EBITDA)

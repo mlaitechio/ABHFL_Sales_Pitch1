@@ -1,0 +1,28 @@
+Mortgage Product
+
+    FOIR - LTV GRID
+
+    INCOME PROGRAMS             | HL LTV        | LAP LTV Resi. | LAP LTV Comm. | FOIR
+    ----------------------------|---------------|---------------|---------------|--------------
+    Cash Profit Method (CPM)    |Loan Amount:   | 75%           | 65%           | 80%
+    Gross Turnover              |1.Up to 30 Lakh| 70%           | 60%           | 65%
+    Gross Receipts              |  → 90%        | 70%           | 60%           | 65%
+    Gross Profit                |2. 30 Lakh     | 70%           | 60%           | 60%
+    Average Banking Program     |  but ≤ 75     | 70%           | 60%           | 60%
+    CM Assessment Program       |  Lakh → 80%   | 70%           | 60%           | 60%
+    GST Program                 |3. ≥ 75 Lakh   | 70%           | 60%           | 100%
+                                |    → 75%      |               |               |
+    ----------------------------|---------------|---------------|---------------|--------------
+    Low LTV                     | 50%           | 40%           | 40%           | Refer Program
+    Pure Rental Program         | N.A.          | 60%           | 50%           | 60%
+    LRD                         | N.A.          | 75%           | Refer Program | -
+
+    Additional Notes:
+        - Loan Amount:
+          - Up to 30 Lakh → 90%
+          - 30 Lakh but ≤ 75 Lakh → 80%
+          - ≥ 75 Lakh → 75%
+        - LTV % is based on Market Value or Documented Value, whichever is lower.
+
+    Documented Value:
+        Sale Deed or Agreement to Sale + Builder Charges + Construction Agreement + Land Development Agreement + Amenities or Furniture & Fixtures Agreement or Extra Work or Land Development Charges, etc.

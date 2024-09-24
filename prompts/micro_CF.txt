@@ -1,0 +1,107 @@
+MICRO CF
+
+    Introduced to cater to affordable developers looking to develop small size projects and looking for ﬁnancial support.
+
+    ** ELIGIBLE PRODUCTS: **
+        LAP – Self Occupied Residential Property & LAP – Self Occupied Commercial Property
+
+    ** TARGETED YIELD: **
+        13% - 16%
+
+    ** Type of Facility: **
+         Micro Construction Finance (to be booked as Non-HL)
+            ▪ Plot Loan
+            ▪ Construction Loan
+            ▪ Plot + Construction Loan 
+
+    ** TYPE OF LOAN:  **
+        Term Loan provided for Construction
+
+    ** TARGET SEGMENT: **
+        Affordable Developers, Small Scale Builders
+
+    ** TICKET SIZE: **
+        Loan amount up to 5 Crores( 1 Cr to 5 Cr)
+
+    ** LOAN TENURE: **
+        a) Up to 7 years (84 months) with EMI
+        b) 5 Years (Including Principal moratorium for ﬁrst year)
+
+    ** Loans applicable for: **
+        Applicable for selected developers & geographies
+
+    ** Customer segment: **
+        • Affordable developers developing small size projects in Cat A & B locations
+        • Developer selection criteria:
+            • Min 10 buildings constructed
+            • Area constructed (>1.5 lakh sq.ft)
+            • Sale of min 75% of units in projects ongoing / completed in last 24 months
+
+    ** Project Selection: **
+        • Clear legal & technical
+        • Only projects with maximum 10 units permissible under this product
+        • Property should have clear & marketable title
+        • Project should not be stalled for more than 3 months
+        • Regularized colonies & projects with road widening impact not to be considered under this program
+
+    ** Eligibility computation: **
+        • Eligibility to be computed basis ﬁnancial while funding for plot purchase. No deviation in FOIR calculation
+        • Eligibility for construction loan to be basis the available sales cashﬂows in the project with overall LTV applicable for total loan amount offered
+
+    ** LTV Norms: **
+        • Plot LTV — 50% on Market value or 75% of Documented value whichever is lower; Resale plots can be funded only when part of plotted development- any deviation at NCC level.
+        • Construction LTV — 70% of LTV of the construction cost (prepared by a Chartered Engineer/ Architect/ Civil Contractor and as veriﬁed by our panel valuer)
+        • LTV on the total property (Plot + Construction) not to exceed 65%
+
+    Repayment mode & Moratorium period :
+     Option 1: 1 year principal moratorium & balance 4 years repayment tenure with equal monthly principal instalments + interest payment.
+     Option 2: EMI to start from date of 1st disbursement for tenure of 7 years.
+
+    Repayment : 
+    ▪ EMI to start from date of first disbursement. No Pre-EMI allowed
+    ▪ Builder to give undertaking for proportionate prepayment on sale of every floor/unit/NOC issuance
+    ▪ SI% - 75% of the unit value to be collected at time of NOC issuance
+
+    Retail Conversion:
+    ▪ ABHFL to get first right of refusal for retail funding in borrower project. 
+    ▪ Builder to take NOC from ABHFL before sale of any unit (To target min 50% retail HL conversion & capped at max 80% of units)
+  
+
+### Project Costs and Receivables
+
+| Value (in Lakhs)                | Scenario 1 | Scenario 2 | Scenario 3 |
+|----------------------------------|------------|------------|------------|
+| Plot – Market value (A)          | 300        | 200        | 400        |
+| Construction estimate (B)        | 350        | 400        | 200        |
+| Total Cost (A+B) = C             | 650        | 600        | 600        |
+| Per Unit cost (assuming 10 units)| 75         | 75         | 70         |
+| Sales Receivables of project (D) | 750        | 750        | 700        |
+
+---
+
+### Loan Details for Each Scenario
+
+| Value (in Lakhs)             | Scenario 1 | Scenario 2 | Scenario 3 | LTV Applicable           | Remarks |
+|------------------------------|------------|------------|------------|--------------------------|---------|
+| For Plot purchase             | 150        | 100        | 140        | 50% of MV                | Eligibility to be calculated basis Cash profit method with applicable FOIR. Plot purchase loan amount cannot exceed 50% of total loan amount |
+| For Project construction      | 245        | 280        | 140        | 70% of Construction cost | To be calculated basis the available sales receivables in the project. 70% of sales receivables |
+| Total loan amount             | 395        | 380        | 280        | 65% of overall cost or sales receivables | |
+| Overall LTV                   | 61%        | 63%        | 47%        |                          | |
+
+4. Additional notes:
+   - EMI to start from the date of first disbursement. No Pre-EMI allowed.
+   - Builder to give undertaking for proportionate prepayment on sale of every floor/unit/NOC issuance.
+   - SI% - 75% of the sales receivable value to be collected at time of NOC issuance.
+   - In case of lower amount collected at time of NOC issuance, builder to make payment of 75% of amount collected over & above the monthly EMI payment as per due date.
+
+
+ 1 Mumbai
+ 2 Ahmedabad
+ 3 Pune
+ 4 Indore
+ 5 Jaipur
+ 6 Bangalore
+ 7 Chennai
+ 8 Coimbatore
+ 9 Hyderabad
+ 10 Delhi NCR

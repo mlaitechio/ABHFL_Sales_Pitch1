@@ -1,0 +1,106 @@
+I'll extract the key information from the images about Aditya Birla Capital's Pragati Plus HL home loan product:
+
+Overview:
+- Introduced for cash-rich self-employed customers and prime salaried customers looking to purchase property with minor deviations
+- Eligible products: HL, P+C, HCL, HEL, HIL
+- Targeted yield: 10% - 11.5%
+
+Types of Loans:
+- HL Builder Purchase/Resale
+- Plot Purchase & Construction
+- Home construction loan
+- Home Extension Loan
+- Home Improvement Loan
+
+Target Segments:
+1. SENP with assessed income purchasing standard property (Type I)
+2. Bank Salaried customers purchasing Type II property
+
+Max Loan Amount:
+- Segment 1: Cat A+/A locations - 1 Cr
+- Segment 2: Cat A+/A locations - 1.5 Cr
+
+Tenure:
+- Minimum: 12 months
+- Maximum: 240 months for Self Employed, 360 months for Salaried
+
+Product Norms:
+
+Segment 1 (SENP Customers):
+- Target: Self-employed customers across income segments with permanent business setups
+- Eligible Collateral: Type 1 properties only
+- Min Income: Net annual income of 3 lakhs p.a.
+- Max Loan: 1 Cr for Cat A+/A locations
+- Tenure: 12-240 months
+- Max age at maturity: 70 years
+- CIBIL: >=700/NTC
+- Work Experience: 3 years overall, 24 months in current business
+- FOIR: 60%
+- LTV: 75% for <75 lakhs, 70% for >75 lakhs
+
+Segment 2 (Salaried Customers):
+- Target: Salaried customers with formal income, purchasing properties in Micro markets
+- Eligible Collateral: Type II properties only
+- Min Income: Net salary of 25,000 p.m.
+- Max Loan: 1.50 Cr for Cat A+/A locations
+- Tenure: 30 years for Cat A/B, 20 years for others
+- Max age at maturity: 60 years
+- CIBIL: >=700/NTC
+- Work Experience: 3 years overall, 6 months in current organization
+- LTV: 80% for <75 lakhs, 75% for >75 lakhs
+
+Pricing Matrix:
+- Segment 1 (Assessed Income):
+  CIBIL 730+: 10.75%
+  CIBIL 700-730 & NTC: 11.25%
+- Segment 2 (Bank Salaried):
+  CIBIL 730+: 10.00%
+  CIBIL 700-730 & NTC: 10.50%
+For CIBIL Score  < 700, 50 bps premium to be charged for Salaried & 75 bps for SENP Profile on above RAAC rate
+Processing Fees:
+- Salary Income: 0.25% (Direct/RP Sourcing), 0.50% (DSA Sourcing)
+- Assessed Income: 1.00% (Direct/RP Sourcing), 1.50% (DSA Sourcing)
+
+Pragati Plus HL – Product Norms :
+
+###  Salaried Customers (Segment 2)
+
+| **Particular**            | **Details**                                                                                  |
+|---------------------------|----------------------------------------------------------------------------------------------|
+| **Target Customer**        | Salaried customers with formal income, purchasing properties in micro-markets.               |
+| **Eligible Collateral**    | Type II properties only.                                                                     |
+| **Min Income Criteria**    | Net salary of min ₹25,000 p.m.                                                               |
+| **Max Loan Amount**        | Cat A+/A location: ₹1.50 Cr. Location-wise loan amount capping is applicable.                |
+| **Tenure**                 | - Salaried Cat A/B: 30 years<br>- Salaried Others: 20 years                                  |
+| **Age Norms**              | Max age at maturity: 60 years.                                                               |
+| **CIBIL Norms**            | CIBIL score of ≥700 or NTC (New to Credit).                                                  |
+| **Work Experience/Vintage**| Minimum 3 years overall experience, with 6 months in the current organization.               |
+| **Residence Stability**    | Minimum 3 years residence stability for income being considered.                             |
+| **Underwriting Method**    | Bank salaried method only.                                                                   |
+| **FOIR (Fixed Obligations to Income Ratio)** |                                                                                     |
+| - Less than ₹5 lakhs       | 60%                                                                                          |
+| - ₹5L to ₹12L              | 65%                                                                                          |
+| - ₹12L to ₹24L             | 70%                                                                                          |
+| - Over ₹24L                | 75%                                                                                          |
+| **LTV (Loan to Value Ratio)** | - Loans less than ₹75 lakhs: 80%<br>- Loans greater than ₹75 lakhs: 75%                              |
+
+---
+
+### Self-employed Customers (Segment 1)
+
+| **Particular**            | **Details**                                                                                  |
+|---------------------------|----------------------------------------------------------------------------------------------|
+| **Target Customer**        | Self-employed customers across income segments, carrying out business through permanent setups or residential cum office setups. |
+| **Eligible Collateral**    | Type I properties only.                                                                      |
+| **Min Income Criteria**    | Net annual income of ₹3 lakhs p.a.                                                           |
+| **Max Loan Amount**        | Cat A+/A location: ₹1 Cr. Location-wise loan amount capping is applicable.                   |
+| **Tenure**                 | - Min: 12 months<br>- Max: 240 months (20 years).                                            |
+| **Age Norms**              | Max age at maturity: 70 years.                                                               |
+| **CIBIL Norms**            | CIBIL score of ≥700 or NTC (New to Credit).                                                  |
+| **Work Experience/Vintage**| Minimum 3 years overall experience, with 24 months in the current business & location.        |
+| **Residence Stability**    | Minimum 3 years residence stability for income being considered.                             |
+| **Underwriting Method**    | Credit Manager Assessed Income Method.                                                       |
+| **FOIR**                   | 60%                                                                                          |
+| **LTV (Loan to Value Ratio)** | - Loans less than ₹75 lakhs: 75%<br>- Loans greater than ₹75 lakhs: 70%                              |
+
+These tables provide a comparison between the two segments for salaried and self-employed customers based on various financial and eligibility criteria.

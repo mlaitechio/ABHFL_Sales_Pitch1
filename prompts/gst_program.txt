@@ -1,0 +1,59 @@
+** GST PROGRAM **
+
+    ** Loan Amount: **
+        • Minimum →20L
+        • Maximum →2 CR
+
+    ** FOIR: **
+        Upto 100%
+
+    ** Eligibility Calculation: **
+        • Eligibility computation based on GST Turnover of last 12 months
+        • 70% of the turnover to be routed through Banking (60% with deviation)
+        • 50% capping on turnover increase (in case of current year turnover greater than 50% over previous year)
+        • Total Loan Amount proposed + existing POS should not exceed 50% of the total 12 months turnover as per GST
+        • Cases with decrease in turnover by 20% are not eligible for this method
+        • All obligations to be considered post application of FOIR
+        • Loans maturing within next 12 months to be excluded
+        • GST Turnover under same PAN can be considered for calculation (entity and all partners to be taken as co-applicant)
+        • FOIR to be capped maximum upto 100 %
+        • GST returns should not be ﬁled in one go & instance of delay in GST ﬁlling should not be more than 3 months in las 12 months.
+        • The Net proﬁt margins to be applied on the turnover as per the below Industry Margins:
+        • Manufacturing – 8% • Service – 6% • Trading – 4%
+
+    ** LTV: **
+        • Home Loan: as per Regulatory LTV
+        • Loan Against Property: 5% lower to Financial based method LTV norms.
+        • Commercial Property (Readymade/Completed only): 10% Lower than the HL LTV
+        • Industrial Property: Not allowed
+
+    ** Business Vintage: **
+        Minimum 3 years in same business & location (based on GST registration)
+
+    ** Banking Norms: **
+        • Last 12 months bank statement
+        • Annualized credit should be min 70% of turnover as reﬂected in GST return (60% with deviation)
+        • Inward clearing cheque returns capped at 2% or 10 cheque whichever is lower
+        • Minimum 3 customer induced transactions in a month in last 3 months
+
+    ** Documentation: **
+        • KYC of borrower, Security Provider and Parties to the loan
+        • GSTR 1 (Quarterly) & GSTR 3B (monthly)
+        • GSTR 1(monthly)
+        • GSTR 3 (Quarterly) - For composition (Dealers)
+        • PDF Banking for BSA
+
+    ** Other Norms: **
+        • Program applicable only for Online GST fetch.
+        • Business Visit Mandatory
+
+    ** Illustration Example **
+        |----------------------------------------------|-----------|
+        | GST Program                                  |  Figures  |
+        |----------------------------------------------|-----------|
+        | A | Average GST Turnover of last 12 months   | 5 Lakhs   |
+        | B | Interest Rate (Only for Illustration)    | 10%       |
+        | C | Loan Tenure                              | 15 Years  |
+        | D | Approx Eligible Amount                   | 37 Lakhs  |
+        |----------------------------------------------------------|
+        Industry type for above illustration is Manufacturing.

@@ -1,0 +1,133 @@
+PRAGATI AASHIYANA (SEGMENT 1)
+
+    Introduced to cater to unorganized sector looking to buy residential properties except Type 1.
+
+    ** ELIGIBLE PROFILE: **
+        - Bank Salaried
+        - Cash Salaried
+        - Self Employed Professional (SEP)
+        - Self Employed Non-Professional (SENP): Setup with Permanent Structure (i.e. Kirana Store, Traders, Garage, Auto spare parts)
+
+    ** TARGETED YIELD: ** 13% - 16%
+
+    ** TYPE OF LOAN: **
+        - Home Loan
+        - Home Extension Loan
+        - Home Improvement Loan
+        - Plot Purchase Loan
+        - Plot + Home Construction Loan
+        - Home Construction Loan
+
+    ** TICKET SIZE: **
+        - Loan upto 50 lakhs
+
+    ** LOAN TENURE: **
+        - Minimum: 12 months
+        - Maximum: 240 months
+
+    ** Target Segment: **
+        - Salaried
+        - Partnership Firms / LLP
+        - Self Employed Professional (SEP)
+        - Self Employed Non-Professional (SEP): Setup with Permanent Structure (i.e Kirana Store, Traders, Garage, Auto spare parts)
+
+    ** Age Norms: **
+        - Min age: 25 years
+        - Max age: 65 Years (for Co-applicant if income is not considered, max age to be 75 yrs)
+        # Maximum age is at the end of loan tenure
+
+    ** CIBIL: **
+        - Score: >= 650 / NTC
+        - Enquiries: <=7 in 3 months
+
+    ** Income Assessment Method: **
+        - Bank Salaried
+        - Cash Proﬁt Method
+        - Credit Manager Assessed Income Program
+        - Cash Salary
+        - Average Banking Program
+
+    ** LTV: **
+        - Type II/III – Upto 80% of property market value
+        - Type IV/Special Collaterals – Upto 75% of property market value
+
+    ** FOIR: **
+        - Salaried Bank: 70%
+        - Salaried Cash: 50%
+        - SENP (Formal): 70%
+        - SENP (Assessed): 60%
+        - SEP: 70%
+
+    ** Business Stability: **
+        - Minimum 3 years operating from same location
+
+    ** Residence Stability: **
+        - Minimum 1 Year
+
+    ** Documentation
+        - Last 3 months Salary Slips (Applicable for Bank Salaried only)
+        - Last 2 years ITR
+        - Last 2 years Audited/Unaudited ﬁnancials
+        - Bank statement of latest 6 months (only Bank Salaried)
+        - Latest Salary Certiﬁcate (Applicable for Cash Salaried)
+
+
+
+| **Parameters**                      | **Norms**                                                                                                                                                                                                                              |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Income Assessment Norms**         | Salary Income, Cash Profit Program, Credit Manager Assessed Income Program, Cash Salary Based, Average Banking Program                                                                                                                  |
+| **CIBIL Norms where Income is Considered** | 650 & above, NTC                                                                                                                                                                                                                      |
+
+| **Customer Profile**                | **FOIR**                                                                                                                                                                                                                              |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Salaried Bank**                   | 70%                                                                                                                                                                                                                                   |
+| **Salaried Cash**                   | 50%                                                                                                                                                                                                                                   |
+| **SENP (Formal)**                   | 70%                                                                                                                                                                                                                                   |
+| **SENP (Assessed)**                 | 60%                                                                                                                                                                                                                                   |
+| **SEP**                             | 70%                                                                                                                                                                                                                                   |
+| **FOIR Deviation**                  | Will be taken only for 3rd party payment – insurance and proc. Fee (upper cap of 5%)                                                                                                                                                   |
+
+| **Home Loan LTV**                   | **Existing**                                          | **Incremental**                                        |
+|-------------------------------------|------------------------------------------------------|--------------------------------------------------------|
+| **Income Type**                     | **Type II & III** | **Type IV & Special** | **Type II & III**  | **Type IV & Special** |
+| **Formal Income**                   |                                                      |                                                        |
+| CIBIL score 730+                    | 70%              | 65%                | 80% (+10%)        | 75% (+10%)        |
+| CIBIL score 650-730 & NTC           | 65%              | 60%                | 80% (+15%)        | 75% (+15%)        |
+| **Assessed / Cash Income**          |                                                      |                                                        |
+| CIBIL score 730+                    | 70%              | 60%                | 80% (+10%)        | 75% (+15%)        |
+| CIBIL score 650-730 & NTC           | 60%              | 55%                | 80% (+20%)        | 75% (+20%)        |
+
+| **Type**                            | **II**               | **III**               | **IV**               | **Special**           |
+|-------------------------------------|----------------------|-----------------------|----------------------|-----------------------|
+| **Pricing**                         | **Salaried/SEP**      | **SENP**              | **Salaried/SEP**      | **SENP**              |
+| **CPM/Salary Income**               |                      |                       |                      |                       |
+| CIBIL score >730                    | 10.25%               | 10.50%                | 11.75%               | 12.00%                |
+| CIBIL score 700-730 & NTC           | 10.50%               | 10.75%                | 12.00%               | 12.25%                |
+| CIBIL score 650-699                 | 11.50%               | 11.75%                | 13.00%               | 13.25%                |
+| **Surrogates**                      |                      |                       |                      |                       |
+| CIBIL score >730                    | 10.75%               | 11.00%                | 12.25%               | 12.50%                |
+| CIBIL score 700-730 & NTC           | 11.00%               | 11.25%                | 12.50%               | 12.75%                |
+| CIBIL score 650-699                 | 12.00%               | 12.25%                | 13.50%               | 13.75%                |
+| **Assessed Income (CM / Cash Salary)** |                      |                       |                      |                       |
+| CIBIL score >730                    | 11.75%               | 12.00%                | 13.25%               | 13.50%                |
+| CIBIL score 700-730 & NTC           | 12.00%               | 12.25%                | 13.50%               | 13.75%                |
+| CIBIL score 650-699                 | 13.00%               | 13.25%                | 14.50%               | 14.75%                |
+
+| **Processing Fee (excl. GST) for Type II/III collaterals** | **Direct / RP Sourcing** | **DSA Sourcing** |
+|------------------------------------------------------------|--------------------------|------------------|
+| CPM / Salary Income                                         | 0.25%                    | 0.50%            |
+| Surrogates                                                  | 0.50%                    | 0.75%            |
+| CM Assessed / Cash Salary                                   | 1.00%                    | 1.50%            |
+
+LTV for Type II & III up to 80% is permissible under all Eligibility programssubject to incremental ROI on existing RAAC 
+rates
+ • LTV for Type IV & Special Collaterals up to 75% is permissible under all Eligibility programssubject to incremental ROI 
+on existing RAAC rates
+
+| **NEW Semi Fixed Product**            | **Fixed Tenure**      | **Additional Rate over Existing ROI** |
+|---------------------------------------|-----------------------|---------------------------------------|
+|                                       |       2 Yrs.          | 0.50%                                 |
+| Pragati HL                            |       3 Yrs.          | 0.35%                                 |
+| Aashiyana                             |       5 Yrs.          | 0.25%                                 |
+
+Note: 0.5% additional fees to be collected for Type IV  & Special Collaterals

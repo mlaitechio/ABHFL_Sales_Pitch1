@@ -1,0 +1,84 @@
+Introducing SEMI- FIXED RATE OF INTEREST Secure your interest rate!
+
+Buying a house is a cherished dream. At ABHFL, we understand this sentiment.
+Whether you are Salaried or you own a food stall, tea shop, vegetable/fruit store, or any
+other type of small business with a permanent or temporary set-up, Semi-Fixed Rate of
+Interest offering will help you turn your dream into reality.
+
+** Key Beneﬁts: **
+    - Initial Rate Stability: Enjoy a ﬁxed interest rate for an initial period (typically 2 to 5 years), providing you with ﬁnancial security.
+    - Protection Against Rate Fluctuations: Shield from sudden interest rate increases during the ﬁxed period, allowing you to plan your ﬁnances effectively.
+    - Flexibility: Once the ﬁxed rate period ends, loan converts to a ﬂoating rate, to beneﬁt from potential interest rate decreases in the market.
+    - Predictable Payments: Helps you to prepare for your monthly outgoings as your EMI will be stable during the ﬁxed interest period.
+
+** Rate of Intrest: **
+    ------------------|---------------|----------------|---------------
+    Fixed Tenure      | 2 Yrs         | 3 Yrs          | 5 Yrs
+    ------------------|---------------|----------------|---------------
+    Pragati Aashiyana |               |                |
+    Home Loan         | ROI + 0.50%   | ROI + 0.35%    | ROI + 0.25%
+    ------------------|---------------|----------------|---------------
+    Micro LAP         | ROI + 0.60%   | ROI + 0.50%    | ROI + 0.30%
+    ------------------|---------------|----------------|---------------
+
+Maximum Overall Tenure: Pragati Aashiyana HL (Segment1) up to 20 years; Segment 2 up to 15 years; Micro LAP: up to 15 years
+Here is the extracted table:
+
+### Conversion Charges and Foreclosure Charges
+
+| Parameters          | Product Charges                                                  |
+|---------------------|------------------------------------------------------------------|
+| **Conversion Charges** |                                                                  |
+| Conversion taking place during Semi Fixed Tenure: |                                                                  |
+| 1 Yr. - 2 Yrs.      | 2% of POS + Taxes                                                |
+| 2 Yrs. - 3 Yrs.     | 2% of POS + Taxes                                                |
+| 3 Yrs. – 5 Yrs.     | 1% of POS + Taxes                                                |
+| Floating rate of Interest to Semi Fixed Rate of Interest: |                           |
+| **Fixed Tenure**     | **Conversion Charges**                                           |
+| 2 Yrs.              | 2% of POS + Taxes                                                |
+| 3 Yrs.              | 2% of POS + Taxes                                                |
+| 5 Yrs.              | 1% of POS + Taxes                                                |
+| **Foreclosure Charges** |                                                              |
+| Foreclosure Charges during Fixed Rate Tenure |                                         |
+| **Product**         | **Fixed Tenure**                                                 |
+| Pragati Aashiyana HL | 2 Yrs.                                                           |
+|                    | 3 Yrs.                                                           |
+|                    | 5 Yrs.                                                           |
+| Micro LAP           | 2 Yrs.                                                           |
+|                    | 3 Yrs.                                                           |
+|                    | 5 Yrs.                                                           |
+|                    | Foreclosure charges during Floating Rate Tenure: As per current MITC |
+
+
+** Illustration: **
+    - Mr. A has applied for Home Loan with ABHFL for Rs. 50 lakhs for 20 years. The scenarios are explained below for the savings made.
+
+    ------------------------------------------------------------------------------------------------------------
+    Particulars                                 | Variable      | 2 Year Fixed  | 3 Year Fixed  | 5 Year Fixed
+                                                |               | Amount (Rs.)  | Amount (Rs.)  | Amount (Rs.)
+    --------------------------------------------|---------------|---------------|---------------|-----------------
+    Sanction Amount                             | ₹ 50,00,000	| ₹ 50,00,000	| ₹ 50,00,000	| ₹ 50,00,000
+    Total Tenure	                            | 240	        | 240	        | 240           | 240
+    ROI	                                        | 10.25%	    | 10.75%	    | 10.60%	    | 10,50%
+    EMI	                                        | 49,082	    | ₹50,761	    | 50,255	    | 49,919
+    --------------------------------------------|---------------|---------------|---------------|-----------------
+                                                        Scenario 1
+    --------------------------------------------|---------------|---------------|---------------|-----------------
+    *EMI assuming ROI during fixed 	            | ₹50,761	    | 50,761	    | ₹50,255	    | 49,919
+    tenure increased by 0.50%                   |               |               |               |
+    Savings Per Month	                        | -	            | NIL	        | ₹506	        | ₹842
+    --------------------------------------------|---------------|---------------|---------------|-----------------
+                                                        Scenario 2
+    --------------------------------------------|---------------|---------------|---------------|-----------------
+    *EMI assuming ROI during fixed 	            | ₹52,463	    | 50,761	    | ₹50,255	    | 49,919
+    tenure increased by 1.00%                   |               |               |               |
+    Savings Per Month	                        | -	            | 1,702	        | ₹2,208	    | ₹2,544
+    --------------------------------------------|---------------|---------------|---------------|-----------------
+                                                        Scenario 3
+    --------------------------------------------|---------------|---------------|---------------|-----------------
+    *EMI assuming ROI during fixed 	            | ₹54,185	    | ₹50,761	    | 50,255	    | 49,919
+    tenure increased by 1.50%                   |               |               |               |
+    Savings Per Month	                        |   -	        |   ₹3,424	    | ₹3,930	    | ₹4,266
+    --------------------------------------------|---------------|---------------|---------------|-----------------
+
+    From the above scenario it's clear that 5 years ﬁxed tenure product will help to save more EMI amount per month

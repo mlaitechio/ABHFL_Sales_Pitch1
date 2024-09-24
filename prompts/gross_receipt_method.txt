@@ -1,0 +1,35 @@
+GROSS RECEIPT METHOD:
+    1. Loan Amount:
+        • Minimum →5L
+        • Maximum →10 CR
+
+    2. FOIR: Max 65%
+
+    3. LTV: As per Product
+
+    4. Applicable for SENP Customers:
+        I : Eligible Income:
+            • Eligibility for professionals like Doctors (MBBS/BDS/MD/MS), Chartered Accountants and Architects.
+            • Business income is a multiple of gross receipts - Doctors = 3 times - Chartered Accountants / Architects = 2 times
+            • Standard deduction of 20% (for all expenses) to be deducted from the total income calculated by using above multiplier
+            • Income of one another entity can be clubbed with deviation
+            • Other income to be considered at actual capped at 100% of eligible income
+            • This programme is not applicable to Doctors who own & run a Hospital/ Nursing home or doctors working as consultant with hospitals & receives professional income.
+            • Gross Turnover will be as reported in the ﬁnancials
+            • Margin is deﬁned for relevant industry as per annexure
+
+        II: Rental Income:
+            Income from House Property /Rental Income Subject to property mortgaged and rentals escrowed with ABHFL can be considered 100% (i.e., actual net rent)
+            Rent consideration norm:
+                Current rentals as per copy of lease deed (min 3 months old) with credits reﬂecting into bank account (6months period) /ccupancy veriﬁed by Risk team or in the absence of registered lease agreement, average of last 2 years rentals as reﬂecting in
+
+        III: Banking Norm
+            Operating account norm:
+                • Annualized Credits(annualized from 6 months banking) should be min 60% of reported receipts
+                • Inward clearing Cheque returns capped at 2% or 10 cheque whichever is lower in last 6 months
+                • Min 3 customer-initiated transactions inm a month in the last 3 months
+                • Loan repayment required from bank account meeting above norm
+        IV: Documentation
+            • Latest 6 months banking required from the operating account
+            • Loan up to 2.5 Cr based on ITR/unaudited ﬁnancials
+            • Mandatory 2 years audited ﬁnancials for loans greater than 2.5 Cr

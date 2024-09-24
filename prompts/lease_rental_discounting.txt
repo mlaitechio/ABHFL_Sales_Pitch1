@@ -1,0 +1,81 @@
+To provide LRD details, first gather all necessary customer information like Name,PAT, Networth, Loan Amount etc.. This will help determine the customer's eligibility and offer the best possible rate of interest.
+Ask questions individually or in groups, but one group at a time.
+
+LEASE RENTAL DISCOUNTING
+
+    ** Loan Amount: **
+    Loan amt. limit defined based on lessee category.
+        • Minimum →50 lacs - CAT A/B/C
+        • Maximum: CAT A/B
+            (Commercial/Industrial Property)- No Limit
+            CAT C (Only Commercial Property)- 5 Cr
+            CAT D (Only Commercial Property) - 3 Cr
+
+    ** Lessees Acceptance Criteria: **
+     Categorization of lessee based in company turnover introduced
+        Companies/Partnership/LLP/Pvt. Firm meeting below criteria:
+            |--------|--------|------------------|---------------|-----------|--------------------|
+            | CAT    | Type   | Turnover         | PAT           | Net Worth | Vintage            |
+            |--------|--------|------------------|---------------|-----------|--------------------|
+            | CAT A  | Indian | >=500 Cr         | + ve          |   +ve     |       -            |
+            |        | MNC*   | >= 5 billion USD | >=200 million |    -      | 24 months in India |
+            | CAT B  | Indian | <500 - >=250 Crs | +ve           |   +ve     |       -            |
+            |        | MNC*   | >= 2 billion USD | >=100 million |    -      | 12 months in India |
+            | CAT C  | Indian | <250 - >=100 Crs | +ve           |   +ve     |       -            |
+            | CAT D  | Indian | <100 - >=50 Crs  | +ve           |   +ve     | 10 years           |
+            |--------|--------|------------------|---------------|-----------|--------------------|
+
+    Indian subsidiary/franchisee (operating for more than 2 years) of an MNC with Equity in subsidiary >= 50% (this could be less than 50% if speciﬁc sector FDI limits are regulated/restricted due to government policy e.g. Insurance sector.
+
+    Sr. No. | Heads / Property Type                         | CAT-A Commercial / Industrial / Warehouse    | CAT-B Commercial / Industrial / Warehouse | CAT-C Only Commercial | CAT-D Only Commercial
+    --------|-----------------------------------------------|--------------------------------------------|---------------------------------------------|-----------------------|-----------------------
+    A       | Gross Rent                                    | 10,00,000                                  | 7,00,000                                    | 5,00,000              | 2,00,000
+    B       | TDS/Taxes/Other deductions                    | 1,00,000                                   | 70,000                                      | 50,000                | 20,000
+    C       | Maintenance #                                 | 30,000                                     | 21,000                                      | 15,000                | 6,000
+    D       | Net Rent eligible for NPV (A-B-C)             | 8,70,000                                   | 6,09,000                                    | 4,35,000              | 1,74,000
+    E       | NPV%                                          | 90%                                        | 90%                                         | 90%                   | 80%
+    F       | Eligible EMI amt. for offering the Loan (D*E) | 7,83,000                                   | 5,48,100                                    | 3,91,500              | 1,39,200
+    G       | ROI (only for representation purpose)         | 9.50%*                                     | 9.75%*                                      | 10.65%*               | 10.85%*
+    F       | Tenure (in months)                            | 180                                        | 180                                         | 120                   | 120
+    G       | Approx. Eligible Loan Amt.                    | 7.49 Cr.*                                  | 5.17 Cr.*                                   | 2.88 Cr.*             | 1.01 Cr.*
+
+    Notes:
+    # Maintenance is assumed @3% of Gross Rent
+    *ROI may change based on Property type & accordingly Eligible Loan amount will also change
+
+    Loan Tenure:
+    CAT A & B - Up to 15 years or unexpired lease / LOI period whichever is earlier.
+    CAT C/D - Up to 10 years or unexpired lease / LOI period whichever is earlier.
+
+    NPV%:
+    Improved NPV percentage based on lessee category
+    - 90% of Net rent (Post TDS & Taxes effect) - CAT A/B/C
+    - 80% of Net rent (Post TDS & Taxes effect) - CAT D
+
+    LTV%:
+    Higher tenure offered to CAT A: & CAT B category lessee. In case of CAT-A tenure can be extended even if LOI (letter of intent) is not available. Confirmation from lessee to continue in the premises should be obtained in such cases.
+    - Commercial Property - CAT A/B - 70% for loan up to 10 Cr
+    - CAT A/B (above 10 Cr) & CAT C/D - 65%
+    - Warehouse Property - CAT A/B - 65%
+    - Industrial Property - CAT A/B - 55%
+    - (5% Deviation available at NCM)
+    
+    Here is the information rewritten in a tabular format:
+
+| Property Type | CAT-A                              | CAT-B                              | CAT-C                | CAT-D                |
+|---------------|------------------------------------|------------------------------------|----------------------|----------------------|
+| **Commercial** | 75% for upto 10 Cr. & 70% for above 10 Cr. | 70% for upto 10 Cr. & 65% for above 10 Cr. | 65% for all loan amounts | 65% for all loan amounts |
+| **Industrial** | 55%                               | 55%                               | NA                   | NA                   |
+| **Warehouse**  | 65%                               | 65%                               | NA                   | NA                   |
+
+
+CIBIL Score:
+ Increased CIBIL score for better quality sourcing.
+ • CIBIL Score of NTC/730 +
+
+
+Other Important Norms – 
+ • Minimum primary lease period should be of 36 months.
+ • Additional Norm for Cat D
+ • DSRA of three months (not to be  funded by ABHFL)
+ • Minimum 12 months vintage is required with rental credit in bank statement & TDS in 26 AS Form

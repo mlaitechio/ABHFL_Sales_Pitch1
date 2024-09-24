@@ -1,0 +1,23 @@
+Power Pitches
+
+Here is the table containing the details provided:
+
+| **Sr No** | **Product Name**       | **Customer Segment**                   | **Unique Features**                                                                                                                                                             |
+|-----------|------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1         | **Pragati Plus HL**     | Prime & Affordable                     | Home loans up to ₹1.5 Cr<br>Segment 1: SENP (assessed income) purchasing Prime property<br>Segment 2: Salaried professionals purchasing property with minor deviations             |
+| 2         | **Pragati HL**          | Affordable                             | Home loan up to ₹1 Cr against 240+ affordable collaterals for Salaried & SENP (documented & assessed income) customers with easy documentation                                   |
+| 3         | **Pragati Aashiyana**   | Informal                               | Home loan up to ₹50 lakhs against 100+ informal collaterals for Salaried (Bank & Cash) customers & SENP (documented & assessed income) customers without ITR                     |
+| 4         | **Micro LAP**           | Affordable & Informal                  | Loan against property (LAP) up to ₹75 lakhs with easy documentation, no ITR required for SENP customers (documented & assessed income)                                           |
+| 5         | **Micro CF**            | Prime & Affordable                     | Loan up to ₹5 Cr for developers with completion history up to 1.5 lakh sq.ft. developing Non-RERA/affordable projects with flexibility (floor-wise NOC). Principal moratorium up to 1 year |
+| 6         | **General Purpose Loan**| Prime                                  | Additional 15% loan over & above HL with no additional collateral required, same tenure as HL, better ROI than Personal Loan                                                     |
+| 7         | **Priority BT** & **Express BT*| Prime & Affordable              | Leverage your clear repayment track record to get a Hassle-free Balance Transfer (BT) offer with up to 30% top-up loan, no income assessment, no legal verification for BT from 13 FI's                                              |
+| 9         | **Step Up**             | Prime                                  | Tailored for young salaried professionals with up to 30% higher loan aligned to expected income growth                                                                           |
+| 10        | **Step Down**           | Prime & Affordable                     | Targeted at salaried customers with combined income (parents/spouses) or customers with pension income. Higher EMI initially, lower EMI over tenure, up to 20% higher loan amount |
+| 11        | **Extended Tenure**     | Prime                                  | HL offering for senior corporate executives with extended tenure up to 70 years and 40% higher loan amount                                                                       |
+| 12        | **ABB Program**         | Prime & Affordable                     | Loan up to ₹5 Cr. EMI up to 60% of 12-month average daily balance, obligations deducted before FOIR calculation, leading to higher loan eligibility                              |
+| 13        | **GST Program**         | Prime & Affordable                     | Loans for growing businesses up to ₹2 Cr, based on GST returns. FOIR up to 100% for HL & LAP with minimal documentation, exclusively for SENP customers                          |
+| 14        | **LRD**                 | Prime                                  | Lease Rent Discounting (LRD) covering wide range of lessees, up to 15-year tenure, competitive ROI, higher NPV (up to 90%) turnover-based segmentation of lessees                 |
+| 15        | **Low LTV**             | Prime                                  | HL & LAP up to ₹3 Cr for SENP customers purchasing property with high OCR or loan up to 40% of property value for business expansion                                             |
+| 16        | **Semifixed ROI**       | Informal                               | Fixed ROI for initial tenure ranging from 2 to 5 years to counter interest rate risk                                                                                             |
+
+This table summarizes the product names, customer segments, and their unique features based on the information provided.

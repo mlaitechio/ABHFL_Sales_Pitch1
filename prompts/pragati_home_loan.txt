@@ -1,0 +1,163 @@
+PRAGATI HOME LOAN
+
+    Introduced for affordable home ownership with easy eligibility norms & simple documentation for salaried and self-employed customers.
+
+    **TYPE OF LOAN: ** All home loans products
+    ** Target Customer: ** Customer (Salaried / SEP / SENP) with or without formal income and documentation purchasing property in Micro Markets
+    ** Eligible Collateral: ** Type II / III / IV
+    ** End Use: ** HL Builder purchase, HL Resale, Plot plus construction, Home construction Loan, Home Extension Loan, Home Improvement Loan
+    ** Min Income criteria(Net income): ** Salaried: 7,000 p.m., Self Employed: 1L p.a.
+    ** Max Loan Amount: ** Upto 1 Cr basis type of collateral
+    ** Tenure: ** Upto 30 yrs for Salaried & 20 yrs for self employed
+    ** CIBIL Norms: ** 700 & above
+    ** FOIR: ** Upto 80% basis the Income underwriting programs
+    ** LTV: ** Upto 90% of property value
+    ** Income Assessment Methods: ** Financial Based Surrogate income based Assessed Income & Cash Salary method
+    ** Business Stability: **
+        • Salaried : Minimum 3 years overall experience & min 6 month employment with current organization
+        • Self Employed : Minimum >5 years of work experience in same profession
+    ** Residence Stability: **
+        • Rented Residence: Minimum 2 years residence stability in the same city & 1 year in current residence.
+        • Owned Residence: Minimum 1 year in current residence
+
+Pragati HL - Overview
+Affordable Housing
+INTRODUCED to cater to salaried &
+Self employed customers looking to purchase Affordable property (Type II/III/IV) with easy eligibility norms & simple documentation
+■ ELIGIBLE PRODUCTS:
+HL, P+C, HCL, HEL, HIL
+TARGETED YIELD: 10.50% - 15%
+TYPE OF LOAN
+HL Builder Purchase / Resale, Plot Purchase & Construction, Home construction loan, Home Extension Loan, Home Improvement Loan
+TARGET SEGMENT
+i. Bank Salaried customer
+ii. Cash Salaried customers
+iii. Self-employed customers with or without ITR
+LOAN AMOUNT
+ Upto 1 Crore linked to Collateral Type & location categorization
+ELIGIBILITY CRITERIA
+    Tenure: upto 30 yrs for Salaried & 20 yrs for Self Employed
+     Min income - Salaried : Rs 7,000 per month
+Self Employed: Rs 1,00,000 per annum.
+
+
+
+	Changed Parameters	Remarks
+	Loan Amount - Upto 1 Cr linked to Income eligibility methods & collateral type	Max loan amount limits increased linked to Location categorization
+
+
+
+### Loan Amount (in Crs) - Based on Collateral Type and Location
+
+| **Property Type**       | **Type II - Cat A+/A** | **Type II - Other Locations** | **Type III - Cat A+/A** | **Type III - Other Locations** | **Type IV - Cat A+/A** | **Type IV - Other Locations** |
+|-------------------------|-----------------------|------------------------------|-------------------------|------------------------------|------------------------|-----------------------------|
+| **Bank Salaried**        | 1.00                 | 0.75                         | 1.00                    | 0.75                         | 0.50                   | 0.30                        |
+| **Cash Profit Method**   | 1.00                 | 0.75                         | 0.75                    | 0.50                         | 0.40                   | 0.30                        |
+| **Surrogate Program**    | 1.00                 | 0.75                         | 0.75                    | 0.50                         | 0.30                   | 0.25                        |
+| **CM Assessed Income / Cash Salaried** | 0.75        | 0.50                         | 0.50                    | 0.30                         | 0.25                   | 0.20                        |
+
+---
+
+### Changed Parameters & Remarks
+
+| **Changed Parameters** | **Remarks** |
+|------------------------|-------------|
+| 30 years tenure to be offered to Cat A / B salaried customers | Cat B included for offering higher tenure of 30 years. Company categorization list circulated & available in system |
+| Min income criteria: Salaried: Net salary of 7,000 p.m. Self Employed: Net income of 1 Lakh p.a. | Norm introduced for better quality sourcing |
+| LTV grid introduced linked to collateral type | Standardization of LTV grid |
+| Collaterals clearly categorized into Type II/III & IV | City / State wise specific collateral segmentation circulated by Technical team |
+
+---
+
+### Eligibility Norms
+
+| **Particulars**                  | **Norms** |
+|-----------------------------------|-----------|
+| **Target Customer**               | Customers (Salaried / SEP / SENP) with or without formal income and documentation purchasing property in Micro Markets |
+| **Eligible Collateral**           | Type II / III & IV |
+| **Tenure**                        | Salaried Cat A/B - 30 years; Salaried Others - 25 years; SENP/SEP - 20 years |
+| **Age Norms**                     | Max age at maturity: Salaried - 60 years, Self-Employed - 70 years |
+| **CIBIL Norms**                   | Salaried/SEP - CIBIL score of >=675/NTC; SENP - CIBIL score of >=700 for BT, else >=675 |
+| **Underwriting Methods**          | Cash Profit & Bank Salaried, Average Banking, Assessed Income - CM / Cash Salaried, Low LTV, Gross Receipt Program for SEP Mortgage Takeover |
+
+---
+
+### FOIR (Fixed Obligation to Income Ratio)
+
+#### Salaried (on Annual Net Income)
+
+| **Income Range** | **FOIR** |
+|------------------|----------|
+| Less than 5 lakhs | 60%      |
+| 5L to 12L         | 65%      |
+| 12-24 L           | 70%      |
+| >24 L             | 75%      |
+
+#### SENP
+
+| **Method**       | **FOIR** |
+|------------------|----------|
+| CPM              | 80%      |
+| Surrogate        | 65%      |
+| Assessed Income  | 60%      |
+
+---
+
+### Eligibility Income Criteria
+
+| **Eligibility Income**  | **Type II** | **Type III** | **Type IV** |
+|-------------------------|-------------|--------------|-------------|
+| **Formal Income**        | NHB norm    | NHB norm -5% | 70%         |
+| **Assessed Income**      | NHB norm -5%| 70%          | 60%         |
+
+---
+
+### Pricing (Interest Rates based on CIBIL Score)
+
+| **CIBIL Score / Program**      | **Type II (Salaried/SEP)** | **Type II (SENP)** | **Type III (Salaried/SEP)** | **Type III (SENP)** | **Type IV (Salaried/SEP)** | **Type IV (SENP)** |
+|--------------------------------|----------------------------|--------------------|-----------------------------|---------------------|----------------------------|--------------------|
+| **CPM/Salary Income**          |                            |                    |                             |                     |                            |                    |
+| CIBIL score 730+               | 10.25%                     | 10.50%             | 11.75%                      | 12.00%              | 13.25%                     | 13.50%             |
+| CIBIL score 700-730 & NTC      | 10.50%                     | 10.75%             | 12.00%                      | 12.25%              | 13.50%                     | 13.75%             |
+| **Surrogates (GR / ABB / Low LTV)** |                            |                    |                             |                     |                            |                    |
+| CIBIL score 730+               | 10.75%                     | 11.00%             | 12.25%                      | 12.50%              | 13.75%                     | 14.00%             |
+| CIBIL score 700-730 & NTC      | 11.00%                     | 11.25%             | 12.50%                      | 12.75%              | 14.00%                     | 14.25%             |
+| **Assessed Income (CM / Cash Salary)** |                        |                    |                             |                     |                            |                    |
+| CIBIL score 730+               | 11.75%                     | 12.00%             | 13.25%                      | 13.50%              | 14.75%                     | 15.00%             |
+| CIBIL score 700-730 & NTC      | 12.00%                     | 12.25%             | 13.50%                      | 13.75%              | 15.00%                     | 15.25%             |
+
+---
+
+### Processing Fee (Excluding GST)
+
+| **Collateral Type**          | **Direct / RP Sourcing** | **DSA Sourcing** |
+|------------------------------|--------------------------|------------------|
+| **CPM / Salary Income**       | 0.25%                    | 0.50%            |
+| **GP / GT / GR / ABB / Low LTV** | 0.50%                | 0.75%            |
+| **CM Assessed / Cash Salary** | 1.00%                    | 1.50%            |
+| **HL Booster (GPL Loan)**     | +1.00% on ROI            | +0.25% on PF     |
+
+
+
+| **Processing Fee (excl. GST)**              | **Direct / RP Sourcing** | **DSA Sourcing** |
+|---------------------------------------------|--------------------------|------------------|
+| **CPM / Salary Income**                     | 0.25%                    | 0.50%            |
+| **GP / GT / GR / ABB / GST**                | 0.50%                    | 0.75%            |
+| **Pure Rental Program / Low LTV**           | 1.00%                    | 1.50%            |
+
+| **Pricing**                     | **Rate of Interest (%)**    |
+|----------------------------------|-----------------------------|
+| **Salaried/SEP**                 | **SENP**                    |
+| **CPM / Salary Income**          |                             |
+| CIBIL score 730+                 | 9.05%                      | 9.30%  |
+| CIBIL score 700-730 & NTC        | 9.30%                      | 9.55%  |
+| **Surrogate Income Method**      |                             |
+| CIBIL score 730+                 | 9.55%                      | 9.80%  |
+| CIBIL score 700-730 & NTC        | 9.80%                      | 10.05% |
+
+| **Particulars**                            | **Applicable Premium on ROI** | **Applicable Premium on PF** |
+|--------------------------------------------|-------------------------------|-----------------------------|
+| **Top up loan up to 20% of HL**            | +0.50%                        | +0.25%                      |
+| **P+C Loan / HIL Loan / CRE Loan**         | +0.25%                        | +0.25%                      |
+| **Plot purchase / Land loan**              | +0.50%                        | +0.25%                      |
+| **HL Booster (GPL Loan)**                  | +1.00%                        | +0.25%                      |

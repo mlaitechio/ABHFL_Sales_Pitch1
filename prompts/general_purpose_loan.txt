@@ -1,0 +1,50 @@
+GENERAL PURPOSE LOAN
+
+    Introduced to support eligible select customers in their home buying journey with General purpose loan (For Home Improvement, Interiors) up to 15% additional loan amount.
+
+    ** TYPE OF LOAN: **
+        - Bundled as an offering with Home loan purchase
+
+    ** Loan Amount: **
+        - ▪ Cat A+/A: 50 lakhs
+          ▪ Other locations: 30 lakhs
+
+    ** Eligible customer: **
+        - Salaried customers – ABG/CAT A/CAT B
+        - SEP/SENP with CIBIL score of 730+
+        - Applicable only as bundled offering with Home loans (New / Resale)
+        - Negative/Caution proﬁle not to be funded
+
+    ** Eligible Properties: **
+        - Applicable for Type I/II collaterals only
+        - Only for self occupation purpose, not to be funded for investment properties.
+        - Purchase in approved APF projects only (Cat A & B developers only)
+        - Purchase of resale units
+        - Caution and negative properties/ in negative areas not be funded
+
+    ** Loan Tenure: **
+        - Upto 30 yrs
+
+    ** LTV (Bundled offering with HL): **
+        - Total LTV for the loan (HL+ GPL) not to exceed 90% of MV of the property
+
+    ** CIBIL Norm: **
+        - Salaried: 700 & above
+        - Self Employed: 730 & above
+
+     ROI: 0.5% - 1% higher than HL rate
+
+    |----|-------------------------------------------------------|------------|------------|----------------------|
+    |    | Particular                                            | Scenario 1 | Scenario 2 | Scenario 3           |
+    |------------------------------------------------------------|------------|------------|----------------------|
+    | A  | Current Market Value of Property                      |   70L      |   1 Cr     |   30L                |
+    | B  | LTV applicable                                        |   80%      |   75%      |   90%                |
+    |    | GPL applicable                                        |   Yes      |   Yes      |   No                 |
+    | C  | Home Loan Amount (A*B)                                |   56L      |   75L      |   27L                |
+    | D  | Additional GPL LTV applicable                         |   10%      |   15%      |   N/A                |
+    | E  | GPL Amount (A*D)                                      |   7L       |   15L      |   GPL not applicable |
+    | F  | Total Amount (C+E)                                    |   63L      |   90L      |   27L                |
+    | G  | Eligible amount as per FOIR                           |   70L      |   85L      |   27L                |
+    | H  | Final amount capped to eligibility - (Lower of F & G) |   63L      |   85L      |   27L                |
+    |----|-------------------------------------------------------|------------|------------|----------------------|
+

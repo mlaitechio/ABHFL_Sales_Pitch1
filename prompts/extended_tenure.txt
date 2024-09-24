@@ -1,0 +1,63 @@
+EXTENDED TENURE
+
+    Introduced to cater to Senior professionals seeking Home Loans with higher loan amounts and reduced EMI payments.
+
+    ** TYPE OF LOAN: **
+        Home Loan
+
+    ** TARGET SEGMENT: **
+        Working Senior Professionals, Salaried Employees nearing retirement
+
+    ** LOAN ELIGIBILITY: **
+        Up to 40% higher eligibility basis increase in tenure
+
+    ** LOAN TENURE: **
+        Loan tenure up to 25 years
+
+
+    Senior level salaried executives working in top corporates
+    Prime segment
+    Cibil score 730+, No NTC
+    CAT A & ABG employees
+    Customers with net monthly income of Rs. 3 lakhs & above
+    Tenure – Up to 300 months
+    Max age norms – 65 years & 70 years (Approval at NCC)
+    Non-ﬁnancial co-applicant mandatory to the loan
+    Applicable for under construction, ready and BT transactions
+
+    ** Home Loan EMI Calculator: **
+        Standard EMI:
+            Loan Amount:  ₹ 3,29,51,659
+            Maturity Age:  60 yrs
+            Max Loan Tenure:  144 mos
+
+        Extended Tenure:
+            Loan Amount: ₹ 4,30,45,346
+            Maturity Age: 70 yrs
+            Max Loan Tenure: 264 mos
+
+        Incremental Loan Amount ₹ 1,00,93,686
+
+Extended Tenure Home Loan – Detailed Norms:
+
+| **Parameter**             | **Norm Description**                                                                                           |
+|---------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Typical Customer**       | Senior level salaried executives working in top corporates                                                     |
+| **Nature of Loan**         | Home Loan                                                                                                     |
+| **Applicability**          | Salaried - Prime only                                                                                          |
+| **Customer Profile**       | Customers with Net Monthly Income of 3 lakhs & above                                                           |
+| **Customer Segment**       | Prime - CAT A only & ABG employees                                                                             |
+| **Overall Tenure**         | Up to 300 months                                                                                               |
+| **Primary & Secondary Tenure** | Same EMI throughout the entire tenure                                                                       |
+| **Max Age Norms**          | Up to 65 years (Up to 70 years with approval at NCC level)                                                     |
+| **Repayment Mode**         | NACH                                                                                                           |
+| **Eligibility Method**     | Financial Based                                                                                                |
+| **Banking Norms**          | Last 6 months bank statement required                                                                          |
+| **CIBIL Norms**            | 730 & above, No NTC                                                                                            |
+| **PD (Personal Discussion)** | Tele or Video PD                                                                                               |
+| **Rate of Interest**       | Floating rate of interest linked to ABHFL Reference Rate (ARR)                                                 |
+| **Technical & Legal Norms**| As per product program                                                                                         |
+| **LTV & FOIR**             | As per product program                                                                                         |
+| **Insurance**              | Optional                                                                                                       |
+| **Other Product Norms**    | Co-applicant mandatory as per income ownership matrix. Applicable for Under-construction, Ready, and BT transactions |
+| **Program Review**         | Overall portfolio not exceeding 500 Crs of loan outstanding                                                    |

@@ -1,0 +1,82 @@
+
+
+EXPRESS BALANCE TRANSFER PROGRAM
+
+    Introduced to cater to customers seeking to fastrack their balance transfer with avail top-up loan to meet your additional requirements with ease.
+
+    ** TYPE OF LOAN: **
+        Home Loan Balance Transfer and Top-up
+
+    ** TARGET SEGMENT: **
+        • Salaried customer
+        • Self-employed customers
+
+    ** TICKET SIZE: **
+        Loan amount up to 3 Crores
+
+    ** LOAN TENURE: **
+        Loan tenure up to 25 years
+
+    |--------------|---------------------------------------------------|--------------------------|------------------------------|
+    |Parameters    | ABC existing Customers - SENP & Salaried (Others) | New to ABC - HL          | New to ABC - LAP             |
+    |--------------|---------------------------------------------------|--------------------------|------------------------------|
+    |Product       | HL                                                | HL                       | LAP                          |
+    |Applicable    |                                                   |                          |                              |
+    |--------------|---------------------------------------------------|--------------------------|------------------------------|
+    |Loan Amount   | Upto 3 Crs                                        | Upto 3 Crs               | Upto 1 Crs                   |
+    |--------------|---------------------------------------------------|--------------------------|------------------------------|
+    |CIBIL         | Salaried – 700-730 SEP & SENP – 700+              | 700+                     | 700+                         |
+    |--------------|---------------------------------------------------|--------------------------|------------------------------|
+    |Tenure        | HL - Salaried - 25 yrs                            | HL - Salaried - 25 yrs   | LAP - 15 yrs                 |
+    |              | HL - SEP/SENP - 20 yrs                            | HL - SEP/SENP - 20 yrs   |                              |
+    |--------------|---------------------------------------------------|--------------------------|------------------------------|
+    |LTV           | HL - As per NHB norms                             | HL - As per NHB norms    | LAP-Resi: 65%, LAP-Comm: 55% |
+    |--------------|---------------------------------------------------|--------------------------|------------------------------|
+    |Income        |Salaried: 3 months salary slip, Form 16 + 6 months Bank statement                                            |
+    |Documents &   |                                                                                                             |
+    |Bank          |SEP / SENP: Latest 2 yrs Financials + 6 months Bank statement                                                |
+    |Statement     |                                                                                                             |
+    |--------------|-------------------------------------------------------------------------------------------------------------|
+    |Vintage Norms | Salaried: Overall exp of 3 years and 6 months in current organization                                       |
+    |              | SEP / SENP: Minimum Vintage of 3 years                                                                      |
+    |--------------|-------------------------------------------------------------------------------------------------------------|
+    |BT + Top Up   | Minimum vintage for Balance Transfer and top up % (Top up limit on original Sanction Amount)                |
+    |applicable    |  1. < 11 MOB: BT allowed but No top-up allowed.                                                             |
+    |basis         |  2. > 11 to 18 MOB: BT allowed and max top-up up to 10%                                                     |
+    |Repayment     |  3. > 18 to 24 MOB: BT allowed and max top-up up to 15%                                                     |
+    |Track (RTR)   |  4. > 24 to 36 MOB: BT allowed and max top-up up to 20%                                                     |
+    |              |  5. > 36 MOB: BT allowed & max top-up up to 30%                                                             |
+    |--------------|-------------------------------------------------------------------------------------------------------------|
+
+    Notes:
+    - No income documents required
+    - No legal required for BT from Top 13 institutions
+
+Express BT  - Norms:
+
+Here is the extracted data from the table in the image you provided:
+
+| **Parameter**        | **Parameters**                           | **ABC Existing Customers - SENP & Salaried (Others)** | **New to ABC – HL**                  | **New to ABC – LAP**                 |
+|----------------------|------------------------------------------|-------------------------------------------------------|--------------------------------------|--------------------------------------|
+| **Product**          | Product Applicable                       | HL                                                    | HL                                   | LAP                                  |
+|                      | Loan Amount                              | Upto 3 Crs                                            | Upto 3 Crs                           | Upto 1 Cr                            |
+|                      | CIBIL                                    | Salaried – 700-730 <br> SEP & SENP – 700+              | 700+                                 | 700+                                 |
+|                      | Tenure                                   | HL - Salaried - 25 yrs <br> HL - SEP/SENP - 20 yrs     | HL - Salaried - 25 yrs <br> HL - SEP/SENP - 20 yrs | LAP - 15 yrs                         |
+|                      | LTV                                      | HL - As per NHB norms                                  | HL - As per NHB norms                | LAP - Resi: 65% <br> LAP - Comm: 55% |
+|                      | ROI                                      | As per Standard Grid                                   | As per Standard Grid                 | As per Standard Grid                 |
+| **Login**            | Vintage                                  | Sal: Overall exp of 3 years and 6 months in current organization <br> SENP: Minimum Vintage of 3 years |                                       |                                       |
+|                      | KYC                                      | Y (Not required if digitally verified)                 | Y                                    | Y                                    |
+|                      | Salary Slip                              | 3 Months                                              | 3 months                             | 3 months                             |
+|                      | Bank Statement                           | 6 Months                                              | 6 Months                             | 6 Months                             |
+|                      | Form 16                                  | N                                                     | Y                                    | Y                                    |
+|                      | ITR for Self Employed                    | Latest 2 year financials                               | Latest 2 year financials             | Latest 2 year financials             |
+| **Financial Sanction**| FI - Residential                         | Y                                                     | Y                                    | Y                                    |
+|                      | FI - Office                              | Y                                                     | Y                                    | Y                                    |
+|                      | RCU                                      | Y                                                     | Y                                    | Y                                    |
+|                      | PD                                       | Salaried - Video/Tele <br> SE - Video/Physical         | Self employed - Video/Physical       | Salaried - Video/Tele <br> Self employed - Video/Physical |
+| **Final Sanction**    | LOD & FC from Current Lender             | Y                                                     | Y                                    | Y                                    |
+|                      | Latest SOA from Repayment Date           | Y                                                     | Y                                    | Y                                    |
+|                      | Technical                                | Y                                                     | Y                                    | Y                                    |
+|                      | Legal                                    | Y                                                     | Y                                    | Y                                    |
+|                      | TSR                                      | Y                                                     | Y                                    | Y                                    |
+|                      | Vetting                                  | Y                                                     | Y                                    | Y                                    |
