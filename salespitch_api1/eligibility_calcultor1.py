@@ -10,7 +10,7 @@ def calculate_age(dob):
     return age.years + age.months / 12 + age.days / 365.25
 
 def get_foir(customer_type, net_monthly_income):
-    if customer_type == "Salaried":
+    if customer_type == "salaried":
         if net_monthly_income > 200000:
             return 75
         elif net_monthly_income > 100000:
@@ -43,7 +43,7 @@ def home_loan_eligibility(customer_type=None, dob=None, net_monthly_income=None,
         output["Current Age (yrs)"] = f"{current_age:.2f}"
 
     if customer_type and net_monthly_income:
-        foir = get_foir(customer_type, net_monthly_income)
+        foir = get_foir(customer_type.lower(), net_monthly_income)
         output["FOIR"] = f"{foir}%"
 
     if customer_type:

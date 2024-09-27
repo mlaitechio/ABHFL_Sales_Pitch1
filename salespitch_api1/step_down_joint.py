@@ -10,7 +10,7 @@ def calculate_age(dob):
 
 def get_foir(customer_type, net_monthly_income):
     current_annual_income = net_monthly_income * 12
-    if customer_type == "Salaried":
+    if customer_type == "salaried":
         if net_monthly_income <= 0:
             return "Require Monthly Income"
         elif current_annual_income <= 500000:
@@ -118,11 +118,11 @@ def step_down(customer_type=None, salaried_son_dob=None, salaried_dad_dob=None, 
         output["Dad"]["secondary_tenure"] = 0
 
     if salaried_son_current_net_monthly_income and customer_type:
-        foir = get_foir(customer_type, salaried_son_current_net_monthly_income)
+        foir = get_foir(customer_type.lower(), salaried_son_current_net_monthly_income)
         output["Son"]["foir"] = foir
 
     if salaried_dad_current_net_monthly_income and customer_type:
-        foir = get_foir(customer_type, salaried_dad_current_net_monthly_income)
+        foir = get_foir(customer_type.lower(), salaried_dad_current_net_monthly_income)
         output["Dad"]["foir"] = foir
 
     if salaried_dad_current_net_monthly_income :
