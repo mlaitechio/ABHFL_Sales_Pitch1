@@ -12,7 +12,7 @@ from rest_framework.permissions import IsAuthenticated
 from rest_framework.views import APIView
 from rest_framework import viewsets, status
 from rest_framework.response import Response
-from .stream_structure_agent7 import ABHFL
+from .stream_structure_agent8 import ABHFL
 from langchain_core.messages import HumanMessage, SystemMessage ,AIMessage
 import os
 from django.http import FileResponse , HttpResponse
@@ -63,87 +63,88 @@ def generate_user_id():
 import io
 chat_history = {}
 class ChatAPIView(APIView):
-    # serializer_class = ChatSerializer
-    
+
     def post(self, request, *args, **kwargs):
-        
-        if 'user_id' not in request.session:
-            request.session['user_id'] = generate_user_id()
+        # Use request.data to parse the incoming JSON request automatically
+        data = request.data
+
+        # Check for existing user session, or create a new one
+        session_id = data.get("session_id")
+        if not session_id:
+            return JsonResponse({"error": "Missing session_id in request"}, status=400)
+
+        if 'user_id' not in request.session or request.session['user_id'] != session_id:
+            request.session['user_id'] = session_id
+
+            # Create ChatSession if it doesn't exist
+            if not ChatSession.objects.filter(session_id=session_id).exists():
+                ChatSession.objects.create(session_id=session_id)
+
+            # Update session activity
             request.session['last_activity'] = datetime.datetime.now().isoformat()
 
         session_id = request.session['user_id']
+        chat_session = ChatSession.objects.get(session_id=session_id)
+
+        # Initialize chat history for the session
         if session_id not in chat_history:
             chat_history[session_id] = []
-        # print(chat_history)
+
+        # Initialize the bot instance
         bot_instance = ABHFL(chat_history[session_id])
-       
-        data_str = request.body
-        data_str = data_str.decode('utf-8')
-        # If the operation expects a file-like object, wrap the string in io.StringIO
-        data_file_like = io.StringIO(data_str)
-        try:
-            data =  json.load(data_file_like)
-            print(data["question"])
-            chunks = []
-            question =  data["question"]
-        except JSONDecodeError as e:
-            return JsonResponse({"error": f"Invalid JSON: {e}"}, status=400)
+
+        # Parse the incoming question from the data
+        question = data.get("question")
+        if not question:
+            return JsonResponse({"error": "Missing question in request"}, status=400)
 
         def generate():
-            # print(data["question"])
-            try:    
-                if len(bot_instance.message) == 0:
+            chunks = []
+            try:
+                # Load the initial prompt if the bot instance has no message history
+                if not bot_instance.message:
                     with open(f"prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
                         text = f.read()
-                # print(text)
-                # ob1.message.append(SystemMessage(content=f"{text}"))
-                # bot_instance.message.clear()
-                    bot_instance.message.append(SystemMessage(content=f"{text}"))
+                    bot_instance.message.append(SystemMessage(content=text))
+
+                # Create event loop and process the conversation
                 loop = asyncio.new_event_loop()
                 asyncio.set_event_loop(loop)
                 openairesponse = iter_over_async(bot_instance.run_conversation(question), loop)
-                # openairesponse = ob1.run_conversation(prompt)
-                # Yield response
+
+                # Stream the AI's responses chunk by chunk
                 for event in openairesponse:
                     kind = event["event"]
-                    if kind == "on_chain_start":
-                        if event["name"] == "Agent":
-                            print(f"Starting agent: {event['name']} with input: {event['data'].get('input')}")
-                    elif kind == "on_chain_end":
-                        if event["name"] == "Agent":
-                            print()
-                            print("--")
-                            print(f"Done agent: {event['name']} with output: {event['data'].get('output')['output']}")
                     if kind == "on_chat_model_stream":
                         content = event["data"]["chunk"].content
                         if content:
-                            print(content, end="|")
                             chunks.append(content)
                             yield content
-                    elif kind == "on_tool_start":
-                        print("--")
-                        print(f"Starting tool: {event['name']} with inputs: {event['data'].get('input')}")
-                    elif kind == "on_tool_end":
-                        print(f"Done tool: {event['name']}")
-                        print(f"Tool output was: {event['data'].get('output')}")
-                        print("--")
-                    # return Response({'responce': f"{chunks}"})
+
+                # Combine all chunks into the final answer
                 answer = "".join(chunks)
-                # response = bot_instance.run_conversation(question)
-                
-                response_output = answer
-
-                bot_instance.message.append(AIMessage(content=f"{response_output}"))
+                bot_instance.message.append(AIMessage(content=answer))
                 chat_history[session_id] = bot_instance.message
-            # return Response({'response': response_output}, status=status.HTTP_200_OK)
-        # except Exception as e:
-        #         return Response({'error': f"An error occurred: {e}"}, status=status.HTTP_400_BAD_REQUEST)
-        # else:
-        #     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-            except Exception as e:
-                    yield JsonResponse({"error": str(e)}, status=500)
 
-        return StreamingHttpResponse(generate(), content_type="application/json")
+                # Store the chat message in the database
+                ChatMessage.objects.create(
+                    session=chat_session,
+                    message=question,
+                    answer=answer
+                )
+
+            except Exception as e:
+                yield JsonResponse({"error": str(e)}, status=500)
+
+        # Return a streaming response
+        response = StreamingHttpResponse(generate(), content_type="text/event-stream")
+        response["Cache-Control"] = "no-cache"  # Prevent client caching
+        response["X-Accel-Buffering"] = "no"  # Enable streaming over NGINX
+        try:
+            return response
+
+        except Exception as e:
+            return JsonResponse({"error": f"Database Error: {str(e)}"}, status=500)
 
 
 

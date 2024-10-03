@@ -35,7 +35,6 @@ load_dotenv()
 class ABHFL:
     is_function_calling = 0
     is_sales_pitch_active = False
-
     is_rag_function_active = False
 
     def __init__(self, message):
@@ -51,7 +50,6 @@ class ABHFL:
         self.AZURE_COGNITIVE_SEARCH_ENDPOINT = os.getenv("AZURE_COGNITIVE_SEARCH_ENDPOINT")
         self.AZURE_COGNITIVE_SEARCH_API_KEY = os.getenv("AZURE_COGNITIVE_SEARCH_API_KEY")
         self.AZURE_COGNITIVE_SEARCH_INDEX_NAME = os.getenv("AZURE_COGNITIVE_SEARCH_INDEX_NAME")
-        print(self.AZURE_COGNITIVE_SEARCH_INDEX_NAME)
         self.ENCODING = "cl100k_base"
         self.search_client = SearchClient(endpoint=self.AZURE_COGNITIVE_SEARCH_ENDPOINT,
                                           index_name=self.AZURE_COGNITIVE_SEARCH_INDEX_NAME,
@@ -204,7 +202,7 @@ class ABHFL:
         replaced = False
         for i, message in enumerate(self.message):
             if isinstance(message, SystemMessage):
-                self.message[i] = SystemMessage(content=f"""{main + text}
+                self.message[i] = SystemMessage(content=f"""{main  + text}
 Must Provide Concice Answer: """)
                 replaced = True
                 break
@@ -215,78 +213,81 @@ Must Provide Concice Answer: """)
         # Append the question as a HumanMessage
         # self.message.append(HumanMessage(content=question))
 
-        return text
+        # return text
+
+#     def collateral_type(self):
+#         csv_file_path = "Collateral.csv"
+#         df = pd.read_csv(csv_file_path)
+#         question = self.user_input
+#         # Define the prompt prefix
+#         prefix = """
+#            ==> You are a pandas agent. You must work with the DataFrame.
+#             ==> Your answer must only include information retrieved from df, and you must not create mockup or sample data. You will be penalized if you do.
+#             ==> Repeat the question before answering it.
+#             ==> When sorting information like retrieving the highest or lowest values of a column, always check for ties. If there are ties, retrieve the information for all with the tied value, up to 20 rows.
+#             ==> Do not pass any import statements or any other python code except the dataframe.
+#             ==> The function should be invoked like this by passing only query:
+#                     `{'query': "unique_locations = df['Location'].unique().tolist(); unique_locations"}`,
+#                 Strictly Don't pass the code in query like this:
+#                     `{'query': "import pandas as pd from datetime import datetime df['End of life'] = pd.to_datetime(df['End of life'], errors='coerce', dayfirst=True) end_of_life_this_month = df[(df['End of life'].dt.year == datetime.now().year) & (df['End of life'].dt.month == datetime.now().month)] end_of_life_this_month.shape[0]"}`
+            
+#             Error Handling:
+#                 - Double-check queries before execution.
+#                 - If an error occurs, rewrite the query and try again.
+#                 - If you are unsure about the query, ask the user for clarification.
+#                 - try atleast 5 times 
+
+
+#             ==> Below are the columns in my dataframe to use for the query.
+#                 Sr No: This is a serial number assigned to each entry.
+#                 Zone: Represents the geographical zone (e.g., North, South, East, West) within India.
+#                 Region: Specifies the specific region within the zone.
+#                 Branch/Micro Market: Indicates the branch or micro market location related to the collateral.
+#                 Collateral Type: Defines the type of collateral (e.g., land, building, machinery).
+#                 Sub Collateral Type: More specific details on the collateral type (e.g., commercial building, residential property).
+#                 Categorisation (P/A/I): Denotes the category of the collateral, represented by "P," "A," or "I" (meaning of these abbreviations needs to be defined).
+#                 Type 1/2/3/4: Represents the classification or ranking system for collateral (meaning of each type needs to be defined).
+#                 Documentation & Other Approvals: Indicates the status of the required documentation and approvals for the collateral.
+
+#               Here’s the information about collateral types and the indicative list of properties funded, organized in a tabular format:
+#  ==> use this tables to generate the queries    
+#             ### Collateral Types and Indicative Properties
+
+# | **Collateral Type** | **Indicative List of Properties Funded**                                                                                                    |
+# |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+# | Type I               | Authority approved properties with plans                                                                                                   |
+# | Type II              | Gram Panchayat & Zilla Parishad properties, B-Khatta properties, Gunthewari properties up to 2008, Society Patta up to G+3 floors          |
+# | Type III             | Gaothan properties, multi-dwelling units, regularized colonies, Lal Dora, outside MC limits new properties, properties with deviations       |
+# | Type IV              | Khasra properties, notarized ownership properties, single title deed properties, properties with narrow approach roads, GP Patta properties |
+
+# ### Collateral Type Distribution by Region
+
+# | **Collateral Type** | **Central** | **East** | **North** | **South** | **West** | **Total** |
+# |----------------------|-------------|----------|-----------|-----------|----------|-----------|
+# | Type I               | 3           | 6        | 11        | 3         | 5        | 28        |
+# | Type II              | 7           | 6        | 21        | 27        | 15       | 76        |
+# | Type III             | 5           | 9        | 32        | 19        | 13       | 78        |
+# | Type IV              | 6           | 9        | 22        | 11        | 13       | 61        |
+# | **Special Collateral**| 3           | -        | -         | -         | -        | 3        |
+# | **Total**            | 21          | 30       | 86        | 63        | 46       | 246       |
+# """
+
+#         # Initialize the Pandas DataFrame Agent
+#         dataframe_agent = create_pandas_dataframe_agent(
+#             self.client,
+#             df,
+#             verbose=True,
+#             prefix=prefix,
+#             agent_type=AgentType.OPENAI_FUNCTIONS,
+#             allow_dangerous_code=True,
+#             agent_executor_kwargs={"handle_parsing_errors": True}
+#         )
+#         response = dataframe_agent.run(question)
+#         return response
 
     def collateral_type(self):
-        csv_file_path = "Collateral.csv"
-        df = pd.read_csv(csv_file_path)
-        question = self.user_input
-        # Define the prompt prefix
-        prefix = """
-           ==> You are a pandas agent. You must work with the DataFrame.
-            ==> Your answer must only include information retrieved from df, and you must not create mockup or sample data. You will be penalized if you do.
-            ==> Repeat the question before answering it.
-            ==> When sorting information like retrieving the highest or lowest values of a column, always check for ties. If there are ties, retrieve the information for all with the tied value, up to 20 rows.
-            ==> Do not pass any import statements or any other python code except the dataframe.
-            ==> The function should be invoked like this by passing only query:
-                    `{'query': "unique_locations = df['Location'].unique().tolist(); unique_locations"}`,
-                Strictly Don't pass the code in query like this:
-                    `{'query': "import pandas as pd from datetime import datetime df['End of life'] = pd.to_datetime(df['End of life'], errors='coerce', dayfirst=True) end_of_life_this_month = df[(df['End of life'].dt.year == datetime.now().year) & (df['End of life'].dt.month == datetime.now().month)] end_of_life_this_month.shape[0]"}`
-            
-            Error Handling:
-                - Double-check queries before execution.
-                - If an error occurs, rewrite the query and try again.
-                - If you are unsure about the query, ask the user for clarification.
-                - try atleast 5 times 
-
-
-            ==> Below are the columns in my dataframe to use for the query.
-                Sr No: This is a serial number assigned to each entry.
-                Zone: Represents the geographical zone (e.g., North, South, East, West) within India.
-                Region: Specifies the specific region within the zone.
-                Branch/Micro Market: Indicates the branch or micro market location related to the collateral.
-                Collateral Type: Defines the type of collateral (e.g., land, building, machinery).
-                Sub Collateral Type: More specific details on the collateral type (e.g., commercial building, residential property).
-                Categorisation (P/A/I): Denotes the category of the collateral, represented by "P," "A," or "I" (meaning of these abbreviations needs to be defined).
-                Type 1/2/3/4: Represents the classification or ranking system for collateral (meaning of each type needs to be defined).
-                Documentation & Other Approvals: Indicates the status of the required documentation and approvals for the collateral.
-
-              Here’s the information about collateral types and the indicative list of properties funded, organized in a tabular format:
- ==> use this tables to generate the queries    
-            ### Collateral Types and Indicative Properties
-
-| **Collateral Type** | **Indicative List of Properties Funded**                                                                                                    |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Type I               | Authority approved properties with plans                                                                                                   |
-| Type II              | Gram Panchayat & Zilla Parishad properties, B-Khatta properties, Gunthewari properties up to 2008, Society Patta up to G+3 floors          |
-| Type III             | Gaothan properties, multi-dwelling units, regularized colonies, Lal Dora, outside MC limits new properties, properties with deviations       |
-| Type IV              | Khasra properties, notarized ownership properties, single title deed properties, properties with narrow approach roads, GP Patta properties |
-
-### Collateral Type Distribution by Region
-
-| **Collateral Type** | **Central** | **East** | **North** | **South** | **West** | **Total** |
-|----------------------|-------------|----------|-----------|-----------|----------|-----------|
-| Type I               | 3           | 6        | 11        | 3         | 5        | 28        |
-| Type II              | 7           | 6        | 21        | 27        | 15       | 76        |
-| Type III             | 5           | 9        | 32        | 19        | 13       | 78        |
-| Type IV              | 6           | 9        | 22        | 11        | 13       | 61        |
-| **Special Collateral**| 3           | -        | -         | -         | -        | 3        |
-| **Total**            | 21          | 30       | 86        | 63        | 46       | 246       |
-"""
-
-        # Initialize the Pandas DataFrame Agent
-        dataframe_agent = create_pandas_dataframe_agent(
-            self.client,
-            df,
-            verbose=True,
-            prefix=prefix,
-            agent_type=AgentType.OPENAI_FUNCTIONS,
-            allow_dangerous_code=True,
-            agent_executor_kwargs={"handle_parsing_errors": True}
-        )
-        response = dataframe_agent.run(question)
-        return response
-
+        return self.generate_method("Collateral")
+    
     def salary_income_method(self):
         return self.generate_method("salary_income_method")
 
@@ -656,7 +657,7 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.micro_LAP,
-                description="Delivers information about the Micro Loan Against Property (LAP) program."
+                description="Delivers information about the Micro Loan Against Property (Micro LAP) program."
             ),
             StructuredTool.from_function(
                 func = self.micro_CF,
@@ -676,7 +677,8 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.priority_balance_transfer,
-                description="Provides detailed information on the priority balance transfer program.(Priority BT)"
+                description="Provides detailed information on the priority balance transfer program.(Priority BT)",
+                return_direct=False
             ),
             StructuredTool.from_function(
                 func = self.lease_rental_discounting,
@@ -684,7 +686,7 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.express_balance_transfer_program,
-                description="Offers all necessary details on the express balance transfer (BT) program."
+                description="Offers details on the express balance transfer (express BT) program."
             ),
             # StructuredTool.from_function(
             #     func = self.bt_top_up_illustration,
@@ -705,7 +707,7 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.collateral_type,
-                description="Provides a detailed Properties and it'sCollateral type for PAN india"
+                description="Detailed Properties and it's all Collateral type for PAN india in ABHFL"
             ),
         ]
 
@@ -723,7 +725,7 @@ Parameters:
             [
                 # ("system", """You are a key figure at Aditya Birla Housing Finance Limited (ABHFL), but you have only limited information about the company. """),
                 ("system",
-                 """You are a expert Sales Agent not a virtual agent of Aditya Birla Housing Limited. You are best in conversation with Customers. """),
+                 """You have access to multiple tools to answer user queries. Select the best tool for a precise, concise response without adding extra details."""),
                 MessagesPlaceholder(variable_name=MEMORY_KEY),
                 ("user", "{input}"),
                 MessagesPlaceholder(variable_name="agent_scratchpad"),
@@ -742,7 +744,7 @@ Parameters:
         )
         agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
         max_response_tokens = 250
-        token_limit = 8000
+        token_limit = 50000
 
         # Helper function to calculate total tokens in the messages
         def calculate_token_length(messages):
