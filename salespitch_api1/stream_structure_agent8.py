@@ -77,7 +77,7 @@ class ABHFL:
                                    roi=None):
 
         max_loan_amount = home_loan_eligibility(customer_type, dob, net_monthly_income, current_monthly_emi, roi)
-
+    
         return max_loan_amount
 
     @staticmethod
@@ -482,7 +482,7 @@ Must Provide Concice Answer: """)
         customer_type (str, required): Type of the customer (e.g., salaried, self-employed).
         dob (str, required): Date of birth of the customer in %d %B %Y format.
         net_monthly_income (float, required): The customer's net monthly income.
-        current_monthly_obligation (float, required): The customer's current monthly financial obligations.
+        current_monthly_emi (float, required): The customer's current monthly financial obligations.
         roi (float, required): Rate of interest for the loan."""
             ),
             StructuredTool.from_function(
@@ -519,7 +519,6 @@ Must Provide Concice Answer: """)
 #         customer_profile (str): The customer's profile (e.g., salaried, self-employed).
 #         tenure_months (int): The loan tenure in months.
 #         roi (float): Rate of interest for the loan.
-#         foir (float): Fixed Obligation to Income Ratio.
 # """
 #             ),
             StructuredTool.from_function(
