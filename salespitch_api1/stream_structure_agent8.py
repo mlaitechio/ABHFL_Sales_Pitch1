@@ -21,13 +21,13 @@ from .part_payment1 import part_payment
 from .emi_cal2 import emi_calc
 from .loan_eligibility1 import loan_eligibility
 from .step_up_calculator import step_up_calculator
-# from .BTS_calculator import bts_calc
 from .BTS_calculator2 import bts_calc
 from .step_down_joint import step_down
 from .step_down_pension import step_down_pension
 import pandas as pd
 from langchain.agents import AgentType
 from langchain_experimental.agents import create_pandas_dataframe_agent
+from langchain.agents import AgentExecutor, create_tool_calling_agent
 import time
 load_dotenv()
 
@@ -107,19 +107,19 @@ class ABHFL:
         return total_loan
 
     @staticmethod
-    def bts_calc_tool(sanction_amount=None, remaining_tenure_in_years=None, existing_roi=None, abhfl_roi=None,
+    def bts_calc_tool(sanction_amount=None,  tenure_remaining_months=None, existing_roi=None, abhfl_roi=None,
                       month_of_disbursement=None):
         """Calculate the benefit of transfer of sanction (BTS) value based on the loan parameters.(switching the loan)
 
         Parameters:
-        sanction_amount (float, optional): The sanctioned loan amount in integer.
-        tenure_remaining (int, optional): Remaining loan tenure in months (e.g., if the original tenure was 25 years, enter 300 months directly, not as 25 * 12).
-        existing_roi (float, optional): The current rate of interest on the loan.
-        abhfl_roi (float, optional): The proposed rate of interest after transfer.
-        month_of_disbursement (str, optional): The month of loan disbursement in %b-%y format (e.g., 'Aug-23').
+        sanction_amount (float, required): The sanctioned loan amount in integer.
+        tenure_remaining (int, required): Remaining loan tenure in months (e.g., if the original tenure was 25 years, enter 300 months directly, not as 25 * 12).
+        existing_roi (float, required): The current rate of interest on the loan.
+        abhfl_roi (float, required): The proposed rate of interest after transfer.
+        month_of_disbursement (str, required): The month of loan disbursement in %b-%y format (e.g., 'Aug-23').
         """
 
-        BTS_value = bts_calc(sanction_amount, remaining_tenure_in_years * 12, existing_roi, abhfl_roi,
+        BTS_value = bts_calc(sanction_amount,  tenure_remaining_months, existing_roi, abhfl_roi,
                              month_of_disbursement)
 
         return BTS_value
@@ -389,7 +389,7 @@ Must Provide Concice Answer: """)
             # question = self.user_input
             max_tokens = 6000
             token_threshold = 0.8 * max_tokens  # 90% of max_tokens as threshold
-            print(token_threshold)
+            # print(token_threshold)
             # query_embedding = self.get_query_embedding(question)
             results = self.search_client.search(search_text=question, select=["product", "description"],
                                                 # Include 'token' in the select query
@@ -480,23 +480,23 @@ Must Provide Concice Answer: """)
                 description="""Calculate the maximum home loan amount a customer is eligible for based on their profile.
 
         Parameters:
-        customer_type (str): Type of the customer (e.g., salaried, self-employed).
-        dob (str): Date of birth of the customer in %d %B %Y format.
-        net_monthly_income (float): The customer's net monthly income.
-        current_monthly_obligation (float): The customer's current monthly financial obligations.
-        down_payment (float): The down payment amount the customer is willing to make.
-        roi (float): Rate of interest for the loan."""
+        customer_type (str, required): Type of the customer (e.g., salaried, self-employed).
+        dob (str, required): Date of birth of the customer in %d %B %Y format.
+        net_monthly_income (float, required): The customer's net monthly income.
+        current_monthly_obligation (float, required): The customer's current monthly financial obligations.
+        down_payment (float, required): The down payment amount the customer is willing to make.
+        roi (float, required): Rate of interest for the loan."""
             ),
             StructuredTool.from_function(
                 func=self.part_payment_tool,
                 description=""" Calculate the impact of part payment on the loan, including the reduction in tenure or EMI.
 
         Parameters:
-        loan_outstanding (float): The current outstanding loan amount.
-        tenure_months (int): Remaining tenure of the loan in months.
-        roi (float): Rate of interest for the loan.
-        part_payment_amount (float): The amount of part payment being made.
-        current_emi (float): The current EMI amount.
+        loan_outstanding (float,required): The current outstanding loan amount.
+        tenure_months (int,required): Remaining tenure of the loan in months.
+        roi (float,required): Rate of interest for the loan.
+        part_payment_amount (float,required): The amount of part payment being made.
+        current_emi (float,required): The current EMI amount.
 ."""
             ),
             StructuredTool.from_function(
@@ -504,11 +504,11 @@ Must Provide Concice Answer: """)
                 description="""Calculate the EMI, interest,principal, or tenure of a loan based on the provided inputs.
 
         Parameters:
-        principal (float, optional): The principal loan amount.
-        tenure_months (int, optional): The loan tenure in months.
-        roi (float, optional): Rate of interest for the loan.
-        emi (float, optional): The equated monthly installment amount.
-        percentage (float, optional): Percentage adjustment for calculating EMI.
+        principal (float,required): The principal loan amount.
+        tenure_months (int,required): The loan tenure in months.
+        roi (float,required): Rate of interest for the loan.
+        emi (float,required): The equated monthly installment amount.
+        percentage (float,required): Percentage adjustment for calculating EMI.
 """
             ),
 #             StructuredTool.from_function(
@@ -529,11 +529,11 @@ Must Provide Concice Answer: """)
                 description="""Calculate the benefit of transfer of sanction (BTS) value based on the loan parameters.(switching the loan)
 
         Parameters:
-        sanction_amount (float, optional): The sanctioned loan amount in integer.
-        tenure_remaining (int, optional): Remaining loan tenure in months (e.g., if the original tenure was 25 years, enter 300 months directly, not as 25 * 12).
-        existing_roi (float, optional): The current rate of interest on the loan.
-        abhfl_roi (float, optional): The proposed rate of interest after transfer.
-        month_of_disbursement (str, optional): The month of loan disbursement in %b-%y format (e.g., 'Aug-23').
+        sanction_amount (float,required): The sanctioned loan amount in integer.
+         tenure_remaining_months (int,required): Remaining loan tenure in months (e.g., if the original tenure was 25 years, enter 300 months directly, not as 25 * 12).
+        existing_roi (float,required): The current rate of interest on the loan.
+        abhfl_roi (float,required): The proposed rate of interest after transfer.
+        month_of_disbursement (str , required): The month of loan disbursement in %b-%y format (e.g., 'Aug-23').
         """
             ),
             StructuredTool.from_function(
@@ -707,7 +707,7 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.collateral_type,
-                description="Detailed Properties and it's all Collateral type for PAN india in ABHFL"
+                description="Detailed all Properties and it's all Collateral type for PAN india in ABHFL"
             ),
         ]
 
@@ -732,16 +732,17 @@ Parameters:
             ]
         )
 
-        agent = (
-                {
-                    "input": lambda x: x["input"],
-                    "agent_scratchpad": lambda x: format_to_openai_tool_messages(x["intermediate_steps"]),
-                    "chat_history": lambda x: x["chat_history"],
-                }
-                | prompt
-                | llm_with_tools
-                | OpenAIToolsAgentOutputParser()
-        )
+        # agent = (
+        #         {
+        #             "input": lambda x: x["input"],
+        #             "agent_scratchpad": lambda x: format_to_openai_tool_messages(x["intermediate_steps"]),
+        #             "chat_history": lambda x: x["chat_history"],
+        #         }
+        #         | prompt
+        #         | llm_with_tools
+        #         | OpenAIToolsAgentOutputParser()
+        # )
+        agent = create_tool_calling_agent(self.client, tools, prompt)
         agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
         max_response_tokens = 250
         token_limit = 50000
@@ -753,7 +754,7 @@ Parameters:
             # encoding = tiktoken.get_encoding(self.ENCODING)
             encoding = tiktoken.encoding_for_model("gpt-4-0613")
             num_tokens = 0
-            print(len(messages))
+            # print(len(messages))
             for message in messages:
                 # print(message.content)
                 num_tokens += tokens_per_message
@@ -763,7 +764,7 @@ Parameters:
                 # if key == "name":
                 #     num_tokens += tokens_per_name
             num_tokens += 3
-            print(num_tokens)  # every reply is primed with <|start|>assistant<|message|>
+            # print(num_tokens)  # every reply is primed with <|start|>assistant<|message|>
             return num_tokens
 
         # Helper function to ensure message length is within limits
