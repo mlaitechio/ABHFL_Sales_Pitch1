@@ -77,7 +77,7 @@ class ABHFL:
                                    roi=None):
 
         max_loan_amount = home_loan_eligibility(customer_type, dob, net_monthly_income, current_monthly_emi, roi)
-    
+        print(max_loan_amount)
         return max_loan_amount
 
     @staticmethod
@@ -480,7 +480,7 @@ Must Provide Concice Answer: """)
 
         Parameters:
         customer_type (str, required): Type of the customer (e.g., salaried, self-employed).
-        dob (str, required): Date of birth of the customer in %d %B %Y format.
+        dob (str, required): Date of birth of the customer in dd Month yyyy format.
         net_monthly_income (float, required): The customer's net monthly income.
         current_monthly_emi (float, required): The customer's current monthly financial obligations.
         roi (float, required): Rate of interest for the loan."""
@@ -530,7 +530,7 @@ Must Provide Concice Answer: """)
          tenure_remaining_months (int,required): Remaining loan tenure in months (e.g., if the original tenure was 25 years, enter 300 months directly, not as 25 * 12).
         existing_roi (float,required): The current rate of interest on the loan.
         abhfl_roi (float,required): The proposed rate of interest after transfer.
-        month_of_disbursement (str , required): The month of loan disbursement in %b-%y format (e.g., 'Aug-23').
+        month_of_disbursement[month-year] (str , required): The month of loan disbursement in %b-%y format (e.g., 'Aug-23').
         """
             ),
             StructuredTool.from_function(
