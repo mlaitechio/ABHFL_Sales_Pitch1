@@ -74,10 +74,9 @@ class ABHFL:
 
     @staticmethod
     def home_loan_eligibility_tool(customer_type=None, dob=None, net_monthly_income=None, current_monthly_emi=None,
-                                   roi=None, down_payment=None):
+                                   roi=None):
 
-        max_loan_amount = home_loan_eligibility(customer_type, dob, net_monthly_income, current_monthly_emi, roi,
-                                                down_payment)
+        max_loan_amount = home_loan_eligibility(customer_type, dob, net_monthly_income, current_monthly_emi, roi)
 
         return max_loan_amount
 
