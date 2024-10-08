@@ -484,7 +484,6 @@ Must Provide Concice Answer: """)
         dob (str, required): Date of birth of the customer in %d %B %Y format.
         net_monthly_income (float, required): The customer's net monthly income.
         current_monthly_obligation (float, required): The customer's current monthly financial obligations.
-        down_payment (float, required): The down payment amount the customer is willing to make.
         roi (float, required): Rate of interest for the loan."""
             ),
             StructuredTool.from_function(
