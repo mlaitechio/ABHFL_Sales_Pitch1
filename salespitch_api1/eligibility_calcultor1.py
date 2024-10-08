@@ -26,16 +26,16 @@ def max_loan_amount(rate, tenure_months, emi):
     max_loan = npf.pv(rate / 12, tenure_months, -emi)
     return max_loan
 
-def count_property_value(down_payment):
-    if down_payment < 330000:
-        return down_payment / 0.10
-    elif down_payment < 1875000:
-        return down_payment / 0.20
-    else:
-        return down_payment / 0.25
+# def count_property_value(down_payment):
+#     if down_payment < 330000:
+#         return down_payment / 0.10
+#     elif down_payment < 1875000:
+#         return down_payment / 0.20
+#     else:
+#         return down_payment / 0.25
 
 
-def home_loan_eligibility(customer_type=None, dob=None, net_monthly_income=None, current_monthly_emi=None, roi=None, down_payment=None):
+def home_loan_eligibility(customer_type=None, dob=None, net_monthly_income=None, current_monthly_emi=None, roi=None):
     output = {}
 
     if dob:
@@ -63,9 +63,9 @@ def home_loan_eligibility(customer_type=None, dob=None, net_monthly_income=None,
             max_loan = max_loan_amount(roi / 100, max_tenure_months, amount_available_for_emi)
             output["Max Loan Amount"] = f"₹ {max_loan:,.2f}"
 
-    if down_payment is not None:
-        property_value = count_property_value(down_payment)
-        output["Property Value"] = f"₹ {property_value:,.2f}"
+    # if down_payment is not None:
+    #     property_value = count_property_value(down_payment)
+    #     output["Property Value"] = f"₹ {property_value:,.2f}"
 
     output["Customer Type"] = customer_type
     output["Date of Birth"] = dob
