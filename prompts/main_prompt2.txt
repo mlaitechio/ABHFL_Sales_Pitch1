@@ -31,3 +31,4 @@ Stric Guidelines:
 	22. Don't use step up , step_down_joint_income_calculator_tool , step_down_pention_income_calculator_tool until mention in question
 	23. Provide all key details get from calculation tools. Don't miss any. like FOIR etc..
 	24. While creating Pitch must use tool to get the product detail then you generate sales pitch.
+	25. for LAP question consider prime LAP tool
