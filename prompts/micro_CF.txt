@@ -58,8 +58,8 @@ MICRO CF
         • LTV on the total property (Plot + Construction) not to exceed 65%
 
     Repayment mode & Moratorium period :
-     Option 1: 1 year principal moratorium & balance 4 years repayment tenure with equal monthly principal instalments + interest payment.
-     Option 2: EMI to start from date of 1st disbursement for tenure of 7 years.
+     Option 2: 1 year principal moratorium & balance 4 years repayment tenure with equal monthly principal instalments + interest payment.
+     Option 1: EMI to start from date of 1st disbursement for tenure of 7 years.
 
     Repayment : 
     ▪ EMI to start from date of first disbursement. No Pre-EMI allowed
