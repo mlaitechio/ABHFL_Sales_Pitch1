@@ -90,9 +90,9 @@ class ABHFL:
         return part_payment_cal
 
     @staticmethod
-    def emi_calc_tool(principal=None, tenure_total_years=None, roi=None, emi=None, percentage=None):
+    def emi_calc_tool(principal=None, tenure_total_months=None, roi=None, emi=None, percentage=None):
 
-        emi = emi_calc(principal, tenure_total_years * 12, roi, emi, percentage)
+        emi = emi_calc(principal, tenure_total_months, roi, emi, percentage)
 
         return emi
 
@@ -579,10 +579,10 @@ Parameters:
     - age_of_person (int, required): Age of the person.
     """
 ),
-            StructuredTool.from_function(
-                func=self.generate_salespitch,
-                description="Function provide a personalized recommendation and solution for an ABHFL home loan based on the customer information"
-            ),
+            # StructuredTool.from_function(
+            #     func=self.generate_salespitch,
+            #     description="Function provide a personalized recommendation and solution for an ABHFL home loan based on the customer information"
+            # ),
             StructuredTool.from_function(
                 func=self.all_other_information,
                 description="Function provides all details for products such as 'Express Balance Transfer Program,' 'BT+Top Up – Illustration,' 'Priority Balance Transfer,' 'Extended Tenure,' 'Step-Down,' 'Step-Up,' 'Lease Rental Discounting,' 'Micro CF,' 'Micro LAP,' 'General Purpose Loan,' 'Pragati Aashiyana (Segment 2),' 'Pragati Aashiyana (Segment 1),' 'Pragati Aashiyana,' 'Pragati Plus,' 'Pragati Home Loan,' 'ABHFL Branch Categorization,' 'Credit Manager Assessed Income Program,' 'GST Program,' 'Pure Rental Program,' 'Low LTV Method,' 'Average Banking Program (ABP),' 'Gross Profit Method,' 'Gross Receipt Method,' 'Gross Turnover Method,' 'Cash Profit Method (CPM),' 'Salary Income Method,' 'Key Product Solutions,' and 'Mortgage Product.'"
@@ -654,7 +654,7 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.micro_LAP,
-                description="Delivers information about the Micro Loan Against Property (Micro LAP) program."
+                description="Information about the Micro Loan Against Property (Micro LAP) program."
             ),
             StructuredTool.from_function(
                 func = self.micro_CF,
@@ -722,7 +722,7 @@ Parameters:
             [
                 # ("system", """You are a key figure at Aditya Birla Housing Finance Limited (ABHFL), but you have only limited information about the company. """),
                 ("system",
-                 """You have access to multiple tools to answer user queries. Select the best tool for a precise, concise response without adding extra details."""),
+                 """You have access to multiple tools to answer user queries. Select the best tool for a precise, concise response without adding extra details. For generalize question must use tools."""),
                 MessagesPlaceholder(variable_name=MEMORY_KEY),
                 ("user", "{input}"),
                 MessagesPlaceholder(variable_name="agent_scratchpad"),
