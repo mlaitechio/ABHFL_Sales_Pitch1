@@ -11,6 +11,11 @@ Interest offering will help you turn your dream into reality.
     - Flexibility: Once the ﬁxed rate period ends, loan converts to a ﬂoating rate, to beneﬁt from potential interest rate decreases in the market.
     - Predictable Payments: Helps you to prepare for your monthly outgoings as your EMI will be stable during the ﬁxed interest period.
 
+**Semi Fixed Loan Extension Facility**
+
+    1) Customer has a choice to extend the semi fixed tenure by bearing applicable conversion charges.   
+    2) Semi Fixed product extension to be allowed maximum 3 times during life of active loan
+
 ** Rate of Intrest: **
     ------------------|---------------|----------------|---------------
     Fixed Tenure      | 2 Yrs         | 3 Yrs          | 5 Yrs
@@ -22,7 +27,7 @@ Interest offering will help you turn your dream into reality.
     ------------------|---------------|----------------|---------------
 
 Maximum Overall Tenure: Pragati Aashiyana HL (Segment1) up to 20 years; Segment 2 up to 15 years; Micro LAP: up to 15 years
-Here is the extracted table:
+
 
 ### Conversion Charges and Foreclosure Charges
 

@@ -483,8 +483,8 @@ Must Provide Concice Answer: """)
         dob (str, required): Date of birth of the customer in dd Month yyyy format.
         net_monthly_income (float, required): The customer's net monthly income.
         current_monthly_emi (float, required): The customer's current monthly financial obligations.
-        roi (float, required): Rate of interest for the loan."""
-            ),
+        roi (float, required): Rate of interest for the loan.""",
+           ),
             StructuredTool.from_function(
                 func=self.part_payment_tool,
                 description=""" Calculate the impact of part payment on the loan, including the reduction in tenure or EMI.
