@@ -1,115 +1,60 @@
-AVERAGE BANKING BALANCE PROGRAM (ABB):
+Here is the information Average Banking balance Program a structured tabular format:
 
-    **Loan Amount:**
-    
-        • 5CR for HL & LAP
+| **Norms**                           | **Norm Description** |
+|-------------------------------------|----------------------|
+| **Products Applicable**             | HL - Resale, Fresh Purchase, Plot purchase, Plot plus construction <br>LAP - Residential & Commercial (Only fully completed property to be funded) <br>Industrial/Schools/Hotels not funded <br>Residential plot and commercial property purchase (under construction and completed) can be funded. Commercial plot purchase not funded. |
+| **Max Loan Amount**                 | ₹5 Cr for HL & LAP |
+| **Minimum Loan Amount**             | ₹10 Lacs |
+| **Minimum Tenure**                  | 12 months |
+| **Max Tenure**                      | 20 Years for HL <br>15 years for LAP <br>Residential Plot - 10 years <br>Commercial Plot - Not funded |
+| **Target Profile**                  | Only SENP/SEP Profile <br>Salaried or other income not considered |
+| **Eligibility Calculation**         | Avg. Bank balance (ABB) for last 12 months less:<br> (A) EMI of loans not reflected in the bank account but present in CIBIL/declaration<br> (B) EMI of cash-out loans availed in the latest 6 months<br> (C) EMI of loans where PEMI is running or EMI not served for 6 months<br> (D) Plus EMI of loans proposed for BT/closure can be added back<br> **Eligibility = 60% * ABB (A - B - C - D + E)** |
 
-    **Eligibility calculation:**
-        Avg. Bank balance for last 12 months based on
-        daily balances as per banking analyzer software
-        analysis. (A)
-        • Less EMI of the loans which are not reﬂected in
-        the Bank Account but are there as per CIBIL
-        Report or declared by the Applicant. (B)
-        • Less EMI of cash-out loans availed in latest
-        6 months (C )
-        • Less EMI of all the loans where PEMI is running
-        or customer has not served full EMI for 6
-        months (D)
-        • Plus EMI of loans proposed for BT and/or
-        proposed closure can be added back in ABB (E)
-        ABB arrived at will be used for loan eligibility ABB.
-        Eligibility = 60% * ABB ( A- B-C-D+E)
+| **Clubbing of Bank Statement & Other Norms** | **Norm Description** |
+|---------------------------------------------|----------------------|
+| **Bank Account Consideration**              | Only Current Account statements considered <br>Max 1 saving account if business transactions are routed through it <br>Max 3 bank accounts can be clubbed, provided they have at least 12 months vintage <br>Avg. monthly credits should be at least 3x of proposed EMI <br>Minimum 36 business credit transactions in the last 12 months |
+| **Exceptional Items Not Included**          | Capital receipts from asset sales, equity sales, judicial awards, prize money, illegal/speculative activities are excluded from banking credits |
 
-    **Documentation:**
-        • Bank statement of latest 12 months of the
-        main account and 3 months statement of
-        other accounts. (as mentioned in the
-        ﬁnancials) in PDF.
-        • ITR/Tax audit (where applicable) report for
-        latest year for validation of
-        • Regulatory compliance of ﬁlling
-        • Nature of business,
-        • any negative Audit remarks
-        • business is not in losses.
-        • Udyam Registration certiﬁcate for LAP loans
-        KYC as per KYC/AML policy of the company.
+| **Documentation**                   | **Norm Description** |
+|-------------------------------------|----------------------|
+| **Required Documentation**          | Latest 12 months bank statement of the main account <br>3 months of other accounts in PDF <br>ITR/Tax audit report for the latest year <br>Udyam Registration certificate for LAP loans <br>KYC as per company policy |
 
-    **Banking Norm:**
-        Operating account norm:
-        • OD /CC/home saver account cannot be
-        considered for ABB calculation.
-        • Only Current Account bank statements are
-        to be considered.
-        • Maximum one saving account can be
-        considered subject to business transaction
-        are routed.
-        • If the customer does not have Current/OD
-        account & uses saving account as main
-        transaction account, same can be
-        considered in ABB computation with
-        deviation.
-        • Max three bank accounts can be clubbed for
-        eligibility.
-        • Bank Accounts with minimum 12 months of
-        vintage and above can be considered.
-        Accounts which are closed in latest 12
-        months than immediately opened account
-        can be considered for eligibility.
-        • Avg. monthly credits (excluding intra-
-        account transfer by customer and cashout
-        loans during the period in the account) to be
-        min. 5 times of proposed EMI.
-        • Min 36 customer initiated business credit
-        transactions in the latest 12 months. Not
-        more than three months where zero credits
-        is there in latest 12 months.
-        • Entity /Individuals whose bank statement
-        are considered should meet the Income
-        Ownership Matrix.
-        Exceptional items not to be included in banking
-        credits are as follows:
-        • Capital receipts on account of sale of asset.
-        • Dilution of the stake in the company
-        by way of sale of equity/preference capital.
-        • Loan credits
-        • Monetary rewards by the judiciary/
-        arbitrators in relation to some litigation.
-        • Awards/prize money in relation to some
-        contests, whether or not related to the
-        normal course of business.
-        • Any income arising out of illegal/
-        speculative activities.
-    ** LTV:**
-        • Standard LTV for HL
-        • 70% LTV for Occupied residential property
-        • 60% LTV for Occupied commercial Propertyand Commercial property purchase
-        • 50% LTV for residential plot for constructingHouse
-        • 5% lower LTV for vacant collateral
-        • Only Type 1 & 2 property is allowed
-        • Special properties/negative property likeIndustrial/Hotel/School/multi-tenant property are not allowed
+| **Bounce Norms**                    | **Norm Description** |
+|-------------------------------------|----------------------|
+| **Inward Clearing Cheque Returns**  | Max 2% or 10 cheques (whichever is lower) in the last 6 months |
+| **Outward Cheque Returns**          | Max 2% or 10 cheques (whichever is lower) in the last 6 months |
 
-    **CIBIL:**
-        • CIBIL Score of NTC/700 + (730+ for loan above3.50 Cr.)
-        • Commercial CIBIL 8/9/10 not allowed
+| **Age Norms: Financial Applicant**  | **Norm Description** |
+|-------------------------------------|----------------------|
+| **Minimum Age**                     | 21 years at onboarding |
+| **Maximum Age**                     | 70 years at loan maturity |
 
-    **Other Norms:**
-        Entity whose bank statement are considered
-        should meet the Income Ownership Matrix Norms
-        • Age Norms of Applicant are applicable for all,
-        whose Banking is being considered
-        • In case where a/c of a non-individual entity is
-        considered, age norm should be met by the
-        promoter who is the owner of the property
-        • Other Income cannot be clubbed in this
-        program
+| **CIBIL Norms**                     | **Norm Description** |
+|-------------------------------------|----------------------|
+| **CIBIL Score**                     | Min 700 for applicants <br>Commercial CIBIL score 8/9/10 not allowed <br>For loans above ₹350 lacs, CIBIL score of 730 is required |
 
-    Avg. Banking Program Figures
-Avg. Bank balance 1,00,000
-Eligible EMI for considered for Loan 60,000
-ROI (only for illustration purpose) 9.50%
-Tenure in months
-(only for illustration purpose)
-Approx. Eligible Loan
-180
-57,00,000
+| **Vintage**                         | **Norm Description** |
+|-------------------------------------|----------------------|
+| **Minimum Business Vintage**        | 3 years in the same line of business |
+
+| **Loan-to-Value (LTV)**             | **Norm Description** |
+|-------------------------------------|----------------------|
+| **LTV Ratios**                      | 70% for occupied residential property <br>60% for occupied commercial property and commercial property purchase <br>50% for residential plot for house construction <br>5% lower LTV for vacant collateral |
+
+| **Profile**                         | **Norm Description** |
+|-------------------------------------|----------------------|
+| **Negative Profiles**               | Negative/Caution profile as defined by the risk team is not allowed |
+
+| **Note**                            | **Norm Description** |
+|-------------------------------------|----------------------|
+| **Deviation Allowed**               | 5% deviation can be given for retention and insurance purposes |
+
+This table summarizes the norms and eligibility criteria for the loan program based on your input.
+
+| **Avg. Banking Program Figures** | **Value** |
+|----------------------------------|-----------|
+| Avg. Bank Balance                | ₹1,00,000 |
+| Eligible EMI considered for Loan | ₹60,000   |
+| Rate of Interest (ROI)           | 9.50%     |
+| Loan Tenure (Months)             | 180       |
+| Approx. Eligible Loan            | ₹57,00,000|
