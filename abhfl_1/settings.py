@@ -39,7 +39,7 @@ CORS_ALLOWED_ORIGINS = [
 # CORS_ORIGIN_ALLOW_ALL = True
 # Application definition
 # Security Settings
-SECURE_SSL_REDIRECT = True  # Redirect HTTP to HTTPS
+SECURE_SSL_REDIRECT = False  # Redirect HTTP to HTTPS
 SESSION_COOKIE_SECURE = True  # Ensure cookies are sent over HTTPS
 CSRF_COOKIE_SECURE = True  # Ensure CSRF cookies are sent over HTTPS
 SECURE_BROWSER_XSS_FILTER = True  # Enable browser's XSS protection
