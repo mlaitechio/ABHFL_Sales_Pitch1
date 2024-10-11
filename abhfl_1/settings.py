@@ -12,23 +12,44 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 
 from pathlib import Path
 import os
+from dotenv import load_dotenv
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv()
 
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-=(a%s$w(gfio=wh-+3_v&7jmw^hwv(tegma8e#9_lk*qil1!b&"
-
+# SECRET_KEY = "django-insecure-=(a%s$w(gfio=wh-+3_v&7jmw^hwv(tegma8e#9_lk*qil1!b&"
+SECRET_KEY =  os.getenv("SECRET_KEY")
+# SECURITY WARNING: keep the secret key used in production secret!
+# Add old secret keys to fallback list to ensure existing sessions don't break
+SECRET_KEY_FALLBACKS = [
+    os.getenv('OLD_SECRET_KEY'),  # Add the old key here
+]
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
-
-CORS_ORIGIN_ALLOW_ALL = True
+ALLOWED_HOSTS = ["askabhflgen.adityabirlacapital.com"]
+CORS_ALLOWED_ORIGINS = [
+    'https://askabhflgen.adityabirlacapital.com',  # Allow only this domain to make CORS requests
+]
+# CORS_ORIGIN_ALLOW_ALL = True
 # Application definition
+# Security Settings
+SECURE_SSL_REDIRECT = True  # Redirect HTTP to HTTPS
+SESSION_COOKIE_SECURE = True  # Ensure cookies are sent over HTTPS
+CSRF_COOKIE_SECURE = True  # Ensure CSRF cookies are sent over HTTPS
+SECURE_BROWSER_XSS_FILTER = True  # Enable browser's XSS protection
+SECURE_CONTENT_TYPE_NOSNIFF = True  # Prevent MIME-type sniffing
+SECURE_HSTS_PRELOAD = True  # Preload site for HSTS
+
+# Stream-friendly settings
+SECURE_CROSS_ORIGIN_EMBEDDER_POLICY = False  # Disable COEP for streaming endpoints
+SECURE_CROSS_ORIGIN_RESOURCE_POLICY = False  # Disable CORP for streaming endpoints
+X_FRAME_OPTIONS = 'DENY'  # Prevent clickjacking
 
 INSTALLED_APPS = [
     'corsheaders',
