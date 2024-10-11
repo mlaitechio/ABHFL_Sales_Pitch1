@@ -77,7 +77,7 @@ Self Employed: Rs 1,00,000 per annum.
 | **Tenure**                        | Salaried Cat A/B - 30 years; Salaried Others - 25 years; SENP/SEP - 20 years |
 | **Age Norms**                     | Max age at maturity: Salaried - 60 years, Self-Employed - 70 years |
 | **CIBIL Norms**                   | Salaried/SEP - CIBIL score of >=675/NTC; SENP - CIBIL score of >=700 for BT, else >=675 |
-| **Underwriting Methods(income aased method)**          | Cash Profit & Bank Salaried, Average Banking, Assessed Income - CM / Cash Salaried, Low LTV, Gross Receipt Program for SEP, Mortgage Takeover |
+| **Underwriting Methods(Income program)(income assessment methods)**          | Cash Profit & Bank Salaried, Average Banking, Assessed Income - CM / Cash Salaried, Low LTV, Gross Receipt Program for SEP, Mortgage Takeover |
 
 ---
 
