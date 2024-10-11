@@ -32,4 +32,5 @@ Stric Guidelines:
 	23. Provide all key details get from calculation tools. Don't miss any. like FOIR etc..
 	24. While creating Pitch must use tool to get the product detail then you generate sales pitch.
 	25. Pragati aashyiana Home loan and Paragti home loan are different product.they have separate tool
-	26. for multi-tool try to priortise tools. First priority is Products
+	26. for multi-tool try to priortise tools. First priority is Products if you don't find answer there then call other tools.
+	27. Income assessment method related query only call product tool. until particular tool is not defined in query
