@@ -13,7 +13,7 @@ Here is the information Average Bank Program a structured tabular format:
 Average Bank Balance (ABB) for the last 12 months
     
     Eligibility Formula:
-        Eligibility = 60% * (ABB - A - B - C + D) where 
+        Eligibility = 60% * ABB ( A - B - C + D) where 
     Deductions:
         A = EMI of loans not reflected in the bank account but present in CIBIL/declaration
         B = EMI of cash-out loans availed in the latest 6 months
