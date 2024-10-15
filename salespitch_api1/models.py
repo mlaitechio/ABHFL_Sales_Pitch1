@@ -6,7 +6,7 @@ from langchain.schema import SystemMessage, AIMessage, HumanMessage
 class ChatSession(models.Model):
     session_id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     created_on = models.DateTimeField(auto_now_add=True)
-    user_id = models.CharField(max_length=100)
+    user_id = models.CharField(max_length=100, default=" ")
     is_activate = models.BooleanField(default=True)
 
     def __str__(self):
@@ -23,7 +23,7 @@ class ChatMessage2(models.Model):
     session = models.ForeignKey(ChatSession, on_delete=models.CASCADE, related_name='messages')
     message = models.TextField()
     answer = models.TextField(blank=True, null=True)
-    ques_id = models.TextField() # Unique question ID
+    ques_id = models.TextField(blank=True) # Unique question ID
     created_on = models.DateTimeField(auto_now_add=True)
 
 # Create your models here.
