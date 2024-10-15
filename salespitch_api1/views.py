@@ -1,151 +1,238 @@
-from django.shortcuts import render
-
-# Create your views here.
-
-from rest_framework import viewsets, status
+from rest_framework import generics, status
 from rest_framework.response import Response
-# from .models import Chat
-from .models import ChatSession, ChatMessage
-from .serializers import ChatMessageSerializer , ChatSessionSerializer
-from django.http import JsonResponse
-from rest_framework.permissions import IsAuthenticated
 from rest_framework.views import APIView
-from rest_framework import viewsets, status
-from rest_framework.response import Response
-from .stream_structure_agent8 import ABHFL
-from langchain_core.messages import HumanMessage, SystemMessage ,AIMessage
-import os
-from django.http import FileResponse , HttpResponse
-# from .langchain_retrival import answer_question_from_chunk
-
+from rest_framework.generics import get_object_or_404
+from .serializers import ChatSessionSerializer, ChatMessageSerializer
+from .models import ChatSession, ChatMessage
 from django.http import StreamingHttpResponse
-import json
+from django.contrib.auth.models import User
 import uuid
-import datetime
 import asyncio
-from json.decoder import JSONDecodeError
+import re
+from langchain_core.messages import HumanMessage, SystemMessage ,AIMessage
+from .stream_structure_agent8 import ABHFL
+from django.shortcuts import render
 
 def my_view(request):
     return render(request, "index.html")
+# Utility function to replace slashes with spaces
+from rest_framework import generics, status
+from rest_framework.response import Response
+from rest_framework.views import APIView
+from rest_framework.generics import get_object_or_404
+from .serializers import ChatSessionSerializer, ChatMessageSerializer
+from .models import ChatSession, ChatMessage , History
+from django.http import StreamingHttpResponse
+from django.contrib.auth.models import User
+import uuid
+import asyncio
+import re
 
+def my_view(request):
+    return render(request, "index.html")
+# Utility function to replace slashes with spaces
+def replace_slashes(input_string: str) -> str:
+    return re.sub(r'[\\/]', ' ', input_string)
+
+# Utility function to iterate over async generator
 def iter_over_async(ait, loop):
     ait = ait.__aiter__()
     async def get_next():
-        try: obj = await ait.__anext__(); return False, obj
-        except StopAsyncIteration: return True, None
+        try:
+            obj = await ait.__anext__()
+            return False, obj
+        except StopAsyncIteration:
+            return True, None
     while True:
         done, obj = loop.run_until_complete(get_next())
-        if done: break
+        if done:
+            break
         yield obj
 
-
-
-class NewChatAPIView(APIView):
-    # permission_classes = [permissions.IsAuthenticated]
+# New Chat API using CreateAPIView
+class NewChatAPIView(generics.CreateAPIView):
+    queryset = ChatSession.objects.all()
     serializer_class = ChatSessionSerializer
-    def post(self, request, ip=None):
-        serializer = ChatSessionSerializer(data=request.data)
-        if serializer.is_valid():
-            ip = ip or serializer.validated_data['ip']
 
-            if not ip:
-                return Response({"error": "ip is required"}, status=status.HTTP_400_BAD_REQUEST)
+    def post(self, request, *args, **kwargs):
+        HF_email = request.data.get('HF_email')
 
-            chat_session = ChatSession.objects.create(ip=ip)
-            serializer = ChatSessionSerializer(chat_session)
+        if not HF_email:
+            return Response({"error": "HF_email is required"}, status=status.HTTP_400_BAD_REQUEST)
+
+        # user = get_object_or_404(User, email=HF_email)
+        chat_session = ChatSession.objects.create(user_id=HF_email, session_id=str(uuid.uuid4()))
+        serializer = self.get_serializer(chat_session)
 
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
-def generate_user_id():
-        return str(uuid.uuid4())
-    
-# bot_instance = ABHFL()
-import io
-chat_history = {}
+# Main Chat API using APIView
 class ChatAPIView(APIView):
+    serializer_class = ChatMessageSerializer
 
-    def post(self, request, *args, **kwargs):
-        # Use request.data to parse the incoming JSON request automatically
-        data = request.data
+    def post(self, request):
+        serializer = self.serializer_class(data=request.data)
+        
+        if serializer.is_valid():
+            # HF_email = serializer.validated_data.get('HF_email')
+            session_id = serializer.validated_data.get('session').session_id
+            message = serializer.validated_data.get('message')
+            ques_id = serializer.validated_data.get('ques_id')
+            answer = serializer.validated_data.get('answer', None)
 
-        # Check for existing user session, or create a new one
-        session_id = data.get("session_id")
-        if not session_id:
-            return JsonResponse({"error": "Missing session_id in request"}, status=400)
+            # user = get_object_or_404(User, email=HF_email)
+            session = get_object_or_404(ChatSession,session_id=session_id)
 
-        if 'user_id' not in request.session or request.session['user_id'] != session_id:
-            request.session['user_id'] = session_id
-
-            # Create ChatSession if it doesn't exist
-            if not ChatSession.objects.filter(session_id=session_id).exists():
-                ChatSession.objects.create(session_id=session_id)
-
-            # Update session activity
-            request.session['last_activity'] = datetime.datetime.now().isoformat()
-
-        session_id = request.session['user_id']
-        chat_session = ChatSession.objects.get(session_id=session_id)
-
-        # Initialize chat history for the session
-        if session_id not in chat_history:
-            chat_history[session_id] = []
-
-        # Initialize the bot instance
-        bot_instance = ABHFL(chat_history[session_id])
-
-        # Parse the incoming question from the data
-        question = data.get("question")
-        if not question:
-            return JsonResponse({"error": "Missing question in request"}, status=400)
-
-        def generate():
-            chunks = []
-            try:
-                # Load the initial prompt if the bot instance has no message history
-                if not bot_instance.message:
-                    with open(f"prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
-                        text = f.read()
-                    bot_instance.message.append(SystemMessage(content=text))
-
-                # Create event loop and process the conversation
-                loop = asyncio.new_event_loop()
-                asyncio.set_event_loop(loop)
-                openairesponse = iter_over_async(bot_instance.run_conversation(question), loop)
-
-                # Stream the AI's responses chunk by chunk
-                for event in openairesponse:
-                    kind = event["event"]
-                    if kind == "on_chat_model_stream":
-                        content = event["data"]["chunk"].content
-                        if content:
-                            chunks.append(content)
-                            yield content
-
-                # Combine all chunks into the final answer
-                answer = "".join(chunks)
-                bot_instance.message.append(AIMessage(content=answer))
-                chat_history[session_id] = bot_instance.message
-
-                # Store the chat message in the database
-                ChatMessage.objects.create(
-                    session=chat_session,
-                    message=question,
+            if answer:
+                chat_message = ChatMessage.objects.create(
+                    session=session,
+                    message=message,
+                    ques_id=ques_id,
                     answer=answer
                 )
+                message_serializer = ChatMessageSerializer(chat_message)
+                return Response({'status': 'Message saved successfully', 'message_id': message_serializer.data['ques_id']}, status=status.HTTP_201_CREATED)
 
-            except Exception as e:
-                yield JsonResponse({"error": str(e)}, status=500)
+            else:
+                # previous_messages = ChatMessage.objects.filter(session=session).order_by('created_on')
+                # Fetch or create chat history
+                chat_history, created = History.objects.get_or_create(session = session)
+                # Prepare the history in the desired format
+                if created:
+                    chat_history.messages = []
+                # print(history)
+                messages = chat_history.get_messages()
+                bot_instance = ABHFL(messages)  # Placeholder for bot logic
+                response_chunks = []
 
-        # Return a streaming response
-        response = StreamingHttpResponse(generate(), content_type="text/event-stream")
-        response["Cache-Control"] = "no-cache"  # Prevent client caching
-        response["X-Accel-Buffering"] = "no"  # Enable streaming over NGINX
-        try:
-            return response
+                def generate():
+                    try:
+                        if not bot_instance.message:
+                            with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
+                                text = f.read()
+                            bot_instance.message.append(SystemMessage(content=text))
+                        
+                        loop = asyncio.new_event_loop()
+                        asyncio.set_event_loop(loop)
+                        questions = replace_slashes(message)
+                        openai_response = iter_over_async(bot_instance.run_conversation(questions), loop)
 
-        except Exception as e:
-            return JsonResponse({"error": f"Database Error: {str(e)}"}, status=500)
+                        for event in openai_response:
+                            kind = event["event"]
+                            if kind == "on_chat_model_stream":
+                                content = event["data"]["chunk"].content
+                                if content:
+                                    response_chunks.append(content)
+                                    yield content
 
+                        final_answer = "".join(response_chunks)
+                        bot_instance.message.append(AIMessage(content=final_answer))
+                        chat_history.set_messages(bot_instance.message)
+                        chat_history.save()
+                        # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
 
+                    except Exception as e:
+                        yield f"Error: {str(e)}"
 
+                response = StreamingHttpResponse(generate(), content_type="text/event-stream")
+                response["Cache-Control"] = "no-cache"
+                response["X-Accel-Buffering"] = "no"
+                return response
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+class StoreChat(APIView):
+    serializer_class = ChatMessageSerializer
+
+    def post(self, request):
+        serializer = self.serializer_class(data=request.data)
+        print(serializer)
+        if serializer.is_valid():
+            # HF_email = serializer.validated_data.get('HF_email')
+            session_id = serializer.validated_data.get('session').session_id
+            message = serializer.validated_data.get('message')
+            ques_id = serializer.validated_data.get('ques_id')
+            answer = serializer.validated_data.get('answer', None)
+            # print(session_id)
+
+            # Validate the input
+            if not session_id or not message or not ques_id:
+                return Response({'error': 'Invalid payload. session_id, message, and ques_id are required.'}, status=status.HTTP_400_BAD_REQUEST)
+
+            # Ensure the session exists
+            # try:
+            #     session = ChatSession.objects.get(session_id=session_id)
+            # except ChatSession.DoesNotExist:
+            #     return Response({'error': 'Session not found.'}, status=status.HTTP_404_NOT_FOUND)
+
+            # Create or update the ChatMessage record
+            chat_message, created = ChatMessage.objects.update_or_create(
+                session_id=session_id,
+                ques_id=ques_id,
+                defaults={
+                    'message': message,
+                    'answer': answer
+                }
+            )
+
+            if created:
+                status_message = 'Message saved successfully'
+            else:
+                status_message = 'Message updated successfully'
+
+            return Response({'status': status_message, 'message_id': chat_message.ques_id}, status=status.HTTP_201_CREATED)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+# History API
+class HistoryAPIView(APIView):
+    def post(self, request):
+        HF_email = request.data.get('HF_email')
+        session_id = request.data.get('session', None)
+
+        if HF_email and not session_id:
+            sessions = ChatSession.objects.filter(user_id=HF_email,is_activate=True).order_by("-created_on")
+            response_data = []
+            for session in sessions:
+                first_message = ChatMessage.objects.filter(session=session).first()
+                response_data.append({
+                    'sessionid': session.session_id,
+                    'first_message': first_message.message if first_message else '',
+                    'created_on' : first_message.created_on if first_message else ""
+                })
+            return Response(response_data, status=status.HTTP_200_OK)
+
+        elif HF_email and session_id:
+            try:
+                session = ChatSession.objects.get(user_id=HF_email, session_id=session_id)
+            except ChatSession.DoesNotExist:
+                return Response({'error': 'Session not found'}, status=status.HTTP_404_NOT_FOUND)
+
+            messages = ChatMessage.objects.filter(session=session)
+            response_data = []
+            for message in messages:
+                response_data.append({
+                    'ques_id': message.ques_id,
+                    'message': message.message,
+                    'answer': message.answer,
+                    'created_on': message.created_on
+                })
+            return Response(response_data, status=status.HTTP_200_OK)
+
+        return Response({'error': 'Invalid payload'}, status=status.HTTP_400_BAD_REQUEST)
     
+    def delete(self, request):
+        user_id = request.data.get('userid')
+        session_id = request.data.get('sessionid', None)
+
+        if user_id and session_id:
+            try:
+                session = ChatSession.objects.get(user_id=user_id, session_id=session_id)
+                session.is_activate = False
+                session.save()
+                return Response({'status': 'Session Deleted Succefully'}, status=status.HTTP_204_NO_CONTENT)
+
+            except ChatSession.DoesNotExist:
+                return Response({'error': 'Session not found'}, status=status.HTTP_404_NOT_FOUND)
+            
+            
+        return Response({'error': 'Invalid payload'}, status=status.HTTP_400_BAD_REQUEST)
+
