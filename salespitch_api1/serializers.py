@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import  History , ChatSession, ChatMessage
+from .models import  History , ChatSession, ChatMessage2
 
 
 class ChatSessionSerializer(serializers.ModelSerializer):
@@ -10,6 +10,6 @@ class ChatSessionSerializer(serializers.ModelSerializer):
 
 class ChatMessageSerializer(serializers.ModelSerializer):
     class Meta:
-        model = ChatMessage
+        model = ChatMessage2
         fields = '__all__'
         # fields = ['session', 'message', 'answer', 'created_on']

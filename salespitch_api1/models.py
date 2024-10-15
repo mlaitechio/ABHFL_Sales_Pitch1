@@ -11,8 +11,15 @@ class ChatSession(models.Model):
 
     def __str__(self):
         return f"Chat Session {self.session_id} for User {self.user_id}"
-
+    
 class ChatMessage(models.Model):
+    session = models.TextField()
+    message = models.TextField()
+    answer = models.TextField(blank=True, null=True)
+    created_on = models.DateTimeField(auto_now_add=True)
+    feedback = models.BooleanField(default=True)
+
+class ChatMessage2(models.Model):
     session = models.ForeignKey(ChatSession, on_delete=models.CASCADE, related_name='messages')
     message = models.TextField()
     answer = models.TextField(blank=True, null=True)

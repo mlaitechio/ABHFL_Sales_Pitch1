@@ -3,7 +3,7 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.generics import get_object_or_404
 from .serializers import ChatSessionSerializer, ChatMessageSerializer
-from .models import ChatSession, ChatMessage
+from .models import ChatSession, ChatMessage2 , History
 from django.http import StreamingHttpResponse
 from django.contrib.auth.models import User
 import uuid
@@ -13,20 +13,7 @@ from langchain_core.messages import HumanMessage, SystemMessage ,AIMessage
 from .stream_structure_agent8 import ABHFL
 from django.shortcuts import render
 
-def my_view(request):
-    return render(request, "index.html")
-# Utility function to replace slashes with spaces
-from rest_framework import generics, status
-from rest_framework.response import Response
-from rest_framework.views import APIView
-from rest_framework.generics import get_object_or_404
-from .serializers import ChatSessionSerializer, ChatMessageSerializer
-from .models import ChatSession, ChatMessage , History
-from django.http import StreamingHttpResponse
-from django.contrib.auth.models import User
-import uuid
-import asyncio
-import re
+
 
 def my_view(request):
     return render(request, "index.html")
@@ -84,7 +71,7 @@ class ChatAPIView(APIView):
             session = get_object_or_404(ChatSession,session_id=session_id)
 
             if answer:
-                chat_message = ChatMessage.objects.create(
+                chat_message = ChatMessage2.objects.create(
                     session=session,
                     message=message,
                     ques_id=ques_id,
@@ -166,7 +153,7 @@ class StoreChat(APIView):
             #     return Response({'error': 'Session not found.'}, status=status.HTTP_404_NOT_FOUND)
 
             # Create or update the ChatMessage record
-            chat_message, created = ChatMessage.objects.update_or_create(
+            chat_message, created = ChatMessage2.objects.update_or_create(
                 session_id=session_id,
                 ques_id=ques_id,
                 defaults={
@@ -192,7 +179,7 @@ class HistoryAPIView(APIView):
             sessions = ChatSession.objects.filter(user_id=HF_email,is_activate=True).order_by("-created_on")
             response_data = []
             for session in sessions:
-                first_message = ChatMessage.objects.filter(session=session).first()
+                first_message = ChatMessage2.objects.filter(session=session).first()
                 response_data.append({
                     'sessionid': session.session_id,
                     'first_message': first_message.message if first_message else '',
@@ -206,7 +193,7 @@ class HistoryAPIView(APIView):
             except ChatSession.DoesNotExist:
                 return Response({'error': 'Session not found'}, status=status.HTTP_404_NOT_FOUND)
 
-            messages = ChatMessage.objects.filter(session=session)
+            messages = ChatMessage2.objects.filter(session=session)
             response_data = []
             for message in messages:
                 response_data.append({
