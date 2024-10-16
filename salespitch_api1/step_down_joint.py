@@ -1,6 +1,7 @@
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import json
+import numpy_financial as npf
 
 def calculate_age(dob):
     today = datetime.today()
@@ -62,16 +63,22 @@ def calculate_present_value(roi, total_tenure, eligible_emi):
     return present_value
 
 
-print(calculate_present_value(9, 8, 49761.4))
-
-
-
-
 
 def calculate_primary_tenure(age):
     result = (60 - age) * 12
     return min(result, 300)
 
+
+
+def calculate_pmt(annual_rate, tenure_months, loan_amount, other_costs):
+    # Convert annual rate to monthly rate by dividing by 12
+    monthly_rate = annual_rate / 12
+    # Loan amount divided by other costs (assuming other costs affect the principal)
+    adjusted_loan_amount = loan_amount / other_costs
+    # Calculate monthly payment using the PMT formula
+    monthly_payment = npf.pmt(monthly_rate, tenure_months, -adjusted_loan_amount)
+    
+    return round(monthly_payment, 2)
 
 def calculate_secondary_tenure(primary_tenure, age):
     value1 = 300 - primary_tenure
@@ -118,6 +125,7 @@ def step_down(customer_type=None, salaried_son_dob=None, salaried_dad_dob=None, 
         output["Dad"]["secondary_tenure"] = 0
 
     if salaried_son_current_net_monthly_income and customer_type:
+        print(salaried_son_current_net_monthly_income)
         foir = get_foir(customer_type.lower(), salaried_son_current_net_monthly_income)
         output["Son"]["foir"] = foir
 
@@ -157,7 +165,10 @@ def step_down(customer_type=None, salaried_son_dob=None, salaried_dad_dob=None, 
 
     output['Son']["loan_amount"] = son_loan_amount
     output["Dad"]["loan_amount"] = dad_loan_amount
-
+    
+    output["EMI for Primary Tenure"] = son_eligible_emi + dad_eligible_emi
+    output["EMI for Secondary Tenure"] = son_eligible_emi
+    output["Total Laon Amount"] = dad_loan_amount + son_loan_amount
     print(json.dumps(output, indent=4))
     return output
 
