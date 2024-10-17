@@ -80,4 +80,10 @@ Other Important Norms –
  • DSRA of three months (not to be  funded by ABHFL)
  • Minimum 12 months vintage is required with rental credit in bank statement & TDS in 26 AS Form
 
+Pricing Grid
 
+Category Commercial Industrial Warehouse
+ CAT-A 9.50% 9.75% 10.00%
+ CAT-B 9.75% 10.00% 10.25%
+ CAT-C 10.65% NA NA
+ CAT-D 10.85% NA NA

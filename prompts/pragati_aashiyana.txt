@@ -143,6 +143,66 @@ PRAGATI AASHIYANA (SEGMENT 1)
         - Bank statement of latest 6 months (only Bank Salaried)
         - Latest Salary Certiﬁcate (Applicable for Cash Salaried)
 
+
+| **Parameters**                      | **Norms**                                                                                                                                                                                                                              |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Income Assessment Norms**         | Salary Income, Cash Profit Program, Credit Manager Assessed Income Program, Cash Salary Based, Average Banking Program                                                                                                                  |
+| **CIBIL Norms where Income is Considered** | 650 & above, NTC                                                                                                                                                                                                                      |
+
+| **Customer Profile**                | **FOIR**                                                                                                                                                                                                                              |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Salaried Bank**                   | 70%                                                                                                                                                                                                                                   |
+| **Salaried Cash**                   | 50%                                                                                                                                                                                                                                   |
+| **SENP (Formal)**                   | 70%                                                                                                                                                                                                                                   |
+| **SENP (Assessed)**                 | 60%                                                                                                                                                                                                                                   |
+| **SEP**                             | 70%                                                                                                                                                                                                                                   |
+| **FOIR Deviation**                  | Will be taken only for 3rd party payment – insurance and proc. Fee (upper cap of 5%)                                                                                                                                                   |
+
+| **Home Loan LTV**                   | **Existing**                                          | **Incremental**                                        |
+|-------------------------------------|------------------------------------------------------|--------------------------------------------------------|
+| **Income Type**                     | **Type II & III** | **Type IV & Special** | **Type II & III**  | **Type IV & Special** |
+| **Formal Income**                   |                                                      |                                                        |
+| CIBIL score 730+                    | 70%              | 65%                | 80% (+10%)        | 75% (+10%)        |
+| CIBIL score 650-730 & NTC           | 65%              | 60%                | 80% (+15%)        | 75% (+15%)        |
+| **Assessed / Cash Income**          |                                                      |                                                        |
+| CIBIL score 730+                    | 70%              | 60%                | 80% (+10%)        | 75% (+15%)        |
+| CIBIL score 650-730 & NTC           | 60%              | 55%                | 80% (+20%)        | 75% (+20%)        |
+
+| **Type**                            | **II**               | **III**               | **IV**               | **Special**           |
+|-------------------------------------|----------------------|-----------------------|----------------------|-----------------------|
+| **Pricing**                         | **Salaried/SEP**      | **SENP**              | **Salaried/SEP**      | **SENP**              |
+| **CPM/Salary Income**               |                      |                       |                      |                       |
+| CIBIL score >730                    | 10.25%               | 10.50%                | 11.75%               | 12.00%                |
+| CIBIL score 700-730 & NTC           | 10.50%               | 10.75%                | 12.00%               | 12.25%                |
+| CIBIL score 650-699                 | 11.50%               | 11.75%                | 13.00%               | 13.25%                |
+| **Surrogates**                      |                      |                       |                      |                       |
+| CIBIL score >730                    | 10.75%               | 11.00%                | 12.25%               | 12.50%                |
+| CIBIL score 700-730 & NTC           | 11.00%               | 11.25%                | 12.50%               | 12.75%                |
+| CIBIL score 650-699                 | 12.00%               | 12.25%                | 13.50%               | 13.75%                |
+| **Assessed Income (CM / Cash Salary)** |                      |                       |                      |                       |
+| CIBIL score >730                    | 11.75%               | 12.00%                | 13.25%               | 13.50%                |
+| CIBIL score 700-730 & NTC           | 12.00%               | 12.25%                | 13.50%               | 13.75%                |
+| CIBIL score 650-699                 | 13.00%               | 13.25%                | 14.50%               | 14.75%                |
+
+| **Processing Fee (excl. GST) for Type II/III collaterals** | **Direct / RP Sourcing** | **DSA Sourcing** |
+|------------------------------------------------------------|--------------------------|------------------|
+| CPM / Salary Income                                         | 0.25%                    | 0.50%            |
+| Surrogates                                                  | 0.50%                    | 0.75%            |
+| CM Assessed / Cash Salary                                   | 1.00%                    | 1.50%            |
+
+LTV for Type II & III up to 80% is permissible under all Eligibility programssubject to incremental ROI on existing RAAC 
+rates
+ • LTV for Type IV & Special Collaterals up to 75% is permissible under all Eligibility programssubject to incremental ROI 
+on existing RAAC rates
+
+| **NEW Semi Fixed Product**            | **Fixed Tenure**      | **Additional Rate over Existing ROI** |
+|---------------------------------------|-----------------------|---------------------------------------|
+|                                       |       2 Yrs.          | 0.50%                                 |
+| Pragati HL                            |       3 Yrs.          | 0.35%                                 |
+| Aashiyana                             |       5 Yrs.          | 0.25%                                 |
+
+Note: 0.5% additional fees to be collected for Type IV  & Special Collaterals
+
 PRAGATI AASHIYANA (SEGMENT 2)
 
     Introduced to cater to Informal customers working with Small & Temporary Set-up operating from same place looking to avail HL & LAP
@@ -165,7 +225,7 @@ PRAGATI AASHIYANA (SEGMENT 2)
     ** TARGET SEGMENT: **
         - SENP (Small & Micro Business) operating from temporary structure
 
-    ** TICKET SIZE: ** Loan upto 15 lakhs
+    ** TICKET SIZE: ** Ranging from Rs. 5 Lakhs to Rs. 15 Lakhs
 
     ** LOAN TENURE: **
         - Minimum: 12 months
@@ -184,6 +244,7 @@ PRAGATI AASHIYANA (SEGMENT 2)
         - Enquiries: <=7 in 3 months
 
     ** Income Assessment Method: **
+    Surrogate Based Method
         Assessed Income Method
             -Credit Manager Assessed Income Program
 
@@ -200,7 +261,52 @@ PRAGATI AASHIYANA (SEGMENT 2)
     ** Residence Stability: **
         - 3 years in work area/native area. (Note - If Property location is in work area, then the Borrower/Family should be staying and if property location is in native place, then Family should be mandatorily staying)
 
+    Bank Statement 
+    Latest 6 months banking required from the operating account. 
+
+Eligible Collateral Location specific Collateral notes as approved by the NCC. Vetting of external vendor report by Internal Technical mandatory.
+ Documentation Business vintage proof  :  Municipal Corporation License or Any local competent authority.
+ Wallet transaction statement (Paytm, Phonepe etc) mandatory and no deviations allowed
+
     ** Documentation: **
         - Business vintage proof: Municipal Corporation License or Any local competent authority.
         - Latest 6 months banking required from the operating account.
         - Latest 6 Months of Wallet transaction statement (Paytm, Phonepe etc.) mandatory
+    
+         • Business vintage proof: Municipal Corporation License or Any local competent authority
+         • Wallet transaction statement (Paytm, Phonepeetc) mandatory and no deviations allowed
+
+
+| **NEW Semi Fixed Product**   | **Fixed Tenure** | **Additional Rate over Existing ROI** |
+|------------------------------|------------------|---------------------------------------|
+| **Pragati                   | 2 Yrs.           | 0.50%                                 |
+| Aashiyana                   | 3 Yrs.           | 0.35%                                 |
+| HL**                        | 5 Yrs.           | 0.25%                                 |
+|---------------------------- |----------------- | -------------------------------------|
+|                               | 2 Yrs.           | 0.60%                                 |
+| **Micro LAP**                 | 3 Yrs.           | 0.50%                                 |
+|                              | 5 Yrs.           | 0.30%                                 |
+
+| **HL Pricing Grid**           | **Type II** | **Type III** | **Type IV** | **Special** |
+|-------------------------------|-------------|--------------|-------------|-------------|
+| **CIBIL Score 730+**           | 12.25%      | 13.75%       | 15.50%      | 16.50%      |
+| **CIBIL Score 700-730 & NTC**  | 12.50%      | 14.00%       | 15.75%      | 16.75%      |
+
+| **LAP Pricing Grid**           | **Type II** | **Type III** | **Type IV** | **Special** |
+|-------------------------------|-------------|--------------|-------------|-------------|
+| **CIBIL Score 730+**           | 15.00%      | 15.25%       | 15.50%      | 16.50%      |
+| **CIBIL Score 700-730 & NTC**  | 15.25%      | 15.50%       | 15.75%      | 16.75%      |
+
+| **LAP LTV**                    | **Type II/III** | **Type IV** | **Special** |
+|--------------------------------|-----------------|-------------|-------------|
+| **CIBIL Score 730+**           | 55%             | 50%         | 45%         |
+| **CIBIL Score 700-730 & NTC**  | 50%             | 45%         | 40%         |
+
+| **HL LTV**                     | **Type II/III** | **Type IV** | **Special** |
+|--------------------------------|-----------------|-------------|-------------|
+| **CIBIL Score 730+**           | 65%             | 60%         | 50%         |
+| **CIBIL Score 700-730 & NTC**  | 55%             | 50%         | 45%         |
+
+**Additional Notes:**
+- Incremental 10% LTV can be offered based on BH & NCM approval. ROI for such cases will be RACC rate + 1% additional premium.
+- For CIBIL Score < 700, the rate will be 100 bps higher than the above RACC rate.

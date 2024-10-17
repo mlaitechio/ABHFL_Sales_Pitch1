@@ -77,7 +77,7 @@ class ABHFL:
                                    roi=None):
 
         max_loan_amount = home_loan_eligibility(customer_type, dob, net_monthly_income, current_monthly_emi, roi)
-        print(max_loan_amount)
+        # print(max_loan_amount)
         return max_loan_amount
 
     @staticmethod
@@ -214,76 +214,6 @@ Must Provide Concice Answer: """)
 
         # return text
 
-#     def collateral_type(self):
-#         csv_file_path = "Collateral.csv"
-#         df = pd.read_csv(csv_file_path)
-#         question = self.user_input
-#         # Define the prompt prefix
-#         prefix = """
-#            ==> You are a pandas agent. You must work with the DataFrame.
-#             ==> Your answer must only include information retrieved from df, and you must not create mockup or sample data. You will be penalized if you do.
-#             ==> Repeat the question before answering it.
-#             ==> When sorting information like retrieving the highest or lowest values of a column, always check for ties. If there are ties, retrieve the information for all with the tied value, up to 20 rows.
-#             ==> Do not pass any import statements or any other python code except the dataframe.
-#             ==> The function should be invoked like this by passing only query:
-#                     `{'query': "unique_locations = df['Location'].unique().tolist(); unique_locations"}`,
-#                 Strictly Don't pass the code in query like this:
-#                     `{'query': "import pandas as pd from datetime import datetime df['End of life'] = pd.to_datetime(df['End of life'], errors='coerce', dayfirst=True) end_of_life_this_month = df[(df['End of life'].dt.year == datetime.now().year) & (df['End of life'].dt.month == datetime.now().month)] end_of_life_this_month.shape[0]"}`
-            
-#             Error Handling:
-#                 - Double-check queries before execution.
-#                 - If an error occurs, rewrite the query and try again.
-#                 - If you are unsure about the query, ask the user for clarification.
-#                 - try atleast 5 times 
-
-
-#             ==> Below are the columns in my dataframe to use for the query.
-#                 Sr No: This is a serial number assigned to each entry.
-#                 Zone: Represents the geographical zone (e.g., North, South, East, West) within India.
-#                 Region: Specifies the specific region within the zone.
-#                 Branch/Micro Market: Indicates the branch or micro market location related to the collateral.
-#                 Collateral Type: Defines the type of collateral (e.g., land, building, machinery).
-#                 Sub Collateral Type: More specific details on the collateral type (e.g., commercial building, residential property).
-#                 Categorisation (P/A/I): Denotes the category of the collateral, represented by "P," "A," or "I" (meaning of these abbreviations needs to be defined).
-#                 Type 1/2/3/4: Represents the classification or ranking system for collateral (meaning of each type needs to be defined).
-#                 Documentation & Other Approvals: Indicates the status of the required documentation and approvals for the collateral.
-
-#               Here’s the information about collateral types and the indicative list of properties funded, organized in a tabular format:
-#  ==> use this tables to generate the queries    
-#             ### Collateral Types and Indicative Properties
-
-# | **Collateral Type** | **Indicative List of Properties Funded**                                                                                                    |
-# |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-# | Type I               | Authority approved properties with plans                                                                                                   |
-# | Type II              | Gram Panchayat & Zilla Parishad properties, B-Khatta properties, Gunthewari properties up to 2008, Society Patta up to G+3 floors          |
-# | Type III             | Gaothan properties, multi-dwelling units, regularized colonies, Lal Dora, outside MC limits new properties, properties with deviations       |
-# | Type IV              | Khasra properties, notarized ownership properties, single title deed properties, properties with narrow approach roads, GP Patta properties |
-
-# ### Collateral Type Distribution by Region
-
-# | **Collateral Type** | **Central** | **East** | **North** | **South** | **West** | **Total** |
-# |----------------------|-------------|----------|-----------|-----------|----------|-----------|
-# | Type I               | 3           | 6        | 11        | 3         | 5        | 28        |
-# | Type II              | 7           | 6        | 21        | 27        | 15       | 76        |
-# | Type III             | 5           | 9        | 32        | 19        | 13       | 78        |
-# | Type IV              | 6           | 9        | 22        | 11        | 13       | 61        |
-# | **Special Collateral**| 3           | -        | -         | -         | -        | 3        |
-# | **Total**            | 21          | 30       | 86        | 63        | 46       | 246       |
-# """
-
-#         # Initialize the Pandas DataFrame Agent
-#         dataframe_agent = create_pandas_dataframe_agent(
-#             self.client,
-#             df,
-#             verbose=True,
-#             prefix=prefix,
-#             agent_type=AgentType.OPENAI_FUNCTIONS,
-#             allow_dangerous_code=True,
-#             agent_executor_kwargs={"handle_parsing_errors": True}
-#         )
-#         response = dataframe_agent.run(question)
-#         return response
-
     def collateral_type(self):
         return self.generate_method("Collateral")
     
@@ -356,9 +286,6 @@ Must Provide Concice Answer: """)
     def extended_tenure(self):
         return self.generate_method("extended_tenure")
 
-    def priority_balance_transfer(self):
-        return self.generate_method("priority_balance_transfer")
-
     def lease_rental_discounting(self):
         return self.generate_method("lease_rental_discounting")
 
@@ -372,10 +299,16 @@ Must Provide Concice Answer: """)
         return self.generate_method("prime_lap")
     
     def priority_balance_transfer(self):
-        return self.generate_method("priority_bt")
+        return self.generate_method("priority_balance_transfer")
 
     def semi_fixed(self):
         return self.generate_method("semi_fixed")
+    
+    def staff_loan_price(self):
+        return self.generate_method("staff_loan_price")
+    
+    def power_pitch(self):
+        return self.generate_method("power_pitches")
 
 
     def all_other_information(self, *args, **kwargs):
@@ -471,7 +404,6 @@ Must Provide Concice Answer: """)
     async def run_conversation(self, user_input):
         self.user_input = user_input
         self.message.append(HumanMessage(content=user_input))
-        print("Previous conversation: ", self.message)
         # Initialize the tools
         tools = [
             StructuredTool.from_function(
@@ -583,10 +515,10 @@ Parameters:
             #     func=self.generate_salespitch,
             #     description="Function provide a personalized recommendation and solution for an ABHFL home loan based on the customer information"
             # ),
-            StructuredTool.from_function(
-                func=self.all_other_information,
-                description="Function provides all details for products such as 'Express Balance Transfer Program,' 'BT+Top Up – Illustration,' 'Priority Balance Transfer,' 'Extended Tenure,' 'Step-Down,' 'Step-Up,' 'Lease Rental Discounting,' 'Micro CF,' 'Micro LAP,' 'General Purpose Loan,' 'Pragati Aashiyana (Segment 2),' 'Pragati Aashiyana (Segment 1),' 'Pragati Aashiyana,' 'Pragati Plus,' 'Pragati Home Loan,' 'ABHFL Branch Categorization,' 'Credit Manager Assessed Income Program,' 'GST Program,' 'Pure Rental Program,' 'Low LTV Method,' 'Average Banking Program (ABP),' 'Gross Profit Method,' 'Gross Receipt Method,' 'Gross Turnover Method,' 'Cash Profit Method (CPM),' 'Salary Income Method,' 'Key Product Solutions,' and 'Mortgage Product.'"
-            ),
+            # StructuredTool.from_function(
+            #     func=self.all_other_information,
+            #     description="Function provides all details for products such as 'Express Balance Transfer Program,' 'BT+Top Up – Illustration,' 'Priority Balance Transfer,' 'Extended Tenure,' 'Step-Down,' 'Step-Up,' 'Lease Rental Discounting,' 'Micro CF,' 'Micro LAP,' 'General Purpose Loan,' 'Pragati Aashiyana (Segment 2),' 'Pragati Aashiyana (Segment 1),' 'Pragati Aashiyana,' 'Pragati Plus,' 'Pragati Home Loan,' 'ABHFL Branch Categorization,' 'Credit Manager Assessed Income Program,' 'GST Program,' 'Pure Rental Program,' 'Low LTV Method,' 'Average Banking Program (ABP),' 'Gross Profit Method,' 'Gross Receipt Method,' 'Gross Turnover Method,' 'Cash Profit Method (CPM),' 'Salary Income Method,' 'Key Product Solutions,' and 'Mortgage Product.'"
+            # ),
             StructuredTool.from_function(
                 func = self.salary_income_method,
                 description="Function Delivers detailed information about the salary income method for financial evaluation."
@@ -637,7 +569,7 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.pragati_home_loan,
-                description="Function Provides comprehensive details about the Pragati Home Loan product."
+                description="Function Provides comprehensive details about the Pragati Home Loan product.Best Loan for Low Income Group"
             ),
             StructuredTool.from_function(
                 func = self.pragati_plus,
@@ -645,7 +577,7 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.pragati_aashiyana,
-                description="Function Supplies detailed information about the Pragati Aashiyana program."
+                description="Function Supplies detailed information about the Pragati Aashiyana program.Home Loan for Informal Sector Worker"
             ),
            
             StructuredTool.from_function(
@@ -654,7 +586,7 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.micro_LAP,
-                description="Information about the Micro Loan Against Property (Micro LAP) program."
+                description="Information about the Micro Loan Against Property (Micro LAP) program.Ideal loan for Small Business"
             ),
             StructuredTool.from_function(
                 func = self.micro_CF,
@@ -701,6 +633,14 @@ Parameters:
             StructuredTool.from_function(
                 func = self.semi_fixed,
                 description="Provides a detailed Semi fixed rates of all products"
+            ),
+            StructuredTool.from_function(
+                func = self.staff_loan_price,
+                description="Provides a detailed Pricing of staff Loan"
+            ),
+            StructuredTool.from_function(
+                func = self.power_pitch,
+                description="Provides a power pitch for abhfl products"
             ),
             StructuredTool.from_function(
                 func = self.collateral_type,
@@ -771,7 +711,7 @@ Parameters:
             conv_history_tokens = calculate_token_length(self.message)
 
             while conv_history_tokens + max_response_tokens >= token_limit:
-                print("Conv History", conv_history_tokens)
+                # print("Conv History", conv_history_tokens)
                 if len(self.message) > 1:
                     del self.message[1]  # Remove the oldest message
                     conv_history_tokens = calculate_token_length(self.message)
@@ -791,38 +731,10 @@ Parameters:
 
             except Exception as e:
                 error_message = f"An error occurred: {e}"
-                print(error_message)
+                # print(error_message)
                 yield error_message
-            print("Token : ", cb)
-
-# def iter_over_async(ait, loop):
-#     ait = ait.__aiter__()
-#     async def get_next():
-#         try: obj = await ait.__anext__(); return False, obj
-#         except StopAsyncIteration: return True, None
-#     while True:
-#         done, obj = loop.run_until_complete(get_next())
-#         if done: break
-#         yield obj
+            # print("Token : ", cb)
 
 
-# ob1 = ABHFL()
-# while True:
-#     if len(ob1.message) == 0:
-#         with open("prompts\main_prompt2.txt", "r", encoding="utf-8") as f:
-#             text = f.read()
-#         ob1.message.append(SystemMessage(content=f"{text}"))
-
-
-#     question = input("Please Enter a Query: ")
-#     if question == "end":
-#         break
-
-#     openapiresponse = ob1.run_conversation(question)
-#     print(openapiresponse)
-
-
-#     ob1.message.append(AIMessage(content=f"{openapiresponse}"))
-#     # print(ob1.message)
 
 
