@@ -5,6 +5,16 @@ MICRO LAP
     ** ELIGIBLE PRODUCTS: **
         LAP – Self Occupied Residential Property & LAP – Self Occupied Commercial Property
 
+    **  Eligibility Criteria: **
+         Minimum income Salaried - 7000 per/month
+         Self-employed - 1 lakh p.a
+         Loan upto 70%* of property market value
+         Repayment period upto 180 months
+    ** Financing the needs of: **
+
+        Small kirana shop owners,Garage owners , Tea/Food shop owners ,Barbershop/Salon owners,Scrap dealers,Laundry owners Caterers Commission 
+        Tailors Auto/Taxi drivers(Self-owned vehicle)
+        
     ** TARGETED YIELD: ** 12% - 18%
 
     ** TYPE OF LOAN: **
@@ -89,19 +99,20 @@ Table 1: Micro LAP - Detailed Norms
 
 ### Table 3: Micro LAP - Pricing Grid
 
-| Pricing                  | Type II |         |          |        | Type III |         |          |         | Type IV/Special |         |          |         |
+| RAAC Pricing             |                   Type II                  |                Type III                   |                Type IV/Special                 |
 |--------------------------|---------|---------|----------|--------|----------|---------|----------|---------|-----------------|---------|----------|---------|
-|                          | Residential |  | Commercial |  | Residential |  | Commercial |  | Residential |  | Commercial |  |
-|                          | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP |
-| CPM /Salary Income        |         |         |          |        |          |         |          |         |                 |         |          |         |
-| CIBIL score 730+          | 11.50%  | 12.00%  | 12.00%   | 12.50% | 13.50%   | 14.00%  | 14.50%   | 14.75%  | 14.50%          | 15.00%  | 15.50%   | 15.75%  |
-| CIBIL score 700-730 & NTC | 11.75%  | 12.25%  | 12.25%   | 12.75% | 13.75%   | 14.25%  | 15.00%   | 15.25%  | 15.00%          | 15.50%  | 16.00%   | 16.25%  |
-| Surrogate Income Programs |         |         |          |        |          |         |          |         |                 |         |          |         |
-| CIBIL score 730+          | 12.00%  | 12.50%  | 12.50%   | 13.00% | 14.50%   | 14.75%  | 15.50%   | 16.00%  | 15.75%          | 16.00%  | 16.75%   | 17.00%  |
-| CIBIL score 700-730 & NTC | 12.25%  | 12.75%  | 12.75%   | 13.25% | 14.75%   | 15.00%  | 15.75%   | 16.25%  | 16.25%          | 16.50%  | 17.25%   | 17.50%  |
-| Assessed Income (CM / Cash Salary) | |         |          |        |          |         |          |         |                 |         |          |         |
-| CIBIL score 730+          | 12.50%  | 13.00%  | 13.00%   | 13.50% | 14.50%   | 14.75%  | 15.50%   | 16.00%  | 15.75%          | 16.00%  | 16.75%   | 17.00%  |
-| CIBIL score 700-730 & NTC | 12.75%  | 13.25%  | 13.25%   | 13.75% | 14.75%   | 15.00%  | 15.75%   | 16.25%  | 16.25%          | 16.50%  | 17.25%   | 17.50%  |
+|                           |     Residential     |   Commercial        |    Residential      |       Commercial    |   Residential       |      Commercial     |
+|                           | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP |
+| CPM /Salary Income        |              |      |          |          |          |         |          |           |                 |         |          |         |
+| CIBIL score 730+          | 11.50%  | 12.00%    | 12.00%   | 12.50%   | 13.50%   | 14.00%  | 14.50%   | 14.75%    | 14.50%          | 15.00%  | 15.50%   | 15.75%  |
+| CIBIL score 700-730 & NTC | 11.75%  | 12.25%    | 12.25%   | 12.75%   | 13.75%   | 14.25%  | 15.00%   | 15.25%    | 15.00%          | 15.50%  | 16.00%   | 16.25%  |
+| Surrogate Income Programs |         |           |          |          |          |         |          |           |                 |         |          |         |
+| CIBIL score 730+          | 12.00%  | 12.50%  | 12.50%   | 13.00%     | 14.50%   | 14.75%  | 15.50%   | 16.00%    | 15.75%          | 16.00%  | 16.75%   | 17.00%  |
+| CIBIL score 700-730 & NTC | 12.25%  | 12.75%  | 12.75%   | 13.25%     | 14.75%   | 15.00%  | 15.75%   | 16.25%    | 16.25%          | 16.50%  | 17.25%   | 17.50%  |
+| Assessed Income (CM / Cash Salary) | |         |          |           |          |         |          |           |                 |         |          |         |
+| CIBIL score 730+          | 12.50%  | 13.00%  | 13.00%   | 13.50%     | 14.50%   | 14.75%  | 15.50%   | 16.00%    | 15.75%          | 16.00%  | 16.75%   | 17.00%  |
+| CIBIL score 700-730 & NTC | 12.75%  | 13.25%  | 13.25%   | 13.75%     | 14.75%   | 15.00%  | 15.75%   | 16.25%    | 16.25%          | 16.50%  | 17.25%   | 17.50%  |
+
 
 *Note: For CIBIL Score < 700, Rate will be 100 bps higher on the above RAAC rate & also applicable on floor rate*
 
@@ -127,3 +138,15 @@ Table 1: Micro LAP - Detailed Norms
 | Micro LAP | 2 Yrs.       | 0.60%                            |
 |           | 3 Yrs.       | 0.50%                            |
 |           | 5 Yrs.       | 0.30%                            |
+
+Floor rate (segment 1)
+
+| Collateral Type     | Salaried/SEP | SENP   |
+| ------------------- | ------------ | ------ |
+|   Type II           | 11%          | 11.50% |
+|   Type III          | 13%          | 13.50% |
+|   Type IV & Special | 14%          | 14.50% |
+
+Note : 
+- Floor rate to be 100 bps higher for CM Assessed & Cash Salaried Method
+

@@ -50,16 +50,21 @@ Segment 2 (Salaried Customers):
 - LTV: 80% for <75 lakhs, 75% for >75 lakhs
 
 Pricing Matrix:
-- Segment 1 (Assessed Income):
-  CIBIL 730+: 10.75%
-  CIBIL 700-730 & NTC: 11.25%
-- Segment 2 (Bank Salaried):
-  CIBIL 730+: 10.00%
-  CIBIL 700-730 & NTC: 10.50%
-For CIBIL Score  < 700, 50 bps premium to be charged for Salaried & 75 bps for SENP Profile on above RAAC rate
+Segment 1 (Assessed Income):
+  CIBIL above 730: 10.75%
+  CIBIL 700 to 730 (inclusive) & NTC: 11.25%
+Segment 2 (Bank Salaried):
+  CIBIL above 730: 10.00%
+  CIBIL 700 to 730 (inclusive) & NTC: 10.50%
+
+For CIBIL Score  < 700, 50 bps premium to be charged for Salaried & 75 bps for SENP Profile on above RAAC rate and also applicable on floor rate
 Processing Fees:
 - Salary Income: 0.25% (Direct/RP Sourcing), 0.50% (DSA Sourcing)
 - Assessed Income: 1.00% (Direct/RP Sourcing), 1.50% (DSA Sourcing)
+
+Deviation & Floor rates
+  Segment 1 (SENP) : 10%
+  Segment 2 (Bank Salaried) : 9.50% (Govt, Cat A/B) & 9.75% (Other Salaried)
 
 Pragati Plus HL – Product Norms :
 

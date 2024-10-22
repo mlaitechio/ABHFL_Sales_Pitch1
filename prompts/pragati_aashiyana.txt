@@ -201,7 +201,28 @@ on existing RAAC rates
 | Pragati HL                            |       3 Yrs.          | 0.35%                                 |
 | Aashiyana                             |       5 Yrs.          | 0.25%                                 |
 
+### Deviation Grid & Floor rates:
+
+| Collateral | Salaried/SEP |            Additional LTV        |
+| ---------- |  ----------- | -------------- | -------| -------|
+|            |              | 10%            | 15%    | 20%    |
+| ---------- | ------------ | -------------- | -------| -------|
+| Type II    | 10.25%       | 11.25%         | 11.75% | 12.25% |
+| Type III   | 11.25%       | 12.25%         | 12.75% | 13.25% |
+| Type IV    | 12.50%       | 13.50%         | 14.00% | 14.50% |
+| Special    | 13.00%       | 14.00%         | 14.50% | 15.00% |
+
+| Collateral | SENP   |        Additional LTV     |
+|            |        | 10%     | 15%    | 20%    |
+| ---------- | -------| ------- | -------| ------ |
+| Type II    | 10.50% | 11.50%  | 12.00% | 12.50% |
+| Type III   | 11.50% | 12.50%  | 13.00% | 13.50% |
+| Type IV    | 12.75% | 13.75%  | 14.25% | 14.75% |
+| Special    | 14.00% | 15.00%  | 15.50% | 16.00% |
+
+Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method. In case of  CIBIL Score  < 700, Rate will be 100 bps higher.
 Note: 0.5% additional fees to be collected for Type IV  & Special Collaterals
+ROI will propositionally increase basis increase in LTV  . i.e  For 10% LTV increase, ROI applicable is above RAAC rate + 100 bps, 15% LTV increase 150 bps and 20% LTV increase 200 bps. 
 
 PRAGATI AASHIYANA (SEGMENT 2)
 
@@ -283,9 +304,7 @@ Eligible Collateral Location specific Collateral notes as approved by the NCC. V
 | Aashiyana                   | 3 Yrs.           | 0.35%                                 |
 | HL**                        | 5 Yrs.           | 0.25%                                 |
 |---------------------------- |----------------- | -------------------------------------|
-|                               | 2 Yrs.           | 0.60%                                 |
-| **Micro LAP**                 | 3 Yrs.           | 0.50%                                 |
-|                              | 5 Yrs.           | 0.30%                                 |
+
 
 | **HL Pricing Grid**           | **Type II** | **Type III** | **Type IV** | **Special** |
 |-------------------------------|-------------|--------------|-------------|-------------|
@@ -308,5 +327,6 @@ Eligible Collateral Location specific Collateral notes as approved by the NCC. V
 | **CIBIL Score 700-730 & NTC**  | 55%             | 50%         | 45%         |
 
 **Additional Notes:**
+- For no LTV deviation, Floor rate approval with BH to be 1% lower than existing RAAC rate.
 - Incremental 10% LTV can be offered based on BH & NCM approval. ROI for such cases will be RACC rate + 1% additional premium.
 - For CIBIL Score < 700, the rate will be 100 bps higher than the above RACC rate.

@@ -18,6 +18,8 @@ MICRO CF
         ▪ ROI: 14% - 16% (to be decided by CH)
         ▪ PF: Min 1.50%
         ▪ Applicability: Only for Approved locations
+        ▪ Deviation & Floor Rate: 13.00%
+        
     ** TYPE OF LOAN:  **
         Term Loan provided for Construction
 
@@ -69,7 +71,9 @@ MICRO CF
     Retail Conversion:
     ▪ ABHFL to get first right of refusal for retail funding in borrower project. 
     ▪ Builder to take NOC from ABHFL before sale of any unit (To target min 50% retail HL conversion & capped at max 80% of units)
-  
+
+   
+
 
 ### Project Costs and Receivables
 

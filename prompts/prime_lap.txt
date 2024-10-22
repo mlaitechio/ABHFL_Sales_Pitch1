@@ -61,4 +61,34 @@ This table summarizes the applicability criteria and conditions for financing re
 
     To know more please contact our Relationship Manager or 1800-270-7000 toll free.
 
+Pricing                  |Rate of Interest %
+-------------------------|------------------
+                         |Salaried/SEP      |SENP
+CPM /Salary Income       |                  |
+CIBIL score 730+         |10.35%            |10.85%
+CIBIL score 700-730 & NTC|10.60%            |11.10%
+Surrogate Income Method  |                  |
+CIBIL score 730+         |10.85%            |11.35%
+CIBIL score 700-730 & NTC|11.10%            |11.60%
 
+* For CIBIL Score  < 700, 50 bps premium to be charged for Salaried/SEP & 75 bps for SENP  on above RAAC rate and also on  floor rate   
+
+### Premium Applicable
+
+    Particulars                                    |Applicable Premium on ROI|Applicable Premium on PF
+    -----------------------------------------------|-------------------------|------------------------
+    LAP - Commercial / Commercial Property Purchase|+0.50%                   |+0.25%                  
+    Industrial / Warehouse Property                |+1.00%                   |+0.50%                  
+    Vacant Property                                |+0.25%                   |+0.25%                  
+
+### LAP PF Grid
+        Processing Fee (excl. GST)                     |Direct / RP Sourcing|DSA Sourcing
+    -----------------------------------------------|--------------------|------------
+    CPM /Salary Income                             |0.50%               |0.75%       
+    GP / GT / GR / ABB / GST/Priority BT/Express BT|0.75%               |1.00%       
+    Pure Rental Program / Low LTV                  |1.00%               |1.50%       
+
+LAP Deviation Grid & Floor rates:
+    Salaried/SEP: 9.00%
+    SENP – CPM: 9.25%
+    SENP – Surrogate: 9.50%

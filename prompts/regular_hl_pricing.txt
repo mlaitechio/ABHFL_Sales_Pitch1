@@ -1,0 +1,32 @@
+Regular HL - Pricing Grid
+
+| Pricing                            | Type I property |
+| ---------------------------------- | --------------- |
+|                                    | Salaried / SEP  | SENP    |
+| CPM /Salary Income                 |                 |         |
+| CIBIL score 730+                   | 9.35%           | 9.60%   |
+| CIBIL score 700-730 & NTC          | 9.85%           | 10.10%  |
+| Surrogates                         |                 |         |
+| CIBIL score 730+                   | 9.85%           | 10.10%  |
+| CIBIL score 700-730 & NTC          | 10.35%          | 10.60%  |
+| Assessed Income (CM / Cash Salary) |                 |         |
+| CIBIL score 730+                   | 10.85%          | 11.10%  |
+| CIBIL score 700-730 & NTC          | 11.35%          | 11.60%  |
+
+
+| Processing Fee (excl. GST) for Type I collateral                                      | Direct / RP Sourcing | DSA Sourcing |
+| ------------------------------------------------------------------------------------- | -------------------- | ------------ |
+| CPM /Salary Income                                                                    | 0.25%                | 0.50%        |
+| Surrogates (GP / GT / GR / ABB / Pure Rental Program / Low LTV/Priorty BT/Express BT) | 0.50%                | 0.75%        |
+| CM Assessed / Cash Salary                                                             | 1.00%                | 1.50%        |
+| HL Booster (GPL Loan)                                                                 | +1.00%               | +0.25%       |
+
+Note: For CIBIL Score  < 700, 50 bps premium to be charged for Salaried/SEP  & 75 bps for SENP  on above RAAC rate and also applicable on floor rate   
+
+For Type 1 Collateral  : Regular HL Rate to be referred 
+Deviation Grid & Floor rates:
+| Collateral Type | Salaried/SEP | SENP  |
+| --------------- | ------------ | ----- |
+| Type I          | 9.00%        | 9.25% |
+
+Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method

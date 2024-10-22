@@ -160,3 +160,15 @@ Self Employed: Rs 1,00,000 per annum.
 | **P+C Loan / HIL Loan / CRE Loan**         | +0.25%                        | +0.25%                      |
 | **Plot purchase / Land loan**              | +0.50%                        | +0.25%                      |
 | **HL Booster (GPL Loan)**                  | +1.00%                        | +0.25%                      |
+
+Deviation Grid & Floor 
+Rates:
+    | Collateral Type | Salaried / SEP | Self Employed |
+    | --------------- | -------------- | ------------- |
+    | Type II         | 10.00%         | 10.50%        |
+    | Type III        | 11.00%         | 11.50%        |
+    | Type IV         | 12.00%         | 12.50%        |
+
+Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method
+Note: 0.5% additional fees to be collected for Type IV Collaterals
+

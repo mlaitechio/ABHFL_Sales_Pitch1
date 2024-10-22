@@ -87,3 +87,13 @@ Category Commercial Industrial Warehouse
  CAT-B 9.75% 10.00% 10.25%
  CAT-C 10.65% NA NA
  CAT-D 10.85% NA NA
+
+LRD PF Grid 
+Processing Fee (excl. GST)	PF
+Commercial	0.75%
+Industrial /Warehouse	1.25%
+
+LRD - Deviation Grid & Floor rates:
+    CAT A -  8.75%
+    CAT B – 9.00%
+    CAT C & D – 10.00% 
