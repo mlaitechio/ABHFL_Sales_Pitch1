@@ -81,10 +81,10 @@ class ABHFL:
         return max_loan_amount
 
     @staticmethod
-    def part_payment_tool(loan_outstanding=None, tenure_total_years=None, roi=None, part_payment_amount=None,
+    def part_payment_tool(loan_outstanding=None, tenure_total_months=None, roi=None, part_payment_amount=None,
                           current_emi=None):
 
-        part_payment_cal = part_payment(loan_outstanding, tenure_total_years * 12, roi, part_payment_amount,
+        part_payment_cal = part_payment(loan_outstanding, tenure_total_months, roi, part_payment_amount,
                                         current_emi)
 
         return part_payment_cal
@@ -212,7 +212,7 @@ Must Provide Concice Answer: """)
         # Append the question as a HumanMessage
         # self.message.append(HumanMessage(content=question))
 
-        # return text
+        return text
 
     def collateral_type(self):
         return self.generate_method("Collateral")
@@ -456,8 +456,7 @@ Must Provide Concice Answer: """)
             StructuredTool.from_function(
                 func=self.bts_calc_tool,
                 description="""Calculate the benefit of transfer of sanction (BTS) value based on the loan parameters.(switching the loan)
-
-        Parameters:
+    Parameters:
         sanction_amount (float,required): The sanctioned loan amount in integer.
          tenure_remaining_months (int,required): Remaining loan tenure in months (e.g., if the original tenure was 25 years, enter 300 months directly, not as 25 * 12).
         existing_roi (float,required): The current rate of interest on the loan.
@@ -468,7 +467,7 @@ Must Provide Concice Answer: """)
             StructuredTool.from_function(
             func=self.step_up_calculator_tool,
             description="""Calculate the step-up loan amount based on various income and loan parameters.
-
+            Note:  Minimum Net monthly income must be 40k
             Parameters:
             net_monthly_income (float, required): The net monthly income of the applicant.
             obligations (float, required): Monthly financial obligations (e.g., EMI, debts).
@@ -481,7 +480,7 @@ Must Provide Concice Answer: """)
         StructuredTool.from_function(
         func=self.step_down_joint_income_calculator_tool,
         description="""Determine the total loan eligibility for the customer based on the son's and dad's financial profiles. If no input values are provided, return None.
-
+        Note:  Both must be salaried. self-employed not eligible for step-down
 Parameters:
 - customer_type (str, required): Type of customer (e.g., salaried, self-employed).
 - salaried_son_dob (str, required): Son's date of birth (e.g., "15 November 1994").
@@ -640,7 +639,7 @@ Parameters:
             ),
             StructuredTool.from_function(
                 func = self.power_pitch,
-                description="Provides a power pitch for abhfl products"
+                description="Provides a details of power pitch for abhfl products"
             ),
             StructuredTool.from_function(
                 func = self.collateral_type,
@@ -731,7 +730,7 @@ Parameters:
 
             except Exception as e:
                 error_message = f"An error occurred: {e}"
-                # print(error_message)
+                print(error_message)
                 yield error_message
             # print("Token : ", cb)
 

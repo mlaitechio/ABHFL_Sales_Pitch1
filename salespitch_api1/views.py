@@ -102,7 +102,7 @@ class ChatAPIView(APIView):
                         loop = asyncio.new_event_loop()
                         asyncio.set_event_loop(loop)
                         questions = replace_slashes(message)
-                        openai_response = iter_over_async(bot_instance.run_conversation(questions), loop)
+                        openai_response = iter_over_async(bot_instance.run_conversation(questions.lower()), loop)
 
                         for event in openai_response:
                             kind = event["event"]
@@ -133,7 +133,6 @@ class StoreChat(APIView):
 
     def post(self, request):
         serializer = self.serializer_class(data=request.data)
-        print(serializer)
         if serializer.is_valid():
             # HF_email = serializer.validated_data.get('HF_email')
             session_id = serializer.validated_data.get('session').session_id

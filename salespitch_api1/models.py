@@ -25,6 +25,11 @@ class ChatMessage2(models.Model):
     answer = models.TextField(blank=True, null=True)
     ques_id = models.TextField(blank=True) # Unique question ID
     created_on = models.DateTimeField(auto_now_add=True)
+    # UserFeedback = models.CharField(max_length=20,
+    # choices=[ 
+    # ('positive', 'Positive'),
+    # ('negative', 'Negative'),
+    # ('neutral', 'Neutral')], default='neutral')
 
 # Create your models here.
 class History(models.Model):
