@@ -99,20 +99,65 @@ Table 1: Micro LAP - Detailed Norms
 Not : You must clarify collateral type and Income Programs(First Column data) before providing answer related any pricing query
 ### Table 3: Micro LAP - Pricing Grid
 
-|                          |                   Type II                  |                Type III                   |                Type IV/Special                 |
-|--------------------------|---------|---------|----------|--------|----------|---------|----------|---------|-----------------|---------|----------|---------|
-|                           |     Residential     |   Commercial        |    Residential      |       Commercial    |   Residential       |      Commercial     |
-|                           | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP |
-| CPM /Salary Income        |              |      |          |          |          |         |          |           |                 |         |          |         |
-| CIBIL score 730+          | 11.50%  | 12.00%    | 12.00%   | 12.50%   | 13.50%   | 14.00%  | 14.50%   | 14.75%    | 14.50%          | 15.00%  | 15.50%   | 15.75%  |
-| CIBIL score 700-730 & NTC | 11.75%  | 12.25%    | 12.25%   | 12.75%   | 13.75%   | 14.25%  | 15.00%   | 15.25%    | 15.00%          | 15.50%  | 16.00%   | 16.25%  |
-| Surrogate Income Programs |         |           |          |          |          |         |          |           |                 |         |          |         |
-| CIBIL score 730+          | 12.00%  | 12.50%  | 12.50%   | 13.00%     | 14.50%   | 14.75%  | 15.50%   | 16.00%    | 15.75%          | 16.00%  | 16.75%   | 17.00%  |
-| CIBIL score 700-730 & NTC | 12.25%  | 12.75%  | 12.75%   | 13.25%     | 14.75%   | 15.00%  | 15.75%   | 16.25%    | 16.25%          | 16.50%  | 17.25%   | 17.50%  |
-| Assessed Income (CM / Cash Salary) | |         |          |           |          |         |          |           |                 |         |          |         |
-| CIBIL score 730+          | 12.50%  | 13.00%  | 13.00%   | 13.50%     | 14.50%   | 14.75%  | 15.50%   | 16.00%    | 15.75%          | 16.00%  | 16.75%   | 17.00%  |
-| CIBIL score 700-730 & NTC | 12.75%  | 13.25%  | 13.25%   | 13.75%     | 14.75%   | 15.00%  | 15.75%   | 16.25%    | 16.25%          | 16.50%  | 17.25%   | 17.50%  |
+CPM/Salary Income:
 
+CIBIL score 730+:
+Residential:
+- Salaried/SEP: Collateral Type II (11.50%), Type III (13.50%), Type IV/Special (14.50%)
+- SENP:         Collateral Type II (12.00%), Type III (14.00%), Type IV/Special (15.00%)
+
+Commercial:
+- Salaried/SEP: Collateral Type II (12.00%), Type III (14.50%), Type IV/Special (15.50%)
+- SENP:         Collateral Type II (12.50%), Type III (14.75%), Type IV/Special (15.75%)
+
+CIBIL score 700-730 & NTC:
+Residential:
+- Salaried/SEP: Collateral Type II (11.75%), Type III (13.75%), Type IV/Special (15.00%)
+- SENP:         Collateral Type II (12.25%), Type III (14.25%), Type IV/Special (15.50%)
+
+Commercial:
+- Salaried/SEP: Collateral Type II (12.25%), Type III (15.00%), Type IV/Special (16.00%)
+- SENP:         Collateral Type II (12.75%), Type III (15.25%), Type IV/Special (16.25%)
+
+Surrogate Income Programs:
+
+CIBIL score 730+:
+Residential:
+- Salaried/SEP: Collateral Type II (12.00%), Type III (14.50%), Type IV/Special (15.75%)
+- SENP:         Collateral Type II (12.50%), Type III (14.75%), Type IV/Special (16.00%)
+
+Commercial:
+- Salaried/SEP: Collateral Type II (12.50%), Type III (15.50%), Type IV/Special (16.75%)
+- SENP:         Collateral Type II (13.00%), Type III (16.00%), Type IV/Special (17.00%)
+
+CIBIL score 700-730 & NTC:
+Residential:
+- Salaried/SEP: Collateral Type II (12.25%), Type III (14.75%), Type IV/Special (16.25%)
+- SENP:         Collateral Type II (12.75%), Type III (15.00%), Type IV/Special (16.50%)
+
+Commercial:
+- Salaried/SEP: Collateral Type II (12.75%), Type III (15.75%), Type IV/Special (17.25%)
+- SENP:         Collateral Type II (13.25%), Type III (16.25%), Type IV/Special (17.50%)
+
+Assessed Income (CM / Cash Salary):
+
+CIBIL score 730+:
+Residential:
+- Salaried/SEP: Collateral Type II (12.50%), Type III (14.50%), Type IV/Special (15.75%)
+- SENP:         Collateral Type II (13.00%), Type III (14.75%), Type IV/Special (16.00%)
+
+Commercial:
+- Salaried/SEP: Collateral Type II (13.00%), Type III (15.50%), Type IV/Special (16.75%)
+- SENP:         Collateral Type II (13.50%), Type III (16.00%), Type IV/Special (17.00%)
+
+CIBIL score 700-730 & NTC:
+Residential:
+- Salaried/SEP: Collateral Type II (12.75%), Type III (14.75%), Type IV/Special (16.25%)
+- SENP:         Collateral Type II (13.25%), Type III (15.00%), Type IV/Special (16.50%)
+
+Commercial:
+- Salaried/SEP: Collateral Type II (13.25%), Type III (15.75%), Type IV/Special (17.25%)
+- SENP:         Collateral Type II (13.75%), Type III (16.25%), Type IV/Special (17.50%)
 
 *Note: For CIBIL Score < 700, Rate will be 100 bps higher on the above RAAC rate & also applicable on floor rate*
 
