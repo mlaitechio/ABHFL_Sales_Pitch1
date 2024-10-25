@@ -97,9 +97,9 @@ Here’s the information you provided in a tabular format:
 | **Top Up**         | - **Minimum Vintage for Balance Transfer (BT) and Top-up % on Original Sanction Amount**:<br>   - 11 MoB: BT allowed but no top-up allowed<br>   - >11 to 18 MoB: BT allowed, max top-up up to 10%<br>   - >18 to 24 MoB: BT allowed, max top-up up to 15%<br>   - >24 to 36 MoB: BT allowed, max top-up up to 20%<br>   - >36 MoB: BT allowed, max top-up up to 30%<br>**For Developer Under Construction Loan**:<br>   - Only BT allowed post 12 MoB; top-up allowed only after 90% construction completion | 
  
  
-Here is the list of the top 13 Financial Institutions (FI’s) for the Green Channel in a tabular format:
+Here is the list of the top 13 Financial Institutions (FI’s) for the Priority BT in a tabular format:
 
-| **Sr No** | **List of Top 13 FI's for Green Channel**      |
+| **Sr No** | **List of Top 13 FI's for Priority BT**      |
 |-----------|------------------------------------------------|
 | 1         | HDFC Bank                                      |
 | 2         | ICICI Bank                                     |

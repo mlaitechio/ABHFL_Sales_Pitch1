@@ -56,11 +56,11 @@ PRIME HL Pricing Grid:
 | Pricing                      | Rate of Interest % |        |
 |------------------------------|---------------------|--------|
 |                              | Salaried/SEP        | SENP   |
-| **CPM / Salary Income**      |                     |        |
-| CIBIL above 730            | 9.05%               | 9.30%  |
+| **CPM / Salary Income**              |                     |        |
+| CIBIL above 730                      | 9.05%               | 9.30%  |
 | CIBIL 700 to 730 (inclusive) & NTC   | 9.30%               | 9.55%  |
-| **Surrogate Income Method**   |                     |        |
-| CIBIL above 730            | 9.55%               | 9.80%  |
+| **Surrogate Income Method**          |                     |        |
+| CIBIL above 730                      | 9.55%               | 9.80%  |
 | CIBIL 700 to 730 (inclusive) & NTC   | 9.80%               | 10.05% |
 
 ### 2. Processing Fee

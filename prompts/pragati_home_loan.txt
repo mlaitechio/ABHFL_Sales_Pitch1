@@ -8,8 +8,6 @@ PRAGATI HOME LOAN
     ** End Use: ** HL Builder purchase, HL Resale, Plot plus construction, Home construction Loan, Home Extension Loan, Home Improvement Loan
     ** Min Income criteria(Net income): ** Salaried: 7,000 p.m., Self Employed: 1L p.a.
     ** Max Loan Amount: ** Upto 1 Cr basis type of collateral
-    ** Tenure: ** Upto 30 yrs for Salaried & 20 yrs for self employed
-    ** CIBIL Norms: ** 700 & above
     ** FOIR: ** Upto 80% basis the Income underwriting programs
     ** LTV: ** Upto 90% of property value
     ** Business Stability: **
@@ -111,31 +109,40 @@ Self Employed: Rs 1,00,000 per annum.
 
 ---
 
+Must: You must clarify/ask about collateral type and income methods before providing answer related any pricing query
 ### Pricing (Interest Rates based on CIBIL Score)
 
-| **CIBIL Score / Program**      | **Type II (Salaried/SEP)** | **Type II (SENP)** | **Type III (Salaried/SEP)** | **Type III (SENP)** | **Type IV (Salaried/SEP)** | **Type IV (SENP)** |
-|--------------------------------|----------------------------|--------------------|-----------------------------|---------------------|----------------------------|--------------------|
-| **CPM/Salary Income**          |                            |                    |                             |                     |                            |                    |
-| CIBIL score 730+               | 10.25%                     | 10.50%             | 11.75%                      | 12.00%              | 13.25%                     | 13.50%             |
-| CIBIL score 700-730 & NTC      | 10.50%                     | 10.75%             | 12.00%                      | 12.25%              | 13.50%                     | 13.75%             |
-| **Surrogates (GR / ABB / Low LTV)** |                            |                    |                             |                     |                            |                    |
-| CIBIL score 730+               | 10.75%                     | 11.00%             | 12.25%                      | 12.50%              | 13.75%                     | 14.00%             |
-| CIBIL score 700-730 & NTC      | 11.00%                     | 11.25%             | 12.50%                      | 12.75%              | 14.00%                     | 14.25%             |
-| **Assessed Income (CM / Cash Salary)** |                        |                    |                             |                     |                            |                    |
-| CIBIL score 730+               | 11.75%                     | 12.00%             | 13.25%                      | 13.50%              | 14.75%                     | 15.00%             |
-| CIBIL score 700-730 & NTC      | 12.00%                     | 12.25%             | 13.50%                      | 13.75%              | 15.00%                     | 15.25%             |
 
+CPM/Salary Income:
+
+CIBIL score 731+:
+- Salaried/SEP: Collateral Type II (10.25%), Collateral Type III (11.75%), Collateral Type IV (13.25%)
+- SENP:         Collateral Type II (10.50%), Collateral Type III (12.00%), Collateral Type IV (13.50%)
+
+CIBIL score 700-730 & NTC:
+- Salaried/SEP: Collateral Type II (10.50%), Collateral Type III (12.00%), Collateral Type IV (13.50%)
+- SENP:         Collateral Type II (10.75%), Collateral Type III (12.25%), Collateral Type IV (13.75%)
+
+Surrogates (GR / ABB / Low LTV):
+
+CIBIL score 731+:
+- Salaried/SEP: Collateral Type II (10.75%), Collateral Type III (12.25%), Collateral Type IV (13.75%)
+- SENP:         Collateral Type II (11.00%), Collateral Type III (12.50%), Collateral Type IV (14.00%)
+
+CIBIL score 700-730 & NTC:
+- Salaried/SEP: Collateral Type II (11.00%), Collateral Type III (12.50%), Collateral Type IV (14.00%)
+- SENP:         Collateral Type II (11.25%), Collateral Type III (12.75%), Collateral Type IV (14.25%)
+
+Assessed Income (CM / Cash Salary):
+
+CIBIL score 731+:
+- Salaried/SEP: Collateral Type II (11.75%), Collateral Type III (13.25%), Collateral Type IV (14.75%)
+- SENP:         Collateral Type II (12.00%), Collateral Type III (13.50%), Collateral Type IV (15.00%)
+
+CIBIL score 700-730 & NTC:
+- Salaried/SEP: Collateral Type II (12.00%), Collateral Type III (13.50%), Collateral Type IV (15.00%)
+- SENP:         Collateral Type II (12.25%), Collateral Type III (13.75%), Collateral Type IV (15.25%)
 ---
-
-### Processing Fee (Excluding GST)
-
-| **Collateral Type**          | **Direct / RP Sourcing** | **DSA Sourcing** |
-|------------------------------|--------------------------|------------------|
-| **CPM / Salary Income**       | 0.25%                    | 0.50%            |
-| **GP / GT / GR / ABB / Low LTV** | 0.50%                | 0.75%            |
-| **CM Assessed / Cash Salary** | 1.00%                    | 1.50%            |
-| **HL Booster (GPL Loan)**     | +1.00% on ROI            | +0.25% on PF     |
-
 
 
 | **Processing Fee (excl. GST)**              | **Direct / RP Sourcing** | **DSA Sourcing** |
@@ -143,17 +150,10 @@ Self Employed: Rs 1,00,000 per annum.
 | **CPM / Salary Income**                     | 0.25%                    | 0.50%            |
 | **GP / GT / GR / ABB / GST**                | 0.50%                    | 0.75%            |
 | **Pure Rental Program / Low LTV**           | 1.00%                    | 1.50%            |
+| **HL Booster (GPL Loan)**                   | +1.00% on ROI            | +0.25% on PF     |
 
-| **Pricing**                     | **Rate of Interest (%)**    |
-|----------------------------------|-----------------------------|
-| **Salaried/SEP**                 | **SENP**                    |
-| **CPM / Salary Income**          |                             |
-| CIBIL score 730+                 | 9.05%                      | 9.30%  |
-| CIBIL score 700-730 & NTC        | 9.30%                      | 9.55%  |
-| **Surrogate Income Method**      |                             |
-| CIBIL score 730+                 | 9.55%                      | 9.80%  |
-| CIBIL score 700-730 & NTC        | 9.80%                      | 10.05% |
 
+-----
 | **Particulars**                            | **Applicable Premium on ROI** | **Applicable Premium on PF** |
 |--------------------------------------------|-------------------------------|-----------------------------|
 | **Top up loan up to 20% of HL**            | +0.50%                        | +0.25%                      |

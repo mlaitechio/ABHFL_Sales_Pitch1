@@ -96,10 +96,10 @@ Table 1: Micro LAP - Detailed Norms
 *Note: For Type II Collateral, no further deviation allowed in LTV even to accommodate insurance/processing charges etc.*
 
 ---
-
+Not : You must clarify collateral type and Income Programs(First Column data) before providing answer related any pricing query
 ### Table 3: Micro LAP - Pricing Grid
 
-| RAAC Pricing             |                   Type II                  |                Type III                   |                Type IV/Special                 |
+|                          |                   Type II                  |                Type III                   |                Type IV/Special                 |
 |--------------------------|---------|---------|----------|--------|----------|---------|----------|---------|-----------------|---------|----------|---------|
 |                           |     Residential     |   Commercial        |    Residential      |       Commercial    |   Residential       |      Commercial     |
 |                           | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP | Salaried/SEP | SENP |

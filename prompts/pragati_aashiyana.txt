@@ -168,21 +168,49 @@ PRAGATI AASHIYANA (SEGMENT 1)
 | CIBIL score 730+                    | 70%              | 60%                | 80% (+10%)        | 75% (+15%)        |
 | CIBIL score 650-730 & NTC           | 60%              | 55%                | 80% (+20%)        | 75% (+20%)        |
 
-| **Type**                            | **II**               | **III**               | **IV**               | **Special**           |
-|-------------------------------------|----------------------|-----------------------|----------------------|-----------------------|
-| **Pricing**                         | **Salaried/SEP**      | **SENP**              | **Salaried/SEP**      | **SENP**              |
-| **CPM/Salary Income**               |                      |                       |                      |                       |
-| CIBIL score >730                    | 10.25%               | 10.50%                | 11.75%               | 12.00%                |
-| CIBIL score 700-730 & NTC           | 10.50%               | 10.75%                | 12.00%               | 12.25%                |
-| CIBIL score 650-699                 | 11.50%               | 11.75%                | 13.00%               | 13.25%                |
-| **Surrogates**                      |                      |                       |                      |                       |
-| CIBIL score >730                    | 10.75%               | 11.00%                | 12.25%               | 12.50%                |
-| CIBIL score 700-730 & NTC           | 11.00%               | 11.25%                | 12.50%               | 12.75%                |
-| CIBIL score 650-699                 | 12.00%               | 12.25%                | 13.50%               | 13.75%                |
-| **Assessed Income (CM / Cash Salary)** |                      |                       |                      |                       |
-| CIBIL score >730                    | 11.75%               | 12.00%                | 13.25%               | 13.50%                |
-| CIBIL score 700-730 & NTC           | 12.00%               | 12.25%                | 13.50%               | 13.75%                |
-| CIBIL score 650-699                 | 13.00%               | 13.25%                | 14.50%               | 14.75%                |
+
+ PRAGATI AASHIYANA HL – SEGMENT 1 Pricing
+CPM/Salary Income:
+
+CIBIL >730:
+- Salaried/SEP: Type II (10.25%), Type III (11.75%), Type IV (13.25%), Special (14.25%)
+- SENP:         Type II (10.50%), Type III (12.00%), Type IV (13.50%), Special (14.50%)
+
+CIBIL 700-730 & NTC:
+- Salaried/SEP: Type II (10.50%), Type III (12.00%), Type IV (13.50%), Special (14.50%)
+- SENP:         Type II (10.75%), Type III (12.25%), Type IV (13.75%), Special (14.75%)
+
+CIBIL 650-699:
+- Salaried/SEP: Type II (11.50%), Type III (13.00%), Type IV (14.50%), Special (15.50%)
+- SENP:         Type II (11.75%), Type III (13.25%), Type IV (14.75%), Special (15.75%)
+
+Surrogates:
+
+CIBIL >730:
+- Salaried/SEP: Type II (10.75%), Type III (12.25%), Type IV (13.75%), Special (14.75%)
+- SENP:         Type II (11.00%), Type III (12.50%), Type IV (14.00%), Special (15.00%)
+
+CIBIL 700-730 & NTC:
+- Salaried/SEP: Type II (11.00%), Type III (12.50%), Type IV (14.00%), Special (15.00%)
+- SENP:         Type II (11.25%), Type III (12.75%), Type IV (14.25%), Special (15.25%)
+
+CIBIL 650-699:
+- Salaried/SEP: Type II (12.00%), Type III (13.50%), Type IV (15.00%), Special (16.00%)
+- SENP:         Type II (12.25%), Type III (13.75%), Type IV (15.25%), Special (16.25%)
+
+Assessed Income (CM/Cash Salary):
+
+CIBIL >730:
+- Salaried/SEP: Type II (11.75%), Type III (13.25%), Type IV (14.75%), Special (15.75%)
+- SENP:         Type II (12.00%), Type III (13.50%), Type IV (15.00%), Special (16.00%)
+
+CIBIL 700-730 & NTC:
+- Salaried/SEP: Type II (12.00%), Type III (13.50%), Type IV (15.00%), Special (16.00%)
+- SENP:         Type II (12.25%), Type III (13.75%), Type IV (15.25%), Special (16.25%)
+
+CIBIL 650-699:
+- Salaried/SEP: Type II (13.00%), Type III (14.50%), Type IV (16.00%), Special (17.00%)
+- SENP:         Type II (13.25%), Type III (14.75%), Type IV (16.25%), Special (17.25%)
 
 | **Processing Fee (excl. GST) for Type II/III collaterals** | **Direct / RP Sourcing** | **DSA Sourcing** |
 |------------------------------------------------------------|--------------------------|------------------|
@@ -223,6 +251,7 @@ on existing RAAC rates
 Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method. In case of  CIBIL Score  < 700, Rate will be 100 bps higher.
 Note: 0.5% additional fees to be collected for Type IV  & Special Collaterals
 ROI will propositionally increase basis increase in LTV  . i.e  For 10% LTV increase, ROI applicable is above RAAC rate + 100 bps, 15% LTV increase 150 bps and 20% LTV increase 200 bps. 
+------------------------------------------------------------------------------------
 
 PRAGATI AASHIYANA (SEGMENT 2)
 
