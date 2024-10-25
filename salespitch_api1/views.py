@@ -59,14 +59,14 @@ class ChatAPIView(APIView):
 
     def post(self, request):
         serializer = self.serializer_class(data=request.data)
-        
+        # print(serializer)
         if serializer.is_valid():
-            # HF_email = serializer.validated_data.get('HF_email')
+             # HF_email = serializer.validated_data.get('HF_email')
             session_id = serializer.validated_data.get('session').session_id
             message = serializer.validated_data.get('message')
             ques_id = serializer.validated_data.get('ques_id')
             answer = serializer.validated_data.get('answer', None)
-
+            feedback = serializer.validated_data.get('feedback', None)
             # user = get_object_or_404(User, email=HF_email)
             session = get_object_or_404(ChatSession,session_id=session_id)
 
@@ -75,7 +75,8 @@ class ChatAPIView(APIView):
                     session=session,
                     message=message,
                     ques_id=ques_id,
-                    answer=answer
+                    answer=answer,
+                    feedback=feedback
                 )
                 message_serializer = ChatMessageSerializer(chat_message)
                 return Response({'status': 'Message saved successfully', 'message_id': message_serializer.data['ques_id']}, status=status.HTTP_201_CREATED)
@@ -129,16 +130,19 @@ class ChatAPIView(APIView):
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 class StoreChat(APIView):
+    # serializer_class = ChatMessageSerializer
     serializer_class = ChatMessageSerializer
 
     def post(self, request):
         serializer = self.serializer_class(data=request.data)
+        # print(serializer)
         if serializer.is_valid():
             # HF_email = serializer.validated_data.get('HF_email')
             session_id = serializer.validated_data.get('session').session_id
             message = serializer.validated_data.get('message')
             ques_id = serializer.validated_data.get('ques_id')
             answer = serializer.validated_data.get('answer', None)
+            feedback = serializer.validated_data.get('feedback', None)
             # print(session_id)
 
             # Validate the input
@@ -157,7 +161,8 @@ class StoreChat(APIView):
                 ques_id=ques_id,
                 defaults={
                     'message': message,
-                    'answer': answer
+                    'answer': answer,
+                    'feedback': feedback
                 }
             )
 

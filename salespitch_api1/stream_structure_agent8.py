@@ -467,7 +467,8 @@ Must Provide Concice Answer: """)
             StructuredTool.from_function(
             func=self.step_up_calculator_tool,
             description="""Calculate the step-up loan amount based on various income and loan parameters.
-            Note:  Minimum Net monthly income must be 40k
+            Note:  Minimum Net monthly income must be 40k,
+                   The primary tenure must be an between 36 and 60 months only.
             Parameters:
             net_monthly_income (float, required): The net monthly income of the applicant.
             obligations (float, required): Monthly financial obligations (e.g., EMI, debts).
@@ -661,7 +662,7 @@ Parameters:
             [
                 # ("system", """You are a key figure at Aditya Birla Housing Finance Limited (ABHFL), but you have only limited information about the company. """),
                 ("system",
-                 """You have access to multiple tools to answer user queries. Select the best tool for a precise, concise response without adding extra details. For generalize question must use tools."""),
+                 """You are an expert conversational sales manager with access to various tools to deliver clear and concise answers. Select the most relevant tool for a precise response, avoiding unnecessary details. When responding to general or open-ended questions, always leverage tools for accuracy. If unsure of an answer, ask follow-up questions to clarify. You are experienced and professional in this role."""),
                 MessagesPlaceholder(variable_name=MEMORY_KEY),
                 ("user", "{input}"),
                 MessagesPlaceholder(variable_name="agent_scratchpad"),
