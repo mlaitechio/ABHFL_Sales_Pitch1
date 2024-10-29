@@ -47,9 +47,9 @@ SECURE_CONTENT_TYPE_NOSNIFF = True  # Prevent MIME-type sniffing
 SECURE_HSTS_PRELOAD = True  # Preload site for HSTS
 
 # Stream-friendly settings
-SECURE_CROSS_ORIGIN_EMBEDDER_POLICY = False  # Disable COEP for streaming endpoints
-SECURE_CROSS_ORIGIN_RESOURCE_POLICY = False  # Disable CORP for streaming endpoints
-X_FRAME_OPTIONS = 'DENY'  # Prevent clickjacking
+# SECURE_CROSS_ORIGIN_EMBEDDER_POLICY = False  # Disable COEP for streaming endpoints
+# SECURE_CROSS_ORIGIN_RESOURCE_POLICY = False  # Disable CORP for streaming endpoints
+# X_FRAME_OPTIONS = 'DENY'  # Prevent clickjacking
 
 INSTALLED_APPS = [
     'corsheaders',
