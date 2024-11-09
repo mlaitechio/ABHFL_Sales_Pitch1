@@ -43,6 +43,32 @@ Self Employed: Rs 1,00,000 per annum.
 	Loan Amount - Upto 1 Cr linked to Income eligibility methods & collateral type	Max loan amount limits increased linked to Location categorization
 
 
+---
+
+### FOIR (Fixed Obligations to Income Ratio) Grid
+
+#### Salaried (based on Annual Net Income)
+- Less than 5 lakhs: 60%
+- 5 lakhs to 12 lakhs: 65%
+- 12 lakhs to 24 lakhs: 70%
+- Greater than 24 lakhs: 75%
+
+#### SENP (Self-Employed Non-Professionals)
+- CPM: 80%
+- Surrogate: 65%
+- Assessed Income: 60%
+
+---
+
+### LTV (Loan to Value) Grid
+
+| Eligibility Income | Type II           | Type III              | Type IV |
+|--------------------|-------------------|-----------------------|---------|
+| Formal Income      | NHB norm          | NHB norm -5%         | 70%     |
+| Assessed Income    | NHB norm -5%      | 70%                  | 60%     |
+
+---
+
 
 ### Loan Amount (in Crs) - Based on Collateral Type and Location
 
