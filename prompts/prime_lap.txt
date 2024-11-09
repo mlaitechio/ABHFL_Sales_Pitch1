@@ -27,10 +27,10 @@ UNLOCK YOUR PROPERTY'S POTENTIAL
 
 
 
-| **Applicability/Eligibility**              | **Norm Description** |
+| **Applicability**              | **Norm Description** |
 |--------------------------------|----------------------|
 | **Customer Profile**           | Applicable for SENP/SEP customers only <br> Approval by NCC only |
-| **Loan Amount & Tenure**       | Maximum loan amount: ₹5 Cr and Maximum tenure: 10 years |
+| **Loan Amount & Tenure**       | Maximum loan amount: ₹5 Cr <br> Maximum tenure: 10 years |
 | **Eligibility Calculations**   | Cash profit method with deviation allowed on FOIR norms |
 | **Loan-to-Value (LTV)**        | 50% of plot value |
 | **Collateral**                 | Only plots developed for residential purposes <br> Developed by Approved Builders or Statutory Housing Development bodies (like HUDA, BDA, MHADA etc.) <br> Under Approved Projects <br> Govt. approved/govt. layout plots |
