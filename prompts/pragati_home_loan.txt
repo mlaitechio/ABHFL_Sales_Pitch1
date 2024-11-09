@@ -135,11 +135,11 @@ Self Employed: Rs 1,00,000 per annum.
 
 ---
 
-Must: You must clarify/ask about collateral type and income methods before providing answer related any pricing query
+Must: You must clarify/ask about collateral type and income methods/program before providing answer related any pricing query
 ### Pricing (Interest Rates based on CIBIL Score)
 
 
-CPM/Salary Income:
+Income Programs: CPM/Salary Income:
 
 CIBIL score 731+:
 - Salaried/SEP: Collateral Type II (10.25%), Collateral Type III (11.75%), Collateral Type IV (13.25%)
@@ -149,7 +149,7 @@ CIBIL score 700-730 & NTC:
 - Salaried/SEP: Collateral Type II (10.50%), Collateral Type III (12.00%), Collateral Type IV (13.50%)
 - SENP:         Collateral Type II (10.75%), Collateral Type III (12.25%), Collateral Type IV (13.75%)
 
-Surrogates (GR / ABB / Low LTV):
+Income Programs: Surrogates (GR / ABB / Low LTV):
 
 CIBIL score 731+:
 - Salaried/SEP: Collateral Type II (10.75%), Collateral Type III (12.25%), Collateral Type IV (13.75%)
@@ -159,7 +159,7 @@ CIBIL score 700-730 & NTC:
 - Salaried/SEP: Collateral Type II (11.00%), Collateral Type III (12.50%), Collateral Type IV (14.00%)
 - SENP:         Collateral Type II (11.25%), Collateral Type III (12.75%), Collateral Type IV (14.25%)
 
-Assessed Income (CM / Cash Salary):
+Income Programs: Assessed Income (CM / Cash Salary):
 
 CIBIL score 731+:
 - Salaried/SEP: Collateral Type II (11.75%), Collateral Type III (13.25%), Collateral Type IV (14.75%)
@@ -178,6 +178,7 @@ CIBIL score 700-730 & NTC:
 | **Pure Rental Program / Low LTV**           | 1.00%                    | 1.50%            |
 | **HL Booster (GPL Loan)**                   | +1.00% on ROI            | +0.25% on PF     |
 
+ Note: 0.5% additional fees to be collected for Type IV Collaterals
 
 -----
 | **Particulars**                            | **Applicable Premium on ROI** | **Applicable Premium on PF** |
@@ -196,5 +197,4 @@ Rates:
     | Type IV         | 12.00%         | 12.50%        |
 
 Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method
-Note: 0.5% additional fees to be collected for Type IV Collaterals
 

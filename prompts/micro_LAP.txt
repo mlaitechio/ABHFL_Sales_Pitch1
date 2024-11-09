@@ -96,10 +96,10 @@ Table 1: Micro LAP - Detailed Norms
 *Note: For Type II Collateral, no further deviation allowed in LTV even to accommodate insurance/processing charges etc.*
 
 ---
-Not : You must clarify collateral type and Income Programs(First Column data) before providing answer related any pricing query
+Not : You must clarify collateral type and Income Programs before providing answer related any pricing query
 ### Table 3: Micro LAP - Pricing Grid
 
-CPM/Salary Income:
+Income Programs: CPM/Salary Income:
 
 CIBIL score 730+:
 Residential:
@@ -119,7 +119,7 @@ Commercial:
 - Salaried/SEP: Collateral Type II (12.25%), Type III (15.00%), Type IV/Special (16.00%)
 - SENP:         Collateral Type II (12.75%), Type III (15.25%), Type IV/Special (16.25%)
 
-Surrogate Income Programs:
+Income Programs: Surrogate Income Programs:
 
 CIBIL score 730+:
 Residential:
@@ -139,7 +139,7 @@ Commercial:
 - Salaried/SEP: Collateral Type II (12.75%), Type III (15.75%), Type IV/Special (17.25%)
 - SENP:         Collateral Type II (13.25%), Type III (16.25%), Type IV/Special (17.50%)
 
-Assessed Income (CM / Cash Salary):
+Income Programs : Assessed Income (CM / Cash Salary):
 
 CIBIL score 730+:
 Residential:
