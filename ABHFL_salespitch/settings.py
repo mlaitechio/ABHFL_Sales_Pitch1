@@ -31,12 +31,12 @@ SECRET_KEY_FALLBACKS = [
     os.getenv('OLD_SECRET_KEY'),  # Add the old key here
 ]
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-ALLOWED_HOSTS = ["*"]
-# ALLOWED_HOSTS = ["askabhflgen.adityabirlacapital.com"]
-# CORS_ALLOWED_ORIGINS = [
-#     'https://askabhflgen.adityabirlacapital.com',  # Allow only this domain to make CORS requests
-# ]
+DEBUG = False
+# ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["askabhflgen.adityabirlacapital.com"]
+CORS_ALLOWED_ORIGINS = [
+    'https://askabhflgen.adityabirlacapital.com',  # Allow only this domain to make CORS requests
+]
 CORS_ORIGIN_ALLOW_ALL = True
 # Application definition
 # Security Settings
@@ -106,23 +106,23 @@ WSGI_APPLICATION = "ABHFL_salespitch.wsgi.application"
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
-DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
-    }
-}
-
 # DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'salespitch', 
-#         'USER': 'spdbadmin',
-#         'PASSWORD': 'salespitch123',
-#         'HOST': 'abhflazbotpd01.postgres.database.azure.com', 
-#         'PORT': '5432',
+#     "default": {
+#         "ENGINE": "django.db.backends.sqlite3",
+#         "NAME": BASE_DIR / "db.sqlite3",
 #     }
 # }
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'salespitch', 
+        'USER': 'spdbadmin',
+        'PASSWORD': 'salespitch123',
+        'HOST': 'abhflazbotpd01.postgres.database.azure.com', 
+        'PORT': '5432',
+    }
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
