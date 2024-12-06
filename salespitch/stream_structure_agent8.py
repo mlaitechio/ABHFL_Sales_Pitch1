@@ -9,7 +9,9 @@ from langchain.prompts import PromptTemplate
 from langchain_openai import AzureChatOpenAI
 from langchain.agents import AgentExecutor
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from langchain.agents.format_scratchpad.openai_tools import format_to_openai_tool_messages
+from langchain.agents.format_scratchpad.openai_tools import (
+    format_to_openai_tool_messages,
+)
 from langchain.agents.output_parsers.openai_tools import OpenAIToolsAgentOutputParser
 import asyncio
 from langchain.tools import StructuredTool
@@ -29,6 +31,7 @@ from langchain.agents import AgentType
 from langchain_experimental.agents import create_pandas_dataframe_agent
 from langchain.agents import AgentExecutor, create_tool_calling_agent
 import time
+
 load_dotenv()
 
 
@@ -43,17 +46,29 @@ class ABHFL:
         # self.client = AzureOpenAI(api_key=self.API_KEY, api_version="2023-07-01-preview",
         #                           azure_endpoint=self.RESOURCE_ENDPOINT)
         self.Completion_Model = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME")
-        self.client = AzureChatOpenAI(api_key=self.API_KEY, api_version="2023-07-01-preview",
-                                      azure_endpoint=self.RESOURCE_ENDPOINT, azure_deployment=self.Completion_Model)
-        self.folder_path = 'Prompts'
+        self.client = AzureChatOpenAI(
+            api_key=self.API_KEY,
+            api_version="2023-07-01-preview",
+            azure_endpoint=self.RESOURCE_ENDPOINT,
+            azure_deployment=self.Completion_Model,
+        )
+        self.folder_path = "Prompts"
         self.message = message
-        self.AZURE_COGNITIVE_SEARCH_ENDPOINT = os.getenv("AZURE_COGNITIVE_SEARCH_ENDPOINT")
-        self.AZURE_COGNITIVE_SEARCH_API_KEY = os.getenv("AZURE_COGNITIVE_SEARCH_API_KEY")
-        self.AZURE_COGNITIVE_SEARCH_INDEX_NAME = os.getenv("AZURE_COGNITIVE_SEARCH_INDEX_NAME")
+        self.AZURE_COGNITIVE_SEARCH_ENDPOINT = os.getenv(
+            "AZURE_COGNITIVE_SEARCH_ENDPOINT"
+        )
+        self.AZURE_COGNITIVE_SEARCH_API_KEY = os.getenv(
+            "AZURE_COGNITIVE_SEARCH_API_KEY"
+        )
+        self.AZURE_COGNITIVE_SEARCH_INDEX_NAME = os.getenv(
+            "AZURE_COGNITIVE_SEARCH_INDEX_NAME"
+        )
         self.ENCODING = "cl100k_base"
-        self.search_client = SearchClient(endpoint=self.AZURE_COGNITIVE_SEARCH_ENDPOINT,
-                                          index_name=self.AZURE_COGNITIVE_SEARCH_INDEX_NAME,
-                                          credential=AzureKeyCredential(self.AZURE_COGNITIVE_SEARCH_API_KEY))
+        self.search_client = SearchClient(
+            endpoint=self.AZURE_COGNITIVE_SEARCH_ENDPOINT,
+            index_name=self.AZURE_COGNITIVE_SEARCH_INDEX_NAME,
+            credential=AzureKeyCredential(self.AZURE_COGNITIVE_SEARCH_API_KEY),
+        )
 
         self.user_input = ""
         self.store = {}
@@ -73,41 +88,73 @@ class ABHFL:
             self.message = [SystemMessage(content=f"{text}")]
 
     @staticmethod
-    def home_loan_eligibility_tool(customer_type=None, dob=None, net_monthly_income=None, current_monthly_emi=None,
-                                   roi=None):
+    def home_loan_eligibility_tool(
+        customer_type=None,
+        dob=None,
+        net_monthly_income=None,
+        current_monthly_emi=None,
+        roi=None,
+    ):
 
-        max_loan_amount = home_loan_eligibility(customer_type, dob, net_monthly_income, current_monthly_emi, roi)
+        max_loan_amount = home_loan_eligibility(
+            customer_type, dob, net_monthly_income, current_monthly_emi, roi
+        )
         # print(max_loan_amount)
         return max_loan_amount
 
     @staticmethod
-    def part_payment_tool(loan_outstanding=None, tenure_total_months=None, roi=None, part_payment_amount=None,
-                          current_emi=None):
+    def part_payment_tool(
+        loan_outstanding=None,
+        tenure_total_months=None,
+        roi=None,
+        part_payment_amount=None,
+        current_emi=None,
+    ):
 
-        part_payment_cal = part_payment(loan_outstanding, tenure_total_months, roi, part_payment_amount,
-                                        current_emi)
+        part_payment_cal = part_payment(
+            loan_outstanding, tenure_total_months, roi, part_payment_amount, current_emi
+        )
 
         return part_payment_cal
 
     @staticmethod
-    def emi_calc_tool(principal=None, tenure_total_months=None, roi=None, emi=None, percentage=None):
+    def emi_calc_tool(
+        principal=None, tenure_total_months=None, roi=None, emi=None, percentage=None
+    ):
 
         emi = emi_calc(principal, tenure_total_months, roi, emi, percentage)
 
         return emi
 
     @staticmethod
-    def loan_eligibility_tool(total_income=None, total_obligations=None, customer_profile=None, tenure_total_years=None,
-                              roi=None, foir=None):
+    def loan_eligibility_tool(
+        total_income=None,
+        total_obligations=None,
+        customer_profile=None,
+        tenure_total_years=None,
+        roi=None,
+        foir=None,
+    ):
 
-        total_loan = loan_eligibility(total_income, total_obligations,
-                                      customer_profile, tenure_total_years * 12, roi / 100, foir)
+        total_loan = loan_eligibility(
+            total_income,
+            total_obligations,
+            customer_profile,
+            tenure_total_years * 12,
+            roi / 100,
+            foir,
+        )
 
         return total_loan
 
     @staticmethod
-    def bts_calc_tool(sanction_amount=None,  tenure_remaining_months=None, existing_roi=None, abhfl_roi=None,
-                      month_of_disbursement=None):
+    def bts_calc_tool(
+        sanction_amount=None,
+        tenure_remaining_months=None,
+        existing_roi=None,
+        abhfl_roi=None,
+        month_of_disbursement=None,
+    ):
         """Calculate the benefit of transfer of sanction (BTS) value based on the loan parameters.(switching the loan)
 
         Parameters:
@@ -118,16 +165,34 @@ class ABHFL:
         month_of_disbursement (str, required): The month of loan disbursement in %b-%y format (e.g., 'Aug-23').
         """
 
-        BTS_value = bts_calc(sanction_amount,  tenure_remaining_months, existing_roi, abhfl_roi,
-                             month_of_disbursement)
+        BTS_value = bts_calc(
+            sanction_amount,
+            tenure_remaining_months,
+            existing_roi,
+            abhfl_roi,
+            month_of_disbursement,
+        )
 
         return BTS_value
-    @staticmethod
-    def step_up_calculator_tool(net_monthly_income=None, obligations=None, working_sector=None, 
-                       total_tenure_months=None, rate=None, primary_tenure_months=None):
 
-        emi = step_up_calculator(net_monthly_income, obligations, working_sector, 
-                       total_tenure_months, rate, primary_tenure_months)
+    @staticmethod
+    def step_up_calculator_tool(
+        net_monthly_income=None,
+        obligations=None,
+        working_sector=None,
+        total_tenure_months=None,
+        rate=None,
+        primary_tenure_months=None,
+    ):
+
+        emi = step_up_calculator(
+            net_monthly_income,
+            obligations,
+            working_sector,
+            total_tenure_months,
+            rate,
+            primary_tenure_months,
+        )
 
         return emi
 
@@ -143,7 +208,7 @@ class ABHFL:
         salaried_son_ROI=None,
         salaried_dad_ROI=None,
         salaried_dad_age=None,
-        salaried_son_age=None
+        salaried_son_age=None,
     ):
         result = step_down(
             customer_type,
@@ -156,9 +221,10 @@ class ABHFL:
             salaried_son_ROI,
             salaried_dad_ROI,
             salaried_dad_age,
-            salaried_son_age
+            salaried_son_age,
         )
         return result
+
     @staticmethod
     def step_down_pension_income_calculator_tool(
         dob_of_person=None,
@@ -171,7 +237,7 @@ class ABHFL:
         pension_ROI=None,
         salaried_ROI=None,
         age_of_person=None,
-        IMGC=None
+        IMGC=None,
     ):
         result = step_down_pension(
             dob_of_person,
@@ -184,10 +250,9 @@ class ABHFL:
             pension_ROI,
             salaried_ROI,
             age_of_person,
-            IMGC
+            IMGC,
         )
         return result
-
 
     def generate_method(self, prompt_name):
         """Generic method to handle various prompts and update system message."""
@@ -201,8 +266,10 @@ class ABHFL:
         replaced = False
         for i, message in enumerate(self.message):
             if isinstance(message, SystemMessage):
-                self.message[i] = SystemMessage(content=f"""{main  + text}
-Must Provide Concice Answer: """)
+                self.message[i] = SystemMessage(
+                    content=f"""{main  + text}
+Must Provide Concice Answer: """
+                )
                 replaced = True
                 break
 
@@ -216,7 +283,7 @@ Must Provide Concice Answer: """)
 
     def collateral_type(self):
         return self.generate_method("Collateral")
-    
+
     def salary_income_method(self):
         return self.generate_method("salary_income_method")
 
@@ -294,22 +361,24 @@ Must Provide Concice Answer: """)
 
     def prime_home_loan(self):
         return self.generate_method("prime_hl")
-    
+
     def prime_lap(self):
         return self.generate_method("prime_lap")
-    
+
     def priority_balance_transfer(self):
         return self.generate_method("priority_balance_transfer")
 
     def semi_fixed(self):
         return self.generate_method("semi_fixed")
-    
+
     def staff_loan_price(self):
         return self.generate_method("staff_loan_price")
-    
+
     def power_pitch(self):
         return self.generate_method("power_pitches")
-
+    
+    def pmay(self):
+        return self.generate_method("PMAY")
 
     def all_other_information(self, *args, **kwargs):
         """Function provides all details for products such as 'Express Balance Transfer Program,' 'BT+Top Up – Illustration,' 'Priority Balance Transfer,' 'Extended Tenure,' 'Step-Down,' 'Step-Up,' 'Lease Rental Discounting,' 'Micro CF,' 'Micro LAP,' 'General Purpose Loan,' 'Pragati Aashiyana (Segment 2),' 'Pragati Aashiyana (Segment 1),' 'Pragati Aashiyana,' 'Pragati Plus,' 'Pragati Home Loan,' 'ABHFL Branch Categorization,' 'Credit Manager Assessed Income Program,' 'GST Program,' 'Pure Rental Program,' 'Low LTV Method,' 'Average Banking Program (ABP),' 'Gross Profit Method,' 'Gross Receipt Method,' 'Gross Turnover Method,' 'Cash Profit Method (CPM),' 'Salary Income Method,' 'Key Product Solutions,' and 'Mortgage Product."""
@@ -323,13 +392,16 @@ Must Provide Concice Answer: """)
             token_threshold = 0.8 * max_tokens  # 90% of max_tokens as threshold
             # print(token_threshold)
             # query_embedding = self.get_query_embedding(question)
-            results = self.search_client.search(search_text=question, select=["product", "description"],
-                                                # Include 'token' in the select query
-                                                #    query_type=QueryType.SEMANTIC,
-                                                #    semantic_configuration_name='my-semantic-config',
-                                                #    query_caption=QueryCaptionType.EXTRACTIVE,
-                                                #    query_answer=QueryAnswerType.EXTRACTIVE,
-                                                top=3)
+            results = self.search_client.search(
+                search_text=question,
+                select=["product", "description"],
+                # Include 'token' in the select query
+                #    query_type=QueryType.SEMANTIC,
+                #    semantic_configuration_name='my-semantic-config',
+                #    query_caption=QueryCaptionType.EXTRACTIVE,
+                #    query_answer=QueryAnswerType.EXTRACTIVE,
+                top=3,
+            )
 
             context = ""
             total_tokens = 0
@@ -337,15 +409,15 @@ Must Provide Concice Answer: """)
 
             for result in results:
                 # print("Result: " , result)
-                title = result['product']
-                content = result['description']
+                title = result["product"]
+                content = result["description"]
                 result_tokens = self.num_tokens_from_string(context, self.ENCODING)
                 # print(result_tokens)
                 # Check if adding this result exceeds the token limit
                 if total_tokens + result_tokens > token_threshold:
                     excess_tokens = total_tokens + result_tokens - token_threshold
                     # Reduce the length of the context by truncating it
-                    context = context[:-int(excess_tokens)]
+                    context = context[: -int(excess_tokens)]
                     break
 
                 # Add this result to context
@@ -356,13 +428,13 @@ Must Provide Concice Answer: """)
 
             if ABHFL.is_function_calling != 12:
                 # with open("prompts/rag_prompt.txt", 'r') as file:
-                with open("prompts/main_prompt1.txt", 'r') as file:
+                with open("prompts/main_prompt1.txt", "r") as file:
                     header = file.read()
-                header = f'''{header}
+                header = f"""{header}
                     Context : {context}
                     Question : {question}
                     Consice and accurate answer :
-                    '''
+                    """
                 # print(question)
                 # Replace existing SystemMessage if present
                 replaced = False
@@ -416,7 +488,7 @@ Must Provide Concice Answer: """)
         net_monthly_income (float, required): The customer's net monthly income.
         current_monthly_emi (float, required): The customer's current monthly financial obligations.
         roi (float, required): Rate of interest for the loan.""",
-           ),
+            ),
             StructuredTool.from_function(
                 func=self.part_payment_tool,
                 description=""" Calculate the impact of part payment on the loan, including the reduction in tenure or EMI.
@@ -427,7 +499,7 @@ Must Provide Concice Answer: """)
         roi (float,required): Rate of interest for the loan.
         part_payment_amount (float,required): The amount of part payment being made.
         current_emi (float,required): The current EMI amount.
-."""
+.""",
             ),
             StructuredTool.from_function(
                 func=self.emi_calc_tool,
@@ -439,20 +511,19 @@ Must Provide Concice Answer: """)
         roi (float,required): Rate of interest for the loan.
         emi (float,required): The equated monthly installment amount.
         percentage (float,required): Percentage adjustment for calculating EMI.
-"""
+""",
             ),
-#             StructuredTool.from_function(
-#                 func=self.loan_eligibility_tool,
-#                 description="""        Determine the total loan amount a customer is eligible for based on their financial profile.
-
-#         Parameters:
-#         total_income (float): The customer's total monthly income.
-#         total_obligations (float): The customer's total monthly obligations.
-#         customer_profile (str): The customer's profile (e.g., salaried, self-employed).
-#         tenure_months (int): The loan tenure in months.
-#         roi (float): Rate of interest for the loan.
-# """
-#             ),
+            #             StructuredTool.from_function(
+            #                 func=self.loan_eligibility_tool,
+            #                 description="""        Determine the total loan amount a customer is eligible for based on their financial profile.
+            #         Parameters:
+            #         total_income (float): The customer's total monthly income.
+            #         total_obligations (float): The customer's total monthly obligations.
+            #         customer_profile (str): The customer's profile (e.g., salaried, self-employed).
+            #         tenure_months (int): The loan tenure in months.
+            #         roi (float): Rate of interest for the loan.
+            # """
+            #             ),
             StructuredTool.from_function(
                 func=self.bts_calc_tool,
                 description="""Calculate the benefit of transfer of sanction (BTS) value based on the loan parameters.(switching the loan)
@@ -462,11 +533,11 @@ Must Provide Concice Answer: """)
         existing_roi (float,required): The current rate of interest on the loan.
         abhfl_roi (float,required): The proposed rate of interest after transfer.
         month_of_disbursement[month-year] (str , required): The month of loan disbursement in %b-%y format (e.g., 'Aug-23').
-        """
+        """,
             ),
             StructuredTool.from_function(
-            func=self.step_up_calculator_tool,
-            description="""Calculate the step-up loan amount based on various income and loan parameters.
+                func=self.step_up_calculator_tool,
+                description="""Calculate the step-up loan amount based on various income and loan parameters.
             Note:  Minimum Net monthly income must be 40k,
                    The primary tenure must be an between 36 and 60 months only.
             Parameters:
@@ -476,11 +547,11 @@ Must Provide Concice Answer: """)
             total_tenure (int, required): The total loan tenure in months (e.g., 240 months).
             rate (float, required): The applicable rate of interest on the loan.
             primary_tenure (int, required): The tenure for the primary loan phase.
-            """
-        ),
-        StructuredTool.from_function(
-        func=self.step_down_joint_income_calculator_tool,
-        description="""Determine the total loan eligibility for the customer based on the son's and dad's financial profiles. If no input values are provided, return None.
+            """,
+            ),
+            StructuredTool.from_function(
+                func=self.step_down_joint_income_calculator_tool,
+                description="""Determine the total loan eligibility for the customer based on the son's and dad's financial profiles. If no input values are provided, return None.
         Note:  Both must be salaried. self-employed not eligible for step-down
 Parameters:
 - customer_type (str, required): Type of customer (e.g., salaried, self-employed).
@@ -492,12 +563,11 @@ Parameters:
 - salaried_son_obligations (float, required): Son's monthly financial obligations (e.g., EMI, debts).
 - salaried_son_ROI (float, required): Son's applicable loan rate of interest.
 - salaried_dad_ROI (float, required): Dad's applicable loan rate of interest.
-        """
-    ),
-
-    StructuredTool.from_function(
-    func=self.step_down_pension_income_calculator_tool,
-    description="""Calculate the pension income eligibility based on various financial parameters of the individual.
+        """,
+            ),
+            StructuredTool.from_function(
+                func=self.step_down_pension_income_calculator_tool,
+                description="""Calculate the pension income eligibility based on various financial parameters of the individual.
     Parameters:
     - dob_of_person (str, required): Date of birth of the person (e.g., "15 November 1994").
     - monthly_income_from_salary (float, required): Monthly income from salary.
@@ -509,8 +579,8 @@ Parameters:
     - pension_ROI (float, required): Applicable rate of interest for the pension loan.
     - salaried_ROI (float, required): Applicable rate of interest for the salaried loan.
     - age_of_person (int, required): Age of the person.
-    """
-),
+    """,
+            ),
             # StructuredTool.from_function(
             #     func=self.generate_salespitch,
             #     description="Function provide a personalized recommendation and solution for an ABHFL home loan based on the customer information"
@@ -520,138 +590,142 @@ Parameters:
             #     description="Function provides all details for products such as 'Express Balance Transfer Program,' 'BT+Top Up – Illustration,' 'Priority Balance Transfer,' 'Extended Tenure,' 'Step-Down,' 'Step-Up,' 'Lease Rental Discounting,' 'Micro CF,' 'Micro LAP,' 'General Purpose Loan,' 'Pragati Aashiyana (Segment 2),' 'Pragati Aashiyana (Segment 1),' 'Pragati Aashiyana,' 'Pragati Plus,' 'Pragati Home Loan,' 'ABHFL Branch Categorization,' 'Credit Manager Assessed Income Program,' 'GST Program,' 'Pure Rental Program,' 'Low LTV Method,' 'Average Banking Program (ABP),' 'Gross Profit Method,' 'Gross Receipt Method,' 'Gross Turnover Method,' 'Cash Profit Method (CPM),' 'Salary Income Method,' 'Key Product Solutions,' and 'Mortgage Product.'"
             # ),
             StructuredTool.from_function(
-                func = self.salary_income_method,
-                description="Function Delivers detailed information about the salary income method for financial evaluation."
+                func=self.salary_income_method,
+                description="Function Delivers detailed information about the salary income method for financial evaluation.",
             ),
             StructuredTool.from_function(
-                func = self.cash_profit_method,
-                description="Function Provides in-depth information related to the cash profit method used for assessing financials."
+                func=self.cash_profit_method,
+                description="Function Provides in-depth information related to the cash profit method used for assessing financials.",
             ),
             StructuredTool.from_function(
-                func = self.gross_turnover_method,
-                description="Function Retrieves complete information on the gross turnover method for evaluating financial eligibility."
+                func=self.gross_turnover_method,
+                description="Function Retrieves complete information on the gross turnover method for evaluating financial eligibility.",
             ),
             StructuredTool.from_function(
-                func = self.average_banking_program,
-                description="Function Supplies all necessary details about the Average Banking Program (ABB)."
+                func=self.average_banking_program,
+                description="Function Supplies all necessary details about the Average Banking Program (ABB).",
             ),
             StructuredTool.from_function(
-                func = self.gross_profit_method,
-                description="Function Offers information on the gross profit method for financial assessment."
+                func=self.gross_profit_method,
+                description="Function Offers information on the gross profit method for financial assessment.",
             ),
             StructuredTool.from_function(
-                func = self.gross_receipt_method,
-                description="Function Retrieves information regarding the gross receipt method."
+                func=self.gross_receipt_method,
+                description="Function Retrieves information regarding the gross receipt method.",
             ),
             StructuredTool.from_function(
-                func = self.gst_program,
-                description="Function Provides complete details about the GST program for evaluating financials."
+                func=self.gst_program,
+                description="Function Provides complete details about the GST program for evaluating financials.",
             ),
             StructuredTool.from_function(
-                func = self.pure_rental_program,
-                description="Function Offers detailed information on the pure rental program."
+                func=self.pure_rental_program,
+                description="Function Offers detailed information on the pure rental program.",
             ),
             StructuredTool.from_function(
-                func = self.mortgage_product,
-                description="Function Provides all relevant information about mortgage products available."
+                func=self.mortgage_product,
+                description="Function Provides all relevant information about mortgage products available.",
             ),
             StructuredTool.from_function(
-                func = self.low_LTV_method,
-                description="Function Delivers information on the Low Loan-to-Value (LTV) method used in financial evaluations."
+                func=self.low_LTV_method,
+                description="Function Delivers information on the Low Loan-to-Value (LTV) method used in financial evaluations.",
             ),
             StructuredTool.from_function(
-                func = self.credit_manager_assessed_income_program,
-                description="Function Provides details on the income assessment program conducted by credit managers."
+                func=self.credit_manager_assessed_income_program,
+                description="Function Provides details on the income assessment program conducted by credit managers.",
             ),
             StructuredTool.from_function(
-                func = self.ABHFL_branch_categorization,
-                description="Function Offers all information about ABHFL branch categorization."
+                func=self.ABHFL_branch_categorization,
+                description="Function Offers all information about ABHFL branch categorization.",
             ),
             StructuredTool.from_function(
-                func = self.pragati_home_loan,
-                description="Function Provides comprehensive details about the Pragati Home Loan product.Best Loan for Low Income Group"
+                func=self.pragati_home_loan,
+                description="Function Provides comprehensive details about the Pragati Home Loan product.Best Loan for Low Income Group",
             ),
             StructuredTool.from_function(
-                func = self.pragati_plus,
-                description="Function Offers information on the Pragati Plus loan program."
+                func=self.pragati_plus,
+                description="Function Offers information on the Pragati Plus loan program.",
             ),
             StructuredTool.from_function(
-                func = self.pragati_aashiyana,
-                description="Function Supplies detailed information about the Pragati Aashiyana program.Home Loan for Informal Sector Worker"
-            ),
-           
-            StructuredTool.from_function(
-                func = self.general_purpose_loan,
-                description="Provides complete details on the general purpose loan offering."
+                func=self.pragati_aashiyana,
+                description="Function Supplies detailed information about the Pragati Aashiyana program.Home Loan for Informal Sector Worker",
             ),
             StructuredTool.from_function(
-                func = self.micro_LAP,
-                description="Information about the Micro Loan Against Property (Micro LAP) program.Ideal loan for Small Business"
+                func=self.general_purpose_loan,
+                description="Provides complete details on the general purpose loan offering.",
             ),
             StructuredTool.from_function(
-                func = self.micro_CF,
-                description="Offers details on the Micro CF (Commercial Finance) program."
+                func=self.micro_LAP,
+                description="Information about the Micro Loan Against Property (Micro LAP) program.Ideal loan for Small Business",
             ),
             StructuredTool.from_function(
-                func = self.step_up,
-                description="Provides information on the step-up program for home loans."
+                func=self.micro_CF,
+                description="Offers details on the Micro CF (Commercial Finance) program.",
             ),
             StructuredTool.from_function(
-                func = self.step_down,
-                description="Retrieves all relevant details on the step-down loan program."
+                func=self.step_up,
+                description="Provides information on the step-up program for home loans.",
             ),
             StructuredTool.from_function(
-                func = self.extended_tenure,
-                description="Offers information on extended loan tenure options."
+                func=self.step_down,
+                description="Retrieves all relevant details on the step-down loan program.",
             ),
             StructuredTool.from_function(
-                func = self.priority_balance_transfer,
+                func=self.extended_tenure,
+                description="Offers information on extended loan tenure options.",
+            ),
+            StructuredTool.from_function(
+                func=self.priority_balance_transfer,
                 description="Provides detailed information on the priority balance transfer program.(Priority BT)",
-                return_direct=False
+                return_direct=False,
             ),
             StructuredTool.from_function(
-                func = self.lease_rental_discounting,
-                description="Delivers complete information on the Lease Rental Discounting (LRD) program."
+                func=self.lease_rental_discounting,
+                description="Delivers complete information on the Lease Rental Discounting (LRD) program.",
             ),
             StructuredTool.from_function(
-                func = self.express_balance_transfer_program,
-                description="Offers details on the express balance transfer (express BT) program."
+                func=self.express_balance_transfer_program,
+                description="Offers details on the express balance transfer (express BT) program.",
             ),
             # StructuredTool.from_function(
             #     func = self.bt_top_up_illustration,
             #     description="Provides a detailed illustration of the BT+Top Up offering."
             # ),
             StructuredTool.from_function(
-                func = self.prime_home_loan,
-                description="Provides a detailed Prime Home Loan Details."
+                func=self.prime_home_loan,
+                description="Provides a detailed Prime Home Loan Details.",
             ),
             StructuredTool.from_function(
-                func = self.prime_lap,
-                description="Provides a detailed Prime Loan Against Property(LAP) "
-            ),
-         
-            StructuredTool.from_function(
-                func = self.semi_fixed,
-                description="Provides a detailed Semi fixed rates of all products"
+                func=self.prime_lap,
+                description="Provides a detailed Prime Loan Against Property(LAP) ",
             ),
             StructuredTool.from_function(
-                func = self.staff_loan_price,
-                description="Provides a detailed Pricing of staff Loan"
+                func=self.semi_fixed,
+                description="Provides a detailed Semi fixed rates of all products",
             ),
             StructuredTool.from_function(
-                func = self.power_pitch,
-                description="Provides a details of power pitch for abhfl products"
+                func=self.staff_loan_price,
+                description="Provides a detailed Pricing of staff Loan",
             ),
             StructuredTool.from_function(
-                func = self.collateral_type,
+                func=self.power_pitch,
+                description="Provides a details of power pitch for abhfl products",
+            ),
+            StructuredTool.from_function(
+                func=self.collateral_type,
                 description="""
                 Detailed all Properties and it's all Collateral type for PAN india in ABHFL
                
-                """
+                """,
+            ),
+            StructuredTool.from_function(
+                func=self.pmay,
+                description="""
+               Provides a Details about Pradhan Mantri Awas Yojana - Urban 2.0(PMAY)
+                """,
             ),
         ]
 
-        llm_with_tools = self.client.bind_tools(tools)
+        # llm_with_tools = self.client.bind_tools(tools)
         # Check if we need to reset the SystemMessage
         if ABHFL.is_sales_pitch_active and ABHFL.is_function_calling == 11:
             ABHFL.is_sales_pitch_active = False  # Reset the flag
@@ -664,8 +738,10 @@ Parameters:
         prompt = ChatPromptTemplate.from_messages(
             [
                 # ("system", """You are a key figure at Aditya Birla Housing Finance Limited (ABHFL), but you have only limited information about the company. """),
-                ("system",
-                 """You are an expert conversational sales manager with access to various tools to deliver clear and concise answers. Select the most relevant tool for a precise response, avoiding unnecessary details. When responding to general or open-ended questions, always leverage tools for accuracy. If unsure of an answer, ask follow-up questions to clarify. You are experienced and professional in this role."""),
+                (
+                    "system",
+                    """You are an expert conversational sales manager with access to various tools to deliver clear and concise answers. Select the most relevant tool for a precise response, avoiding unnecessary details. When responding to general or open-ended questions, always leverage tools for accuracy. If unsure of an answer, ask follow-up questions to clarify. You are experienced and professional in this role.""",
+                ),
                 MessagesPlaceholder(variable_name=MEMORY_KEY),
                 ("user", "{input}"),
                 MessagesPlaceholder(variable_name="agent_scratchpad"),
@@ -722,7 +798,9 @@ Parameters:
         with get_openai_callback() as cb:
             try:
 
-                ensure_message_length_within_limit(self.message)  # Reserve some tokens for functions and overhead
+                ensure_message_length_within_limit(
+                    self.message
+                )  # Reserve some tokens for functions and overhead
                 async for chunk in agent_executor.astream_events(
                     {"input": user_input, "chat_history": self.message}, version="v1"
                 ):
@@ -737,7 +815,3 @@ Parameters:
                 print(error_message)
                 yield error_message
             # print("Token : ", cb)
-
-
-
-

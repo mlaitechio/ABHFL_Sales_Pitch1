@@ -23,14 +23,12 @@ def my_view(request):
 def replace_slashes(input_string: str) -> str:
     return re.sub(r'[\\/]', ' ', input_string)
 
-
-# # Utility function to iterate over async generator
-# async def iter_over_async(ait):
-#     async for event in ait:
-#         yield event
+# Create a single event loop for all requests
+global_event_loop = asyncio.new_event_loop()
+asyncio.set_event_loop(global_event_loop)
 
 # Utility function to iterate over async generator
-def iter_over_async(ait, loop):
+def iter_over_async(ait):
     ait = ait.__aiter__()
     async def get_next():
         try:
@@ -38,13 +36,19 @@ def iter_over_async(ait, loop):
             return False, obj
         except StopAsyncIteration:
             return True, None
+        # Use the global event loop
+    global global_event_loop
+    loop = global_event_loop
+
     while True:
         done, obj = loop.run_until_complete(get_next())
         if done:
             break
         yield obj
- 
- 
+
+
+
+
 # API to create a new chat session
 class NewChatAPIView(generics.CreateAPIView):
     queryset = ChatSession.objects.all()
@@ -71,7 +75,7 @@ class ChatAPIView(APIView):
             session_id = serializer.validated_data.get('session').session_id
             message = serializer.validated_data.get('input_prompt')
             ques_id = serializer.validated_data.get('ques_id')
-            print(serializer)
+            
             # Retrieve the session, if not found return error
             session = get_object_or_404(ChatSession, session_id=session_id)
 
@@ -92,10 +96,10 @@ class ChatAPIView(APIView):
                             text = f.read()
                         bot_instance.message.append(SystemMessage(content=text))
                     
-                    loop = asyncio.new_event_loop()
-                    asyncio.set_event_loop(loop)
+                    
+                    # asyncio.set_event_loop(loop)
                     questions = replace_slashes(message)
-                    openai_response = iter_over_async(bot_instance.run_conversation(questions.lower()), loop)
+                    openai_response = iter_over_async(bot_instance.run_conversation(questions.lower()))
 
                     for event in openai_response:
                         kind = event["event"]
@@ -200,7 +204,7 @@ class HistoryAPIView(APIView):
             except ChatSession.DoesNotExist:
                 return Response({'error': 'Session not found'}, status=status.HTTP_404_NOT_FOUND)
 
-            messages = ChatMessage.objects.filter(session=session)
+            messages = ChatMessage.objects.filter(session=session).order_by('created_on')
             response_data = [
                 {
                     'ques_id': message.ques_id,
