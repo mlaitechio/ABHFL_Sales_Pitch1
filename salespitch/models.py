@@ -9,7 +9,8 @@ class ChatSession(models.Model):
     created_on = models.DateTimeField(auto_now_add=True)
     user_id = models.CharField(max_length=100, default=" ")
     is_activate = models.BooleanField(default=True)
-
+    session_name = models.CharField(max_length=255, blank=True, null=True)  # New field for session name
+    
     def __str__(self):
         return f"Chat Session {self.session_id} for User {self.user_id}"
     
@@ -26,7 +27,14 @@ class ChatMessage(models.Model):
     select_feedback_response = models.TextField(blank=True, null=True)
     additional_comments = models.TextField(blank=True, null=True)
 
-# Create your models here.
+class Bookmark(models.Model):
+    session = models.ForeignKey(ChatSession, on_delete=models.CASCADE, related_name='bookmarks')
+    message = models.ForeignKey(ChatMessage, on_delete=models.CASCADE, related_name='bookmarks')
+    created_on = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"Bookmark for Session {self.session.session_id}, Message ID: {self.message.id}"
+
 class History(models.Model):
     session = models.ForeignKey(ChatSession, on_delete=models.CASCADE, related_name='chat_history')
     messages = models.JSONField(default=list)  # Storing chat history as a JSON array

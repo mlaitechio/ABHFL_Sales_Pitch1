@@ -1,0 +1,40 @@
+
+Criteria	Particulars
+Eligible customer:	Salaried NRI customers only.
+Definition	NRI: Non-Resident Indian is . Citizen of India residing outside India. He/ She is an Indian citizen holding a valid Indian passport. Stays outside India for employment / business/ vocation for an uncertain period. PIO: Citizen of any country other than Bangladesh and Paldetan, If he/she Held an Indian passport Either of his/her parents or grandparents were citizen of India or the person is a spouse of Indian citizen
+Applicable products:	All Home Loan, Plot Construction Home Extension Loan, Construction Loan products can be offered Specific norms for the individual product definition in the main policy would be applicable. Top up loans / LAP / LRD / Commercial property purchase cannot be offered
+Minimum monthly Income eligibility norm:	Gross income prior to deduction of tax US and other countries USD 3,500 per month or equivalent Middle East countries 7,000 AED per month or equivalent,
+Minimum age:	23 yrs. at the time of origination of the loan
+Maximum tenure of the loan:	NRIs working in the US and other western countries: 15 years. NRIs working in GCC countries and other countries 10 years. (NRI working with MNC/ Govt. Department 15 years.)
+Minimum qualification:	Salaried customer whose income is the main income must be at least a graduate
+Years in employment:	Minimum years in employment abroad 1 year Minimum total years of experience 3 years
+FOIR:	50% of net income
+LTV:	As per standard grid in product program [Refer section FOIR-LTV grid]
+Merchant Navy:	For Officer Engineers and Officer Navigators except for cadets, following income eligibility norms apply A Calculate average number of months in a year customer had sailed B Refer to latest contract and calculate current monthly income. c. Compute annual income as A B. D. Eligible monthly income calculated as A B/12
+Currency Conversion:	Currency conversion to be referred as per web link: http://www.xe.com/ Screen shot printout of the web page depicting the conversion rate to be kept in file for records
+Salary Income:	Components regularly reflecting in salary slip / monthly salary certificate. Bonus/overtime pay/duty pay etc. not to be considered while computing the eligibility. Benefits- Customer provided with company accommodation (confirmed through appointment letter or company letter) can be given higher FOIR (Maximum 10% additional)
+Other Income:	Other income as mentioned earlier for resident Indian would apply. NRI's other income earned in India should get credited into the NRO account.
+Clubbing of income:	Income of applicant and co-applicant can be considered for loan eligibility.Income between NRI applicant and resident Indian co-applicant can be considered (Repayment of the loan will be from NRE/NRO account of the NRI only)
+
+
+Criteria	Particulars
+Power of Attorney:	The NRI needs to appoint an individual resident in India as his/her POA should be residing at ABHFL branch locations
+Execution of General Power of Attorney:	In case where NRI borrower is outside India at the time of application, standard POA must be duly attested by the Indian Consulate or POA to be locally notarized if NRI customer is in India at the time of application. In case, an NRI executed a POA in India with an empowerment of document execution, then in such cases it would be sufficient if the Power of Attorney is duly stamped and notarized The entry & exit stamp certifying that the NRI was in India at the time of POA execution [Copy of passport to be taken for verification
+Mode of repayment:	Repayment would be done from NRE / NRO accounts through NACH. Maximum repayment permitted is 180 months (15 years) no moratorium / grading structures allowed
+Income proof:	3 month's salary slips showing all deductions in English (if not in English, translated copy of the salary slips in English from authorized translators Bank account statement in foreign country for last 6 months If salary slips not available then salary certificate with complete job details.
+Caution profiles	:Laborers engaged in offshore/site construction activity. Posted offshore drilling platform Staying/employed in Ajman/ Fujairah Working as Drivers Individuals from Nepal Bangladesh, Sinhala, Bhutan etc. who reside in India
+Merchant Navy documents:	Minimum designation for Merchant Navy to be 1st Officer/ Engineer/Radio Copy of (CDC) for the past two years to establish continuity of employment Copy of the latest Contract showing the income earned
+Identity Proof:	Identity Proof (for NRI) Photocopies of passport with customer's name, address, DOB, date and place of issue. expiry date. photograph signature, and stamp regarding stay outside India appear. Photocopy of valid work permit / employment visa. For expired visas, petitions made to the visa authorities for renewal of visa Identity Proof (for PIC) Photocopies of relevant pages of current passport. Photocopy of the PIO card or copy of past Indian passport of self / parent / grandparent along with the self-declaration of relationship duly notarized and stamped for requisite value
+Residence Proof of applicant & POA holder:	As per existing ABHFL KYC Policy Norms
+Repayment Track record:	RTR of previous loan for last 12 months to be validated through bank statements
+Credit Bureau score report:	Applicant to generate his credit score report from his country & provide along with the application
+Banking:	Latest 6 months banking of international account where salary is getting credited Latest 6 months bank statement of NRE/NRO account Average Bank Balance >> 2 times of proposed EMI
+
+
+Criteria	Particulars
+
+Signature verification:	Banker's verification Signature in PF cheque, PDC. Passport, PAN card must match signature on application
+Mail Confirmations:	Mail Confirmation for NRI Loan Application check and NRI Employment Verification check should be from customer's (NRI) and HR's official email ID
+Domain Check:	Domain Check to be positive for Employer's Website Website of customer's official email ID Website of HR's official email ID Domain checks to be conducted by local FCU team
+Other Norms:	PIOs if resident in India would be appraised as a resident Indian. If applicant is likely to return to India within a year, loan eligibility to be assessed based on lower of their current salary abroad or their Indian salary. Work Permit / Working Visa to be checked for NRIs Product specific parameters are the same as for resident Indians under different products NRI customer has to be the main applicant on the loan and property also has to be owned by him/her The loan application form for an NRI loan must be signed by NRI applicant in original A power of attorney (POA) cannot sign the application form. Credit Bureau Check/ De-duplication check is mandatory for all applicants
+Negative Countries:	 Applicant working in negative countries cannot be considered Refer Negative countries annexure below

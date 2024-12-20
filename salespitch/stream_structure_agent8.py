@@ -26,6 +26,7 @@ from .step_up_calculator import step_up_calculator
 from .BTS_calculator2 import bts_calc
 from .step_down_joint import step_down
 from .step_down_pension import step_down_pension
+from .login_checklist import logincheck_documents
 import pandas as pd
 from langchain.agents import AgentType
 from langchain_experimental.agents import create_pandas_dataframe_agent
@@ -253,6 +254,13 @@ class ABHFL:
             IMGC,
         )
         return result
+    
+    @staticmethod
+    def logincheck_documents_tool(employment, eligibility_method=None, rental_income=False, other_income=False):
+
+        result = logincheck_documents(employment.lower(), eligibility_method.lower(), rental_income, other_income)
+
+        return result
 
     def generate_method(self, prompt_name):
         """Generic method to handle various prompts and update system message."""
@@ -376,6 +384,9 @@ Must Provide Concice Answer: """
 
     def power_pitch(self):
         return self.generate_method("power_pitches")
+    
+    def nri_assesment(self):
+        return self.generate_method("nri_assesment_criteria")
     
     def pmay(self):
         return self.generate_method("PMAY")
@@ -723,6 +734,29 @@ Parameters:
                Provides a Details about Pradhan Mantri Awas Yojana - Urban 2.0(PMAY)
                 """,
             ),
+            StructuredTool.from_function(
+                func=self.nri_assesment,
+                description="""
+               Provides a Details about NRI salaried customers assesment criteria
+                """,
+            ),
+            StructuredTool.from_function(
+                func=self.logincheck_documents_tool,
+                description="""Function to get the list of required documents for login based on customer type, eligibility method, and income considerations.
+Parameters:
+- customer_type (str, required): The type of customer (e.g., 'salaried', 'self employed').
+- eligibility_method (str, required): The eligibility method based on the customer type.
+    - If 'salaried', possible methods are: 'Cash Salaried', 'Bank Salaried', 'NRI Bank Salaried'.
+    - If 'self-employed', possible methods are: 'Cash Profit Method', 'Gross Turnover', 'Gross Receipt', 
+    'Gross Profit', 'ABB', 'GST', 'Low LTV', 'Pure Rental', 'Lease Rental Discounting', 
+    'Express BT', 'Micro CF/Builder LAP', 'CM AIP'.
+- rental_income (bool, required): Whether rental income is considered in eligibility (True/False).
+    - Note:  Mark Yes in case of Pure Rental and LRD
+- other_income (bool, required): Whether other income is considered in eligibility (True/False).
+    - Note: Other income is only considered when the customer type is 'salaried'.
+"""
+                
+            )
         ]
 
         # llm_with_tools = self.client.bind_tools(tools)

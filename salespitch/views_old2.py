@@ -2,8 +2,8 @@ from rest_framework import generics, status
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.generics import get_object_or_404
-from .serializers import ChatSessionSerializer, ChatMessageSerializer , BookMarkSerializer
-from .models import ChatSession, ChatMessage, History , Bookmark
+from .serializers import ChatSessionSerializer, ChatMessageSerializer
+from .models import ChatSession, ChatMessage, History
 from django.http import StreamingHttpResponse
 from django.contrib.auth.models import User
 from django.shortcuts import render
@@ -193,7 +193,6 @@ class HistoryAPIView(APIView):
                 response_data.append({
                     'sessionid': session.session_id,
                     'first_message': first_message.input_prompt if first_message else '',
-                    'session_name' : session.session_name,
                     'created_on': first_message.created_on if first_message else ""
                 })
 
@@ -206,19 +205,25 @@ class HistoryAPIView(APIView):
                 return Response({'error': 'Session not found'}, status=status.HTTP_404_NOT_FOUND)
 
             messages = ChatMessage.objects.filter(session=session).order_by('created_on')
-            
-            serializer = ChatMessageSerializer(messages, many=True)
-            return Response(serializer.data, status=status.HTTP_200_OK)
+            response_data = [
+                {
+                    'ques_id': message.ques_id,
+                    'message': message.input_prompt,
+                    'answer': message.output,
+                    'created_on': message.created_on
+                }
+                for message in messages
+            ]
+            return Response(response_data, status=status.HTTP_200_OK)
 
         return Response({'error': 'Invalid payload'}, status=status.HTTP_400_BAD_REQUEST)
-    
     def delete(self, request):
-        HF_email = request.data.get('HF_email')
-        session_id = request.data.get('session', None)
-        print(HF_email , session_id)
-        if HF_email and session_id:
+        user_id = request.data.get('userid')
+        session_id = request.data.get('sessionid', None)
+
+        if user_id and session_id:
             try:
-                session = ChatSession.objects.get(user_id=HF_email, session_id=session_id)
+                session = ChatSession.objects.get(user_id=user_id, session_id=session_id)
                 session.is_activate = False
                 session.save()
                 return Response({'status': 'Session deleted successfully'}, status=status.HTTP_204_NO_CONTENT)
@@ -226,134 +231,3 @@ class HistoryAPIView(APIView):
                 return Response({'error': 'Session not found'}, status=status.HTTP_404_NOT_FOUND)
 
         return Response({'error': 'Invalid payload'}, status=status.HTTP_400_BAD_REQUEST)
-
-# Bookmark View
-class BookmarkMessage(APIView):
-    def post(self, request):
-        """
-        Add a bookmark for a specific message in a session using ques_id.
-        """
-        session_id = request.data.get('session_id')
-        ques_id = request.data.get('ques_id')
-
-        # Validate the required data
-        if not session_id or not ques_id:
-            return Response({"detail": "Both session_id and ques_id are required."}, status=status.HTTP_400_BAD_REQUEST)
-        
-        try:
-            # Fetch the session using session_id
-            session = ChatSession.objects.get(session_id=session_id)
-            
-            # Fetch the message using ques_id and session
-            message = ChatMessage.objects.get(ques_id=ques_id, session=session)
-            
-            # Check if the message is already bookmarked
-            if Bookmark.objects.filter(session=session, message=message).exists():
-                return Response({"detail": "This message is already bookmarked."}, status=status.HTTP_400_BAD_REQUEST)
-            
-            # Create the bookmark
-            bookmark = Bookmark.objects.create(session=session, message=message)
-            
-            # Serialize the bookmark data for response
-            serializer = BookMarkSerializer(bookmark)
-            return Response(serializer.data, status=status.HTTP_201_CREATED)
-
-        except ChatSession.DoesNotExist:
-            return Response({"detail": "Session not found."}, status=status.HTTP_404_NOT_FOUND)
-        except ChatMessage.DoesNotExist:
-            return Response({"detail": "Message not found."}, status=status.HTTP_404_NOT_FOUND)
-
-    def delete(self , request):
-        session_id = request.data.get('session_id')
-        ques_id = request.data.get('ques_id')
-
-
-        # Validate the required data
-        if not session_id or not ques_id:
-            return Response({"detail": "Both session_id and ques_id are required."}, status=status.HTTP_400_BAD_REQUEST)
-
-        try:
-            # Fetch the session using session_id
-            session = ChatSession.objects.get(session_id=session_id)
-            
-            # Fetch the message using ques_id and session
-            message = ChatMessage.objects.get(ques_id=ques_id, session=session)
-
-             # Create the bookmark
-            bookmark = Bookmark.objects.get(session=session, message=message)
-            
-            bookmark.delete()
-            return Response({"detail": f"BookMark Deleted succesfully. for {session_id} and {ques_id}"},status=status.HTTP_200_OK)
-
-        except ChatSession.DoesNotExist:
-            return Response({"detail": "Session not found."}, status=status.HTTP_404_NOT_FOUND)
-        except ChatMessage.DoesNotExist:
-            return Response({"detail": "Message not found."}, status=status.HTTP_404_NOT_FOUND)
-
-    def get(self, request):
-        """
-        Retrieve all bookmarks for a specific user_id.
-        """
-        user_id = request.query_params.get('HF_id')
-
-        # Validate the required data
-        if not user_id:
-            return Response({"detail": "user_id is required."}, status=status.HTTP_400_BAD_REQUEST)
-
-        # Fetch all sessions for the user
-        sessions = ChatSession.objects.filter(user_id=user_id)
-
-        # Fetch all bookmarks for the user's sessions
-        bookmarks = Bookmark.objects.filter(session__in=sessions)
-
-        # Prepare response data
-        response_data = {}
-        for bookmark in bookmarks:
-            session_id = str(bookmark.session.session_id)
-            if session_id not in response_data:
-                response_data[session_id] = {
-                    "session_name": session_id,
-                    "created_on": bookmark.session.created_on,
-                    "bookmarks": []
-                }
-            
-            response_data[session_id]["bookmarks"].append({
-                "ques_id": bookmark.message.ques_id,
-                "input_prompt": bookmark.message.input_prompt,
-                "output": bookmark.message.output,
-                "created_on": bookmark.message.created_on,
-                "feedback": bookmark.message.feedback,
-                "additional_comments": bookmark.message.additional_comments,
-            })
-
-        return Response(response_data.values(), status=status.HTTP_200_OK)
-
-
-# Rename Session View
-class RenameSessionAPIView(APIView):
-    
-    def patch(self, request):
-        """
-        Rename an existing chat session.
-        """
-        session_id = request.data.get('session_id')
-        try:
-            # Fetch the session
-            session = ChatSession.objects.get(session_id=session_id)
-
-            # Get the new name from the request body
-            new_name = request.data.get("session_name")
-
-            if not new_name:
-                return Response({"detail": "Session name is required."}, status=status.HTTP_400_BAD_REQUEST)
-            
-            # Update the session name
-            session.session_name = new_name
-            session.save()
-
-            # Serialize the updated session data
-            serializer = ChatSessionSerializer(session)
-            return Response(serializer.data, status=status.HTTP_200_OK)
-
-        except ChatSession.DoesNotExist:
-            return Response({"detail": "Session not found."}, status=status.HTTP_404_NOT_FOUND)
