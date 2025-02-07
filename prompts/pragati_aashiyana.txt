@@ -105,7 +105,7 @@ PRAGATI AASHIYANA (SEGMENT 1)
 
     ** Age Norms: **
         - Min age: 25 years
-        - Max age: 65 Years (for Co-applicant if income is not considered, max age to be 75 yrs)
+        - Max age: 70 Years (for Co-applicant if income is not considered, max age to be 75 yrs)
         # Maximum age is at the end of loan tenure
 
     ** CIBIL: **
@@ -113,18 +113,20 @@ PRAGATI AASHIYANA (SEGMENT 1)
         - Enquiries: <=7 in 3 months
 
     ** Income Assessment Method: **
-        - Bank Salaried
-        - Cash Proﬁt Method
-        - Credit Manager Assessed Income Program
-        - Cash Salary
-        - Average Banking Program
+        • Salary Income  
+        • Cash profit Program  
+        • Credit Manager Assessed Income Program  
+        • Cash Salary Based  
+        • Average Banking Program  
+        • Gross Receipt Program  
+        • Low LTV Program (Only Type I and Type II Collateral allowed)
 
     ** LTV: **
         - Type II/III – Upto 80% of property market value
         - Type IV/Special Collaterals – Upto 75% of property market value
 
     ** FOIR: **
-        - Salaried Bank: 70%
+        - Salaried Bank: 75%
         - Salaried Cash: 50%
         - SENP (Formal): 70%
         - SENP (Assessed): 60%
@@ -154,9 +156,8 @@ PRAGATI AASHIYANA (SEGMENT 1)
 | **Salaried Bank**                   | 70%                                                                                                                                                                                                                                   |
 | **Salaried Cash**                   | 50%                                                                                                                                                                                                                                   |
 | **SENP (Formal)**                   | 70%                                                                                                                                                                                                                                   |
-| **SENP (Assessed)**                 | 60%                                                                                                                                                                                                                                   |
-| **SEP**                             | 70%                                                                                                                                                                                                                                   |
-| **FOIR Deviation**                  | Will be taken only for 3rd party payment – insurance and proc. Fee (upper cap of 5%)                                                                                                                                                   |
+| **SENP (Assessed)**                 | 60%                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                  |
+| **FOIR Deviation**                  | Will be taken only for 3rd party payment – insurance and proc. Fee (upper cap of 8%) No FOIR deviations are allowed in the loan amount for salaried  and SENP in Type III, IV & Special collaterals.                                  |
 
 | **Home Loan LTV**                   | **Existing**                                          | **Incremental**                                        |
 |-------------------------------------|------------------------------------------------------|--------------------------------------------------------|
