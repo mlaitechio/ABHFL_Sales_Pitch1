@@ -1,0 +1,95 @@
+
+|                                                                                                           |                                      Home Loan                                                                |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------- ------------------------------------------------------------------------
+|                                                                                                           |                                           LTV                                                                 |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------- ------------------------------------------------------------------------
+| Offering (Loan Amount)                                                                                    | <30 Lacs                              |  30 Lacs 75 Lacs                  | \> 75 Lacs                        |
+| Home Loan (Fresh/Resale) HLBT, HLBT Top up (top up < 20% of HL BT loan) Affordable Express BT Priority BT | 90%                                   | 80%                               | 75%                               |
+| HL BT . Top up (top up > 20% of HL BT loan) Affordable                                                    |                                              As per LAP Policy                                                |                                                                                  
+| HL RT + Top up (top up < 20% of HL BT loan) Prime                                                         | 80%                                   | 80%                               | 75%                               |
+| HL BT + Top up (top up > 20% of HL BT loan) Prime                                                         | 75%                                   | 75%                               | 75%                               |
+| Plot . Home Construction Loan                                                                             |                       Plot LTV 75% Construction LTV 75% of construction estimate                              |
+| Home Construction Loan                                                                                    |    Not to exceed 100% of cost of construction/improvement estimate subject to overall LTV as per HL grid      |
+| Home Improvement Loan & Home Construction Loan                                                            |    Not to exceed 100% of cost of construction/improvement estimate subject to overall LTV as per HL grid      |
+| Plot loan for construction of house thereon                                                               |    75% of Documented Value or Market Value whichever is lower                                                 |
+| Low LTV                                                                                                   |  50% of the Market Value of HL<br>HL BT + Top up (top up < 20% of HL BT loan) - 50% of the Market Value<br>HL BT + Top up (top up > 20% of HL BT loan) - 40% of the Market Value |
+| Pragati HL- Type II                                                                                       | Formal/Surrogate 90% Assessed 85%     | Formal/Surrogate 80% Assessed 75% | Formal/Surrogate 75% Assessed 70% |
+| Pragati HL- Type III                                                                                      | Formal/Surrogate 85% Assessed 70%     | Formal/Surrogate 75% Assessed 70% | Formal/Surrogate 70% Assessed 70% |
+| Pragati HL- Type IV                                                                                       |                                        Formal/Surrogate 70% Assessed 60%                                      |
+| Pragati Plus HL Segment 1                                                                                 |                                        <75 Lacs 75% >75 Lacs 70%                                              |
+| Pragati Plus HL Segment 2                                                                                 |                                        <75 Lacs 80% >75 Lacs 75%                                              |
+
+
+|                                 | FOIR            |
+| ------------------------------- | --------------- |
+| Salaried (on Annual Net Income) | Applicable FOIR | Pragati HL | Pragati Plus HL |
+| <5 Lacs                         |                      60%                       |
+| 5 Lacs to 12 Lacs               |                      65%                       |
+| 12 Lacs to 24 Lacs              |                      70%                       |
+| \>24 Lacs                       |                       75%                      |
+| Cash Salaried                   | 50%             | 50%         |      NA        |
+| Self Employed                   | Applicable FOIR | Pragati HL | Pragati Plus HL |
+| Cash Profit Method              | 80%             | 80%        | NA              |
+| Gross Turnover                  | 65%             | NA         | NA              |
+| Gross Receipts                  | 65%             | 65%        | NA              |
+| Gross Profit                    | 60%             | NA         | NA              |
+| Average Banking Program         | 60%             | 60%        | NA              |
+| Low LTV                         |                   Not Applicable               |
+| Pure Rental Program             | 60%             |         NA |      NA         |
+| CM Assessed Income Program      | 60%             | 60%        | 60%             |
+
+
+|                                                                                                           |                                      Non-Home Loan                                                                |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------- ----------------------------------------------------------------------------|
+|                                                                                                           |                                           LTV                                                                     |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------- ------------------------------------------------------------------------    |
+
+|                         Prime                                  |
+| LAP- Residential             | Financial | Surrogate | Low LTV |
+| ---------------------------- | --------- | --------- | ------- |
+| Occupied                     | 75%       | 70%       | 40%     |
+| Vacant                       | 70%       | NA        | NA      |
+| LAP- Commercial              |           |           |
+| Occupied                     | 65%       | 60%       | 40%     |
+| Vacant                       | 60%       | NA        | NA      |
+| Commercial Property Purchase | 65%       | 60%       | 40%     |
+| Industrial                   | 60%       | 60%       | 40%     |
+| Plot Residential             | 50%       | NA        | NA      |
+| Plot Commercial              | 40%       | NA        | NA      |
+| Plot Industrial              | 40%       | NA        | NA      |
+
+|                                                      |
+
+| Affordable               | Financial / Assessed | Surrogate | Low LTV |
+|-------------------------|----------------------|-----------|---------|
+| **LAP- Residential**    |                      |           |         |
+| Occupied                | 70%                  | 65%       | 40%     |
+| Vacant                  | 65%                  | NA        | NA      |
+| **LAP- Commercial**     |                      |           |         |
+| Occupied                | 60%                  | 55%       | 40%     |
+| Vacant                  | 55%                  | NA        | NA      |
+| Commercial Property Purchase | 60%            | 55%       | 35%     |
+
+| **Micro LAP**           | Type II | Type III | Type IV/Special Property |
+|-------------------------|---------|----------|--------------------------|
+| **Residential (Self Occupied)** |         |          |                          |
+| Formal                  | 70%     | 60%      | 55%                      |
+| Assessed Surrogate      | 65%     | 55%      | 50%                      |
+| **Commercial Property (Self Occupied)** |         |          |                          |
+| Formal                  | 65%     | 55%      | 50%                      |
+| Assessed Surrogate      | 60%     | 50%      | 45%                      |
+
+| **FOIR**                | Prime / Affordable | Micro LAP |
+|-------------------------|--------------------|-----------|
+| <5 Lacs                 | 60%                | 60%       |
+| 5 Lacs to 12 Lacs       | 65%                | 65%       |
+| 12 Lacs to 24 Lacs      | 70%                | 70%       |
+| >24 Lacs                | 75%                | 70%       |
+| Cash Salary             | 50%                | 50%       |
+| Cash Profit Method      | 80%                | 70%       |
+| Average Banking Program | 60%                | 60%       |
+| CM Assessed Method      | 60%                | 60%       |
+| Gross Turnover          | 65%                | -         |
+| Gross Receipts          | 65%                | -         |
+| Gross Profit            | 60%                | -         |
+| Pure Rental             | 60%                | -         |

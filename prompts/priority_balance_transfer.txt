@@ -86,7 +86,9 @@ PRIORITY BALANCE TRANSFER
 |                             | Legal                               | N                                 | N                                                           |
 |                             | TSR                                 | Y                                 | Y                                                           |
 |                             | Vetting                             | Y                                 | Y                                                           |
-
+| **Disbursement**            | EAgreement                          | Mandatory                         | Mandatory                                                   | 
+|                             | Enach                               | Mandatory                         | Mandatory                                                   |
+| **Program Review**          |                                     | No Limit                         | 100 crs                                                   | 
 This table compares the product offerings and eligibility criteria for ABC employees and existing or new ABC salaried customers applying for BT (Balance Transfer).
  
 Here’s the information you provided in a tabular format:

@@ -1,7 +1,7 @@
 
 Criteria	Particulars
 Eligible customer:	Salaried NRI customers only.
-Definition	NRI: Non-Resident Indian is . Citizen of India residing outside India. He/ She is an Indian citizen holding a valid Indian passport. Stays outside India for employment / business/ vocation for an uncertain period. PIO: Citizen of any country other than Bangladesh and Paldetan, If he/she Held an Indian passport Either of his/her parents or grandparents were citizen of India or the person is a spouse of Indian citizen
+Definition	NRI: Non-Resident Indian is . Citizen of India residing outside India. He/ She is an Indian citizen holding a valid Indian passport. Stays outside India for employment / business/ vocation for an uncertain period. PIO: Citizen of any country other than Bangladesh and Pakistan, If he/she Held an Indian passport Either of his/her parents or grandparents were citizen of India or the person is a spouse of Indian citizen
 Applicable products:	All Home Loan, Plot Construction Home Extension Loan, Construction Loan products can be offered Specific norms for the individual product definition in the main policy would be applicable. Top up loans / LAP / LRD / Commercial property purchase cannot be offered
 Minimum monthly Income eligibility norm:	Gross income prior to deduction of tax US and other countries USD 3,500 per month or equivalent Middle East countries 7,000 AED per month or equivalent,
 Minimum age:	23 yrs. at the time of origination of the loan

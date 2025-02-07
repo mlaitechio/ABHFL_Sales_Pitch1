@@ -27,6 +27,8 @@ from .BTS_calculator2 import bts_calc
 from .step_down_joint import step_down
 from .step_down_pension import step_down_pension
 from .login_checklist import logincheck_documents
+# from .branch_agent import query_csv
+from .csv_agnet import filter_csv
 import pandas as pd
 from langchain.agents import AgentType
 from langchain_experimental.agents import create_pandas_dataframe_agent
@@ -288,6 +290,13 @@ Must Provide Concice Answer: """
         # self.message.append(HumanMessage(content=question))
 
         return text
+    
+    @staticmethod
+    def Branches_list(hfc_name , state , district=None , pincode=None):
+        
+        branch_list = filter_csv(hfc_name, state, district, pincode)
+
+        return branch_list
 
     def collateral_type(self):
         return self.generate_method("Collateral")
@@ -390,6 +399,12 @@ Must Provide Concice Answer: """
     
     def pmay(self):
         return self.generate_method("PMAY")
+    
+    def HFC_Competitors(self):
+        return self.generate_method("Competitors")
+    
+    def ltv_and_foir(self):
+        return self.generate_method("home_loan_ltv")
 
     def all_other_information(self, *args, **kwargs):
         """Function provides all details for products such as 'Express Balance Transfer Program,' 'BT+Top Up – Illustration,' 'Priority Balance Transfer,' 'Extended Tenure,' 'Step-Down,' 'Step-Up,' 'Lease Rental Discounting,' 'Micro CF,' 'Micro LAP,' 'General Purpose Loan,' 'Pragati Aashiyana (Segment 2),' 'Pragati Aashiyana (Segment 1),' 'Pragati Aashiyana,' 'Pragati Plus,' 'Pragati Home Loan,' 'ABHFL Branch Categorization,' 'Credit Manager Assessed Income Program,' 'GST Program,' 'Pure Rental Program,' 'Low LTV Method,' 'Average Banking Program (ABP),' 'Gross Profit Method,' 'Gross Receipt Method,' 'Gross Turnover Method,' 'Cash Profit Method (CPM),' 'Salary Income Method,' 'Key Product Solutions,' and 'Mortgage Product."""
@@ -739,6 +754,42 @@ Parameters:
                 description="""
                Provides a Details about NRI salaried customers assesment criteria
                 """,
+            ),
+            StructuredTool.from_function(
+                func=self.HFC_Competitors,
+                description="""
+                Provides a Details about HFC Competitors of ABHFL like Tata Hfc , Bajaj , PNB, ICICI , Aadhar , Aavas
+                """,
+            ),
+            StructuredTool.from_function(
+                func=self.ltv_and_foir,
+                description="""
+                Provides a Details about LTV and FOIR for Home-Loan and Non-Home Loan
+                """,
+            ),
+            StructuredTool.from_function(
+                func=self.Branches_list,
+                description="""
+                Filter branch details of Housing Finance Companies (HFCs) based on specific parameters provided in a CSV file.
+Note :  rewrite spelling of state and district right as it affecting on filter the csv file
+Parameters:
+
+hfc (str, required): The HFC name to filter. Must be one of the following:
+Aadhar
+Aavas
+ABHFL
+Aptus
+Godrej
+Home First
+ICICI HFC
+IIFL
+PNB
+Shriram
+Tata Capital
+Vaastu
+state (str, required): The state name to filter by.
+district (str, optional): The district name to filter by.
+pincode (int/str, optional): The pincode to filter by.""",
             ),
             StructuredTool.from_function(
                 func=self.logincheck_documents_tool,

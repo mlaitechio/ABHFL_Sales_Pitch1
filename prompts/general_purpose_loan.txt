@@ -3,7 +3,8 @@ GENERAL PURPOSE LOAN
     Introduced to support eligible select customers in their home buying journey with General purpose loan (For Home Improvement, Interiors) up to 15% additional loan amount.
 
     ** TYPE OF LOAN: **
-        - Bundled as an offering with Home loan purchase
+        - Secured general purpose laon - Secured by resedential collateral.
+        Loan would be linked to parent loans
 
     ** Loan Amount: **
         - ▪ Cat A+/A: 50 lakhs
@@ -26,13 +27,42 @@ GENERAL PURPOSE LOAN
         - Upto 30 yrs
 
     ** LTV (Bundled offering with HL): **
-        - Total LTV for the loan (HL+ GPL) not to exceed 90% of MV of the property
+        - Total LTV for the loan (HL+ GPL) not to exceed 
+        90% of MV of the property
+        10% customer equity should be traced to bank channel. No cash OCR acceptable
 
     ** CIBIL Norm: **
         - Salaried: 700 & above
         - Self Employed: 730 & above
+Risk Assessment Criteria:
 
-     ROI: 0.5% - 1% higher than HL rate
+   Salaried:
+    3 years experience with 6 months in current organization
+    Should not be employed with negative industry employers
+    Mandatory Statutory deductions should be there
+    CIBIL Score 700/NTC
+
+   SENP:
+
+    Vintage of 3 years with documentary evidence (other than udyog aadhar/udyam registration certificate to be there)
+    Atleast 6 months gap between two ITR filling
+    ABB/EMI of 0.75
+    CIBIL score 730+
+No deviation on above norms
+
+Loan Handling:
+
+    GPL application form and loan agreement to be collected separately
+    Separate set of documentation including Sanction letter, loan agreement, and NACH mandate will be executed for the general purpose loan along with the documentation for Home loan.
+    General purpose loan will be booked as a separate loan on loan origination system and cross-linked to the home loan.
+    In case of closure of home loan, the general purpose loan needs to be closed before closure the home loan.
+    End use letter to be collected for GPL Loan
+
+Deviations:
+    Any deviation in program NCM level
+
+
+ROI: 0.5% - 1% higher than HL rate
 
     |----|-------------------------------------------------------|------------|------------|----------------------|
     |    | Particular                                            | Scenario 1 | Scenario 2 | Scenario 3           |

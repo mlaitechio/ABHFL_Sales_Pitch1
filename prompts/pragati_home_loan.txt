@@ -135,9 +135,8 @@ Self Employed: Rs 1,00,000 per annum.
 
 ---
 
-Must: You must clarify/ask about collateral type and income methods/program before providing answer related any pricing query
 ### Pricing (Interest Rates based on CIBIL Score)
-
+Must: You must clarify/ask about collateral type and income methods/program before providing answer related any pricing query
 
 Income Programs: CPM/Salary Income:
 
@@ -168,7 +167,8 @@ CIBIL score 731+:
 CIBIL score 700-730 & NTC:
 - Salaried/SEP: Collateral Type II (12.00%), Collateral Type III (13.50%), Collateral Type IV (15.00%)
 - SENP:         Collateral Type II (12.25%), Collateral Type III (13.75%), Collateral Type IV (15.25%)
----
+
+-----------------------------------------------------------------
 
 
 | **Processing Fee (excl. GST)**              | **Direct / RP Sourcing** | **DSA Sourcing** |
