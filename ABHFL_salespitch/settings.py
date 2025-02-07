@@ -37,7 +37,6 @@ ALLOWED_HOSTS = ["askabhflgen.adityabirlacapital.com"]
 CORS_ALLOWED_ORIGINS = [
     'https://askabhflgen.adityabirlacapital.com',  # Allow only this domain to make CORS requests
 ]
-# CORS_ORIGIN_ALLOW_ALL = True
 # Application definition
 # Security Settings
 SECURE_SSL_REDIRECT = False  # Redirect HTTP to HTTPS
@@ -124,8 +123,6 @@ DATABASES = {
     }
 }
 
-# Password validation
-# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
 
 AUTH_PASSWORD_VALIDATORS = [
     {
