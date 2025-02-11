@@ -23,28 +23,32 @@ def my_view(request):
 def replace_slashes(input_string: str) -> str:
     return re.sub(r'[\\/]', ' ', input_string)
 
-# Create a single event loop for all requests
-global_event_loop = asyncio.new_event_loop()
-asyncio.set_event_loop(global_event_loop)
-
 # Utility function to iterate over async generator
 def iter_over_async(ait):
+    import threading
     ait = ait.__aiter__()
+
     async def get_next():
         try:
             obj = await ait.__anext__()
             return False, obj
         except StopAsyncIteration:
             return True, None
-        # Use the global event loop
-    global global_event_loop
-    loop = global_event_loop
 
-    while True:
-        done, obj = loop.run_until_complete(get_next())
-        if done:
-            break
-        yield obj
+    # Ensure an event loop exists in the current thread
+    try:
+        loop = asyncio.get_event_loop()
+    except RuntimeError:  # No current event loop in this thread
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+    try:
+        while True:
+            done, obj = loop.run_until_complete(get_next())
+            if done:                
+                break
+            yield obj
+    finally:
+        loop.close()
 
 
 
