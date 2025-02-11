@@ -758,7 +758,7 @@ Parameters:
             StructuredTool.from_function(
                 func=self.HFC_Competitors,
                 description="""
-                Provides a Details about HFC Competitors of ABHFL like Tata Hfc , Bajaj , PNB, ICICI , Aadhar , Aavas
+                Provides a Details about HFC Competitors of ABHFL like Aadhar, Aavas, ABHFL, Godrej, Home First, ICICI HFC, IIFL, PNB, Shriram, TATA Capital, Vaastu
                 """,
             ),
             StructuredTool.from_function(
