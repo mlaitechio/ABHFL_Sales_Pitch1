@@ -787,7 +787,7 @@ PNB
 Shriram
 Tata Capital
 Vaastu
-state (str, required): The state name to filter by.
+state (str, required): The state name to filter by.(note: pass delhi / ncr insted of delhi in state and New Delhi in district)
 district (str, optional): The district name to filter by.
 pincode (int/str, optional): The pincode to filter by.""",
             ),
