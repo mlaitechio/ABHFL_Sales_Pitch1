@@ -27,46 +27,68 @@ def replace_slashes(input_string: str) -> str:
 def iter_over_async(ait):
     """
     Iterates over an async iterable in a synchronous manner.
-    Handles event loop creation, running, and cleanup to avoid "Event loop is closed" errors.
+    Uses a queue to bridge the async and sync worlds, avoiding nested event loops.
+
+    Args:
+        ait: An asynchronous iterable.
+
+    Yields:
+        Each item from the async iterable.
     """
-    ait = ait.__aiter__()
+    queue = asyncio.Queue()
+    loop = None
+    thread = None
 
-    async def get_next():
+    async def producer():
+        """Pushes items from the async iterable into the queue."""
         try:
-            obj = await ait.__anext__()
-            return False, obj
-        except StopAsyncIteration:
-            return True, None
+            async for item in ait:
+                await queue.put(item)
+        finally:
+            await queue.put(None)  # Sentinel to signal the end of iteration
 
-    # Get the current event loop or create a new one if it doesn't exist
-    try:
-        loop = asyncio.get_event_loop()
-    except RuntimeError:  # No current event loop in this thread
+    def start_loop():
+        """Runs the event loop in a separate thread."""
+        nonlocal loop
         loop = asyncio.new_event_loop()
         asyncio.set_event_loop(loop)
+        loop.run_forever()
 
     try:
-        while True:
-            done, obj = loop.run_until_complete(get_next())
-            if done:
-                break
-            yield obj
-    finally:
-        # Ensure all async tasks are cleaned up before closing
+        # Check if an event loop is already running
         try:
-            pending = asyncio.all_tasks(loop)
-            # Gather all pending tasks and wait for them to complete or be cancelled
-            if pending:
-                loop.run_until_complete(asyncio.gather(*pending, return_exceptions=True))
-        except RuntimeError as e:
-            print(f"Error during cleanup: {e}")
-        finally:
-            # Finally, close the loop
-            try:
-                loop.close()
-            except RuntimeError as e:
-                print(f"Error closing loop: {e}")
+            loop = asyncio.get_running_loop()
+            running = True
+        except RuntimeError:
+            running = False
 
+        if not running:
+            # Start a new event loop in a separate thread
+            thread = Thread(target=start_loop, daemon=True)
+            thread.start()
+            while loop is None:  # Wait for the loop to be initialized
+                pass
+
+        # Schedule the producer coroutine
+        asyncio.run_coroutine_threadsafe(producer(), loop)
+
+        # Consume items from the queue
+        while True:
+            # Use a thread-safe method to get items from the queue
+            future = asyncio.run_coroutine_threadsafe(queue.get(), loop)
+            item = future.result()  # Block until the item is available
+            if item is None:  # Sentinel value indicates end of iteration
+                break
+            yield item
+    finally:
+        if not running and loop is not None:
+            # Stop the event loop if we created it
+            loop.call_soon_threadsafe(loop.stop)
+            # Wait for the loop to stop
+            if thread is not None:
+                thread.join(timeout=1)  # Wait for the thread to finish
+            # Close the loop
+            loop.close()
 
 
 # API to create a new chat session
