@@ -758,7 +758,7 @@ Parameters:
             StructuredTool.from_function(
                 func=self.HFC_Competitors,
                 description="""
-                Provides a Details about HFC Competitors of ABHFL like Tata Hfc , Bajaj , PNB, ICICI , Aadhar , Aavas
+                Provides a Details about HFC Competitors of ABHFL like Aadhar, Aavas, ABHFL, Godrej, Home First, ICICI HFC, IIFL, PNB, Shriram, TATA Capital, Vaastu
                 """,
             ),
             StructuredTool.from_function(
@@ -787,7 +787,7 @@ PNB
 Shriram
 Tata Capital
 Vaastu
-state (str, required): The state name to filter by.
+state (str, required): The state name to filter by.(note: pass delhi / ncr insted of delhi in state and New Delhi in district)
 district (str, optional): The district name to filter by.
 pincode (int/str, optional): The pincode to filter by.""",
             ),
