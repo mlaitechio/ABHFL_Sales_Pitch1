@@ -359,44 +359,6 @@ class BookmarkMessage(APIView):
             return Response({"detail": f"An error occurred: {str(e)}"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
-    def get(self, request):
-        """
-        Retrieve all bookmarks for a specific user_id.
-        """
-        user_id = request.query_params.get('HF_id')
-
-        # Validate the required data
-        if not user_id:
-            return Response({"detail": "user_id is required."}, status=status.HTTP_400_BAD_REQUEST)
-
-        # Fetch all sessions for the user
-        sessions = ChatSession.objects.filter(user_id=user_id)
-
-        # Fetch all bookmarks for the user's sessions
-        bookmarks = Bookmark.objects.filter(session__in=sessions)
-
-        # Prepare response data
-        response_data = {}
-        for bookmark in bookmarks:
-            session_id = str(bookmark.session.session_id)
-            if session_id not in response_data:
-                response_data[session_id] = {
-                    "session_name": session_id,
-                    "created_on": bookmark.session.created_on,
-                    "bookmarks": []
-                }
-            
-            response_data[session_id]["bookmarks"].append({
-                "ques_id": bookmark.message.ques_id,
-                "input_prompt": bookmark.message.input_prompt,
-                "output": bookmark.message.output,
-                "created_on": bookmark.message.created_on,
-                "feedback": bookmark.message.feedback,
-                "additional_comments": bookmark.message.additional_comments,
-            })
-
-        return Response(response_data.values(), status=status.HTTP_200_OK)
-
 
 # Rename Session View
 class RenameSessionAPIView(APIView):
