@@ -233,7 +233,7 @@ class HistoryAPIView(APIView):
                 
                 # Build response data for each session
                 response_data.append({
-                    'sessionid': session.session_id,
+                    'session_id': session.session_id,
                     'first_message': first_message.input_prompt if first_message else '',
                     'session_name' : session.session_name,
                     'created_on': first_message.created_on if first_message else ""
