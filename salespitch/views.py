@@ -273,64 +273,91 @@ class HistoryAPIView(APIView):
 class BookmarkMessage(APIView):
     def post(self, request):
         """
-        Add a bookmark for a specific message in a session using ques_id.
+        Add a bookmark for a session.
         """
         session_id = request.data.get('session_id')
-        ques_id = request.data.get('ques_id')
 
         # Validate the required data
-        if not session_id or not ques_id:
-            return Response({"detail": "Both session_id and ques_id are required."}, status=status.HTTP_400_BAD_REQUEST)
+        if not session_id:
+            return Response({"detail": "Session_id is required."}, status=status.HTTP_400_BAD_REQUEST)
         
         try:
             # Fetch the session using session_id
             session = ChatSession.objects.get(session_id=session_id)
             
-            # Fetch the message using ques_id and session
-            message = ChatMessage.objects.get(ques_id=ques_id, session=session)
-            
-            # Check if the message is already bookmarked
-            if Bookmark.objects.filter(session=session, message=message).exists():
-                return Response({"detail": "This message is already bookmarked."}, status=status.HTTP_400_BAD_REQUEST)
+            # Check if the session is already bookmarked
+            if Bookmark.objects.filter(session=session).exists():
+                return Response({"detail": "This session is already bookmarked."}, status=status.HTTP_400_BAD_REQUEST)
             
             # Create the bookmark
-            bookmark = Bookmark.objects.create(session=session, message=message)
+            bookmark = Bookmark.objects.create(session=session)
             
             # Serialize the bookmark data for response
             serializer = BookMarkSerializer(bookmark)
+            
             return Response(serializer.data, status=status.HTTP_201_CREATED)
 
         except ChatSession.DoesNotExist:
             return Response({"detail": "Session not found."}, status=status.HTTP_404_NOT_FOUND)
-        except ChatMessage.DoesNotExist:
-            return Response({"detail": "Message not found."}, status=status.HTTP_404_NOT_FOUND)
-
-    def delete(self , request):
+        
+    def delete(self, request):
         session_id = request.data.get('session_id')
-        ques_id = request.data.get('ques_id')
-
 
         # Validate the required data
-        if not session_id or not ques_id:
-            return Response({"detail": "Both session_id and ques_id are required."}, status=status.HTTP_400_BAD_REQUEST)
+        if not session_id:
+            return Response({"detail": "Session_id is required."}, status=status.HTTP_400_BAD_REQUEST)
 
         try:
             # Fetch the session using session_id
             session = ChatSession.objects.get(session_id=session_id)
-            
-            # Fetch the message using ques_id and session
-            message = ChatMessage.objects.get(ques_id=ques_id, session=session)
 
-             # Create the bookmark
-            bookmark = Bookmark.objects.get(session=session, message=message)
+            # Check if a bookmark exists for the session
+            bookmark = Bookmark.objects.get(session=session)
             
+            # Delete the bookmark
             bookmark.delete()
-            return Response({"detail": f"BookMark Deleted succesfully. for {session_id} and {ques_id}"},status=status.HTTP_200_OK)
+            return Response({"detail": f"Bookmark deleted successfully for session {session_id}."}, status=status.HTTP_200_OK)
 
         except ChatSession.DoesNotExist:
             return Response({"detail": "Session not found."}, status=status.HTTP_404_NOT_FOUND)
-        except ChatMessage.DoesNotExist:
-            return Response({"detail": "Message not found."}, status=status.HTTP_404_NOT_FOUND)
+        except Bookmark.DoesNotExist:
+            return Response({"detail": "Bookmark not found for this session."}, status=status.HTTP_404_NOT_FOUND)
+
+    def get(self, request):
+        """
+        Retrieve details for bookmarked sessions for a specific user_id.
+        """
+        user_id = request.query_params.get('HF_id')
+
+        # Validate the required data
+        if not user_id:
+            return Response({"detail": "user_id is required."}, status=status.HTTP_400_BAD_REQUEST)
+
+        try:
+            # Fetch all sessions for the user
+            sessions = ChatSession.objects.filter(user_id=user_id)
+
+            # Fetch only sessions that are bookmarked
+            bookmarks = Bookmark.objects.filter(session__in=sessions).select_related('session')
+            
+            # Prepare response data
+            response_data = []
+            for bookmark in bookmarks:
+                session = bookmark.session
+                session = bookmark.session
+                first_message = ChatMessage.objects.filter(session=session).first()
+                response_data.append({
+                    "session_id": str(session.session_id),
+                    "session_name": session.session_name,
+                    "first_message": first_message.input_prompt if first_message else '',
+                    "created_on": session.created_on,
+                })
+
+            return Response(response_data, status=status.HTTP_200_OK)
+
+        except Exception as e:
+            return Response({"detail": f"An error occurred: {str(e)}"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
 
     def get(self, request):
         """
