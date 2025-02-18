@@ -12,7 +12,7 @@ import asyncio
 import re
 from langchain_core.messages import SystemMessage, AIMessage
 from .stream_structure_agent8 import ABHFL
-
+from threading import Thread
 
 # Render the main page
 def my_view(request):
@@ -158,7 +158,7 @@ class ChatAPIView(APIView):
                     # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
 
                 except Exception as e:
-                    yield f"Error: {str(e)}"
+                    yield f"Something went wrong processing your request. Please try again."
 
             response = StreamingHttpResponse(generate(), content_type="text/event-stream")
             response["Cache-Control"] = "no-cache"
