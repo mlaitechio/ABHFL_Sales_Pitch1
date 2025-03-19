@@ -1,0 +1,127 @@
+Parameters 	Applicable 	Proposed level 
+Plot Purchase (Undertaking for completion of construction within 36 months)	Affordable	Less than 30 lacs - LTV 75% of RV or 90% of COP whichever is lower >30 lacs - < 75 lacs - LTV 75% of RV or 80% of COP whichever is lower > 75 lacs - LTV 75% of RV or COP whichever is lower
+Plot Purchase (Undertaking for completion of construction within 36 months)	Informal	Less than 30 lacs - LTV 75% of RV or 90% of COP whichever is lower >30 lacs - < 75 lacs - LTV 75% of RV or 80% of COP whichever is lower > 75 lacs - LTV 75% of RV or COP whichever is lower
+Plot Purchase (Undertaking for completion of construction within 36 months)	Prime	Less than 30 lacs - LTV 75% of RV or 90% of COP whichever is lower >30 lacs - < 75 lacs - LTV 75% of RV or 80% of COP whichever is lower > 75 lacs - LTV 75% of RV or COP whichever is lower
+P+C cases (Undertaking for completion of construction within 36 months)	Affordable	Overall P+C LTV
+Loan <30 Lakhs: 90%
+Loan 30-75 Lakhs: 80%
+Loan >75 L: 75%
+Disbursal 
+▪ Plot LTV — 75% on Realisable value or Regulatory LTV on Documented Value (as defined in plot purchase LTV grid) whichever is lower. 
+▪ Up to 100% of construction cost(prepared by a Chartered Engineer/ Architect/ Civil Contractor and as verified by our panel valuer/technical team) subject to overall LTV within the above norms
+
+Sanction Condition: Disbursal towards Plot purchase not to be more than 75% of RV of plot.
+P+C cases (Undertaking for completion of construction within 36 months)	Informal	Overall P+C LTV
+Loan <30 Lakhs: 90%
+Loan 30-75 Lakhs: 80%
+Loan >75 L: 75%
+Disbursal 
+▪ Plot LTV — 75% on Realisable value or Regulatory LTV on Documented Value (as defined in plot purchase LTV grid) whichever is lower. 
+▪ Up to 100% of construction cost(prepared by a Chartered Engineer/ Architect/ Civil Contractor and as verified by our panel valuer/technical team) subject to overall LTV within the above norms
+
+Sanction Condition: Disbursal towards Plot purchase not to be more than 75% of RV of plot.
+P+C cases (Undertaking for completion of construction within 36 months)	Prime	Overall P+C LTV
+Loan <30 Lakhs: 90%
+Loan 30-75 Lakhs: 80%
+Loan >75 L: 75%
+Disbursal 
+▪ Plot LTV — 75% on Realisable value or Regulatory LTV on Documented Value (as defined in plot purchase LTV grid) whichever is lower. 
+▪ Up to 100% of construction cost(prepared by a Chartered Engineer/ Architect/ Civil Contractor and as verified by our panel valuer/technical team) subject to overall LTV within the above norms
+
+Sanction Condition: Disbursal towards Plot purchase not to be more than 75% of RV of plot.
+Plot LAP LTV	Affordable	LTV of 50% for residential & 40% for commercial plot 
+Applicable for type 1 & 2 property 
+No GO – Type 3 & 4
+Plot LAP LTV	Informal	LTV of 50% for residential & 40% for commercial plot 
+Applicable for type 1 & 2 property 
+No GO – Type 3 & 4
+Plot Purchase loan Tenure - SENP, Salaried	Affordable	Max tenure – 20 years
+Plot Purchase loan Tenure - SENP, Salaried	Informal	Max tenure – 20 years
+Plot Purchase loan Tenure - SENP, Salaried	Prime	Max tenure – 20 years
+Home Improvement Loan	Affordable	Max tenure – 15 years
+Home Improvement Loan	Informal	Max tenure – 15 years
+Home Improvement Loan	Prime	Max tenure – 15 years
+FOIR for Third party Funding – MG premium/Insurance Premium/Property/Health Insurance/PF	Affordable	Max FOIR upto 8%
+FOIR for Third party Funding - MG premium/Insurance Premium/Property/Health Insurance/PF	Informal	Max FOIR upto 8%
+FOIR for Third party Funding - MG premium/Insurance Premium/Property/Health Insurance/PF	Prime	Max FOIR upto 8%
+Income Ownership Grid & Clubbing of Income	Informal	Clubbing of Income: Income of Immediate Family can be clubbed subject to staying in same house and coming on loan structure. Immediate Family can include – Father, Mother, Son, Spouse, Brother. Deviation: Daughter, Son-in-Law, Daughter-In-Law, Sister-Sister, Brother Sister
+Business Proof	Informal	1. Proof of Business to be established by credit manager during PD using surrogates like third party verification, reference checks (in absence of documents) 
+2. 3rd party RCU verification of the Business proof established by Credit Managers
+
+
+
+Parameters 	Applicable 	Deviation Type 	Proposed level 
+Income Ownership Matrix 	Affordable	Manual 	ZCM 
+Income Ownership Matrix 	Informal 	Manual 	ZCM 
+IMGC waiver Deviation 	Informal 	Manual 	RCM 
+MG premium/Insurance Premium/Property/Health Insurance/PF can up to 5% of loan amount 	Affordable	Manual 	5% - 8%: No Deviation 
+>8%: NCM 
+MG premium/Insurance Premium/Property/Health Insurance/PF can up to 5% of loan amount 	Informal 	Manual 	5% - 8%: No Deviation 
+>8%: NCM 
+Cibil /Bureau Deviations Loan Amount upto 50 lacs - Bureau Scorecard Range (D6-D10) 	Prime	Auto 	Upto 50 lacs – No Deviation applicable 
+Cibil /Bureau Deviations Loan Amount upto 50 lacs - Bureau Scorecard Range (D6-D10) 	Affordable	Auto 	Upto 50 lacs – No Deviation applicable 
+Cibil /Bureau Deviations Loan Amount upto 50 lacs - Bureau Scorecard Range (D6-D10) 	Informal 	Auto 	Upto 50 lacs – No Deviation applicable 
+Cibil score (675-700) - < 50 lacs Loan amount 
+(Applicable only for decile other than 6 -10 ) 	Affordable	Auto 	650-700: ZCM 
+<650: NCM 
+Applicable only for decile other than 6 -10 
+Cibil score (675-700) - < 50 lacs Loan amount 
+(Applicable only for decile other than 6 -10 ) 	Prime 	Auto 	650-700: ZCM 
+<650: NCM 
+Applicable only for decile other than 6 -10 
+Cibil score (675-700) - < 50 lacs Loan amount 
+(Applicable only for decile other than 6 -10 ) 	Informal 	Auto 	650-700: ZCM 
+<650: NCM 
+Applicable only for decile other than 6 -10 
+
+CIBIL score (675-700) - > 50 lacs Loan amount 	Prime	Auto 	650 - 700: NCM 
+< 650 : CCO 
+score (675-700) - > 50 lacs Loan amount 	Affordable	Auto 	650 - 700: NCM 
+< 650 : CCO 
+score (675-700) - > 50 lacs Loan amount 	Informal 	Auto 	650 - 700: NCM 
+< 650 : CCO 
+
+Parameters 	Applicable 	Deviation Type 	Proposed level 
+Form 16 not available for Bank Credit Salary 	Prime	Auto 	ACM 
+Form 16 not available for Bank Credit Salary 	Affordable	Auto 	ACM 
+Form 16 not available for Bank Credit Salary 	Informal 	Auto 	ACM 
+LAP Plot Funding 	Prime	Manual 	Home Equity Plot funded in line with Market Value Funding Norms to be removed 
+LAP Plot in income methods – to be removed 
+Lap Plot under surrogate income : NCM 
+LAP Plot Funding 	Affordable	Manual 	Home Equity Plot funded in line with Market Value Funding Norms to be removed 
+LAP Plot in income methods – to be removed 
+Lap Plot under surrogate income : NCM 
+LAP Plot Funding 	Informal 	Manual 	Home Equity Plot funded in line with Market Value Funding Norms to be removed 
+LAP Plot in income methods – to be removed 
+Lap Plot under surrogate income : NCM 
+ITR GAP less than 6 months for surrogate programs - CM assessed, Low LTV, ABP 	Prime	Auto 	To be removed 
+ITR GAP less than 6 months for surrogate programs - CM assessed, Low LTV, ABP 	Affordable	Auto 	To be removed 
+ITR GAP less than 6 months for surrogate programs - CM assessed, Low LTV, ABP 	Informal 	Auto 	To be removed 
+ITR GAP less than 6 months for Income Programs 	Prime	Auto 	ZCM 
+ITR GAP less than 6 months for Income Programs 	Affordable	Auto 	ZCM 
+ITR GAP less than 6 months for Income Programs 	Informal 	Auto 	ZCM 
+Salaried Max Age at Maturity: 65 – 70 years 
+Self Employed at Maturity Age: 75 – 80 Years 	Affordable	Auto 	ZCM 
+Salaried Max Age at Maturity: 65 – 70 years 
+Self Employed at Maturity Age: 75 – 80 Years 	Prime 	Auto 	ZCM 
+Salaried Max Age at Maturity: 65 – 70 years 
+Self Employed at Maturity Age: 75 – 80 Years 	Informal 	Auto 	ZCM 
+Non - Financial Property owner age at Maturity: 80-85 years 	Prime	Auto 	RCM 
+Non - Financial Property owner age at Maturity: 80-85 years 	Affordable	Auto 	RCM 
+Non - Financial Property owner age at Maturity: 80-85 years 	Informal 	Auto 	RCM 
+Non - Financial Non property owner-age at Maturity 85 - 90 Years 	Prime	Auto 	RCM 
+No Go above – 90 years 
+Non - Financial Non property owner-age at Maturity 85 - 90 Years 	Affordable	Auto 	RCM 
+No Go above – 90 years 
+Non - Financial Non property owner-age at Maturity 85 - 90 Years 	Informal 	Auto 	RCM 
+No Go above – 90 years 
+Loan Tenure greater than defined policy tenure 	Prime	Auto 	NCM 
+Loan Tenure greater than defined policy tenure 	Affordable	Auto 	NCM 
+Loan Tenure greater than defined policy tenure 	Informal 	Auto 	NCM 
+Deviation in any norms of Micro LAP-Product 	Affordable  	As per the Respective Deviation 	As per defined deviation Matrix 
+Deviation in any norms of Micro LAP-Product 	Informal 	As per the Respective Deviation 	As per defined deviation Matrix 
+Non self-occupied properties in Micro LAP 	Micro LAP 	Auto 	Vacant: NCM 
+Rented: ZCM 
+Current Residence stability of < 1 year 	Micro LAP 	Auto 	NCM 
+BT norms not met for Micro LAP 	Micro LAP 	Auto 	NCM 
+Location and type of property loan amount cap Breach 	Micro LAP 	Auto 	CCO 

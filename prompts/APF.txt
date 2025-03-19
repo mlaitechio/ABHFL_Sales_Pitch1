@@ -1,0 +1,329 @@
+APF
+1. What is APF?
+APF stands for Advance Processing Facility. It is a process introduced by ABHFL to approve upcoming builder projects in advance, either with or without a customer proposal. The focus is on the appraisal of the project’s title and technical aspects. Once a project is approved, subsequent customer proposals for properties within the project require less documentation, as the project has already been appraised.
+2. What is the purpose of the APF?
+The purpose of the APF is to increase efficiency and reduce delays in servicing customers. By approving builder projects in advance, ABHFL ensures that only the title related to a specific property is verified when a customer decides to purchase it, which accelerates the approval process for individual transactions.
+3. How does the APF process work?
+•	Builder Approval: The builder's project is reviewed and approved by ABHFL in advance, focusing on technical aspects and the project's title.
+•	Project Approval: Once a project is approved, it can be used for subsequent customer proposals without needing to repeat the initial appraisals. Only the title of the property is verified when a customer approaches with a proposal.
+4. What benefits does APF offer?
+•	Reduced Documentation: As the project is already approved, subsequent customer proposals require less documentation.
+•	Faster Turnaround Time: With prior approval, the processing time for subsequent cases is shortened.
+•	Efficient Use of Resources: Less effort is needed for reviewing the same project multiple times.
+•	Special Schemes for Groups: APF allows for customized schemes for groups of customers purchasing within the same approved project.
+5. What is the difference between builder approval and project approval under APF?
+•	Builder Approval is the initial approval of the builder's project, which includes the technical evaluation and title check.
+•	Project Approval occurs after the builder’s project is approved and allows for faster processing of customer proposals related to that project.
+6. What happens if a project receives conditional approval under APF?
+If a project is given a conditional approval, ABHFL will conduct a detailed scrutiny to ensure that all observations and conditions are met before proceeding with any further approvals.
+7. What types of cases are disbursed based on APF?
+All fresh purchases and builder transfer under construction cases are disbursed based on the APF, provided the project has been previously approved.
+8. Can APF be used for projects without customer proposals?
+Yes, APF can be used for projects that are approved even without any specific customer proposal. This proactive approach allows for faster processing when customers later decide to purchase property in the approved project.
+9. Is the title of the property verified after project approval?
+After the initial project approval, only the title related to the specific property is verified when a customer submits a proposal to purchase a unit within the project.
+10. Who recommends projects for APF approval?
+Projects are recommended for APF approval by the sales team of ABHFL, ensuring that the proposed builder projects meet the required technical and title criteria.
+11. What is the purpose of tracking ABHFL's exposure towards specific builders and projects?
+ABHFL tracks its exposure towards specific builders and projects to safeguard its interests. The real estate industry is highly susceptible to economic and regulatory changes. The lifecycle of a project depends on both the builder/developer and the specific project, meaning any negative news or sentiment about either could impact ABHFL's exposure. Therefore, exposure limits are set to minimize risk.
+12. How is Project Exposure defined?
+Project exposure refers to the total exposure in a project, including all types of transactions, until the project achieves 100% of the construction stage or the occupation certificate/completion certificate is available. This includes transactions such as fresh purchases from the builder, resale, Balance Transfer (BT), and Balance Transfer of Title (BTT).
+13. How is project exposure calculated?
+Project exposure is calculated based on the total number of units in the project. All types of transactions, including fresh purchases, resale, BT, and BTT, contribute to the total exposure. The exposure is tracked until the project reaches 100% construction completion or receives the necessary certification.
+14. What are the exposure limits for builders based on their category?
+The exposure limits for each builder category are set as follows:
+•	Category A Builders: Exposure limit on no. of units is 25% of the total units in the project.
+•	Category B Builders: Exposure limit on no. of units is 15% of the total units in the project.
+•	Category C Builders: Exposure limit on no. of units is 10% of the total units in the project.
+15. What are the recommended exposure limits for Builder Groups?
+The recommended exposure limits for Builder Groups, based on the category of the builder, are:
+•	Category A Builders: Rs. 70 Crores (limited to home loan & commercial purchase exposure only, excluding construction finance)
+•	Category B Builders: Rs. 20 Crores (limited to home loan & commercial purchase exposure only, excluding construction finance)
+•	Category C Builders: Rs. 10 Crores (limited to home loan & commercial purchase exposure only, excluding construction finance)
+16. What does the term “Builder Exposure” refer to?
+Builder exposure refers to the total value of exposure ABHFL has with a specific builder/developer, calculated in INR. It is based on the sanctioned amount for home loans and commercial purchases, excluding construction finance.
+17. What types of transactions are included in the exposure calculation?
+All types of transactions that contribute to exposure are:
+•	Fresh purchases from the builder.
+•	Resale transactions.
+•	Balance Transfer (BT) transactions.
+•	Balance Transfer of Title (BTT) transactions.
+18. What does "exposure limit based on sanction amount" mean?
+The exposure limit is calculated based on the sanction amount, which is the total amount approved for a particular loan or purchase. This is the maximum exposure ABHFL can have with any builder or developer, based on the builder category.
+19. Does the exposure limit include construction finance?
+No, the exposure limit mentioned does not include construction finance. It is limited to home loans and commercial purchase exposure only.
+20. Why are exposure limits necessary for ABHFL?
+Exposure limits are necessary to minimize risk and ensure ABHFL’s financial stability. Since the real estate market is vulnerable to changes in economic and regulatory conditions, these limits protect ABHFL from excessive exposure to a single builder or project, reducing the overall risk.
+21. Can the exposure limits change?
+Exposure limits are set based on the builder category and type of transaction. While they are standardized, any significant changes in the industry or ABHFL's internal policies could potentially lead to adjustments in the exposure limits. Any such changes would be communicated appropriately.
+22. How does the builder category (A, B, C) impact the exposure limit?
+The builder category determines the maximum exposure ABHFL can have in a project or with a particular builder. Builders in Category A have the highest exposure limit, while those in Categories B and C have progressively lower exposure limits. This is based on the perceived risk and the financial strength of the builder/developer.
+23. Why does ABHFL track exposure towards specific builders and projects?
+ABHFL tracks exposure to specific builders and projects to minimize financial risk. The real estate industry is subject to economic and regulatory changes that can affect builders and their projects. Tracking exposure ensures ABHFL can manage its risk and avoid over-exposure to any single builder or project.
+24. What is meant by 'Project Exposure'?
+Project exposure refers to the total value of ABHFL’s involvement in a real estate project, including all types of transactions such as fresh purchases, resales, Balance Transfers (BT), and Balance Transfers of Title (BTT). It is tracked until the project reaches 100% construction completion or receives an occupation/completion certificate.
+25. How is Project Exposure calculated?
+Project exposure is calculated by adding up all types of transactions in a project (fresh purchases, resales, BT, and BTT) relative to the total number of units in the project. Exposure is tracked until the project is fully completed or has received necessary certification.
+26. What are the exposure limits for builders based on their category?
+Exposure limits for builders are set according to their category:
+•	Category A Builders: Maximum exposure limit is 25% of the total units in the project.
+•	Category B Builders: Maximum exposure limit is 15% of the total units in the project.
+•	Category C Builders: Maximum exposure limit is 10% of the total units in the project.
+27. What are the recommended exposure limits for Builder Groups?
+The recommended exposure limits for Builder Groups, based on their category, are:
+•	Category A Builders: Rs. 70 Crores (limited to home loan & commercial purchase exposure, excluding construction finance).
+•	Category B Builders: Rs. 20 Crores (limited to home loan & commercial purchase exposure, excluding construction finance).
+•	Category C Builders: Rs. 10 Crores (limited to home loan & commercial purchase exposure, excluding construction finance).
+28. What is meant by 'Builder Exposure'?
+Builder exposure refers to the total value of ABHFL's involvement with a specific builder or developer. It is calculated based on the total sanctioned amounts for home loans and commercial purchases, excluding construction finance.
+29. What types of transactions contribute to the exposure calculation?
+The following transactions contribute to the exposure calculation:
+•	Fresh purchases from the builder.
+•	Resale transactions.
+•	Balance Transfer (BT) transactions.
+•	Balance Transfer of Title (BTT) transactions.
+30. What does the term 'Exposure Limit Based on Sanction Amount' mean?
+The exposure limit is calculated based on the sanctioned amount, which is the total loan or purchase amount approved for a particular transaction. This is the maximum exposure ABHFL can have with any builder or developer, depending on their category.
+31. Does the exposure limit include construction finance?
+No, the exposure limit does not include construction finance. It is limited to home loans and commercial purchase exposure only.
+32. Why are exposure limits important for ABHFL?
+Exposure limits are essential to minimize financial risks. The real estate market is prone to fluctuations due to economic and regulatory changes. Exposure limits help ABHFL avoid over-exposure to any single project or builder, ensuring the company's financial stability and reducing risk.
+33. Can the exposure limits change?
+While exposure limits are based on builder categories and transaction types, they could be adjusted if there are significant changes in the industry or internal ABHFL policies. Any changes would be communicated to relevant stakeholders.
+34. How does the builder category (A, B, C) affect the exposure limit?
+The builder category determines the exposure limits ABHFL can have for a specific builder or project. Category A builders have the highest exposure limit due to their financial strength and stability. Category B builders have moderate limits, and Category C builders have the lowest limits, as they are considered higher risk.
+35. What are the required ownership documents for property transactions?
+Answer:
+The ownership documents include the following:
+•	Draft Agreement (Builder Buyer Agreement/Agreement to Sale)
+•	Sale Deed/Lease Deed/Development Agreement/Joint Venture (JV) Agreement
+•	Power of Attorney (in case of Development/JV Agreement)
+•	Partnership Deed, Articles of Incorporation, Board Resolution, Authority Letter, or Power of Attorney for the developer
+•	Chain of past ownership documents for the last 13 years
+•	Record of rights for 13 years (for non-development authority properties)
+•	Title and search report from an advocate
+•	Any other documents executed for property title transfer
+36. What project-specific documents are required?
+Answer:
+The project-specific documents include:
+•	Approved layout and sanctioned plans (floor plans, section plans, FSI statement)
+•	Commencement Certificate or Construction Permission
+•	Plinth Completion Certificate (if applicable)
+•	License or License renewal letter
+•	RERA Certificate (if applicable)
+•	7/12 extract or equivalent document (if applicable)
+•	Encumbrance Certificate (if applicable)
+•	Non-Agricultural (NA) order/land conversion order (if applicable)
+•	NA Tax Paid Receipt (if applicable)
+•	Index II issued by sub-registrar (if applicable)
+•	Urban Land Ceiling Clearance (if applicable)
+•	Environmental Clearance NOC for projects above 20,000 square meters
+•	Height Clearance/ Airport Authority NOC (if applicable)
+•	Lease payment schedule and receipts (if leasehold property)
+•	Deferred lease premium instalment details (if applicable)
+•	Other required approvals (e.g., Fire, Water, Pollution, Electricity NOCs)
+37. What are the required documents from the builder?
+Answer:
+The builder’s documents include:
+•	Project brochure and site visit report
+•	Bank account details on the developer’s letterhead
+•	Architect certificate with details of unit types, carpet area, built-up area (BUA), and unit inventory
+•	Construction linked payment plan as per the sale agreement
+•	Builder KYC and RCU (Regulatory Compliance Unit)
+•	MOU/MOA/AOA/Company Incorporation Certificate or Partnership Deed
+•	Board Resolution or Letter of Signing Authority (if applicable)
+•	Project unit inventory, including unit number, type, carpet area, saleable area, and tower/block/wing details
+•	Cancelled cheque, mail confirmation on official email ID, or bank statement
+38. What documents are required if the property is a leasehold?
+Answer:
+For leasehold properties, the following documents are required:
+•	Lease payment schedule and payment receipts
+•	Deferred lease premium instalments (if applicable)
+•	Payment schedule for EDC/IDC (if the property is in Delhi-NCR)
+39. Are environmental clearances needed for all projects?
+Answer:
+Environmental clearance is required only for projects that cover more than 20,000 square meters of land area. A No Objection Certificate (NOC) from the relevant environmental authorities will be needed.
+40. Is the project required to have a RERA Certificate?
+Answer:
+A RERA (Real Estate Regulatory Authority) Certificate is required if applicable. It applies to projects where the local regulatory authority mandates RERA registration.
+41. What is the importance of the Title and Search Report?
+Answer:
+The Title and Search Report provides a legal review of the property’s ownership history and verifies that the seller has clear, marketable title to the property. It’s an essential document for ensuring that there are no legal disputes or encumbrances on the property.
+42. What are the required documents for a development agreement or JV agreement?
+Answer:
+For a development or Joint Venture (JV) agreement, you must submit:
+•	Power of Attorney
+•	Development Agreement or JV Agreement document
+•	Partnership Deed or Articles of Incorporation for the developer entity
+43. What types of approvals or NOCs may be required for the project?
+Answer:
+Various approvals and NOCs may be required, such as:
+•	Fire Department NOC
+•	Pollution Control NOC
+•	Police Department NOC
+•	Water and Electricity supply approvals
+•	Storm Water Drain approvals
+•	Highway NOC
+•	Airport Authority clearance
+•	Urban Land Ceiling clearance
+44. Do I need to submit a copy of the approved layout plans for the project?
+Answer:
+Yes, a copy of the approved layout plans must be submitted, along with the set of approved/sanctioned plans for all buildings within the project, including floor plans, section plans, and the FSI (Floor Space Index) statement.
+45. What is the purpose of submitting a project cost sheet?
+Answer:
+The project cost sheet provides a detailed breakdown of the total project cost, helping to assess the financial feasibility and investment requirements for the project. It serves as an important document for financial evaluations and regulatory compliance.
+46. Do I need to provide any proof of payments made for leasehold properties?
+Answer:
+Yes, for leasehold properties, you will need to provide the lease payment schedule, payment receipts, or other relevant documents that show payments have been made. For deferred lease premiums, these details must also be submitted.
+47. Is there a need to provide any documents related to the property’s title transfer?
+Answer:
+Yes, any documents executed for the transfer of title of the property must be submitted. These may include the sale deed, lease deed, or any other documents that prove the legal transfer of ownership of the property.
+48. How are builders classified according to the scoring system?
+Answer:
+Builders are classified into three categories based on a scoring model:
+•	CAT A: Builders with a score of >7
+•	CAT B: Builders with a score ranging from 5 to 7
+•	CAT C: Builders with a score of <5
+49. What is the process for collecting information about builders?
+Answer:
+The Sales team is responsible for collecting builder information using a prescribed format. Effort should be made to gather as much comprehensive information as possible to cover all relevant aspects. The collected data is then verified by the Regional Credit/Regional Technical teams before being categorized according to the builder scoring model.
+50. What is the purpose of the builder classification system?
+Answer:
+The purpose of the builder classification system is to assess and categorize builders based on various factors and their ability to meet specific criteria. This helps in evaluating the builder’s credibility, reliability, and performance, ensuring that the right level of risk is associated with working with each builder category.
+51. What factors contribute to a builder's score?
+Answer:
+The builder's score is determined by several factors, which may include (but are not limited to):
+•	Financial stability and credit history
+•	Previous project completion and delivery timelines
+•	Legal and regulatory compliance
+•	Quality of construction and past project reviews
+•	Market reputation and overall business practices
+•	Builder’s history in handling customer complaints and claims
+
+52. Who verifies the information provided about builders?
+Answer:
+The information collected by the Sales team is verified by the Regional Credit and Regional Technical teams. After the verification, the builder is classified into one of the categories based on the builder scoring model.
+53. How does the builder category affect the business?
+Answer:
+The builder category directly impacts the level of risk associated with engaging in projects with them.
+•	CAT A builders (with a score of >7) are considered highly reliable and pose lower risk.
+•	CAT B builders (with a score of 5-7) are considered moderately reliable, with some potential risks.
+•	CAT C builders (with a score of <5) may carry a higher risk, which means additional scrutiny or mitigation strategies may be required.
+54. What happens if a builder falls into CAT C (score <5)?
+Answer:
+Builders in CAT C (with a score <5) are considered high-risk and may face restrictions when it comes to project financing or partnerships. The company may require additional documentation, guarantees, or assurances to mitigate potential risks. Additionally, the sales and credit teams may take extra precautions when dealing with such builders.
+55. Can a builder move from one category to another?
+Answer:
+Yes, a builder can move between categories based on changes in their performance, creditworthiness, or other relevant criteria. For example:
+•	A CAT B builder (score 5-7) may be promoted to CAT A (score >7) if they improve their performance, project quality, or financial stability.
+•	Similarly, a CAT A builder may be downgraded to CAT B or CAT C if their performance declines or they encounter legal or financial issues.
+56. How often is a builder’s score updated?
+Answer:
+A builder’s score should be periodically reviewed and updated based on the latest information available about their financial health, project completion rates, and other performance factors. This helps ensure that the classification reflects their current standing in the market.
+57. How does the builder scoring model impact project decisions?
+Answer:
+The builder’s score impacts key project decisions such as:
+•	Financing: Higher scoring builders may qualify for better financing options.
+•	Risk Assessment: Builders in higher categories are seen as lower risk, whereas those in lower categories may require more oversight.
+•	Contract Terms: Builders in higher categories might be offered more favorable contract terms and quicker approval processes.
+•	Customer Assurance: A builder’s category also helps inform customers about the builder’s reliability and reputation.
+58. What specific information is collected about builders by the Sales team?
+Answer:
+The Sales team is required to collect detailed builder information using a prescribed format. This information covers various aspects such as:
+•	Company structure (partnership, corporation, etc.)
+•	Past project history and references
+•	Financial standing and creditworthiness
+•	Legal and regulatory compliance
+•	Market reputation and customer reviews
+•	Ongoing and upcoming projects
+59. Is the builder's scoring model publicly available?
+Answer:
+The specific scoring model (as detailed in Annexure 01) is not always publicly available, as it is typically used internally for evaluation and categorization purposes. However, the general principles and criteria are usually shared with relevant teams involved in project evaluation and risk assessment.
+60. Who can access the builder’s score and classification details?
+Answer:
+The builder’s score and classification details are generally accessible to internal teams involved in credit assessment, risk management, project approvals, and sales. This information is used to make informed decisions regarding partnerships, project financing, and overall business relationships.
+61. What is the Builder Scoring Model?
+Answer:
+The Builder Scoring Model is a systematic way of evaluating builders based on various criteria such as experience, project size, market feedback, innovation, ongoing projects, and the number of projects completed. The model assigns scores to each parameter, and a weighted score is calculated to categorize the builder into CAT A, CAT B, or CAT C. The final score helps assess the reliability and performance of a builder for business decisions.
+62. How is the builder’s score calculated?
+Answer:
+The builder’s score is calculated based on multiple factors, each contributing to a weighted score. Some of the key parameters include:
+•	Years of relevant experience in the industry.
+•	Project size (number of units built).
+•	Market/customer reviews (feedback on past projects).
+•	Innovation in construction/design (use of advanced methodologies or green building techniques).
+•	Ongoing projects and unsold stock from previous projects.
+•	Number of projects handed over in the past 5 years.
+•	Stalled or slow-moving projects.
+Each parameter is assigned a score, and a weighted multiplier is applied based on the location and type of projects (e.g., Mumbai & Delhi or CAT A/B/C locations). The final score is used to determine the builder's category.
+63. What factors influence the builder's category (CAT A, B, C)?
+Answer:
+The builder is categorized as CAT A, CAT B, or CAT C based on their total score:
+•	CAT A: Builders with scores greater than 7 are considered high performers with minimal risk.
+•	CAT B: Builders with scores ranging from 5 to 7 are considered moderate risk.
+•	CAT C: Builders with scores less than 5 are high-risk builders.
+Factors that influence the score include the builder's experience, the number of ongoing or completed projects, market reviews, and the number of units built.
+64. How is the builder's experience evaluated?
+Answer:
+The builder's experience is assessed based on the number of years in the business. The scoring system assigns the following scores based on years of experience:
+•	<3 years: Score = 0
+•	3 to 5 years: Score = 7
+•	5 to 10 years: Score = 6
+•	10 to 17 years: Score = 7
+•	17 to 24 years: Score = 8
+•	>25 years: Score = 10
+65. How are the number of units built by the builder factored into the score?
+Answer:
+The number of units built by the builder plays a significant role in the scoring. The following scale is used:
+•	>500 units: Score = 5
+•	301-500 units: Score = 4
+•	101-300 units: Score = 3
+•	50-100 units: Score = 2
+•	<50 units: Score = 1
+The location also impacts the weight of the score, with different multipliers applied for Top 9 cities excluding Mumbai & Delhi, CAT A locations, and CAT B & C locations.
+66. What is the impact of market/customer reviews on the builder's score?
+Answer:
+Market/customer reviews significantly influence the builder's score. Reviews related to delayed projects, stalled projects, and overall customer satisfaction are considered:
+•	Delayed by 6 months to 1 year: Score = 0
+•	Delayed by 1-2 years: Score = 0
+•	Delayed by more than 2 years: Score = 0
+•	Stalled projects: Score = 0
+•	Positive reviews (Excellent feedback): Positive scores added.
+Builders with positive market reviews will see an increase in their score.
+67. How is innovation in construction/design assessed?
+Answer:
+Innovation is assessed based on the use of advanced construction methodologies or green building techniques. The scoring categories include:
+•	Conventional construction: Score = 0
+•	Green building using conventional methods: Score = 5
+•	Advanced construction methodology: Score = 7
+•	Green building using advanced methods: Score = 10
+Innovative and sustainable practices help increase the builder’s score.
+68. How does the number of ongoing projects affect the builder’s score?
+Answer:
+The number of ongoing projects directly impacts the builder's score. Builders with a larger number of ongoing projects are evaluated based on the scale of their operations:
+•	For Mumbai & Delhi: More ongoing projects lead to a higher score.
+•	CAT A & B & C locations: Different scoring is applied depending on the number of ongoing projects, with higher numbers yielding better scores.
+The score is also adjusted based on whether the builder has unsold stock in previous projects.
+69. How does the builder's track record on project delivery affect their score?
+Answer:
+The builder's track record on past project handovers is assessed based on the number of projects successfully handed over in the last 5 years:
+•	>5 years: Score = 10
+•	3-5 years: Score = 7
+•	1-3 years: Score = 5
+•	<1 year: Score = 0
+The builder is rewarded with a higher score for a strong record of on-time project delivery.
+70. How is the issue of stalled or slow-moving projects factored in?
+Answer:
+Stalled or slow-moving projects can negatively impact the builder’s score. Builders with a high number of stalled or slow-moving projects may receive a negative score multiplier. For example:
+•	Builders with more than 30% stalled projects may face a score reduction of -1.5.
+•	Builders with <10% stalled projects will generally not face a score penalty.
+71. How does the builder’s administrative office setup impact the score?
+Answer:
+The builder’s administrative office setup is another factor considered for scoring. Builders with a permanent administrative office setup for the past 5 years score higher. For instance:
+•	Permanent setup for 5+ years: Score = 10
+•	Setup for less than 5 years: Lower scores are assigned.
+This reflects the stability and professionalism of the builder’s operations.
+
+72. How does the location of a project influence the builder's score?
+Answer:
+The location of the project plays a significant role in the scoring process. Builders working in Top 9 cities, Mumbai & Delhi, or CAT A locations tend to get higher scores compared to builders working in CAT B & C locations. The score is weighted based on the location's market potential and the builder’s experience in those regions.

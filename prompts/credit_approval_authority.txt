@@ -1,0 +1,44 @@
+Credit Approval Authorization Matrix
+Member/
+Committee	Member	Authority Level	Revised Approval Limits (in Rs.)
+(All Markets)
+CM	Credit Manager	L2	Prime: <=75.0 Lakhs
+CM	Credit Manager	L2	Affordable: <=30.0 Lakhs
+CM	Credit Manager	L2	Informal: <=25.0 Lakhs
+ACM	Area Credit Manager	L2	Prime: <=100.0 Lakhs
+ACM	Area Credit Manager	L2	Affordable: <=50.0 Lakhs
+ACM	Area Credit Manager	L2	Informal: <=30.0 Lakhs
+RCM	Regional Credit Manager*	L3	Prime: <=200.0 Lakhs
+RCM	Regional Credit Manager*	L3	Affordable:  <=75.0 Lakhs
+RCM	Regional Credit Manager*	L3	Informal: <=50.0 Lakhs
+ZCM	Zonal Credit Manager*	L4	Retail Loans: <=3.0 Cr
+NCM	National Credit Manager*	L5	Retail Loans: <=10.0 Cr
+CCO	Chief Credit Officer	L6	Retail Loans <=40.0 Cr
+NCC1	Managing Director & Chief Executive Officer & Chief Credit Officer	L7	Retail Loans <=80.0 Cr
+CCC	Managing Director & Chief Executive Officer (MD & CEO), Chief Credit Officer, Director – ABHFL	L7	Retail Loans >=80.0 Cr
+1.	Individual Authority Changes
+
+*Product Level Max Loan Amount limits are applicable at 1.5 Cr for Affordable and 75 Lacs for Informal
+
+2.	Absolute Authority Changes
+Credit Approval Authorization Matrix
+Member/
+Committee	Member	Authority Level	Revised Approval Limits (in Rs.)
+(All Markets)
+CM	Credit Manager	L4	Prime: =< 50 Lakhs
+CM	Credit Manager	L4	Affordable: =< 20 Lakhs
+CM	Credit Manager	L4	Informal: =< 15 Lakhs
+ACM	Area Credit Manager	L4	Prime: =< 75 Lakhs
+ACM	Area Credit Manager	L4	Affordable: =< 30 Lakhs
+ACM	Area Credit Manager	L4	Informal: =< 20 Lakhs
+RCM	Regional Credit Manager	L4	Prime: =< 150 Lakhs
+RCM	Regional Credit Manager	L4	Affordable: =< 50 Lakhs
+RCM	Regional Credit Manager	L4	Informal: =< 35 Lakhs
+ZCM	Zonal Credit Manager*	L5	Prime: =< 200 Lakhs
+ZCM	Zonal Credit Manager*	L5	Affordable: =< 75 Lakhs
+ZCM	Zonal Credit Manager*	L5	Informal: =< 75 Lakhs
+NCM	National Credit Manager*	L5	Retail Loans: =< 10 Cr.
+CCO	Chief Credit Officer	L6	Retail Loans: =< 40 Cr.
+NCC1	Managing Director & Chief Executive Officer & Chief Credit Officer	L7	Retail Loans: =< 80 Cr.
+CCC	Managing Director & Chief Executive Officer (MD & CEO), Chief Credit Officer, Director – ABHFL	L7	Retail Loans: =< 80 Cr.
+*Product Level Max Loan Amount limits are applicable at 1.5 Cr for Affordable and 75 Lacs for Informal

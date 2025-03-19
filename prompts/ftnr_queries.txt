@@ -1,0 +1,187 @@
+Major FTNR Queries
+
+3
+ Points to be followed
+– To avoid major FTNR Queries
+
+ 4
+  Bank Statement not available/Incomplete
+
+            Account Aggregrator             AA Supported Bank List – Updated as on 31st Jan’25
+                                                                                      Indian Overseas Bank
+    The sourcing colleague is          HDFC Bank               Punjab National Bank   IDBI Bank
+    required to share a link with      Axis Bank               Karnataka Bank         Punjab & Sind Bank
+    customers to complete the          Kotak Mahindra Bank     Yes Bank               Federal Bank
+    account aggregator process for     Bank of India           Indian Bank            RBL Bank
+    the listed 28 banks. Multiple      Canara Bank             Bank of Baroda         Bank of Maharashtra
+    bank     statements     can  be    State Bank of India     Union Bank of India    UCO Bank
+    processed using the account        AU Small Finance Bank   IndusInd Bank          Fincare Small Finance Bank
+    aggregator. For banks not          ICICI Bank              Karur Vysya Bank
+    included in the list, statements                                                  Andhra Pradesh Grameena Vikas
+                                       IDFC First Bank         South Indian Bank      Bank
+    must be uploaded via Finverse.
+    Check the required statement                                                      Sarva Haryana Gramin Bank
+    duration for both salaried and
+    self-employed individuals.
+
+5
+  Bank Statement not available/Incomplete
+
+
+                Bank statement for                                   Bank statement for
+                Salaried Customer                                    Self-Employed
+            For fresh transactions, the last 6 month's           Last 6 month’s bank statement
+             bank statement should reflect the last 6             For BT transactions: 12 months repayment
+             months of salary credited.                            track either SOA or bank EMI clearing
+            For BT transactions: 12 months repayment              statement.
+             track either SOA or bank EMI clearing
+             statement.
+         Note: For salary credits, if the login occurs
+         before the 7th of the month, the last month's
+         salary isn't required in the bank statement, but
+         6 months of salary credits should be present. If
+         the login is after the 7th, the last month's salary
+         must be included in the statement.
+
+6
+    Short IMD
+
+
+               Important points - IMD
+         The IMD amount will be strictly based on the application ID creation date in Finverse, either
+          by the sourcing staff or channel partners.
+         Individual IMD must be collected for all unique application numbers.
+         If a top-up LAN is involved, ZSM email approval must be uploaded in the document upload
+          tab at the time of file logging to waive the IMD collection, with the approval details clearly
+          mentioned.
+
+        Key Points to Avoid Short IMD Queries During the IMD Offer Period: Ensure that login dates during the IMD
+        offer period include either the IMD offer email or poster uploaded in the miscellaneous document tab to
+        prevent short IMD queries.
+7
+  Short IMD
+
+
+                          The IMD offer runs from September 5th to 10th for 501.
+                          However, the login and Finverse application ID were
+                          created on September 4th, when ₹5900 was due, but only
+                          501 was collected. As a result, the case was moved to CPH
+                          with a short IMD, and CPH will raise a query. The
+        Sample Scenario
+                          remaining amount must be paid in full.
+
+
+                          In this case, the sourcing staff cannot claim the IMD offer
+                          on the 5th or 6th since the application ID was created on
+                          September 4th, making the offer inapplicable.
+
+8
+ KYC/Income documents
+            Salary Slip
+               Salary Slip /Salary Certificate of last 3 months
+               Salary Credit banking of last 6 months / If cash salaried then saving
+               account to be documented- Account Aggregrator fetch through
+               Finverse to be done for relevant Bank
+            Co Applicant not added in Finverse
+               The co-applicant must be added during the Finverse login stage,
+               there is no offline process available for adding a co-applicant.
+            Form 60 is not available
+               Form 60 is mandatory for the cases where co-applicant doesn’t have
+               a PAN card
+
+9
+ KYC/Income documents
+             Unmasked Aadhar Card
+               Aadhaar masking is mandatory as per RBI guidelines. Ensure the
+               first 8 digits of the Aadhaar number are masked before uploading
+               to Finverse. Uploading an unmasked Aadhaar card will leads to
+               case re-login.
+             Mother/Father name missing
+               Mother's name and father's name must be mentioned in the
+               additional details screen in Finverse.
+             Others
+               Wrong selection on Applicant Type(Ex: Salaried selected as
+               SENP/Individual selected as Non-Individual)
+               Not attaching Relationship proof
+               Old deal ID missing in case of re-login cases.
+10
+   Address Mismatch
+
+             Applicant Aadhar address mismatch with current address:
+             The Aadhaar card address must match the current address. If not, an Aadhaar address change
+             acknowledgment is required during login.
+
+             Co-Applicant Aadhar address mismatch with current address:
+             ● If a spouse is a co-applicant and their Aadhar address mismatches with the applicant's, a current
+             address declaration must be obtained and signed by both the applicant and co-applicant (spouse).
+             ● If the co-applicant is not a spouse, their current address must match their Aadhaar address. If it
+             doesn't, an Aadhaar address change acknowledgment is required for all individuals at the time of
+             login.
+
+             Address mismatch with EKYC
+             After completing Aadhaar validation via OTP through e-KYC, the sourcing staff must ensure that
+             the current address matches the actual address.
+
+11
+    Address Mismatch
+
+
+                           Mr. Dhanush is a salaried customer and the applicant. His
+                           Aadhaar card lists his address as T Nagar, Chennai, which has
+                           been verified through e-KYC by the sourcing staff during file
+                           logging in Finverse. However, he has recently transferred jobs
+                           and now resides in RS Puram, Coimbatore.
+         Sample Scenario   In this case, an Aadhaar address change acknowledgment and
+                           a utility bill for the Coimbatore RS Puram location must be
+                           submitted before completing the login in Finverse.
+
+                           Additionally, address details must be provided for all
+                           references; if not included, the file will be marked as FTNR,
+                           and a query will be raised.
+
+
+12
+  Financial/GST Fin Fort ID Creation
+
+
+
+              Process to complete the Fin Fort:
+               While logging the file in Finverse, the sourcing staff can initiate Fin Fort directly by enabling
+               the Digi Income Fetch tab for applicable self-employed profiles. Once completed by the
+               customer, the report will be sent directly to Finverse. Only after this should the login process
+               continue, and the file be submitted in Finverse.
+               Factors to Avoid FTNR Query –
+               Fin Fort Number or 2-Year ITR/GST Missing or ITR without Computation:
+               The file should be submitted to CPH only after the customer completes the Fin Fort process.
+
+13
+  Property Documents Are Not Available
+
+
+             Required Documents:
+
+              Latest title deed
+              Layout and building plan approval or 10-year property tax receipt
+               along with revenue document.
+             The above-mentioned basic documents must be uploaded in Finverse
+             while logging the file.
+
+14
+  DSA Lead Sheet
+              The DSA lead sheet should be collected by the sourcing staff with
+              DSA, ensuring all fields are updated in the sheet and uploaded in
+              Finverse.
+              If the sourcing journey is done by the DSA directly in Finverse, this
+              does not apply.
+
+15
+  Business Proof Not Available
+
+              Any government-authorized business proof, such as GST, Udyam
+              certificate, and other valid government proof, must be submitted in
+              Finverse. Refer to the KYC checklist for detailed information.
+
+16
+   Mobile Numbers are Same
+              Applicant, co-applicant, and reference mobile numbers must be
+              unique; the same mobile numbers should not be updated in Finverse.

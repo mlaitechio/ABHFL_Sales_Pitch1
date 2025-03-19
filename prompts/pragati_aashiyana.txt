@@ -213,6 +213,7 @@ CIBIL 650-699:
 - Salaried/SEP: Type II (13.00%), Type III (14.50%), Type IV (16.00%), Special (17.00%)
 - SENP:         Type II (13.25%), Type III (14.75%), Type IV (16.25%), Special (17.25%)
 
+
 | **Processing Fee (excl. GST) for Type II/III collaterals** | **Direct / RP Sourcing** | **DSA Sourcing** |
 |------------------------------------------------------------|--------------------------|------------------|
 | CPM / Salary Income                                         | 0.25%                    | 0.50%            |
@@ -359,3 +360,24 @@ Eligible Collateral Location specific Collateral notes as approved by the NCC. V
 - For no LTV deviation, Floor rate approval with BH to be 1% lower than existing RAAC rate.
 - Incremental 10% LTV can be offered based on BH & NCM approval. ROI for such cases will be RACC rate + 1% additional premium.
 - For CIBIL Score < 700, the rate will be 100 bps higher than the above RACC rate.
+
+Pragati Aashiyana HL : New LTV Grid 
+
+| **Bureau Score** | **Type I**                                                     | **Type II**                                                          | **Type III**                                                         | **Type IV**                                                           | **Special Collaterals**                                                |
+|------------------|----------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|
+| **1**            | Not Allowed: SENP <br> Salaried: Regulatory LTV               | Not Allowed: SENP <br> Salaried: Regulatory LTV - 10%                | Not Allowed: SENP <br> Salaried: Regulatory LTV - 10%                | Not Allowed: SENP <br> Salaried: Regulatory LTV - 10%                | Not Allowed: SENP <br> Salaried: Regulatory LTV - 10%                 |
+| **2**            | Not Allowed: SENP <br> Salaried: Regulatory LTV               | Not Allowed: SENP <br> Salaried: Regulatory LTV - 10%                | Not Allowed: SENP <br> Salaried: Regulatory LTV - 10%                | Not Allowed: SENP <br> Salaried: Regulatory LTV - 10%                | Not Allowed: SENP <br> Salaried: Regulatory LTV - 10%                 |
+| **3**            | Regulatory LTV                                                | Regulatory LTV - 5%                                                  | Regulatory LTV - 10%                                                 | Regulatory LTV - 10%                                                 | Regulatory LTV - 10%                                                  |
+| **4**            | Regulatory LTV                                                | Regulatory LTV - 5%                                                  | Regulatory LTV - 10%                                                 | Regulatory LTV - 10%                                                 | Regulatory LTV - 10%                                                  |
+| **5**            | Regulatory LTV                                                | Regulatory LTV - 5%                                                  | Regulatory LTV - 10%                                                 | Regulatory LTV - 10%                                                 | Regulatory LTV - 10%                                                  |
+| **6**            | Regulatory LTV                                                | Regulatory LTV                                                       | Regulatory LTV - 5%                                                  | Regulatory LTV - 5%                                                  | Regulatory LTV - 10%                                                  |
+| **7**            | Regulatory LTV                                                | Regulatory LTV                                                       | Regulatory LTV - 5%                                                  | Regulatory LTV - 5%                                                  | Regulatory LTV - 10%                                                  |
+| **8**            | Regulatory LTV                                                | Regulatory LTV                                                       | Regulatory LTV - 5%                                                  | Regulatory LTV - 5%                                                  | Regulatory LTV - 10%                                                  |
+| **9**            | Regulatory LTV                                                | Regulatory LTV                                                       | Regulatory LTV - 5%                                                  | Regulatory LTV - 5%                                                  | Regulatory LTV - 10%                                                  |
+| **10**           | Regulatory LTV                                                | Regulatory LTV                                                       | Regulatory LTV - 5%                                                  | Regulatory LTV - 5%                                                  | Regulatory LTV - 10%                                                  |
+
+Bureau Score NA – To be clubbed with Bureau Score 6 -10 
+Regulatory LTV (In line with RBI Master Directions) 
+•	upto 30 lacs – 90% of COP or RV 
+•	30- 75 lacs – 80% of COP or RV 
+•	75 Lacs + - 75% of COP or RV 
