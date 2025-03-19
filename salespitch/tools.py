@@ -228,7 +228,7 @@ Vaastu
 Parameters:
 secondary_lob (str, required): Line of Business identifier must be one of this four only ['ABSLI', 'ABML', 'ABHI', 'ABFL']
 product (str, required if available, else dynamically fetched): Full product name must be provided exactly as listed under the selected LOB. e.g. 'ABSLI - First Year Premium'
-secondary_business_cr (float, optional): Sent only when both lob and product are provided.): Secondary business value in crores.
+secondary_business_cr (float, optional): Sent only when both lob and product are provided.Secondary business value in crores.
 primary_ytd_abhfl_business (float, optional): Considered as the primary YTD business when ABHFL business data is available.
 """,
     ),
