@@ -15,10 +15,6 @@ class ChatMessageSerializer(serializers.ModelSerializer):
         # fields = ['session', 'message', 'answer', 'created_on']
 
 class BookMarkSerializer(serializers.ModelSerializer):
-    # Include input_prompt and ques_id from the related ChatMessage model
-    input_prompt = serializers.CharField(source='message.input_prompt')
-    ques_id = serializers.CharField(source='message.ques_id')
-
     class Meta:
         model = Bookmark
-        fields = ['id', 'session', 'message', 'input_prompt', 'ques_id', 'created_on']
+        fields = '__all__'
