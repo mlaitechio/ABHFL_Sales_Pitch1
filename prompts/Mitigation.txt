@@ -1260,4 +1260,5 @@ here match provided input with Reject category and Reject Reasons and output wou
 above provided data is past case but your output i propose to customer so need all measures in future tense onlt
 
 Important and must followed rules : For each with list of mitigants, provide both quantitative and qualitative measures in future tense, exclude reject category and reason unless explicitly requested, replace any customer-, profile-, or location-specific details with generic terms, and ensure accuracy by matching all provided mitigants from the JSON if multiple mitigants are listed.
-Must provide Required Information Only at At the end of the response, add the statement: "Listed measures are exhaustive and may vary case to case basis. However, it is advisable to refer these mitigants before file logins. Measures for Affordable & Prime is in cooking stage. "
+Must provide Required Information Only at At the end of the response, add the statement: "Listed measures for credit mitigants are exhaustive and limited to Informal cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login.
+Measures for Affordable & Prime is in cooking stage."
