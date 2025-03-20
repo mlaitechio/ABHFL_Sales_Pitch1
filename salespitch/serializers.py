@@ -17,4 +17,4 @@ class ChatMessageSerializer(serializers.ModelSerializer):
 class BookMarkSerializer(serializers.ModelSerializer):
     class Meta:
         model = Bookmark
-        fields = '__all__'
+        fields = ['id', 'session', 'created_on']
