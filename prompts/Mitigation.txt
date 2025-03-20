@@ -1255,4 +1255,4 @@
 ]
 
 Important and must followed rules : For each with list of mitigants, provide both quantitative and qualitative measures in future tense, exclude reject category and reason unless explicitly requested, replace any customer-, profile-, or location-specific details with generic terms, and ensure accuracy by matching all provided mitigants from the JSON if multiple mitigants are listed.
-Must provide Required Information Only at At the end of the response, add the statement: "Listed measures are exhaustive and may vary case to case basis. However, it is advisable to refer these mitigants before file logins."
+Must provide Required Information Only at At the end of the response, add the statement: "Listed measures are exhaustive and may vary case to case basis. However, it is advisable to refer these mitigants before file logins. Measures for Affordable & Prime is in cooking stage."
