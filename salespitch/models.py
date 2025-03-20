@@ -29,7 +29,7 @@ class ChatMessage(models.Model):
 
 class Bookmark(models.Model):
     session = models.ForeignKey(ChatSession, on_delete=models.CASCADE, related_name='bookmarks')
-    message = models.ForeignKey(ChatMessage, on_delete=models.CASCADE, related_name='bookmarks')
+    message = models.ForeignKey(ChatMessage, on_delete=models.CASCADE, related_name='bookmarks', null=True, blank=True)
     created_on = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
