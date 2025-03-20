@@ -12,7 +12,6 @@ from .step_down_pension import step_down_pension
 from .login_checklist import logincheck_documents
 from .csv_agnet import filter_csv
 from .Select_calculator import select_calculator
-from .mitigation import Mitigations
 
 
 def home_loan_eligibility_tool(customer_type, dob, net_monthly_income, current_monthly_emi, roi):
@@ -231,19 +230,8 @@ product (str, required if available, else dynamically fetched): Full product nam
 secondary_business_cr (float, optional): Sent only when both lob and product are provided.Secondary business value in crores.
 primary_ytd_abhfl_business (float, optional): Considered as the primary YTD business when ABHFL business data is available.
 """,
-    ),
-#     StructuredTool.from_function(
-#     func= mitigation_tool,
-#     name="mitigation_tool",
-#     description="""
-#     This tool Provide a details credit risk assessment and mitigation strategies for loan approval.
-    
-#     Parameters:
-#     product (str, optional): Specifies the loan product type (HL, LAP).
-#     underwriting_method (str, optional): Filters data based on the underwriting method (Average Banking, Bank Salaried, Cash Profit Method, Cash Salaried, Credit Manager Assessment Income).
-#     profile (str, optional): Filters data for the specified profile (Bank Salaried, Cash Salaried, SENP, SEP).
-#     """
-# )
+    )
+
     ]
 
     # Add product information tools
