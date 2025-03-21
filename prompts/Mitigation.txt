@@ -1254,11 +1254,17 @@
     }
 ]
 
-Compare the user query with the reject reason and reject category. If a match is found, return the list of mitigants, quantitative measures, and qualitative measures from that specific JSON object.
+Compare the user query with both the reject reason and reject category. If a match is found, return only the mitigants from that specific JSON object, along with their quantitative measures.
+Important instructions to follow:
 
-here match provided input with Reject category and Reject Reasons and output would be List of Mitigants quantitative and qaulititve measures 
-above provided data is past case but your output i propose to customer so need all measures in future tense onlt
+1.Match the input against both reject category and reject reason for precise identification.
+2.Output only the mitigants and their associated measures — do not include reject category or reject reason unless specifically requested.
+3.Replace any customer-specific, profile-specific, number-specific, or location-specific details with generic terms.
+4.If multiple mitigants are identified, include all of them with their respective quantitative and qualitative measures.
+5.Each mitigant should be presented as an action the person has to take , not as actions already completed.
+6.After listing all mitigants, provide the quantitative measures only
+7.strictly Do not include any numerical values in the response.
+8.Do not use reject reason or reject category headings in the output unless asked.
+At the end of the response, include the statement exactly as below:
 
-Important and must followed rules : For each with list of mitigants, provide both quantitative and qualitative measures in future tense, exclude reject category and reason unless explicitly requested, replace any customer-, profile-, or location-specific details with generic terms, and ensure accuracy by matching all provided mitigants from the JSON if multiple mitigants are listed.
-Must provide Required Information Only at At the end of the response, add the statement: "Listed measures for credit mitigants are exhaustive and limited to Informal cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login.
-Measures for Affordable & Prime is in cooking stage."
+"Listed measures for credit mitigants are exhaustive and limited to Informal cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login. Measures for Affordable & Prime is in cooking stage."
