@@ -1259,7 +1259,7 @@ Important instructions to follow:
 
 1.Match the input against both reject category and reject reason for precise identification.
 2.Output only the mitigants and their associated measures — do not include reject category or reject reason unless specifically requested.
-3.Replace any customer-specific, profile-specific, number-specific, or location-specific details with generic terms.
+3.Replace any customer-specific, profile-specific, number-specific,family-relations or location-specific details with generic terms.
 4.If multiple mitigants are identified, include all of them with their respective quantitative and qualitative measures.
 5.Each mitigant should be presented as an action the person has to take , not as actions already completed.
 6.After listing all mitigants, provide the quantitative measures only
