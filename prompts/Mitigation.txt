@@ -1097,7 +1097,7 @@
         "Reject Category": "Over leaveraged profile",
         "Reject \nReasons": "1. Income Obligation norms not met",
         "List of Mitigants ": "1. We have added applicants son as financial co-applicant to making loan eligiblity",
-        "Quantitative measures, \nMitigates ": "1. Loan offer on plot purchase from P+C.",
+        "Quantitative measures, \nMitigates ": "1. Loan offer on plot purchase from p+c(plot+construction).",
         "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
     },
     {
@@ -1112,7 +1112,7 @@
         "Underwriting \nMethod": "Bank Salaried",
         "Reject Category": "Over leaveraged profile",
         "Reject \nReasons": "1. Income Obligation norms not met",
-        "List of Mitigants ": "1. Customer comes for P+C but we have offer only for Plot purchase to close the deal",
+        "List of Mitigants ": "1. Customer comes for p+c(plot+construction) but we have offer only for Plot purchase to close the deal",
         "Quantitative measures, \nMitigates ": "1. 2% higher ROI charge",
         "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
     },
@@ -1168,7 +1168,7 @@
         "Underwriting \nMethod": "Credit Manager Assessment Income",
         "Reject Category": "Customer Profile",
         "Reject \nReasons": "1. Caution profile  and income not justified",
-        "List of Mitigants ": "1. We have done re-visit and understand the case and approved the case for Plot purchase only, case comes for 14.0 lac under P+C, we have sanctioned Rs 7.0 lac under Plot purchase",
+        "List of Mitigants ": "1. We have done re-visit and understand the case and approved the case for Plot purchase only, case comes for 14.0 lac under p+c(plot+construction), we have sanctioned Rs 7.0 lac under Plot purchase",
         "Quantitative measures, \nMitigates ": "1. 1% higher ROI charged",
         "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
     },
