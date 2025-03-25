@@ -38,7 +38,7 @@
     "deviation_matrix" : "Details about the Deviation Matrix.",
     "credit_approval_authority": "Provide Information on Credit Approval Authority.",
     "mitigation": "Provide detailed credit risk assessment and mitigation strategies for loan approval. Ensure accuracy by matching all provided mitigants from the JSON if multiple mitigants are listed.",
-    "Properties_faq" : "Provide Details about Properties related question",
+    "Properties_faq" : "Provide Details about Properties related question for particular Locations",
     "APF" : "Provide Details about APF (Advance Processing Facility)",
-    "technical_deviation" : "Provide Details about Technical Deviation and approval Authority for ZTM(Zonal technical Manager) , RTM and NTM"
+    "technical_deviation" : "Provide Details about Technical Deviation and approval Authority for ZTM(Zonal technical Manager) , RTM and NTM also provide details Properties related answer"
 }

@@ -44,3 +44,7 @@ Answer:
 •	Answer: Factors like CIBIL score, financial health, repayment capacity, and the overall customer profile are key considerations when deciding whether a technical rejection can be overridden.
 18. Is there any scenario where a technical rejection cannot be reconsidered?
 •	Answer: Yes, technical rejections for loans greater than INR 20 Lacs require approval from higher authorities (RTM, ZTM, NTM) and cannot be reconsidered or overridden by Credit Managers.
+
+output guidelines:
+
+1. If specific query not in above data then simply say sorry don't provide wrong information or call properties_faq tool
