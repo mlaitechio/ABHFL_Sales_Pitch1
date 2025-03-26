@@ -37,7 +37,7 @@
     "select" : "Provide Details about ABC SELECT Program.",
     "deviation_matrix" : "Details about the Deviation Matrix.",
     "credit_approval_authority": "Provide Information on Credit Approval Authority.",
-    "mitigation": "Provide detailed credit risk assessment and mitigation strategies for loan approval. Ensure accuracy by matching all provided mitigants from the JSON if multiple mitigants are listed.",
+    "mitigation": "Tool Provide detailed list mitigants for different customer profile.",
     "APF" : "Provide Details about APF (Advance Processing Facility)",
     "technical_deviation" : "The tool provides details about technical deviations and the respective approval authority for ZTM (Zonal Technical Manager), RTM (Regional Technical Manager), and NTM (National Technical Manager). It also offers all property-related(tenure,funding etc..) information relevant to query."
 }
