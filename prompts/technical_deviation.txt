@@ -47,4 +47,5 @@ Answer:
 
 output guidelines:
 
-1. If specific query not in above data then simply say sorry don't provide wrong information or call properties_faq tool
+If the specific query is not found in the provided Q&A data. user query must match with provided above questions , Do not provide incorrect answers.also Don't say I don't have information
+Directly, call properties_faq_tool — but always make sure to first ask the user for their location before using this tool.

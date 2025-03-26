@@ -12,6 +12,8 @@ from .step_down_pension import step_down_pension
 from .login_checklist import logincheck_documents
 from .csv_agnet import filter_csv
 from .Select_calculator import select_calculator
+from .mitigation import Mitigations
+from .property_faq import get_qna_by_location_from_file
 
 
 def home_loan_eligibility_tool(customer_type, dob, net_monthly_income, current_monthly_emi, roi):
@@ -54,9 +56,9 @@ def branches_list_tool(hfc_name, state, district=None, pincode=None):
     """Filter branch details of Housing Finance Companies (HFCs)."""
     return filter_csv(hfc_name, state, district, pincode)
 
-def mitigation_tool(product=None, underwriting_method=None, profile=None):
-    """Filter JSON data based on financial and product parameters."""
-    return Mitigations(product, underwriting_method, profile)
+def properties_faq_tool(location_input):
+    """Retrieve Q&A data based on location input."""
+    return get_qna_by_location_from_file(location_input)
 
 def get_product_info(product_name):
     """Retrieve product information from a text file."""
@@ -227,8 +229,33 @@ Vaastu
 Parameters:
 secondary_lob (str, required): Line of Business identifier must be one of this four only ['ABSLI', 'ABML', 'ABHI', 'ABFL']
 product (str, required if available, else dynamically fetched): Full product name must be provided exactly as listed under the selected LOB. e.g. 'ABSLI - First Year Premium'
-secondary_business_cr (float, optional): Sent only when both lob and product are provided.Secondary business value in crores.
+secondary_business_cr (float, optional): Sent only when both lob and product are provided.: Secondary business value in crores.
 primary_ytd_abhfl_business (float, optional): Considered as the primary YTD business when ABHFL business data is available.
+""",
+    ),
+    StructuredTool.from_function(
+        func=properties_faq_tool,
+        name="get_qna_by_location_from_file",
+        description="""Tool provide a details about properties faq based on locations
+        Parameters:
+        location_input (str, required): The location input to search for in the Q&A data.((Location input is required and must be specified by the user.))
+        Location must be Following only:
+AP & Telangana
+Chhattisgarh
+Delhi NCR
+Gujarat
+Jharkhand
+Karnataka
+Kolkata & Siliguri
+MMR / Mumbai
+MP
+Odisha
+PCH
+Pune+ROM
+Rajasthan
+Tamil Nadu
+UP & UK
+⚠ Note: Even if you know the full form (like Punjab/Chandigarh/Haryana for PCH, or Rest of Maharashtra for ROM), please enter the location exactly as given above — full forms will not be accepted.
 """,
     )
 
@@ -243,7 +270,7 @@ primary_ytd_abhfl_business (float, optional): Considered as the primary YTD busi
         "micro_CF", "step_up", "step_down", "extended_tenure", "lease_rental_discounting",
         "express_balance_transfer_program", "prime_hl", "prime_lap", "priority_balance_transfer",
         "semi_fixed", "staff_loan_price", "power_pitches", "nri_assesment_criteria", "PMAY",
-        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","technical_faq","Mitigation","Properties_faq","APF","technical_deviation"
+        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","Mitigation","APF","technical_deviation"
     ]
     for product_name in product_names:
         tools.append(create_product_info_tool(product_name, abhfl_instance))
