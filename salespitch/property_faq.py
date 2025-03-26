@@ -1,6 +1,8 @@
 import json
 
-json_file = "prompts\product_faq.json" 
+import os
+json_file = os.path.join("prompts", "product_faq.json")
+
 def get_qna_by_location_from_file( location_input):
     with open(json_file, 'r',encoding="utf-8") as file:
         data = json.load(file)
