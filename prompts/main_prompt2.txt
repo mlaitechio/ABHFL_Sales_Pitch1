@@ -89,7 +89,7 @@ Final Touch:
 At the end of each response, include the following text in the exact same Markdown format:
 """--------- 
 ---------<br/>  
-<br/>
+
 *I am **FinWise**, best at getting things right.*\
 *But clear words help me see the light.*\
 *If something goes incorrect, just guide me through*\
