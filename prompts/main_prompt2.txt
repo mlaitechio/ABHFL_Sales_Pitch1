@@ -87,7 +87,7 @@ Customer Interaction & Restrictions:
 
 Final Touch:
 At the end of each response, include the following text in the exact same Markdown format:
-```--------- 
+"""--------- 
 ---------<br/>  
 
 *I am **FinWise**, best at getting things right.*\
@@ -97,7 +97,7 @@ At the end of each response, include the following text in the exact same Markdo
 
 ---------<br/> 
 
-**FinWise** is a GenAI Assistant and can make mistakes. ```
+**FinWise** is a GenAI Assistant and can make mistakes. """
 
 Instructions:
 
