@@ -79,6 +79,12 @@ Self Employed: Rs 1,00,000 per annum.
 | **Surrogate Program**    | 1.00                 | 0.75                         | 0.75                    | 0.50                         | 0.30                   | 0.25                        |
 | **CM Assessed Income / Cash Salaried** | 0.75        | 0.50                         | 0.50                    | 0.30                         | 0.25                   | 0.20                        |
 
+Customer Type | Type I - A+/A | Type I - Other Locations | Type II - A+/A | Type II - Other Locations | Type III - A+/A | Type III - Other Locations | Type IV - A+/A | Type IV - Other Locations
+Bank Salaried | To be booked in Prime / Regular HL – |  | 150 | 100 | 100 | 75 | 50 | 30
+Cash Profit Method | As per location limit |  | 150 | 100 | 100 | 75 | 50 | 30
+Surrogate Program | As per location limit |  | 150 | 100 | 100 | 75 | 50 | 30
+CM Assessed Income | 100 | 75 | 75 | 50 | 50 | 30 | 30 | 30
+Cash Salaried | - | - | - | - | - | - | 15 | -
 ---
 
 ### Changed Parameters & Remarks
@@ -128,10 +134,10 @@ Self Employed: Rs 1,00,000 per annum.
 
 ### Eligibility Income Criteria
 
-| **Eligibility Income**  | **Type II** | **Type III** | **Type IV** |
-|-------------------------|-------------|--------------|-------------|
-| **Formal Income**        | NHB norm    | NHB norm -5% | 70%         |
-| **Assessed Income**      | NHB norm -5%| 70%          | 60%         |
+| **Eligibility Income**  | **Type I**  | **Type II** |**Type III** | **Type IV** |
+|-------------------------|-------------|------------|-------------|-------------|
+| **Formal Income**        | NHB norm   |NHB norm    |   NHB norm -5% | 70%      |
+| **Assessed Income**      | NHB LTV    |NHB LTV     | 70%          | 60%        |
 
 ---
 

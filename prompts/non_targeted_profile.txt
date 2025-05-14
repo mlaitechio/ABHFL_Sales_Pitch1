@@ -1,0 +1,289 @@
+[
+    {
+        "S.N.": "1",
+        "Non-Target Profiles": "Anti-Social organizations and elements.  ",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "2",
+        "Non-Target Profiles": "Politicians and persons with political influence , Social Workers",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "3",
+        "Non-Target Profiles": "Security Services Companies and their Employees, Manpower/Staffing service.",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "4",
+        "Non-Target Profiles": "Chit fund companies/Stock Broking/Investment companies and related employees.  ",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "5",
+        "Non-Target Profiles": "Real estate agents & Share broekers ",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "6",
+        "Non-Target Profiles": "Builders and their relatives",
+        "Prime": "Caution",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "7",
+        "Non-Target Profiles": "Time share companies and related persons, Film producing company  ",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "8",
+        "Non-Target Profiles": "Buchers & fish vendors",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "9",
+        "Non-Target Profiles": "Poultry Farm , Cattle rearer , Dairy related business",
+        "Prime": "Negative",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "10",
+        "Non-Target Profiles": "Diamond dealer & jewellers , Including Imitation jewell (Negative for LAP proposal)",
+        "Prime": "Caution",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "11",
+        "Non-Target Profiles": "Bullion trader.",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "12",
+        "Non-Target Profiles": "Production , Trade , dealer  in weapons and ammunitions,  ",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "13",
+        "Non-Target Profiles": "Gambling, casinos , Lottery and equivalent enterprises.  ",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "14",
+        "Non-Target Profiles": "Gym, Fitness centre and Massage centre",
+        "Prime": "Caution",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "15",
+        "Non-Target Profiles": "SPA , Saloon/unisex saloon / Beauty Parlour (Exept small units)",
+        "Prime": "Caution",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "16",
+        "Non-Target Profiles": "Money lenders/ Private financers",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "17",
+        "Non-Target Profiles": "Multi-level marketing (MLM) & Chain Marketing channels",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "18",
+        "Non-Target Profiles": "Mining work",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "19",
+        "Non-Target Profiles": "Entertainment & Art related business, movie halls, malls , Banquet halls , Disco Pubs",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "20",
+        "Non-Target Profiles": "Case based on Agriculture Income only",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "21",
+        "Non-Target Profiles": "Collection agency ,FI, DSA (Sourcing agents for Banks and Financial Institutes)",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "22",
+        "Non-Target Profiles": "Plantation companies",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "23",
+        "Non-Target Profiles": "Astrologer , Pandit , Preist",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "24",
+        "Non-Target Profiles": "Cyber Café, CD / DVD Rentals , STD / PCO, Xerox centre , Cable operator , Courier Agency , Ticketing agents",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "25",
+        "Non-Target Profiles": "Transporter & Fleet",
+        "Prime": "Not applicable",
+        "Affordable": "Not applicable",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "26",
+        "Non-Target Profiles": "Tours and Travels agents and operators",
+        "Prime": "Caution",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "27",
+        "Non-Target Profiles": "Mobile shop",
+        "Prime": "Caution",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "28",
+        "Non-Target Profiles": "Automobile repair shops other than authorized service stations",
+        "Prime": "Negative",
+        "Affordable": "Caution",
+        "Informal": "Not applicable"
+    },
+    {
+        "S.N.": "29",
+        "Non-Target Profiles": "News reporter / Media employee / Media House , Detective agency",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "30",
+        "Non-Target Profiles": "Class 4 Empl (Govt) , Drivers and conductors of SRTC",
+        "Prime": "Negative",
+        "Affordable": "Not applicable",
+        "Informal": "Not applicable"
+    },
+    {
+        "S.N.": "31",
+        "Non-Target Profiles": "Lawyers ,Advocate / Policeman/ Traffic Police",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "32",
+        "Non-Target Profiles": "Daily wage / Workers",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "33",
+        "Non-Target Profiles": "Alcoholic beverages (excluding beer and wine), tobacco,Wine Shops, Bars, Liquor Shops",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Negative"
+    },
+    {
+        "S.N.": "34",
+        "Non-Target Profiles": "Bar & Restaurant",
+        "Prime": "Caution",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "35",
+        "Non-Target Profiles": "Petrol Pump owners (All locations within city limits can be considered as normal profile)",
+        "Prime": "Caution",
+        "Affordable": "Caution",
+        "Informal": "Not applicable"
+    },
+    {
+        "S.N.": "36",
+        "Non-Target Profiles": "Auto / Ola Driver with owned vehichle (without owned negative)",
+        "Prime": "Negative",
+        "Affordable": "Negative",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "37",
+        "Non-Target Profiles": "Scrap dealers",
+        "Prime": "Caution",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "38",
+        "Non-Target Profiles": "Laundry & Dyieng",
+        "Prime": "Negative",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "39",
+        "Non-Target Profiles": "Govt. Contractor",
+        "Prime": "Caution",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "40",
+        "Non-Target Profiles": "Coaching inst & tuitions",
+        "Prime": "Caution",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    },
+    {
+        "S.N.": "41",
+        "Non-Target Profiles": "Document writter / stamp vendor",
+        "Prime": "Negative",
+        "Affordable": "Caution",
+        "Informal": "Caution"
+    }
+]

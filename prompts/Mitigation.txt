@@ -1200,4 +1200,4 @@ Only refer Below reject reason and category only provide mitigants and measure f
 
 At the end of the response, include the statement exactly as below:
 
-"Listed measures for credit mitigants are exhaustive and limited to Informal cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login. Measures for Affordable & Prime is in cooking stage."
+"Listed measures for credit mitigants are exhaustive and limited to Informal cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login. Measures for Prime is in cooking stage."

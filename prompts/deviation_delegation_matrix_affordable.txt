@@ -1,0 +1,203 @@
+{
+  "Financial Applicant Age": {
+    "Deviation of age up to 2 years such that max age at maturity is not more than 72 years for SENP/SEP profiles and 62 years in salaried": "ACM",
+    "Deviation of age up to 5 years such that max age at maturity is not more than 75 years for SENP/SEP profiles and 65 years for Salaried": "RCM",
+    "Deviation of up to 10 years from age of retirement for Government employee(Assesment under step down menthod) For Salaried in case of Home Loan": "ACM",
+    "For Financial Applicant (one lower than 21 subject to father is also financial applicant)": "CCO",
+    "Age at maturity 70 years for Salaried": "RCM",
+    "Age at maturity > 75 years for SENP/SEP": "RCM",
+    "Age at entry - Financial Applicant 21 years": "CCO"
+  },
+  "Non Financial / Property Owner": {
+    "Max age at maturity for property owner > 80 years": "CCO",
+    "Max age at maturity for non-financial applicant > 85 years": "CCO",
+    "Age at entry - Non Financial Applicant < 18 years": "CCO"
+  },
+  "Total Tenure of Loan": {
+    "LAP loans/POP > 15 years": "NCM",
+    "SENP H & or plot purchase loans > 20 years": "NCM",
+    "HL Standard > 30 years": "NCM"
+  },
+  "Gap in ITR filing": {
+    "ITR filed within 3 months": "CCO",
+    "ITR filed within 4-6 months": "NCM",
+    "Average of 6 months CC/OD utilization greater than 100%": "ZCM"
+  },
+  "Banking Norms": {
+    "Banking credits for 6 months less than 40% but upto 20% of annual turnover for loan amount greater than INR 50 lacs": "RCM",
+    "In case, ABB/EMI < 0.75 times for surrogate programs": "RCM",
+    "ABB less than 0.75% of EMI for Home Loan & LAP for loans below INR 50 lacs": "RCM",
+    "ABB less than 100% but upto 70% of EMI for loans exceeding INR 50 lacs": "ZCM",
+    "Inward/Outward cheques returns more than norms (Outward cheque returns >10% or 2%, Inward Cheque returns >2% or 10 cheques) in last 6 months": "ZCM",
+    "Cheque bounce > 5% of total issued cheque in last 6 months": "ZCM",
+    "ABB/EMI less than 70% of EMI for loans exceeding INR 50 lacs (Except for LOW LTV)": "CCO",
+    "Less than 50% of EMI for loans exceeding INR 50 lacs (Except for LOW LTV)": "CCO",
+    "No credit and debit transaction in any of the Banks account in any month in last 6 months": "CCO"
+  },
+  "Financials": {
+    "Decrease in Turnover > 20% upto 50%": "RCM",
+    "Decrease in Current year turnover by more than 50% subject to Dip in turnover is due any exception during latest year and turnover has reached normal levels - verified through banking turnover or GST": "RCM",
+    "Cash loss in latest year": "CCO",
+    "Decrease in Current year turnover by more than 50%": "NCM",
+    "Banking Credits for 6 months less than 20% of turnover for loan amount greater than INR 50 lacs": "NCM",
+    "Financial norms of - Adjusted net worth positive, operating profit positive, PAT positive last two years, NWC deterioration > 50%, EBITA-tax+ Depreciation + Amortization is positive - not met for loan amount greater than INR 150 Lacs": "NCM"
+  },
+  "Experience / Vintage Norms": {
+    "For HL salaried - Experienced with current employer not met subject to atleast 3 month of experience with current employer subject to overall experience met as per policy": "ACM",
+    "Less than 3 years overall experience and < 6 months in current organization for salaried": "RCM",
+    "Business Vintage for Self employed less than 3 year for loan amount less than 30 lacs for HL":"RCM",
+    "HL-Loan Amount less than 30 lacs Vintage less than 2 years":"NCM",
+    "HL-Loan Amount less than 30 lacs Vintage less than 3 years":"ZCM",
+    "LAP loans Business Vintage less than 3 years":"NCM"
+  },
+  {
+  "Loan Structure": {
+    "Income Ownership norms not met": "NCM",
+    "No co-applicant / guarantor present on loan application": "CCO"
+  },
+  "Customer Profile": {
+    "Resi Cum office": "RCM",
+    "Funding to caution profile based on declared income - HL": "NCM",
+    "Funding HL loans to caution profile in surrogate income": "NCM",
+    "Funding LAP loans to caution profile in surrogate income": "CCO",
+    "Lending to Partnership firm in which HUF is a partner": "CCO",
+    "Funding to negative profile": "CCO"
+  },
+  "Stability Norms": {
+    "Current Residence Stability / norms not met for Home Loans (HL)": "ACM"
+  },
+  "Branch & Product Loan": {
+    "Branch loan capping": "CCO"
+  },
+  "Property": {
+    "Product Eligibility Program loan caps": "CCO",
+    "Property located in caution areas or Negative areas as highlighted by technical team / ACM / Verification agencies": "NCM",
+    "Waiver of Legal Heir Notarized NOC / All legal heirs to come as co-applicants": "NCM",
+    "Property owned by HUF/Society/Trust or Pagadi transaction in LAP / as per negative property list": "CCO",
+    "Industrial Property used as Commercial, Plots developed for residential purposes": "RCM",
+    "Funding Auction property excluding ABHFL funding": "RCM",
+    "Loan tenure more than residual age of property": "NCM"
+  },
+  "Geo Limit": {
+    "Government salaried employee - Funding in location not part of branch or approved location subject to Property is within geo limit of the branch and local guarantor with CIBIL score 700+ is taken": "RCM",
+    "Funding out of geo limit": "NCM"
+  },
+  "Repayment": {
+    "Upto 2 EMI Bounce (non-technical) in Last 6 months": "NCM",
+    "3 or more EMI Bounce in Last 6 months": "RCM",
+    "All EMI bounce due to cause other than technical reasons": "CCO"
+  },
+  "Closure of Loan": {
+    "Upto 3 loans": "ACM",
+    "3+ loans": "RCM"
+  },
+  "LTV": {
+    "Regulatory LTV breach": "NOGO"
+  },
+  "Other Income": {
+    "Other Income more than 100% of Core Income": "NCM",
+    "Latest year income considered with jump in income of more than 50% from previous year": "RCM",
+    "Clubbing of income - If more than 1 income eligibility Method is used in a given request (For SENP)": "NCM"
+  },
+  "GTP & Gross Profit": {
+    "Eligibility arrived in Gross turnover product or Gross Profit product": "NCM"
+  },
+  "Salaried Documentation": {
+    "Latest Salary Slip not available. But reflection in bank statement": "ACM",
+    "Form 16 not available for salaried where borrower is not required to file IT laws (Gross salary less than 2.5 lacs annually)": "ACM",
+    "No Statutory Deduction in salary slip": "ACM"
+  },
+  "FI Norms": {
+    "FI report from agency is referred (duly mitigated)": "ACM",
+    "FI report from agency is negative (mitigated with personal visit of employee)": "RCM"
+  },
+  "LRD": {
+    "Tenure extension in case of expired Lease Agreement": "NCM",
+    "For deviation to lease agreement": "RCM",
+    "Vintage of lease agreement": "NCM",
+    "Minimum remaining lease period less than 11 months": "NCM"
+  },
+  "ABB Program": {
+    "Months with no credits in bank account considered for ABB for more than 1 but less than 3": "RCM",
+    "Avg. monthly credits less than 5 times of proposed EMI but more than 3": "RCM",
+    "Avg. monthly credits less than 3 times of proposed EMI": "RCM",
+    "One Saving account considered for eligibility calculation in ABB": "ACM",
+    "More than one saving account considered for eligibility in ABB program": "ZCM",
+    "CC/OD average utilization greater than 100% for the validated period": "NCM",
+    "CC/OD considered for ABB": "No Go",
+    "More than 3 accounts clubbed in ABB program for eligibility": "RCM"
+  },
+  "Low LTV": {
+    "Inward/Outward cheques returns more than norms (Outward cheque returns >10% or 2%, Inward Cheque returns >2% or 10 cheques) in last 6 months": "RCM",
+    "If cash-out loans taken in last 12 months > 50% of the proposed loan amount for LOW LTV": "NCM",
+    "In case EMI serviced by the customer is less than 25% of proposed EMI for at least 6 months in last 12 months for LOW LTV": "ACM",
+    "For under-construction cases, if property is below 75% constructed for builder properties and below 50% for self-construction (Plot + construction cases) for LOW LTV": "NCM",
+    "LTV Deviation upto 5%": "ZCM",
+    "LTV deviation greater than 5%": "NCM",
+    "LTV Deviation greater than 10%": "No Go",
+  },
+  "GST Program": {
+    "Deviation in other norms": "No Go",
+    "Less than 70% upto 60% turnover routed through banking": "NCM"
+  }
+}
+
+
+CIBIL/BUREAU Deviation
+{
+  "Bureau latest 12 month": {
+    "Bureau History of loans in last 12 months DPD beyond 60 days where this DPD string is in continuance from prior to 12 months and other loans are regular in latest 12 months": "RCM",
+    "Any term loan account with DPD of 30+ days in latest 12 months": "NCM",
+    "Any loan account with DPD up to 30 days in latest 12 months": "RCM",
+    "Bureau Deviation in Gold Loan, Mudra Loan or KCC in latest 12 months": "ACM"
+  },
+  "Bureau History of loans in 12+ months LOANS": {
+    "Bureau History of loans in 12 months + DPD 30 to 90 days (No other loans in recent 12 months) In case of loans are running in recent 12 months (at least 9 months of track) - deviation as per recent 12 months behaviour only": "ZCM",
+    "Bureau History of loans in 12 months + DPD beyond 90 days (No other loans in recent 12 months) In case of loans are running in recent 12 months (at least 9 months of track) - deviation as per recent 12 months behaviour only": "NCM"
+  },
+  "Bureau History last 12 months - CARDS": {
+    "For Credit Card w/o or Overdue of >INR 25000": "ACM",
+    "For Overdue/ wo amount > INR 25,000 but <10% of total running credit": "ZCM"
+  },
+  "CIBIL Score": {
+    "CIBIL Score less than 700/730 but not below 675": "NCM",
+    "CIBIL score NTB - 0/-1 or less than 300 for loan amount less than 75 lacs": "ACM",
+    "CIBIL score NTB - 0/-1 or less than 300 for loan amount greater than 75 lacs": "ZCM"
+  },
+  "Enquiries": {
+    ">5 & <= 8 enquiries in recent 3 months": "ZCM"
+  }
+}
+
+| HL FOIR Deviations    |     |     |     |     |
+|-----------------------|-----|-----|-----|-----|
+| Method                | ACM | RCM | ZCM | NCM |
+| Bank Salaried         | 2   | 5   | 10  | 10+ |
+| CPM HL                | 10  | 20  | 30  | 30+ |
+| GPR/GTR/ Gross Profit | 3   | 5   | 10  | 10+ |
+| ABP                   |     |     |     | >0  |
+
+| LAP FOIR Deviations    |     |     |     |     |
+|------------------------|-----|-----|-----|-----|
+| Method                 | ACM | RCM | ZCM | NCM |
+| Bank Salaried          |     |     | 5   | 5+  |
+| CPM LAP                | 5   | 10  | 30  | 20+ |
+| GPR/GTR/ Gross Profit  |     | 5   | 10  | 10+ |
+| ABP/LRD                |     | --  | --  | >0  |
+
+| LAP FOIR Deviations    |     |     |     |     |
+|------------------------|-----|-----|-----|-----|
+| Method                 | ACM | RCM | ZCM | NCM |
+| Bank Salaried          |     |     | 5   | 5+  |
+| CPM LAP                | 5   | 10  | 30  | 20+ |
+| GPR/GTR/ Gross Profit  |     | 5   | 10  | 10+ |
+| ABP/LRD                |     | --  | --  | >0  |
+
+| LAP LTV Deviations    |     |     |     |     |
+|-----------------------|-----|-----|-----|-----|
+| Method                | ACM | RCM | ZCM | NCM |
+| Bank Salaried         | --  | 3   | 5   | 5+  |
+| CPM LAP               | 1   | 3   | 5   | 5   |
+| GPR/GTR/ Gross Profit | --  | 3   | 5   | 5   |
+| ABP/LRD               | --  | --  | --  | >0  |
+| LOW LTV               | --  | --  | 5   | 5   |

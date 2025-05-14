@@ -1,14 +1,26 @@
 
 
-| Count of Collateral Type | 
-| Row Labels               | Type I        | Type II | Type III | Type IV | Special Collateral | Grand Total |
-| Central                  | 3             | 7       | 5        | 6       |                    | 21          |
-| East                     | 6             | 6       | 9        | 9       |                    | 30          |
-| North                    | 11            | 21      | 36       | 33      |                    | 101         |
-| South                    | 3             | 27      | 19       | 16      | 4                  | 69          |
-| West                     | 5             | 16      | 14       | 14      |                    | 49          |
-| PAN India                |               |         | 1        |         |                    | 1           |
-| Grand Total              | 28            | 77      | 84       | 78      | 4                  | 271         |
+Collateral 	Definition
+Type I (Standard)	Approved by Development Authority & Plan available 
+Type II	Not approved by Development Authority & Plan available + Non-Agricultural (NA) Conversion
+Type III	Not approved by Development Authority & Plan not available + Non-Agricultural (NA)  Conversion
+Type IV	Not approved by Development Authority & Plan not available + Non-Agricultural (NA)  Conversion not available or any major technical deviation in property
+Special Collateral	Special collaterals
+
+Collateral Type	Indicative list of properties funded
+Type I	Authority approved properties with plans
+Type II	Gram Panchayat & Zilla Parishad Properties, 
+B-Khatta properties, Gunthewari properties upto 2008, Society Patta upto G+3 floors
+Type III	Gaothan properties, Multi dwelling units, Regularized colonies, Lal Dora, Outside MC limits new properties, Properties with vertical/horizontal deviations
+Type IV	Khasra properties, Notarised ownership properties, Single title deed properties, Properties with narrow approach roads, GP Patta properties
+
+Collateral Type	Central	East	North	South	West
+Type I	3	6	11	3	5
+Type II	7	6	21	27	16
+Type III	5	9	36	19	14
+Type IV	6	9	33	16	14
+Special Collateral	 	 	 	3	 
+Total	21	30	101	69	49
 
 ---------------------------------------------------------------------------------------------------------------------------
 Sr No|Zone     |Region            |Branch/Micro Market                                       |Collateral Type                                                                                                                                                                    |Sub Collateral Type                                                                                                                                    |Type 1/2/3/4      |Documentation & other Approvals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                       

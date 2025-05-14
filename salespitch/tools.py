@@ -13,6 +13,8 @@ from .login_checklist import logincheck_documents
 from .csv_agnet import filter_csv
 from .Select_calculator import select_calculator
 from .property_faq import get_qna_by_location_from_file
+from .location_cat import get_location_details
+
 
 
 def home_loan_eligibility_tool(customer_type, dob, net_monthly_income, current_monthly_emi, roi):
@@ -66,6 +68,10 @@ def get_product_info(product_name):
             return f.read()
     except FileNotFoundError:
         return f"Product information for '{product_name}' not found."
+
+def location_cat_affordable_tool(location=None, category=None, cap=None, cap_min=None, cap_max=None):
+    """Retrieve location category and cap in cr for affordable product program."""
+    return get_location_details(location=location, category=category, cap=cap, cap_min=cap_min, cap_max=cap_max)
 
 def get_product_descriptions():
     """Load product descriptions from a JSON file."""
@@ -256,7 +262,17 @@ Tamil Nadu
 UP & UK
 ⚠ Note: Even if you know the full form (like Punjab/Chandigarh/Haryana for PCH, or Rest of Maharashtra for ROM), please enter the location exactly as given above — full forms will not be accepted.
 """,
-    )
+    ),
+StructuredTool.from_function(
+        func=location_cat_affordable_tool,
+        name="location_cat_affordable_tool",
+        description="""Tool provide a details about location category and cap in cr for affordable product program
+        Parameters:
+- location (str, optional): City name (not a state). Case-insensitive exact match.
+- category (str, optional): Category type like A+, A, B, etc. Case-insensitive exact match.
+- cap (float, optional): Must be one of [1, 0.5, 0.75]. If provided, exact matches will be returned.
+- cap_min (float, optional): Minimum cap value in crores. Used only if cap is not provided.
+- cap_max (float, optional): Maximum cap value in crores. Used only if cap is not provided.""",    ),
 
     ]
 
@@ -269,7 +285,7 @@ UP & UK
         "micro_CF", "step_up", "step_down", "extended_tenure", "lease_rental_discounting",
         "express_balance_transfer_program", "prime_hl", "prime_lap", "priority_balance_transfer",
         "semi_fixed", "staff_loan_price", "power_pitches", "nri_assesment_criteria", "PMAY",
-        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","Mitigation","APF","technical_deviation"
+        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","Mitigation","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile"
     ]
     for product_name in product_names:
         tools.append(create_product_info_tool(product_name, abhfl_instance))
