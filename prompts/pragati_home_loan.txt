@@ -31,7 +31,7 @@ i. Bank Salaried customer
 ii. Cash Salaried customers
 iii. Self-employed customers with or without ITR
 LOAN AMOUNT
- Upto 1 Crore linked to Collateral Type & location categorization
+ Upto 1.5 Crore linked to Collateral Type & location categorization
 ELIGIBILITY CRITERIA
     Tenure: upto 30 yrs for Salaried & 20 yrs for Self Employed
      Min income - Salaried : Rs 7,000 per month
@@ -40,7 +40,7 @@ Self Employed: Rs 1,00,000 per annum.
 
 
 	Changed Parameters	Remarks
-	Loan Amount - Upto 1 Cr linked to Income eligibility methods & collateral type	Max loan amount limits increased linked to Location categorization
+	Loan Amount - Upto 1.5 Cr linked to Income eligibility methods & collateral type	Max loan amount limits increased linked to Location categorization
 
 
 ---
@@ -62,22 +62,16 @@ Self Employed: Rs 1,00,000 per annum.
 
 ### LTV (Loan to Value) Grid
 
-| Eligibility Income | Type II           | Type III              | Type IV |
-|--------------------|-------------------|-----------------------|---------|
-| Formal Income      | NHB norm          | NHB norm -5%         | 70%     |
-| Assessed Income    | NHB norm -5%      | 70%                  | 60%     |
+| **Eligibility Income**  | **Type I**  | **Type II** |**Type III** | **Type IV** |
+|-------------------------|-------------|------------|-------------|-------------|
+| **Formal Income**        | NHB norm   |NHB norm    |   NHB norm -5% | 70%      |
+| **Assessed Income**      | NHB norms    |NHB norms     | 70%          | 60%        |
 
 ---
 
 
 ### Loan Amount (in Crs) - Based on Collateral Type and Location
 
-| **Property Type**       | **Type II - Cat A+/A** | **Type II - Other Locations** | **Type III - Cat A+/A** | **Type III - Other Locations** | **Type IV - Cat A+/A** | **Type IV - Other Locations** |
-|-------------------------|-----------------------|------------------------------|-------------------------|------------------------------|------------------------|-----------------------------|
-| **Bank Salaried**        | 1.00                 | 0.75                         | 1.00                    | 0.75                         | 0.50                   | 0.30                        |
-| **Cash Profit Method**   | 1.00                 | 0.75                         | 0.75                    | 0.50                         | 0.40                   | 0.30                        |
-| **Surrogate Program**    | 1.00                 | 0.75                         | 0.75                    | 0.50                         | 0.30                   | 0.25                        |
-| **CM Assessed Income / Cash Salaried** | 0.75        | 0.50                         | 0.50                    | 0.30                         | 0.25                   | 0.20                        |
 
 Customer Type | Type I - A+/A | Type I - Other Locations | Type II - A+/A | Type II - Other Locations | Type III - A+/A | Type III - Other Locations | Type IV - A+/A | Type IV - Other Locations
 Bank Salaried | To be booked in Prime / Regular HL – |  | 150 | 100 | 100 | 75 | 50 | 30
@@ -129,15 +123,6 @@ Cash Salaried | - | - | - | - | - | - | 15 | -
 | CPM              | 80%      |
 | Surrogate        | 65%      |
 | Assessed Income  | 60%      |
-
----
-
-### Eligibility Income Criteria
-
-| **Eligibility Income**  | **Type I**  | **Type II** |**Type III** | **Type IV** |
-|-------------------------|-------------|------------|-------------|-------------|
-| **Formal Income**        | NHB norm   |NHB norm    |   NHB norm -5% | 70%      |
-| **Assessed Income**      | NHB LTV    |NHB LTV     | 70%          | 60%        |
 
 ---
 
