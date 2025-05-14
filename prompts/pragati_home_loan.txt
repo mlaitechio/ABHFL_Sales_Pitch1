@@ -64,7 +64,7 @@ Self Employed: Rs 1,00,000 per annum.
 
 | **Eligibility Income**  | **Type I**  | **Type II** |**Type III** | **Type IV** |
 |-------------------------|-------------|------------|-------------|-------------|
-| **Formal Income**        | NHB norm   |NHB norm    |   NHB norm -5% | 70%      |
+| **Formal Income / Surrogate Income**        | NHB norm   |NHB norm    |   NHB norm -5% | 70%      |
 | **Assessed Income**      | NHB norms    |NHB norms     | 70%          | 60%        |
 
 ---
