@@ -74,3 +74,54 @@ class History(models.Model):
             return HumanMessage(content=content)
         else:
             raise ValueError(f"Unknown message role: {role}")
+        
+
+        
+# New Evaluation model for storing the evaluation data
+class Evaluation(models.Model):
+    session = models.ForeignKey(ChatSession, on_delete=models.CASCADE, related_name='evaluations')
+    ques_id = models.TextField(blank=True)
+    input = models.TextField(blank=True)
+    input_token_count = models.TextField(blank=True)
+    output_token_count = models.TextField(blank=True)
+    output = models.TextField(blank=True)
+    score = models.FloatField(blank=True, null=True)  # Overall performance score (0.0 to 1.0)
+    step_efficiency = models.FloatField(blank=True, null=True)  # Efficiency score (0.0 to 1.0)
+    used_tools = models.JSONField(blank=True, null=True)  # List of tools used in the trajectory
+    tool_usage_count = models.JSONField(blank=True, null=True)  # Dictionary of tool names to usage count
+    tool_confidence = models.JSONField(blank=True, null=True)  # Dictionary of tool names to confidence scores
+    tool_confidence_avg = models.FloatField(blank=True, null=True)  # Average confidence score for tools
+    total_steps = models.IntegerField(blank=True, null=True)  # Total steps in the trajectory
+    redundant_steps = models.JSONField(blank=True, null=True)  # List of redundant step numbers
+    tool_selection_quality = models.FloatField(blank=True, null=True)  # Tool selection quality (0.0 to 1.0)
+    final_answer_helpful = models.BooleanField(blank=True, null=True)  # Whether the final answer was helpful
+    reasoning_quality = models.FloatField(blank=True, null=True)  # Quality of the reasoning (0.0 to 1.0)
+    reasoning = models.TextField(blank=True, null=True)  # Detailed reasoning for the evaluation
+
+    def __str__(self):
+        return f"Evaluation for Session {self.session.session_id}, Score: {self.score}"
+
+    # Method to store the result from the evaluation logic (StepNecessityEvaluator)
+    @classmethod
+    def from_evaluation(cls, session: ChatSession, evaluation_data: dict):
+        """
+        Create an Evaluation instance from the data returned by the evaluator.
+        """
+        return cls.objects.create(
+            session=session,
+            score=evaluation_data.get('score', 0.0),
+            step_efficiency=evaluation_data.get('step_efficiency', 0.0),
+            used_tools=evaluation_data.get('used_tools', []),
+            tool_usage_count=evaluation_data.get('tool_usage_count', {}),
+            tool_confidence=evaluation_data.get('tool_confidence', {}),
+            tool_confidence_avg=evaluation_data.get('tool_confidence_avg', 0.0),
+            total_steps=evaluation_data.get('total_steps', 0),
+            redundant_steps=evaluation_data.get('redundant_steps', []),
+            tool_selection_quality=evaluation_data.get('tool_selection_quality', 0.0),
+            final_answer_helpful=evaluation_data.get('final_answer_helpful', False),
+            reasoning_quality=evaluation_data.get('reasoning_quality', 0.0),
+            reasoning=evaluation_data.get('reasoning', ''),
+            input=evaluation_data.get('input', ''),
+            output=evaluation_data.get('output', ''),
+            ques_id=evaluation_data.get('ques_id', ''),
+        )
