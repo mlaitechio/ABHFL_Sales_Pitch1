@@ -1,0 +1,333 @@
+import json
+import openai
+from openai import AzureOpenAI
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+# === CONFIGURATION ===
+PROGRAM_FILES = {
+        'informal': 'prompts/informal_mitigation.json',
+        'affordable': 'prompts/affordable_mitigation.json'
+    }
+
+AZURE_DEPLOYMENT_NAME = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME")
+AZURE_API_VERSION = "2023-05-15"
+client = AzureOpenAI(
+  azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT"), 
+  api_key=os.getenv("AZURE_OPENAI_API_KEY"),  
+  api_version="2024-02-01"
+)
+
+REJECT_CATEGORIES = [
+    "Bureau or Credit Score", "Customer Profile", "Eligibility Issue", "FOIR Enhancement",
+    "Business Vintage or Work Experience","Business Setup", "Age Deviation", "Overleveraged Profile",
+    "Banking norms", "Collateral or Property", "BT norms", "ITR Gap", "Personal Discussion",
+    "Loan Amount breach", "Geolimit", "BT Vintage", "Hunter Negative", "Turnover Decline", "FI Negative"
+]
+
+def evaluate_customer_profile_with_gpt(program : str,reason: str) -> str:
+    file_path = 'prompts/non_targeted_profile.txt'
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        profile_data = f.read()
+
+    prompt = f"""
+## Credit Policy Analysis Prompt – Housing Loans
+
+You are an expert in credit policy analysis for housing loans.
+
+You are provided with a list of **non-targeted customer profiles** across different loan programs:
+- **Prime**  
+- **Affordable**  
+- **Informal**
+
+### Input Variables:
+- **Program**: `{program}`  
+- **Reject Reason**: `{reason}`  
+- **Data (non_targeted_profiles.txt)**:  
+-  {profile_data}
+
+---
+
+---
+
+### Your Task:
+
+Analyze whether the **reject reason matches any non-targeted profile** for:
+
+- The specified program (`{program}`), **OR**
+- **All three programs** (Prime, Affordable, Informal)
+
+---
+
+### Decision Logic:
+
+Respond with one of the following **three** responses based on the conditions below:
+
+1. **If the reject reason matches a profile that is marked "Negative"**:
+ - In the **specified program**, **AND**
+ - In **all other programs** as well (i.e., Negative across all),
+ 
+ Respond with:
+ > **"This case does not fall under any eligible profile segment. We may not be able to process this case."**
+
+2. **If the reject reason does not match any non-targeted profile**, or the profile is marked:
+ - As **"Caution"** or **"Not Applicable"** in **any program**,
+ 
+ Respond with:
+ > **"Proceed with mitigant filtering"**
+
+3. **If the profile is marked as "Negative" in the specified program**, but is **"Caution"** or **"Not Applicable"** in any of the **other two programs**,  
+ Respond with:
+ > **"This profile is not eligible under the {program} program. However, it may be considered under another program with a 'Caution' or 'Not Applicable' flag. Please explore alternate program fitment."**
+
+---
+
+### Important Notes:
+
+- Be **strict and precise** in your interpretation.
+- Always provide **only one** of the three valid responses:
+
+1. **"This case does not fall under any eligible profile segment. We may not be able to process this case."**  
+2. **"Proceed with mitigant filtering"**  
+3. **"This profile is not eligible under the {program} program. However, it may be considered under another program with a 'Caution' or 'Not Applicable' flag. Please explore alternate program fitment."**
+
+"""
+
+    response = client.chat.completions.create(
+        model=AZURE_DEPLOYMENT_NAME,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.2
+    )
+
+    return response.choices[0].message.content.strip()
+
+def categorize_reason_with_gpt(reason: str) -> str:
+
+    prompt = f"""
+
+    Act as an AI-Powered Regional Business Head with deep experience in the housing finance industry.
+
+You specialize in diagnosing and classifying business logic behind loan application rejections.
+Your task is to categorize the following **reject reason** into one of the predefined **reject categories**.
+
+Reject Reason: "{reason}"
+
+## Categories with Clear Definitions:
+
+**Customer Profile** - Rejections based on applicant's personal characteristics, occupation type, profession, job role, or individual risk profile (e.g., gym owner, dancer, contractor, freelancer, etc.)
+
+**Business Setup** - Rejections related to business infrastructure, office setup, business registration, compliance issues, or operational structure problems
+
+**Bureau or Credit Score** - Credit history, CIBIL score, past defaults, credit behavior issues
+
+**Eligibility Issue** - Basic qualification criteria not met (income, employment type, documentation)
+
+**FOIR Enhancement** - Fixed Obligation to Income Ratio concerns, existing EMI burden
+
+**Business Vintage or Work Experience** - Insufficient years in current business/job, work history issues
+
+**Age Deviation** - Age-related eligibility issues (too young/old for loan terms)
+
+**Overleveraged Profile** - Excessive existing loans, high debt burden across multiple lenders
+
+**Banking Norms** - Bank's internal policy violations, regulatory compliance issues
+
+**Collateral or Property** - Property valuation, legal issues, title problems, security concerns
+
+**BT norms** - Balance Transfer related policy violations
+
+**ITR Gap** - Income Tax Return filing gaps, tax compliance issues
+
+**Personal Discussion** - Issues arising from customer interaction, interview concerns
+
+**Loan Amount breach** - Requested amount exceeds permissible limits
+
+**Geolimit** - Geographic restrictions, location-based rejections
+
+**BT Vintage** - Balance Transfer timing/tenure requirements not met
+
+**Hunter Negative** - Fraud detection system alerts, suspicious activity
+
+**Turnover Decline** - Business revenue/income showing downward trend
+
+**FI Negative** - Field Investigation report showing adverse findings
+
+## Instructions:
+1. Think carefully about the root cause behind the rejection
+2. Focus on WHETHER the rejection is about WHO the person is (Customer Profile) vs HOW their business operates (Business Setup)
+3. Occupation-based rejections like "gym owner", "contractor" = Customer Profile
+4. Business infrastructure rejections like "no proper office" = Business Setup
+5. Return ONLY the exact matching category name, nothing else
+
+Category:
+    
+    """
+
+    response = client.chat.completions.create(
+        model=AZURE_DEPLOYMENT_NAME,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.2
+    )
+
+    return response.choices[0].message.content.strip()
+
+def match_program(program: str, reason: str):
+    """
+    Filters mitigant data based on the GPT-predicted category.
+    """
+    predicted_category = categorize_reason_with_gpt(reason)
+    if predicted_category == "Customer Profile":
+        verdict = evaluate_customer_profile_with_gpt(program,reason)
+        if "not fall under" or "not eligible under" in verdict:
+            return verdict
+    # print(reason)
+    file_path = PROGRAM_FILES.get(program.lower())
+    if not file_path:
+        raise ValueError(f"Unknown program: {program}")
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        records = json.load(f)
+
+    filtered = [
+        {
+            "Reject Category": r.get("Reject Category", ""),
+            "Reject Reasons": r.get("Reject Reasons", ""),
+            "List of Mitigants": r.get("List of Mitigants ", ""),
+            "Quantitative Measures \nMitigates": r.get("Quantitative measures, \nMitigates", "")
+        }
+        for r in records
+        if r.get("Reject Category", "").strip() == predicted_category
+    ]
+    # print(predicted_category)
+    # print(filtered)
+    if len(filtered) != 0 :
+        filtered = filtered
+    else:
+        filtered = predicted_category
+
+    # print(filtered)
+    return f"""
+✅ Your Mission:
+Compare the user query against the reject reason fields from the provided JSON data.
+
+If a match is found, respond only with the mitigants and quantitative measures in a generalized, future-focused format—no assumptions, no specifics.
+
+The provided mitigants and measures are based on previous cases and may not apply universally.
+
+The response should guide the applicant on possible actions but not assume they will work for all cases.
+
+📋 Strict Rules to Follow
+Importartant Rule:
+ - When a reject category is provided but reject reason is missing or not clear, the system should:
+ - identify all related reject reasons under given category.
+ - aggregate all mitigants and qaulititive measures associated with those reasons.
+ - Present the combined list of mitigants and measures are generalized, non-case-specific guidance.
+
+1️⃣ if Reject reason are contextually similar and within the same category
+
+Must combine mitigants and quantitive measure from **all related reasons within that category**
+Consider the reject reason matched if it **partially matched or share context** with existing one in the same category
+Ensure the response includes **deduplicated** and **generalized** mitigants from merged group.
+Never include mitigants from a different reject category.
+
+
+2️⃣ Provide Only Mitigants & Quantitative Measures
+DO NOT mention the reject category or reason unless the user explicitly asks.
+
+If the query matches a previous rejection case, respond with potential mitigants framed as considerations, not solutions.
+
+3️⃣ Keep It General & Future-Focused
+Never assume the cause of rejection.
+
+Use only action-based, forward-looking phrasing:
+
+✅ "Identify the reason..."
+
+✅ "Provide documentation..."
+
+✅ "Clarify the circumstances..."
+
+❌ Avoid phrases like "issue identified" or references to past approvals.
+
+4️⃣ Include Approval or Program If Stated
+If mitigants list any approval dependency (e.g., NCM approval, additional validations), it must be included.
+
+If a Program is mentioned (e.g., Cash Salaried Program), it must be referenced in the response.
+
+Keep the response neutral and framed as possible considerations.
+
+5️⃣ Use Future-Tense Action Verbs
+Always frame suggested actions as things to be considered or done in the future:
+
+✅ "Identify..."
+
+✅ "Provide..."
+
+✅ "Ensure..."
+
+✅ "Maintain..."
+
+6️⃣ Convert Numbers into Qualitative Terms
+Replace numeric values with descriptive terms:
+
+ROI percentages → "charged premium ROI"
+
+Loan tenure → "longer tenure"
+
+FOIR → "moderate FOIR"
+
+LTV → "restricted LTV"
+
+7️⃣ Remain Product-Agnostic
+If specific product types are mentioned (e.g., "home extension loan"), generalize:
+
+✅ "Consider alternative loan options."
+
+8️⃣ Generalize Based on Previous Cases
+Present previous mitigants as potential next steps, never final answers.
+
+Emphasize that each case is unique and subject to individual assessment.
+
+9️⃣ Never Mention Reject Category or Reason (Unless Asked)
+Only reference mitigants and measures—do not state category or reason unless explicitly asked by the user.
+
+✅ Before Responding, Double-Check:
+✔ Is the response general, not case-specific?
+✔ Are combined mitigants only from the same reject category?
+✔ Are all suggestions framed as guidance (e.g., "Provide," "Ensure")?
+✔ Are all numbers converted into quantitative terms? for both mitigants and qauntitive measure
+✔ Are mitigants and measure merged for same category?
+✔ Have you avoided assuming outcome or cause?
+✔ Are approval/program flags mentioned, if present in mitigants?
+✔ Is the language neutral, non-committal, and future-oriented?
+✔ Have you avoided personal, familial, or relational references?
+✔ If the profile is "Negative" under the specified program but marked "Caution" or "Not Applicable" under another, respond with: "Not eligible under program, consider evaluating under alternate_program." Don't suggest this as MItigants as customer not eligible
+
+🔹 This ensures responses are:
+Guidance-oriented
+
+Neutral and non-prescriptive
+
+Compliant and scalable for future rejection scenarios
+
+Only refer to the below reject reasons and categories to provide mitigants and quantitative measures:
+
+----------------------------------
+{filtered}
+
+-----------------------
+At the end of the response, include this statement verbatim:
+
+Listed measures for credit mitigants are exhaustive and limited to Informal cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login. Measures for Prime is in cooking stage.
+"""
+
+
+# # # Example usage
+# if __name__ == '__main__':
+#     # example = match_program('affordable', 'Mitigants for Transporter and Fleet Petrol pump owner')
+#     example = evaluate_customer_profile_with_gpt('affordable', 'If I want to fund Gyms under affordable what can be the mitigants')
+# #     reason = categorize_reason_with_gpt('Kachha Road access to property')
+#     print(example)
+#     print(json.dumps(example, indent=2))

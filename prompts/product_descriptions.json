@@ -40,5 +40,6 @@
     "APF" : "Provide Details about APF (Advance Processing Facility)",
     "technical_deviation" : "The tool provides details about technical deviations and the respective approval authority for ZTM (Zonal Technical Manager), RTM (Regional Technical Manager), and NTM (National Technical Manager). It also offers all property-related(tenure,funding etc..) information relevant to query.",
     "deviation_delegation_matrix_affordable" : "Provide details about the deviation delegation matrix for affordable program.",
-    "non_targeted_profile" : "Provide the Details of high-risk or excluded customer profiles across Prime, Affordable, and Informal segments"
+    "non_targeted_profile" : "Provide the Details of high-risk or excluded customer profiles across Prime, Affordable, and Informal segments",
+    "compliance" : "Handles queries by providing precise clarifications and classifications on topics such as Housing and Non-Housing loan categorization, KYC requirements, beneficial ownership definitions, and customer documentation rules. Covers real-world lending scenarios based on internal policy mailers, intended for use by financial institution staff."
 }

@@ -13,7 +13,10 @@ import re
 from langchain_core.messages import SystemMessage, AIMessage
 from .stream_structure_agent8 import ABHFL
 from threading import Thread
-
+import concurrent.futures
+import time
+import traceback
+import threading
 # Render the main page
 def my_view(request):
     return render(request, "index.html")
@@ -23,72 +26,31 @@ def my_view(request):
 def replace_slashes(input_string: str) -> str:
     return re.sub(r'[\\/]', ' ', input_string)
 
-# Utility function to iterate over async generator
+THREAD_POOL = concurrent.futures.ThreadPoolExecutor(max_workers=10)
+
+# Helper function to iterate over async generator
 def iter_over_async(ait):
-    """
-    Iterates over an async iterable in a synchronous manner.
-    Uses a queue to bridge the async and sync worlds, avoiding nested event loops.
-
-    Args:
-        ait: An asynchronous iterable.
-
-    Yields:
-        Each item from the async iterable.
-    """
-    queue = asyncio.Queue()
-    loop = None
-    thread = None
-
-    async def producer():
-        """Pushes items from the async iterable into the queue."""
-        try:
-            async for item in ait:
-                await queue.put(item)
-        finally:
-            await queue.put(None)  # Sentinel to signal the end of iteration
-
-    def start_loop():
-        """Runs the event loop in a separate thread."""
-        nonlocal loop
+    # Create a new event loop for this thread if one doesn't exist
+    try:
+        loop = asyncio.get_event_loop()
+    except RuntimeError:
         loop = asyncio.new_event_loop()
         asyncio.set_event_loop(loop)
-        loop.run_forever()
-
-    try:
-        # Check if an event loop is already running
+    
+    ait = ait.__aiter__()
+    
+    async def get_next():
         try:
-            loop = asyncio.get_running_loop()
-            running = True
-        except RuntimeError:
-            running = False
-
-        if not running:
-            # Start a new event loop in a separate thread
-            thread = Thread(target=start_loop, daemon=True)
-            thread.start()
-            while loop is None:  # Wait for the loop to be initialized
-                pass
-
-        # Schedule the producer coroutine
-        asyncio.run_coroutine_threadsafe(producer(), loop)
-
-        # Consume items from the queue
-        while True:
-            # Use a thread-safe method to get items from the queue
-            future = asyncio.run_coroutine_threadsafe(queue.get(), loop)
-            item = future.result()  # Block until the item is available
-            if item is None:  # Sentinel value indicates end of iteration
-                break
-            yield item
-    finally:
-        if not running and loop is not None:
-            # Stop the event loop if we created it
-            loop.call_soon_threadsafe(loop.stop)
-            # Wait for the loop to stop
-            if thread is not None:
-                thread.join(timeout=1)  # Wait for the thread to finish
-            # Close the loop
-            loop.close()
+            obj = await ait.__anext__()
+            return False, obj
+        except StopAsyncIteration:
+            return True, None
+    
+    while True:
+        done, obj = loop.run_until_complete(get_next())
+        if done:
+            break
+        yield obj
 
 
 # API to create a new chat session
@@ -109,7 +71,7 @@ class NewChatAPIView(generics.CreateAPIView):
 # Optimized ChatAPIView for generating and streaming bot responses without storing data
 class ChatAPIView(APIView):
     serializer_class = ChatMessageSerializer
-
+    
     def post(self, request):
         # Deserialize incoming data
         serializer = self.serializer_class(data=request.data)
@@ -122,50 +84,106 @@ class ChatAPIView(APIView):
             session = get_object_or_404(ChatSession, session_id=session_id)
 
             # Handle bot interaction if no answer is provided
-            chat_history, created = History.objects.get_or_create(session = session)
-                # Prepare the history in the desired format
+            chat_history, created = History.objects.get_or_create(session=session)
+            # Prepare the history in the desired format
             if created:
                 chat_history.messages = []
-                # print(history)
+                
             messages = chat_history.get_messages()
-            bot_instance = ABHFL(messages)  # Placeholder for bot logic
-            response_chunks = []
-
-            def generate():
+            
+            # Create a dedicated instance for this request to avoid state sharing
+            bot_instance = ABHFL(messages)
+            
+            # Thread-specific storage for response chunks
+            # Using thread local storage to ensure data isolation between requests
+            thread_local = threading.local()
+            thread_local.response_chunks = []
+            
+            def process_in_thread(question):
+                """Process the conversation in a dedicated thread"""
+                thread_id = threading.get_ident()
+                print(f"Starting thread {thread_id} for session {session_id}")
+                
+                # Initialize the bot if needed
+                if not bot_instance.message:
+                    with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
+                        text = f.read()
+                    bot_instance.message.append(SystemMessage(content=text))
+                
                 try:
-                    if not bot_instance.message:
-                        with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
-                            text = f.read()
-                        bot_instance.message.append(SystemMessage(content=text))
+                    # Process the actual conversation
+                    thread_local.response_chunks = []
+                    processed_question = replace_slashes(question)
                     
+                    # Get openai response by iterating over the async generator
+                    openai_response = iter_over_async(bot_instance.run_conversation(processed_question.lower()))
                     
-                    # asyncio.set_event_loop(loop)
-                    questions = replace_slashes(message)
-                    openai_response = iter_over_async(bot_instance.run_conversation(questions.lower()))
-
+                    # Return the generator that yields chunks
+                    return openai_response
+                    
+                except Exception as e:
+                    error_msg = f"Error initializing conversation: {str(e)}"
+                    traceback_str = traceback.format_exc()
+                    print(f"{error_msg}\n{traceback_str}")
+                    return [{"event": "error", "data": {"error": error_msg}}]
+            
+            # Submit the task to the thread pool and get a future
+            future = THREAD_POOL.submit(process_in_thread, message)
+            
+            # Wait briefly for the thread to start processing
+            time.sleep(0.1)
+            
+            # Define the streaming generator function
+            def generate():
+                response_chunks = []
+                
+                try:
+                    # Get the generator from the future
+                    openai_response = future.result()
+                    
+                    # Stream the chunks
                     for event in openai_response:
-                        kind = event["event"]
+                        kind = event.get("event")
+                        
+                        # Handle different event types
                         if kind == "on_chat_model_stream":
                             content = event["data"]["chunk"].content
                             if content:
                                 response_chunks.append(content)
-                                yield content
-
-                    final_answer = "".join(response_chunks)
-                    bot_instance.message.append(AIMessage(content=final_answer))
-                    chat_history.set_messages(bot_instance.message)
-                    chat_history.save()
-                    # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
-
+                                yield f"{content}"
+                        elif kind == "error":
+                            error_msg = event["data"].get("error", "Unknown error")
+                            yield f"{error_msg}\n\n"
+                    
+                    # Process is complete, save the final answer
+                    try:
+                        final_answer = "".join(response_chunks)
+                        bot_instance.message.append(AIMessage(content=final_answer))
+                        chat_history.set_messages(bot_instance.message)
+                        chat_history.save()
+                        print(f"Saved chat history for session {session_id}")
+                    except Exception as save_error:
+                        print(f"Error saving chat history: {str(save_error)}")
+                        yield f"Something went wrong processing your request. Please try again."
+                    
                 except Exception as e:
+                    error_msg = f"Error during streaming: {str(e)}"
+                    traceback_str = traceback.format_exc()
+                    print(f"{error_msg}\n{traceback_str}")
                     yield f"Something went wrong processing your request. Please try again."
-
-            response = StreamingHttpResponse(generate(), content_type="text/event-stream")
+                
+                # Signal end of stream with a blank line
+                # yield "\n\n"
+            
+            # Create the streaming response
+            response = StreamingHttpResponse(
+                generate(),
+                content_type="text/event-stream"
+            )
             response["Cache-Control"] = "no-cache"
             response["X-Accel-Buffering"] = "no"
             return response
-
-
+        
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 

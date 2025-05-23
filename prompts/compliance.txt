@@ -1,0 +1,86 @@
+Mailer 01:  
+Q. A customer is wanting to renovate his existing home. He has approached me for availing a loan towards the same. I am not sure if such a loan would be classified as Housing or Non-housing loan. 
+Answer - Loans to individuals towards reconstruction/ renovation/ repairs of existing residential dwelling units would be considered as Housing Loans. 
+
+Mailer 02:
+Q. A customer wants to avail an additional loan on their existing Home loan. Is it possible. And if its possible, whether such additional loan will be categorised as Housing or Non-Housing Loan. 
+Answer - Any additional loan / top-up loan is to be categorized as Non-Housing Loan only.
+
+Mailer 03:
+Q. I have a doubt. A loan for purchasing an old / new residential unit be considered as Housing Loan or Non-Housing Loan? 
+Answer - Such loans are categorized as Housing Loans.
+
+Mailer 04:
+Q. My customer Mr. A wants a loan for purchase of plot and he intends to construct a home on the same plot. Compliance Genie will this loan be classified under Housing Loan and are there are conditions for this classification? 
+Answer - A Plot + Construction loan can only be classified under Housing loan provided a declaration is obtained from the borrower that he intends to construct a house on the plot within a period of three years from the date of availing of the loan.
+Q. What if the borrower is unable to construct the home within 3 years?
+Answer - Post completion of three years, the Housing loan will have to be converted into a Non-Housing Loan.
+Mailer 05:
+Q. My customer Mr. B wants a loan for purchase of plot only. Compliance Genie can you help me understand whether the loan needs to be classified under Housing Loan?
+Answer - A loan for purchase of a plot will be classified as a Non-Housing Loan.
+
+Mailer 06:
+Q. I have a customer who wants to avail refinancing of a home that he has already purchased with his own funds. My view is that it will be considered as housing loan?
+Answer - Refinancing of an already purchased home from own funds of the customer will have to be mandatorily classified under non-housing category
+
+Mailer 07:
+Q. Can you help me understand Housing Loans to Corporates?
+Answer - Yes sure. Loans to corporates /government agencies for employee housing are considered Housing Loans to corporates.
+
+Mailer 08:
+Q. My customer, a renowned builder, wants to construct a commercial office space and has approached me for availing financing from ABHFL. But I am confused whether this loan to builder will fall under the Housing Loan category?
+Answer - Loans to builders for construction of commercial space shall be categorised as a CRE loan which is a Non Housing Loan.
+
+Mailer 09:
+Q. Can u guide me in interpretating how Integrated Housing projects comprising commercial spaces are to be treated under the Housing / Non Housing criteria?
+Answer - Yes, Integrated housing project comprising some commercial spaces (e.g. shopping complex, school, etc.) can be treated as residential housing, provided that the commercial area in the residential housing project does not exceed 10 per cent of the total Floor Space Index (FSI) of the project.
+Q. So, the commercial saleable area would be the deciding factor for Integrated Housing projects.
+Answer - Yes that’s correct.
+
+Mailer 10:
+Q. I have a query. In case a Corporate avails a housing loan for providing accommodation to any of its Directors or Senior Management, whether the same will be considered as Housing Loan?
+Answer - Loan to a Corporate towards single accommodation of any of its Directors or Senior management shall not be considered as Housing Loan. In case loans are availed by corporates /government agencies towards construction of employee housing in the form of residential complex / staff quarters, only such loans are considered as Housing Loan.
+
+Mailer 11:
+Q. A customer has approached me for a loan towards reimbursement of costs incurred by her for purchase of a house. I think since this loan is for residential purposes, this can be considered as Housing Loan. But let me seek confirmation from Compliance Genie.
+Answer - Since this is a reimbursement of the costs already incurred by the customer and not a direct loan for procurement of a house / residential dwelling unit, such loans will not be considered as Housing Loan.
+Q. Ohh, but I have heard that in case the reimbursement is within a period of 6 months to 2 years, then it is ok to consider the same under housing loan
+Answer - NHB has issued an Advisory on 05.06.23 clarifying that loans for reimbursement of costs incurred on construction /purchase of house shall not qualify as housing Finance. This is irrespective of the period within which such reimbursement is claimer.
+
+Mailer 12:
+Q. Hi Genie, I know from our previous discussion that  commercial saleable area would be the deciding factor for Integrated Housing projects. But in case we are funding only the residential part of a project which contains both residential and commercial and obtained valuation only for the residential project, can the loan be considered under Housing Loan?
+Answer - Irrespective of whether we have obtained valuation of 100% of the project or only the residential part of the project, in any integrated housing project where the commercial space exceeds 10% of the total FSI of the project, the loan will have to be considered as non-housing. 
+Q. Okay, so I will have to consider the Commercial saleable area of the entire project and not only the residential portion for the purposes of deciding housing or non-housing.
+Answer - Yes correct.
+
+Mailer 13:
+Q. Ms. A has approached me for change in her name post her marriage? Can I change her name? Compliance Genie kindly clarify?
+Answer - Yes sure. If Ms. A makes an application for change of name along with the marriage certificate issued by the State Government or Gazette notification, indicating such a change of name.
+
+Mailer 14:
+Q. Hi Genie. Can you explain What is Digital KYC?
+Answer - Sure, Digital KYC in RBI context means capturing live photo of the customer and OVD, along with the latitude and longitude of the location where such live photo is being taken by an authorised officer of the ABHFL.
+
+Q. So Digital KYC =Live photo of customer and OVD + latitude and longitude of the location.
+Answer - That's right, you got it.
+
+Mailer 15:
+Q. Who is a Beneficial owner in case of the company?
+Answer - The beneficial owner is the natural person, who, has/have a controlling ownership interest or who exercise control through other means.
+
+Q. Can you also explain how control is defined?
+Answer – Sure, there are 2 aspects that define control w.r.t a company
+1)	Controlling ownership interest” means ownership of more than 10 percent of the shares or capital or profits of a company.
+2)	“Control” shall includes the right to appoint majority of the directors or to control the management or policy.
+
+Mailer 16:
+Q. Who is a beneficial owner in case of a Partnership Firm?
+Answer – The beneficial owner is the natural person who has/have ownership of/entitlement to more than 10 percent of capital or profits of the partnership.
+
+Mailer 17:
+Q. Who is a beneficial owner in case of a Trust?
+Answer – The identification of beneficial owner(s) shall include identification of the author of the trust, the trustee, the beneficiaries with 10 percent or more interest in the trust and any other natural person exercising ultimate effective control over the trust through a chain of control or ownership.
+
+Mailer 18:
+Q. A customer who is an individual has submitted his Aadhaar as OVD? Is the customer required to submit any additional documents?
+Answer – If the customer has submitted any of the OVDs with updated current address, on additional documents required.

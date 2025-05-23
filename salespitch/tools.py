@@ -14,7 +14,7 @@ from .csv_agnet import filter_csv
 from .Select_calculator import select_calculator
 from .property_faq import get_qna_by_location_from_file
 from .location_cat import get_location_details
-
+from .mitigants import match_program
 
 
 def home_loan_eligibility_tool(customer_type, dob, net_monthly_income, current_monthly_emi, roi):
@@ -73,6 +73,10 @@ def location_cat_affordable_tool(location=None, category=None, cap=None, cap_min
     """Retrieve location category and cap in cr for affordable product program."""
     return get_location_details(location=location, category=category, cap=cap, cap_min=cap_min, cap_max=cap_max)
 
+def mitigation_tool(segment , reason):
+    """Retrive Mitigation based on Program and reject reasons"""
+    return match_program(segment, reason)
+
 def get_product_descriptions():
     """Load product descriptions from a JSON file."""
     try:
@@ -114,7 +118,7 @@ def create_tools(abhfl_instance):
             description="""Calculate the maximum home loan amount a customer is eligible for based on their profile.
             Parameters:
             customer_type (str, required): Type of the customer (e.g., salaried, self-employed).
-            dob (str, required): Date of birth of the customer in dd Month yyyy format.
+            dob (str, required): Date of birth of the customer in dd Month yyyy format.(arrage dob in 05 August 2025. formate only)
             net_monthly_income (float, required): The customer's net monthly income.
             current_monthly_emi (float, required): The customer's current monthly financial obligations.
             roi (float, required): Rate of interest for the loan.""",
@@ -274,6 +278,16 @@ StructuredTool.from_function(
 - cap_min (float, optional): Minimum cap value in crores. Used only if cap is not provided.
 - cap_max (float, optional): Maximum cap value in crores. Used only if cap is not provided.""",    ),
 
+StructuredTool.from_function(
+    func=mitigation_tool,
+    name="mitigation_tool",
+    description=("""
+        "Tool retrieves mitigants based on rejection reasons from customer loan profiles.
+         Parameters:
+-segment (str, required): program name must be one of this two only['informal', 'affordable'].Must be ask user to specify"
+-query  (str, required): User query.\n"""
+    )
+),
     ]
 
     # Add product information tools
@@ -285,7 +299,7 @@ StructuredTool.from_function(
         "micro_CF", "step_up", "step_down", "extended_tenure", "lease_rental_discounting",
         "express_balance_transfer_program", "prime_hl", "prime_lap", "priority_balance_transfer",
         "semi_fixed", "staff_loan_price", "power_pitches", "nri_assesment_criteria", "PMAY",
-        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","Mitigation","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile"
+        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","compliance"
     ]
     for product_name in product_names:
         tools.append(create_product_info_tool(product_name, abhfl_instance))
