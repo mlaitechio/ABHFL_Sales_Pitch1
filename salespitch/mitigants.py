@@ -26,81 +26,6 @@ REJECT_CATEGORIES = [
     "Loan Amount breach", "Geolimit", "BT Vintage", "Hunter Negative", "Turnover Decline", "FI Negative"
 ]
 
-def evaluate_customer_profile_with_gpt(program : str,reason: str) -> str:
-    file_path = 'prompts/non_targeted_profile.txt'
-
-    with open(file_path, 'r', encoding='utf-8') as f:
-        profile_data = f.read()
-
-    prompt = f"""
-## Credit Policy Analysis Prompt – Housing Loans
-
-You are an expert in credit policy analysis for housing loans.
-
-You are provided with a list of **non-targeted customer profiles** across different loan programs:
-- **Prime**  
-- **Affordable**  
-- **Informal**
-
-### Input Variables:
-- **Program**: `{program}`  
-- **Reject Reason**: `{reason}`  
-- **Data (non_targeted_profiles.txt)**:  
--  {profile_data}
-
----
----
-
-### Your Task:
-
-Analyze whether the **reject reason matches any non-targeted profile** for:
-
-- The specified program (`{program}`), **OR**
-- **All three programs** (Prime, Affordable, Informal)
-
----
-
-### Decision Logic:
-
-Respond with one of the following **three** responses based on the conditions below:
-
-1. **If the reject reason matches a profile that is marked "Negative"**:
- - In the **specified program**, **AND**
- - In **all other programs** as well (i.e., Negative across all),
- 
- Respond with:
- > **"This case does not fall under any eligible profile segment. We may not be able to process this case."**
-
-2. **If the reject reason does not match any non-targeted profile**, or the profile is marked:
- - As **"Caution"** or **"Not Applicable"** in **any program**,
- 
- Respond with:
- > **"Proceed with mitigant filtering"**
-
-3. **If the profile is marked as "Negative" in the specified program**, but is **"Caution"** or **"Not Applicable"** in any of the **other two programs**,  
- Respond with:
- > **"This profile is not eligible under the {program} program. However, it may be considered under another program with a 'Caution' or 'Not Applicable' flag. Please explore alternate program fitment."**
-
----
-
-### Important Notes:
-
-- Be **strict and precise** in your interpretation.
-- Always provide **only one** of the three valid responses:
-
-1. **"This case does not fall under any eligible profile segment. We may not be able to process this case."**  
-2. **"Proceed with mitigant filtering"**  
-3. **"This profile is not eligible under the {program} program. However, it may be considered under another program with a 'Caution' or 'Not Applicable' flag. Please explore alternate program fitment."**
-
-"""
-
-    response = client.chat.completions.create(
-        model=AZURE_DEPLOYMENT_NAME,
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.2
-    )
-
-    return response.choices[0].message.content.strip()
 
 def categorize_reason_with_gpt(reason: str) -> str:
 
@@ -133,10 +58,7 @@ def match_program(program: str, reason: str):
     Filters mitigant data based on the GPT-predicted category.
     """
     predicted_category = categorize_reason_with_gpt(reason)
-    if predicted_category == "Customer Profile":
-        verdict = evaluate_customer_profile_with_gpt(program,reason)
-        if "not fall under" or "not eligible under" in verdict:
-            return verdict
+    
     # print(reason)
     file_path = PROGRAM_FILES.get(program.lower())
     if not file_path:
