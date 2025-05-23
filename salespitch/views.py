@@ -26,7 +26,6 @@ def my_view(request):
 def replace_slashes(input_string: str) -> str:
     return re.sub(r'[\\/]', ' ', input_string)
 
-THREAD_POOL = concurrent.futures.ThreadPoolExecutor(max_workers=10)
 
 # Helper function to iterate over async generator
 def iter_over_async(ait):
@@ -71,7 +70,7 @@ class NewChatAPIView(generics.CreateAPIView):
 # Optimized ChatAPIView for generating and streaming bot responses without storing data
 class ChatAPIView(APIView):
     serializer_class = ChatMessageSerializer
-    
+
     def post(self, request):
         # Deserialize incoming data
         serializer = self.serializer_class(data=request.data)
@@ -84,107 +83,52 @@ class ChatAPIView(APIView):
             session = get_object_or_404(ChatSession, session_id=session_id)
 
             # Handle bot interaction if no answer is provided
-            chat_history, created = History.objects.get_or_create(session=session)
-            # Prepare the history in the desired format
+            chat_history, created = History.objects.get_or_create(session = session)
+                # Prepare the history in the desired format
             if created:
                 chat_history.messages = []
-                
+                # print(history)
             messages = chat_history.get_messages()
-            
-            # Create a dedicated instance for this request to avoid state sharing
-            bot_instance = ABHFL(messages)
-            
-            # Thread-specific storage for response chunks
-            # Using thread local storage to ensure data isolation between requests
-            thread_local = threading.local()
-            thread_local.response_chunks = []
-            
-            def process_in_thread(question):
-                """Process the conversation in a dedicated thread"""
-                thread_id = threading.get_ident()
-                print(f"Starting thread {thread_id} for session {session_id}")
-                
-                # Initialize the bot if needed
-                if not bot_instance.message:
-                    with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
-                        text = f.read()
-                    bot_instance.message.append(SystemMessage(content=text))
-                
-                try:
-                    # Process the actual conversation
-                    thread_local.response_chunks = []
-                    processed_question = replace_slashes(question)
-                    
-                    # Get openai response by iterating over the async generator
-                    openai_response = iter_over_async(bot_instance.run_conversation(processed_question.lower()))
-                    
-                    # Return the generator that yields chunks
-                    return openai_response
-                    
-                except Exception as e:
-                    error_msg = f"Error initializing conversation: {str(e)}"
-                    traceback_str = traceback.format_exc()
-                    print(f"{error_msg}\n{traceback_str}")
-                    return [{"event": "error", "data": {"error": error_msg}}]
-            
-            # Submit the task to the thread pool and get a future
-            future = THREAD_POOL.submit(process_in_thread, message)
-            
-            # Wait briefly for the thread to start processing
-            time.sleep(0.1)
-            
-            # Define the streaming generator function
+            bot_instance = ABHFL(messages)  # Placeholder for bot logic
+            response_chunks = []
+
             def generate():
-                response_chunks = []
-                
                 try:
-                    # Get the generator from the future
-                    openai_response = future.result()
+                    if not bot_instance.message:
+                        with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
+                            text = f.read()
+                        bot_instance.message.append(SystemMessage(content=text))
                     
-                    # Stream the chunks
+                    
+                    # asyncio.set_event_loop(loop)
+                    questions = replace_slashes(message)
+                    openai_response = iter_over_async(bot_instance.run_conversation(questions.lower()))
+
                     for event in openai_response:
-                        kind = event.get("event")
-                        
-                        # Handle different event types
+                        kind = event["event"]
                         if kind == "on_chat_model_stream":
                             content = event["data"]["chunk"].content
                             if content:
                                 response_chunks.append(content)
-                                yield f"{content}"
-                        elif kind == "error":
-                            error_msg = event["data"].get("error", "Unknown error")
-                            yield f"{error_msg}\n\n"
-                    
-                    # Process is complete, save the final answer
-                    try:
-                        final_answer = "".join(response_chunks)
-                        bot_instance.message.append(AIMessage(content=final_answer))
-                        chat_history.set_messages(bot_instance.message)
-                        chat_history.save()
-                        print(f"Saved chat history for session {session_id}")
-                    except Exception as save_error:
-                        print(f"Error saving chat history: {str(save_error)}")
-                        yield f"Something went wrong processing your request. Please try again."
-                    
+                                yield content
+
+                    final_answer = "".join(response_chunks)
+                    bot_instance.message.append(AIMessage(content=final_answer))
+                    chat_history.set_messages(bot_instance.message)
+                    chat_history.save()
+                    # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
+
                 except Exception as e:
-                    error_msg = f"Error during streaming: {str(e)}"
-                    traceback_str = traceback.format_exc()
-                    print(f"{error_msg}\n{traceback_str}")
-                    yield f"Something went wrong processing your request. Please try again."
-                
-                # Signal end of stream with a blank line
-                # yield "\n\n"
-            
-            # Create the streaming response
-            response = StreamingHttpResponse(
-                generate(),
-                content_type="text/event-stream"
-            )
+                    yield f"Error: {str(e)}"
+
+            response = StreamingHttpResponse(generate(), content_type="text/event-stream")
             response["Cache-Control"] = "no-cache"
             response["X-Accel-Buffering"] = "no"
             return response
-        
+
+
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
 
 
 
