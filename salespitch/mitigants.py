@@ -7,9 +7,9 @@ from dotenv import load_dotenv
 load_dotenv()
 # === CONFIGURATION ===
 PROGRAM_FILES = {
-        'informal': 'prompts/informal_mitigation.json',
-        'affordable': 'prompts/affordable_mitigation.json'
-    }
+    'informal': os.path.join('prompts', 'informal_mitigation.json'),
+    'affordable': os.path.join('prompts', 'affordable_mitigation.json')
+}
 
 AZURE_DEPLOYMENT_NAME = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME")
 AZURE_API_VERSION = "2023-05-15"
