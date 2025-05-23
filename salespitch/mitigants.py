@@ -49,7 +49,6 @@ You are provided with a list of **non-targeted customer profiles** across differ
 -  {profile_data}
 
 ---
-
 ---
 
 ### Your Task:
@@ -107,62 +106,18 @@ def categorize_reason_with_gpt(reason: str) -> str:
 
     prompt = f"""
 
-    Act as an AI-Powered Regional Business Head with deep experience in the housing finance industry.
+Act as AI-Powered regional Business Head experience with deep experience in housing finance industry.
 
 You specialize in diagnosing and classifying business logic behind loan application rejections.
-Your task is to categorize the following **reject reason** into one of the predefined **reject categories**.
+Your task is to categorize the following **reject reason** into only one of the predefined **reject categories**
 
+Think deeply -- at least 10 times about true root cause behind the rejection.
 Reject Reason: "{reason}"
 
-## Categories with Clear Definitions:
+Categories:
+{', '.join(REJECT_CATEGORIES)}
 
-**Customer Profile** - Rejections based on applicant's personal characteristics, occupation type, profession, job role, or individual risk profile (e.g., gym owner, dancer, contractor, freelancer, etc.)
-
-**Business Setup** - Rejections related to business infrastructure, office setup, business registration, compliance issues, or operational structure problems
-
-**Bureau or Credit Score** - Credit history, CIBIL score, past defaults, credit behavior issues
-
-**Eligibility Issue** - Basic qualification criteria not met (income, employment type, documentation)
-
-**FOIR Enhancement** - Fixed Obligation to Income Ratio concerns, existing EMI burden
-
-**Business Vintage or Work Experience** - Insufficient years in current business/job, work history issues
-
-**Age Deviation** - Age-related eligibility issues (too young/old for loan terms)
-
-**Overleveraged Profile** - Excessive existing loans, high debt burden across multiple lenders
-
-**Banking Norms** - Bank's internal policy violations, regulatory compliance issues
-
-**Collateral or Property** - Property valuation, legal issues, title problems, security concerns
-
-**BT norms** - Balance Transfer related policy violations
-
-**ITR Gap** - Income Tax Return filing gaps, tax compliance issues
-
-**Personal Discussion** - Issues arising from customer interaction, interview concerns
-
-**Loan Amount breach** - Requested amount exceeds permissible limits
-
-**Geolimit** - Geographic restrictions, location-based rejections
-
-**BT Vintage** - Balance Transfer timing/tenure requirements not met
-
-**Hunter Negative** - Fraud detection system alerts, suspicious activity
-
-**Turnover Decline** - Business revenue/income showing downward trend
-
-**FI Negative** - Field Investigation report showing adverse findings
-
-## Instructions:
-1. Think carefully about the root cause behind the rejection
-2. Focus on WHETHER the rejection is about WHO the person is (Customer Profile) vs HOW their business operates (Business Setup)
-3. Occupation-based rejections like "gym owner", "contractor" = Customer Profile
-4. Business infrastructure rejections like "no proper office" = Business Setup
-5. Return ONLY the exact matching category name, nothing else
-
-Category:
-    
+Return only the exact matching category name-- nothing else
     """
 
     response = client.chat.completions.create(
@@ -324,10 +279,3 @@ Listed measures for credit mitigants are exhaustive and limited to Informal case
 """
 
 
-# # # Example usage
-# if __name__ == '__main__':
-#     # example = match_program('affordable', 'Mitigants for Transporter and Fleet Petrol pump owner')
-#     example = evaluate_customer_profile_with_gpt('affordable', 'If I want to fund Gyms under affordable what can be the mitigants')
-# #     reason = categorize_reason_with_gpt('Kachha Road access to property')
-#     print(example)
-#     print(json.dumps(example, indent=2))
