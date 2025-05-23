@@ -284,8 +284,8 @@ StructuredTool.from_function(
     description=("""
         "Tool retrieves mitigants based on rejection reasons from customer loan profiles.
          Parameters:
--segment (str, required): program name must be one of this two only['informal', 'affordable'].Must be ask user to specify"
--query  (str, required): User query.\n"""
+-segment (str, required): segment name must be one of this two only['informal', 'affordable'].Must be ask user to specify"
+-reason  (str, required): use exact reject reason string entered by user. do not trim paraphase or attemp to simplyfy the input.\n"""
     )
 ),
     ]
