@@ -119,7 +119,8 @@ class ChatAPIView(APIView):
                     # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
 
                 except Exception as e:
-                    yield f"Error: {str(e)}"
+                    yield f"Error: Something went wrong."
+                    # yield f"Error: {str(e)}"
 
             response = StreamingHttpResponse(generate(), content_type="text/event-stream")
             response["Cache-Control"] = "no-cache"
