@@ -59,13 +59,13 @@ def match_program(program: str, reason: str):
     """
     predicted_category = categorize_reason_with_gpt(reason)
 
-    if(program.lower() == 'informal'):
-        current_dir = os.path.dirname(os.path.abspath(__file__))
-        uncle_folder = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "prompts")
-        file = os.path.join(uncle_folder, "Mitigation.txt")
-        with open(file, 'r', encoding='utf-8') as f:
-            res = json.load(f)
-            return res
+    # if(program.lower() == 'informal'):
+    #     current_dir = os.path.dirname(os.path.abspath(__file__))
+    #     uncle_folder = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "prompts")
+    #     file = os.path.join(uncle_folder, "Mitigation.txt")
+    #     with open(file, 'r', encoding='utf-8') as f:
+    #         res = json.load(f)
+    #         return res
     
     # print(reason)
     file_path = PROGRAM_FILES.get(program.lower())
