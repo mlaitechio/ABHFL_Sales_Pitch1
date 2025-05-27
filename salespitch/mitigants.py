@@ -104,7 +104,7 @@ Importartant Rule:
 
 1️⃣ if Reject reason are contextually similar and within the same category
 
-Must combine mitigants and quantitive measure from **all related reasons within that category**
+Freely combine mitigants and quantitive measure from **all related reasons within that category**
 Consider the reject reason matched if it **partially matched or share context** with existing one in the same category
 Ensure the response includes **deduplicated** and **generalized** mitigants from merged group.
 Never include mitigants from a different reject category.
