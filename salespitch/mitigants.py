@@ -21,28 +21,28 @@ client = AzureOpenAI(
 
 REJECT_CATEGORIES = [
     "Bureau or Credit Score", "Customer Profile", "Eligibility Issue", "FOIR Enhancement",
-    "Business Vintage or Work Experience","Business Setup", "Age Deviation", "Overleveraged Profile",
+    "Business Vintage or Work Experience", "Business Setup", "Age Deviation", "Overleveraged Profile",
     "Banking norms", "Collateral or Property", "BT norms", "ITR Gap", "Personal Discussion",
     "Loan Amount breach", "Geolimit", "BT Vintage", "Hunter Negative", "Turnover Decline", "FI Negative"
 ]
-
 
 def categorize_reason_with_gpt(reason: str) -> str:
 
     prompt = f"""
 
-Act as AI-Powered regional Business Head experience with deep experience in housing finance industry.
+    Act as AI-Powered regional Business Head experience with deep experience in housing finance industry.
 
-You specialize in diagnosing and classifying business logic behind loan application rejections.
-Your task is to categorize the following **reject reason** into only one of the predefined **reject categories**
+    You specialize in diagnosing and classifying business logic behind loan application rejections.
+    Your task is to categorize the following **reject reason** into only one of the predefined **reject categories**
+    
+    Think deeply -- at least 100 times about true root cause behind the rejection.it's very cruisal.
+    Reject Reason: "{reason}"
 
-Think deeply -- at least 10 times about true root cause behind the rejection.
-Reject Reason: "{reason}"
-
-Categories:
-{', '.join(REJECT_CATEGORIES)}
-
-Return only the exact matching category name-- nothing else
+    Categories:
+    {', '.join(REJECT_CATEGORIES)}
+   
+    Return only the exact matching category name-- nothing else
+    
     """
 
     response = client.chat.completions.create(
@@ -58,16 +58,15 @@ def match_program(program: str, reason: str):
     Filters mitigant data based on the GPT-predicted category.
     """
     predicted_category = categorize_reason_with_gpt(reason)
-
-    # if(program.lower() == 'informal'):
-    #     current_dir = os.path.dirname(os.path.abspath(__file__))
-    #     uncle_folder = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "prompts")
-    #     file = os.path.join(uncle_folder, "Mitigation.txt")
-    #     with open(file, 'r', encoding='utf-8') as f:
-    #         res = json.load(f)
-    #         return res
-    
     # print(reason)
+    if(program.lower() == 'informal'):
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        uncle_folder = os.path.join(os.path.dirname(os.path.dirname(current_dir)), "prompts")
+        file = os.path.join(uncle_folder, "Mitigation.txt")
+        with open(file, 'r', encoding='utf-8') as f:
+            res = f.read()
+            return res
+        
     file_path = PROGRAM_FILES.get(program.lower())
     if not file_path:
         raise ValueError(f"Unknown program: {program}")
@@ -110,18 +109,15 @@ Importartant Rule:
  - aggregate all mitigants and qaulititive measures associated with those reasons.
  - Present the combined list of mitigants and measures are generalized, non-case-specific guidance.
 
-1️⃣ if Reject reason are contextually similar and within the same category
+1️⃣ Rule : Combine conteually Similar Reject Reasons Within Same category
 
-Freely combine mitigants and quantitive measure from **all related reasons within that category**
+Freely combine all mitigants and quantitive measure from **all related reasons within that category** even if they appear in different data objects.
+Must combine all mitigants and quantitive measures from these matched reasons-even they are spread accross different input objects
 Consider the reject reason matched if it **partially matched or share context** with existing one in the same category
 Ensure the response includes **deduplicated** and **generalized** mitigants from merged group.
 Never include mitigants from a different reject category.
 
 
-2️⃣ Provide Only Mitigants & Quantitative Measures
-DO NOT mention the reject category or reason unless the user explicitly asks.
-
-If the query matches a previous rejection case, respond with potential mitigants framed as considerations, not solutions.
 
 3️⃣ Keep It General & Future-Focused
 Never assume the cause of rejection.
@@ -188,7 +184,7 @@ Only reference mitigants and measures—do not state category or reason unless e
 ✔ Are approval/program flags mentioned, if present in mitigants?
 ✔ Is the language neutral, non-committal, and future-oriented?
 ✔ Have you avoided personal, familial, or relational references?
-✔ If the profile is "Negative" under the specified program but marked "Caution" or "Not Applicable" under another, respond with: "Not eligible under program, consider evaluating under alternate_program." Don't suggest this as MItigants as customer not eligible
+✔ Have you provided quantitive and list of mitigants seperate ?
 
 🔹 This ensures responses are:
 Guidance-oriented
@@ -202,10 +198,8 @@ Only refer to the below reject reasons and categories to provide mitigants and q
 ----------------------------------
 {filtered}
 
-----------------------------------
+-----------------------
 At the end of the response, include this statement verbatim:
 
-Listed measures for credit mitigants are exhaustive and limited to Informal cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login. Measures for Prime is in cooking stage.
+Listed measures for credit mitigants are exhaustive and limited to Informal and affordable cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login. Measures for Prime is in cooking stage.
 """
-
-
