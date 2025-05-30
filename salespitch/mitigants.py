@@ -62,7 +62,7 @@ def match_program(program: str, reason: str):
     if(program.lower() == 'informal'):
         if(program.lower() == 'informal'):
        
-            with open("prompts\Mitigation.txt", 'r', encoding='utf-8') as f:
+            with open("prompts/Mitigation.txt", 'r', encoding='utf-8') as f:
                 res = f.read()
                 return res
         
