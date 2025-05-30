@@ -17,7 +17,6 @@ import concurrent.futures
 import time
 import traceback
 import threading
-from .evalution import StepNecessityEvaluator
 from django.utils.log import logger
 # Render the main page
 def my_view(request):
@@ -95,7 +94,7 @@ class ChatAPIView(APIView):
             response_chunks = []
             events = []
 
-            evaluator1 = StepNecessityEvaluator()
+           
             def generate():
                 try:
                     if not bot_instance.message:
