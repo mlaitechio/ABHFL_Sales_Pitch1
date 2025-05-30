@@ -201,5 +201,5 @@ Only refer to the below reject reasons and categories to provide mitigants and q
 -----------------------
 At the end of the response, include this statement verbatim:
 
-Listed measures for credit mitigants are exhaustive and limited to Informal and affordable cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login. Measures for Prime is in cooking stage.
+Listed measures for credit mitigants are exhaustive and limited to affordable cases, they may vary case to case basis. However, it is advisable to refer these mitigants before file login. Measures for Prime is in cooking stage.
 """

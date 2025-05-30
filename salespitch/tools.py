@@ -282,7 +282,7 @@ StructuredTool.from_function(
     func=mitigation_tool,
     name="mitigation_tool",
     description=("""
-        "Tool retrieves mitigants based on rejection reasons from customer loan profiles.(key words : "How can we fund" , "onboard" ,"Proceed this profile")
+        "Tool retrieves mitigants based on rejection reasons from customer loan profiles.(key words : "How can we fund" , "onboard" ,"Proceed this profile","do this case")
          Parameters:
 -segment (str, required): segment name must be one of this two only['informal', 'affordable'].Must be ask user to specify"
 -reason  (str, required): use exact reject reason string entered by user. do not trim paraphase or attemp to simplyfy the input.Don't prob too much just get user question as reason if not specified\n"""

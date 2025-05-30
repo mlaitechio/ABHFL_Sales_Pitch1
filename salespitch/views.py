@@ -17,6 +17,8 @@ import concurrent.futures
 import time
 import traceback
 import threading
+from .evalution import StepNecessityEvaluator
+from django.utils.log import logger
 # Render the main page
 def my_view(request):
     return render(request, "index.html")
@@ -91,7 +93,9 @@ class ChatAPIView(APIView):
             messages = chat_history.get_messages()
             bot_instance = ABHFL(messages)  # Placeholder for bot logic
             response_chunks = []
+            events = []
 
+            evaluator1 = StepNecessityEvaluator()
             def generate():
                 try:
                     if not bot_instance.message:
@@ -112,14 +116,34 @@ class ChatAPIView(APIView):
                                 response_chunks.append(content)
                                 yield content
 
+                        if kind == "on_chain_end":
+                            try:
+                                
+                                actions = event.get("data", {}).get("output", {}).get("actions", [])
+                                for action in actions:
+                                    output_str = "[No output found]"
+                                    try:
+                                        message_log = action.message_log
+                                        for msg in reversed(message_log):
+                                            if hasattr(msg, "content") and isinstance(msg.content, str) and msg.content.strip():
+                                                output_str = msg.content.strip()
+                                                break
+                                    except Exception as e:
+                                        logger.warning(f"Failed to extract message content from action log: {e}")
+                                        # pass  # Skip if message_log or content access fails
+
+                                    events.append((action, output_str))
+                            except Exception as e:
+                                logger.error(f"Failed to process on_chain_end event data: {e}")
+                                
+
                     final_answer = "".join(response_chunks)
                     bot_instance.message.append(AIMessage(content=final_answer))
                     chat_history.set_messages(bot_instance.message)
                     chat_history.save()
-                    # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
-
+                    
                 except Exception as e:
-                    yield f"Error: Something went wrong."
+                    yield f"Something went wrong. Please try again later"
                     # yield f"Error: {str(e)}"
 
             response = StreamingHttpResponse(generate(), content_type="text/event-stream")
