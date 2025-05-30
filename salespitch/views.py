@@ -17,7 +17,6 @@ import concurrent.futures
 import time
 import traceback
 import threading
-from django.utils.log import logger
 # Render the main page
 def my_view(request):
     return render(request, "index.html")
