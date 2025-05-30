@@ -55,6 +55,7 @@ X_FRAME_OPTIONS = 'DENY'  # Prevent clickjacking
 # Application definition
 
 INSTALLED_APPS = [
+    "daphne",
     'corsheaders',
     "django.contrib.admin",
     "django.contrib.auth",
