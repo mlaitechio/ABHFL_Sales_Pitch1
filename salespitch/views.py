@@ -115,25 +115,7 @@ class ChatAPIView(APIView):
                                 response_chunks.append(content)
                                 yield content
 
-                        if kind == "on_chain_end":
-                            try:
-                                
-                                actions = event.get("data", {}).get("output", {}).get("actions", [])
-                                for action in actions:
-                                    output_str = "[No output found]"
-                                    try:
-                                        message_log = action.message_log
-                                        for msg in reversed(message_log):
-                                            if hasattr(msg, "content") and isinstance(msg.content, str) and msg.content.strip():
-                                                output_str = msg.content.strip()
-                                                break
-                                    except Exception as e:
-                                        logger.warning(f"Failed to extract message content from action log: {e}")
-                                        # pass  # Skip if message_log or content access fails
-
-                                    events.append((action, output_str))
-                            except Exception as e:
-                                logger.error(f"Failed to process on_chain_end event data: {e}")
+                        
                                 
 
                     final_answer = "".join(response_chunks)
