@@ -124,4 +124,6 @@ class Evaluation(models.Model):
             input=evaluation_data.get('input', ''),
             output=evaluation_data.get('output', ''),
             ques_id=evaluation_data.get('ques_id', ''),
+            input_token_count=evaluation_data.get('input_token_count', ''),
+            output_token_count=evaluation_data.get('output_token_count', ''),
         )
