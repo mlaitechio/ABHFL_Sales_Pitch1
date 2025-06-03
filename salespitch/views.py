@@ -2,8 +2,8 @@ from rest_framework import generics, status
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.generics import get_object_or_404
-from .serializers import ChatSessionSerializer, ChatMessageSerializer , BookMarkSerializer , EvaluationSerializer
-from .models import ChatSession, ChatMessage, History , Bookmark , Evaluation
+from .serializers import ChatSessionSerializer, ChatMessageSerializer , BookMarkSerializer
+from .models import ChatSession, ChatMessage, History , Bookmark
 from django.http import StreamingHttpResponse
 from django.contrib.auth.models import User
 from django.shortcuts import render
@@ -17,11 +17,6 @@ import concurrent.futures
 import time
 import traceback
 import threading
-from .evalution import StepNecessityEvaluator
-import logging
-import tiktoken
-
-logger = logging.getLogger(__name__)
 # Render the main page
 def my_view(request):
     return render(request, "index.html")
@@ -57,29 +52,6 @@ def iter_over_async(ait):
         yield obj
 
 
-
-encoding = tiktoken.encoding_for_model("gpt-4-0613")
-def calculate_token_length(messages):
-            num_tokens = 0
-            for message in messages:
-                num_tokens += 3  # tokens_per_message
-                num_tokens += len(encoding.encode(messages))
-            num_tokens += 3  # every reply is primed
-            return num_tokens
-
-def evaluate_and_save(evaluator1,questions, final_answer, events, ques_id,session_id):
-    # Evaluate the agent's trajectory and save the data asynchronously
-    input_token  = calculate_token_length(questions)
-    output_token =  calculate_token_length(final_answer)
-    eval_res = evaluator1.evaluate_agent_trajectory(
-        input=questions.lower(),
-        session_id=session_id,
-        ques_id = ques_id,
-        prediction=final_answer,
-        agent_trajectory=events,
-        input_token=input_token,
-        output_token=output_token
-    )
 # API to create a new chat session
 class NewChatAPIView(generics.CreateAPIView):
     queryset = ChatSession.objects.all()
@@ -106,8 +78,7 @@ class ChatAPIView(APIView):
             session_id = serializer.validated_data.get('session').session_id
             message = serializer.validated_data.get('input_prompt')
             ques_id = serializer.validated_data.get('ques_id')
-            num_token = calculate_token_length(messages)
-            print("Input Message:" , message)
+            
             # Retrieve the session, if not found return error
             session = get_object_or_404(ChatSession, session_id=session_id)
 
@@ -122,16 +93,12 @@ class ChatAPIView(APIView):
             response_chunks = []
             events = []
 
-            evaluator1 = StepNecessityEvaluator()
+           
             def generate():
                 try:
                     if not bot_instance.message:
                         with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
                             text = f.read()
-                            if num_token <= 8:
-                                text += f"""
-🚨 MANDATORY: ALL responses must be {num_token*65} tokens maximum. If longer content needed, provide brief summary + probe for specifics with suggestion from existing data.
-"""
                         bot_instance.message.append(SystemMessage(content=text))
                     
                     
@@ -147,36 +114,14 @@ class ChatAPIView(APIView):
                                 response_chunks.append(content)
                                 yield content
 
-                        if kind == "on_chain_end":
-                            try:
-                                
-                                actions = event.get("data", {}).get("output", {}).get("actions", [])
-                                for action in actions:
-                                    output_str = "[No output found]"
-                                    try:
-                                        message_log = action.message_log
-                                        for msg in reversed(message_log):
-                                            if hasattr(msg, "content") and isinstance(msg.content, str) and msg.content.strip():
-                                                output_str = msg.content.strip()
-                                                break
-                                    except Exception as e:
-                                        logger.warning(f"Failed to extract message content from action log: {e}")
-                                        # pass  # Skip if message_log or content access fails
-
-                                    events.append((action, output_str))
-                            except Exception as e:
-                                logger.error(f"Failed to process on_chain_end event data: {e}")
+                        
                                 
 
                     final_answer = "".join(response_chunks)
                     bot_instance.message.append(AIMessage(content=final_answer))
                     chat_history.set_messages(bot_instance.message)
                     chat_history.save()
-                    # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
-                    import threading
-                    # evaluate_and_save(evaluator1,questions, final_answer, events, session_id)
-                    threading.Thread(target=evaluate_and_save, args=(evaluator1,questions, final_answer, events,ques_id ,session)).start()
-
+                    
                 except Exception as e:
                     yield f"Something went wrong. Please try again later"
                     # yield f"Error: {str(e)}"
@@ -410,24 +355,3 @@ class RenameSessionAPIView(APIView):
 
         except ChatSession.DoesNotExist:
             return Response({"detail": "Session not found."}, status=status.HTTP_404_NOT_FOUND)
-
-class EvaluationAPIView(APIView):
-
-    def get(self, request):
-        # GET: Return all evaluations
-        evaluations = Evaluation.objects.all()
-        serializer = EvaluationSerializer(evaluations, many=True)
-        return Response(serializer.data, status=status.HTTP_200_OK)
-
-    def post(self, request):
-        # POST: Expect 'ques_id' in request.data
-        ques_id = request.data.get('ques_id')
-        if not ques_id:
-            return Response({'error': 'ques_id is required.'}, status=status.HTTP_400_BAD_REQUEST)
-
-        evaluation = Evaluation.objects.filter(ques_id=ques_id).first()
-
-        if not evaluation:
-            return Response({'error': 'No evaluation found for the given ques_id.'}, status=status.HTTP_404_NOT_FOUND)
-
-        return Response({'score': evaluation.score}, status=status.HTTP_200_OK)

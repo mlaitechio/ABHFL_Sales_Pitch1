@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import my_view , HistoryAPIView , NewChatAPIView , ChatAPIView , StoreChat , BookmarkMessage , RenameSessionAPIView , EvaluationAPIView
+from .views import my_view , HistoryAPIView , NewChatAPIView , ChatAPIView , StoreChat , BookmarkMessage , RenameSessionAPIView
 
 urlpatterns = [
   path('', my_view, name='my_view'),  
@@ -9,6 +9,4 @@ urlpatterns = [
     path('store/', StoreChat.as_view(), name='store_chat'),
     path('bookmark/', BookmarkMessage.as_view(), name='bookmark'),
     path('rename_session/', RenameSessionAPIView.as_view(), name='rename_session'),
-    path('evalution_api/', EvaluationAPIView.as_view(), name='evalution'),
-    # path('evalution/', evalution, name='evalution_dashboard'),
 ]
