@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import  History , ChatSession, ChatMessage , Bookmark
+from .models import  History , ChatSession, ChatMessage , Bookmark , Evaluation
 
 
 class ChatSessionSerializer(serializers.ModelSerializer):
@@ -18,3 +18,8 @@ class BookMarkSerializer(serializers.ModelSerializer):
     class Meta:
         model = Bookmark
         fields = ['id', 'session', 'created_on']
+
+class EvaluationSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Evaluation
+        fields = '__all__'
