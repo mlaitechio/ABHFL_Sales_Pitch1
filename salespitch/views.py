@@ -125,10 +125,7 @@ class ChatAPIView(APIView):
                     if not bot_instance.message:
                         with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
                             text = f.read()
-                            if num_token <= 8:
-                                text += f"""
-🚨 MANDATORY: ALL responses must be {num_token*65} tokens maximum. If longer content needed, provide brief summary + probe for specifics with suggestion from existing data.
-"""
+                           
                         bot_instance.message.append(SystemMessage(content=text))
                     
                     
