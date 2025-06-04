@@ -179,7 +179,7 @@ class ABHFL:
                 async for chunk in agent_executor.astream_events(
                     {"input": user_input, "chat_history": self.message}, version="v1"
                 ):
-                    time.sleep(0.05)
+                    
                     yield chunk
             except Exception as e:
                 error_message = f"An error occurred: {e}"

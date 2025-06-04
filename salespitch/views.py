@@ -20,6 +20,7 @@ import threading
 from .evalution import StepNecessityEvaluator
 import logging
 import tiktoken
+import time
 
 logger = logging.getLogger(__name__)
 # Render the main page
@@ -141,6 +142,7 @@ class ChatAPIView(APIView):
                             content = event["data"]["chunk"].content
                             if content:
                                 response_chunks.append(content)
+                                time.sleep(0.05)
                                 yield content
 
                         if kind == "on_chain_end":
