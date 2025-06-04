@@ -106,7 +106,7 @@ class ChatAPIView(APIView):
             session_id = serializer.validated_data.get('session').session_id
             message = serializer.validated_data.get('input_prompt')
             ques_id = serializer.validated_data.get('ques_id')
-            num_token = calculate_token_length(messages)
+            num_token = calculate_token_length(message)
             print("Input Message:" , message)
             # Retrieve the session, if not found return error
             session = get_object_or_404(ChatSession, session_id=session_id)
