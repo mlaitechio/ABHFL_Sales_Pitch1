@@ -78,7 +78,12 @@ class ChatAPIView(APIView):
             session_id = serializer.validated_data.get('session').session_id
             message = serializer.validated_data.get('input_prompt')
             ques_id = serializer.validated_data.get('ques_id')
+
             
+
+            num_token = calculate_token_length(message)
+            print("Input Message:" , message)
+  
             # Retrieve the session, if not found return error
             session = get_object_or_404(ChatSession, session_id=session_id)
 
@@ -355,3 +360,25 @@ class RenameSessionAPIView(APIView):
 
         except ChatSession.DoesNotExist:
             return Response({"detail": "Session not found."}, status=status.HTTP_404_NOT_FOUND)
+
+class EvaluationAPIView(APIView):
+
+    def get(self, request):
+        # GET: Return all evaluations
+        evaluations = Evaluation.objects.all()
+        serializer = EvaluationSerializer(evaluations, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
+
+    def post(self, request):
+        # POST: Expect 'ques_id' in request.data
+        ques_id = request.data.get('ques_id')
+        if not ques_id:
+            return Response({'error': 'ques_id is required.'}, status=status.HTTP_400_BAD_REQUEST)
+
+        evaluation = Evaluation.objects.filter(ques_id=ques_id).first()
+
+        if not evaluation:
+            return Response({'error': 'No evaluation found for the given ques_id.'}, status=status.HTTP_404_NOT_FOUND)
+
+        return Response({'score': evaluation.score}, status=status.HTTP_200_OK)
+
