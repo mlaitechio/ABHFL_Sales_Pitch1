@@ -60,11 +60,8 @@ def iter_over_async(ait):
 
 encoding = tiktoken.encoding_for_model("gpt-4-0613")
 def calculate_token_length(messages):
-            num_tokens = 0
-            for message in messages:
-                num_tokens += 3  # tokens_per_message
-                num_tokens += len(encoding.encode(messages))
-            num_tokens += 3  # every reply is primed
+            num_tokens = len(encoding.encode(messages))
+            
             return num_tokens
 
 def evaluate_and_save(evaluator1,questions, final_answer, events, ques_id,session_id):
