@@ -35,27 +35,70 @@ def replace_slashes(input_string: str) -> str:
 
 # Helper function to iterate over async generator
 def iter_over_async(ait):
-    # Create a new event loop for this thread if one doesn't exist
-    try:
-        loop = asyncio.get_event_loop()
-    except RuntimeError:
+    """
+    Iterates over an async iterable in a synchronous manner.
+    Uses a queue to bridge the async and sync worlds, avoiding nested event loops.
+ 
+    Args:
+        ait: An asynchronous iterable.
+ 
+    Yields:
+        Each item from the async iterable.
+    """
+    queue = asyncio.Queue()
+    loop = None
+    thread = None
+ 
+    async def producer():
+        """Pushes items from the async iterable into the queue."""
+        try:
+            async for item in ait:
+                await queue.put(item)
+        finally:
+            await queue.put(None)  # Sentinel to signal the end of iteration
+ 
+    def start_loop():
+        """Runs the event loop in a separate thread."""
+        nonlocal loop
         loop = asyncio.new_event_loop()
         asyncio.set_event_loop(loop)
-    
-    ait = ait.__aiter__()
-    
-    async def get_next():
+        loop.run_forever()
+ 
+    try:
+        # Check if an event loop is already running
         try:
-            obj = await ait.__anext__()
-            return False, obj
-        except StopAsyncIteration:
-            return True, None
-    
-    while True:
-        done, obj = loop.run_until_complete(get_next())
-        if done:
-            break
-        yield obj
+            loop = asyncio.get_running_loop()
+            running = True
+        except RuntimeError:
+            running = False
+ 
+        if not running:
+            # Start a new event loop in a separate thread
+            thread = Thread(target=start_loop, daemon=True)
+            thread.start()
+            while loop is None:  # Wait for the loop to be initialized
+                pass
+ 
+        # Schedule the producer coroutine
+        asyncio.run_coroutine_threadsafe(producer(), loop)
+ 
+        # Consume items from the queue
+        while True:
+            # Use a thread-safe method to get items from the queue
+            future = asyncio.run_coroutine_threadsafe(queue.get(), loop)
+            item = future.result()  # Block until the item is available
+            if item is None:  # Sentinel value indicates end of iteration
+                break
+            yield item
+    finally:
+        if not running and loop is not None:
+            # Stop the event loop if we created it
+            loop.call_soon_threadsafe(loop.stop)
+            # Wait for the loop to stop
+            if thread is not None:
+                thread.join(timeout=1)  # Wait for the thread to finish
+            # Close the loop
+            loop.close()
 
 
 
@@ -94,6 +137,33 @@ class NewChatAPIView(generics.CreateAPIView):
 
 # Main chat handling API
 # Optimized ChatAPIView for generating and streaming bot responses without storing data
+import datetime
+import os
+import csv
+def log_error_to_csv(error_message, exception_obj=None, session_id=None, ques_id=None, user_message=None):
+    log_file = "error_log.csv"
+    fieldnames = ["timestamp", "session_id", "ques_id", "user_message", "error_message", "traceback"]
+    row = {
+        "timestamp": datetime.datetime.now(),
+        "session_id": session_id,
+        "ques_id": ques_id,
+        "user_message": user_message,
+        "error_message": error_message,
+        "traceback": traceback.format_exc() if exception_obj else "",
+    }
+    try:
+        file_exists = os.path.isfile(log_file)
+        with open(log_file, mode="a", newline='', encoding="utf-8") as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            if not file_exists:
+                writer.writeheader()
+            writer.writerow(row)
+    except Exception as e:
+        # If logging fails, print to console (as a fallback)
+        print("Failed to log error:", e)
+
+# Main chat handling API
+# Optimized ChatAPIView for generating and streaming bot responses without storing data
 class ChatAPIView(APIView):
     serializer_class = ChatMessageSerializer
 
@@ -125,7 +195,8 @@ class ChatAPIView(APIView):
                     if not bot_instance.message:
                         with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
                             text = f.read()
-                           
+                            
+                                
                         bot_instance.message.append(SystemMessage(content=text))
                     
                     
@@ -134,12 +205,25 @@ class ChatAPIView(APIView):
                     openai_response = iter_over_async(bot_instance.run_conversation(questions.lower()))
 
                     for event in openai_response:
-                        kind = event["event"]
+                        kind = event.get("event")
+                        # print(kind)
+                        if kind is None:
+                            # Log the event dict for debugging
+                            log_error_to_csv(
+                                error_message=f"Missing 'event' key in event: {event}",
+                                exception_obj=None,
+                                session_id=session_id,
+                                ques_id=ques_id,
+                                user_message=message
+                            )
+                            yield "Something went wrong. Please try again later"
+                            return
+                        
                         if kind == "on_chat_model_stream":
                             content = event["data"]["chunk"].content
                             if content:
                                 response_chunks.append(content)
-                                time.sleep(0.05)
+                                
                                 yield content
 
                         if kind == "on_chain_end":
@@ -169,10 +253,24 @@ class ChatAPIView(APIView):
                     chat_history.save()
                     # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
                     import threading
-                    # evaluate_and_save(evaluator1,questions, final_answer, events, session_id)
                     threading.Thread(target=evaluate_and_save, args=(evaluator1,questions, final_answer, events,ques_id ,session)).start()
 
                 except Exception as e:
+                    # Enhanced error logging to capture full OpenAI error response if available
+                    error_message = str(e)
+                    if hasattr(e, 'response'):
+                        try:
+                            # Try to get JSON response if possible
+                            error_message = e.response.text
+                        except Exception:
+                            pass
+                    log_error_to_csv(
+                        error_message=error_message,
+                        exception_obj=e,
+                        session_id=session_id,
+                        ques_id=ques_id,
+                        user_message=message
+                    )
                     yield f"Something went wrong. Please try again later"
                     # yield f"Error: {str(e)}"
 
@@ -183,7 +281,6 @@ class ChatAPIView(APIView):
 
 
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-
 
 
 
