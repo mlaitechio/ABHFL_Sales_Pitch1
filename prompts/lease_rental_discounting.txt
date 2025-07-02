@@ -94,6 +94,6 @@ Commercial	0.75%
 Industrial /Warehouse	1.25%
 
 LRD - Deviation Grid & Floor rates:
-    CAT A -  8.75%
-    CAT B – 9.00%
-    CAT C & D – 10.00% 
+    CAT A -  8.60%
+    CAT B – 8.85%
+    CAT C & D – 9.85% 
