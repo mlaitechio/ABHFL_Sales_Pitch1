@@ -69,15 +69,23 @@ Verification Parameters
 
 Financial Sanction Parameters
 
-| **Parameter**                                                     | **Salaried** | **Self Employed**              |
-| ----------------------------------------------------------------- | ------------ | ------------------------------ |
-| Eligibility                                                       |                                              |
-| Bureau Norms                                                      |                                              |
-| RTR Norms of all live to be checked from Bureau                   |       As per Existing Product Policy         |
-| Bounce Norms to be checked from Banking for all active term loans |                                              |
-| LTV and Tenure Norms                                              |                                              |
-| PDD (Applicable for BT loans)                                     |                                              |
-| Top Up Norm on HL loan on Sanction amount (eligible for BT)       |                                              |
+Loan Eligibility and Norms: Salaried vs. Self-Employed
+For both salaried and self-employed individuals, the following loan parameters are determined as per existing product policy:
+
+Eligibility
+
+Bureau Norms
+
+RTR Norms (all live to be checked from Bureau)
+
+Bounce Norms (to be checked from Banking for all active term loans)
+
+LTV and Tenure Norms
+
+PDD (applicable for BT loans)
+
+Top Up Norm on HL loan on Sanction amount (eligible for BT)
+
 
 Disbursement Parameters
 | **Parameter** | **Salaried** | **Self Employed** |
