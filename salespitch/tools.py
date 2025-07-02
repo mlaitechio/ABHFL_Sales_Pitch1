@@ -299,7 +299,7 @@ StructuredTool.from_function(
         "micro_CF", "step_up", "step_down", "extended_tenure", "lease_rental_discounting",
         "express_balance_transfer_program", "prime_hl", "prime_lap", "priority_balance_transfer",
         "semi_fixed", "staff_loan_price", "power_pitches", "nri_assesment_criteria", "PMAY",
-        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","compliance"
+        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","compliance","pre_prq_offer"
     ]
     for product_name in product_names:
         tools.append(create_product_info_tool(product_name, abhfl_instance))

@@ -234,24 +234,24 @@ Note: 0.5% additional fees to be collected for Type IV  & Special Collaterals
 
 ### Deviation Grid & Floor rates:
 
-| Collateral | Salaried/SEP |            Additional LTV        |
-| ---------- |  ----------- | -------------- | -------| -------|
-|            |              | 10%            | 15%    | 20%    |
-| ---------- | ------------ | -------------- | -------| -------|
-| Type II    | 10.25%       | 11.25%         | 11.75% | 12.25% |
-| Type III   | 11.25%       | 12.25%         | 12.75% | 13.25% |
-| Type IV    | 12.50%       | 13.50%         | 14.00% | 14.50% |
-| Special    | 13.00%       | 14.00%         | 14.50% | 15.00% |
+| **Collateral Type** | **Salaried/SEP** | **Cash Salaried** | **SENP** | **CM Assessed** |
+| ------------------- | ---------------- | ----------------- | -------- | --------------- |
+| **Type II**         | 10.10%           | 11.60%            | 10.35%   | 10.85%          |
+| **Type III**        | 11.10%           | 12.60%            | 11.35%   | 11.85%          |
+| **Type IV**         | 12.35%           | 12.85%            | 12.60%   | 13.10%          |
+| **Special**         | 12.85%           | 13.35%            | 13.85%   | 14.35%          |
 
-| Collateral | SENP   |        Additional LTV     |
-|            |        | 10%     | 15%    | 20%    |
-| ---------- | -------| ------- | -------| ------ |
-| Type II    | 10.50% | 11.50%  | 12.00% | 12.50% |
-| Type III   | 11.50% | 12.50%  | 13.00% | 13.50% |
-| Type IV    | 12.75% | 13.75%  | 14.25% | 14.75% |
-| Special    | 14.00% | 15.00%  | 15.50% | 16.00% |
+Notes:
+CIBIL Score < 700: Floor Rate will be 100 bps (1%) higher
 
-Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method. In case of  CIBIL Score  < 700, Rate will be 100 bps higher.
+FOIR Deviation:
+
+Up to 10%: 50 bps (0.50%) premium
+
+Beyond 10%: 150 bps (1.50%) premium
+
+(Applicable to CM Assessed Income / Cash Salary)
+
 ROI will propositionally increase basis increase in LTV  . i.e  For 10% LTV increase, ROI applicable is above RAAC rate + 100 bps, 15% LTV increase 150 bps and 20% LTV increase 200 bps. 
 ------------------------------------------------------------------------------------
 

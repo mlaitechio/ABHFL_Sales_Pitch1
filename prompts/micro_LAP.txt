@@ -193,5 +193,5 @@ Floor rate (segment 1)
 |   Type IV & Special | 14%          | 14.50% |
 
 Note : 
-- Floor rate to be 100 bps higher for CM Assessed & Cash Salaried Method
-
+-    Floor rate to be 100 bps higher for CM Assessed & Cash Salaried Method
+-    FOIR Deviation upto 10% , 50 bps premium &  Beyond 10%  150 bps, premium to be charged on above floor rate (applicable for CM  Assessed Income/Cash Salary)

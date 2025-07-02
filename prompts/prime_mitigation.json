@@ -1,0 +1,1056 @@
+[
+    {
+        "Reject Category": "Business Setup",
+        "Reject Reasons": "if kachcha business records not available with customer, what could be the mitigants ?",
+        "List of Mitigants ": "Check for wallet transaction and arrive eligibility on wallet transactions",
+        "Quantitative measures, \nMitigates": "Check for wallet transaction and arrive eligibility on wallet transactions"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "mitigants for Recent Bouncing reflects in repayment banking",
+        "List of Mitigants ": "Check for bounced EMI clearance within same month, If bounce due to insufficient funds and not having any funds available in other account. Please avoid",
+        "Quantitative measures, \nMitigates": "Check for bounced EMI clearance within same month, If bounce due to insufficient funds and not having any funds available in other account. Please avoid"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Single lady case",
+        "List of Mitigants ": "If customer is salaried and working in CAT A employer salary > 50k p.m and CIBIL 730+ can be looked under single applicant norms",
+        "Quantitative measures, \nMitigates": "If customer is salaried and working in CAT A employer salary > 50k p.m and CIBIL 730+ can be looked under single applicant norms"
+    },
+    {
+        "Reject Category": "Business Vintage or Work Experience",
+        "Reject Reasons": " low business vintage of < 3yrs",
+        "List of Mitigants ": "Check for same industry work experience, Steady incremental growth in business for last 2+ yrs atleast and Good personal credit history. ",
+        "Quantitative measures, \nMitigates": "Offer LOW LTV and Higher ROI"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Applicant is bank Salaried, going to retire in next 2 years and Applicant is having employment term of more than 20 years.....can we club income of both applicants and offer loan term of 20 year",
+        "List of Mitigants ": "Offer high loan amount in Step Down product. Check for pension income.",
+        "Quantitative measures, \nMitigates": "Check for retirement benefits and plan to close th loan"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "there are two cheque bounces in customer loan account . what are the mitigants to onboard this customer?",
+        "List of Mitigants ": "Check for other EMI cheque payments, interest payments. Reason for return and representation status of cheque, balances in other accounts maintained",
+        "Quantitative measures, \nMitigates": "If it is temporary cash flow issue, take DSRA for 6 months and offer low tenor."
+    },
+    {
+        "Reject Category": "Business Vintage or Work Experience",
+        "Reject Reasons": "i have a customer who does not have business vintage proof and is desiring micro lap loan please suggest mitigants",
+        "List of Mitigants ": "Reference check from his supplier list, Neighbor check, Current account vinatge, Customer reference check",
+        "Quantitative measures, \nMitigates": "DSRA minimum 6 months"
+    },
+    {
+        "Reject Category": "ITR Gap",
+        "Reject Reasons": "Can we process cases with Latest ITR Not filed ",
+        "List of Mitigants ": "1. Customer need to file latest ITR, 2.Explored case if LTV is low, 3. EMI as DSRA, 4. Documented Asset Base and 5 existing tracks to be Regular. ",
+        "Quantitative measures, \nMitigates": "Low LTV, DSRA "
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Customer is into Negative Profile not eligible under Cash Profit method and Has a resi Cum office. ",
+        "List of Mitigants ": "1. Exception approval taken.2 Reduced LTV , 3.Explored by increasing customers contribution towards Purchase of Property",
+        "Quantitative measures, \nMitigates": "Low LTV"
+    },
+    {
+        "Reject Category": "Legal Issue",
+        "Reject Reasons": "Adversive findings in Desktop search ",
+        "List of Mitigants ": "1. Document Court Judgement Order/ Settlement order for these adverse findings. 2.Court judgement received which proves the settlement of all the applicants",
+        "Quantitative measures, \nMitigates": "Judgement order of court"
+    },
+    {
+        "Reject Category": "ITR Gap",
+        "Reject Reasons": "Turnover as shown in ITR does not match with the banking inflow, Name plate is not displayed at PD location, No major Loan served till date.",
+        "List of Mitigants ": "1.Additional banking where Business inflows were credited taken.2 Compared Banking Habits from customer,3. Took Market Feedback. ",
+        "Quantitative measures, \nMitigates": "Market Feedback, DSRA"
+    },
+    {
+        "Reject Category": "BT norms",
+        "Reject Reasons": "Seller BT Proposal with Property been purchased from ARC",
+        "List of Mitigants ": "1.Upfront NOC from ARC, 2.Sale deed directly with Seller with No involvement of ARC.3.Initial Disbursement towards release of property.",
+        "Quantitative measures, \nMitigates": "NOC from ARC"
+    },
+    {
+        "Reject Category": "ITR Gap",
+        "Reject Reasons": "Can we process cases with Latest ITR Not filed ",
+        "List of Mitigants ": "1.Understood and explored basis Business credits,2. customer need to file latest ITR",
+        "Quantitative measures, \nMitigates": "Premium ROI"
+    },
+    {
+        "Reject Category": "",
+        "Reject Reasons": "Customer is having Dependency on single customer. Involved in Manpower Supply, Not eligible under Normal Income.\n",
+        "List of Mitigants ": "1.Checked for Association with that single party Vintage, Party existence, Financials, Paymet Cycle and Order Book. 2. Explored case in Banking Surrogate",
+        "Quantitative measures, \nMitigates": "Premium ROI, Low LTV, Preleased Property"
+    },
+    {
+        "Reject Category": "Over Leveraged Profile",
+        "Reject Reasons": "Customer is Overleveraged, engaged in the business of Negative Profile ,No  Asset created despite more than 20 years of Business.",
+        "List of Mitigants ": "1.Case Processed under Banking Surrogate. If all the EMI are deducted from same banking not to be obligated",
+        "Quantitative measures, \nMitigates": "Premium ROI, explore in Surrogate"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Home Loan case not eligible under Cash Profit method",
+        "List of Mitigants ": "1.Explored in low LTV . 2. Case can be made under CM Assessment if profile found positive",
+        "Quantitative measures, \nMitigates": "Market Feedback, Low LTV"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Applicant is RTO Agent which is negative profile as per policy. His Banking is low with ABB of Rs.19000/- Not eligible under Cash Profit method",
+        "List of Mitigants ": "1.Explored in low LTV . 2. Case can be made under CM Assessment if profile found positive",
+        "Quantitative measures, \nMitigates": "Premium ROI , Low LTV"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Salaried customer has many CIBIL Enquiries for Personal Loan and Credit Cards",
+        "List of Mitigants ": "1.Case processed basis Regular Salary credit. 2. Additional Sources of Income Proof documented",
+        "Quantitative measures, \nMitigates": "Loan Closure , DSRA , Premium ROI"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Customer not eligible under Normal Income. Wants BT of one of his Loan for better rate of Interest",
+        "List of Mitigants ": "1. If eligibility not met explored in BT program basis regular repayment track. 2.Decent Business Vintage",
+        "Quantitative measures, \nMitigates": "Low LTV "
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Customer shows very minimum income in books into trading of FMCG products. Wants 90 lakhs loan amount against income of 4 lakhs",
+        "List of Mitigants ": "1. Minimum turnover in ITR mitigated with Banking Habits , 2.Vintage of business of more than 20 Yrs and 3. Decent Business Setup and Stock Observed",
+        "Quantitative measures, \nMitigates": "Low LTV"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "LTV deviation in Low LTV Program. ",
+        "List of Mitigants ": "1.Exception approval taken.2 No Cash out given, 3.LTV deviation explored basis regular repayment Track",
+        "Quantitative measures, \nMitigates": "Case can we look under low LTV only "
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility issue, o/w bounces in CA and majority is due to insufficient funds , many Business Loan availed by applicant to manage the working capital, Debt restructuring case ,applicant requires 1 cr for all BL closer.  ",
+        "List of Mitigants ": "1. Explored basis Clear CIBIL, 2.Business vintage more than 2 decades",
+        "Quantitative measures, \nMitigates": "Premium ROI , Low LTV"
+    },
+    {
+        "Reject Category": "BT Vintage",
+        "Reject Reasons": "BT of Under construction loan Partly disbursed and PEMI Paid. ",
+        "List of Mitigants ": "1. Under construction BT explored basis regular repayment track and 2.Technical Feedback on Project.",
+        "Quantitative measures, \nMitigates": "Low LTV and Premium ROI"
+    },
+    {
+        "Reject Category": "Business Vintage or Work Experience",
+        "Reject Reasons": "Low Business vintage and DIP in T.O.",
+        "List of Mitigants ": "1.Processed with CM Assessment 2.Documented Contract copy or Order Book. ",
+        "Quantitative measures, \nMitigates": "Low LTV / CM assessment with High ROI"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "There are few loans with Poor Repayment in loans and CIBIL score of 675",
+        "List of Mitigants ": "1. No cash our offered Only BT done.2. If Track record of BT loans is regular and 3. justified reason for delay documented",
+        "Quantitative measures, \nMitigates": "Premium ROI"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Few old loans reported as Sub standard and SMA in CIBIL also deviation required in FOIR. ",
+        "List of Mitigants ": "1.Checked basis Recent live term loan 2. Justified reason for delay documented and 3. Additional Source of income proof documented",
+        "Quantitative measures, \nMitigates": "Premium ROI with DSRA"
+    },
+    {
+        "Reject Category": "Hunter Negative",
+        "Reject Reasons": "FOIR - 161%;CIBIL score 675;Regular EMI Bounce in all active loans;Overdue and DPD in Credit card , AL and HL;Old Credit History is Not satisfactory; Hunter Declined",
+        "List of Mitigants ": "Check basis of any income verifed from Co-app ",
+        "Quantitative measures, \nMitigates": "Premium ROI with DSRA"
+    },
+    {
+        "Reject Category": "ITR Gap",
+        "Reject Reasons": "ITR filed in Same date and Tax is reflecting Payable can we process such cases ",
+        "List of Mitigants ": "1. Case processed under CM Assessment Program. 2. Offered Low LTV",
+        "Quantitative measures, \nMitigates": "Case Process with IMGC"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Customer has salaried and recently started business can we process such cases",
+        "List of Mitigants ": "1.Case processed under CM Assessment Program.2.Offered Low LTV",
+        "Quantitative measures, \nMitigates": "Premium ROI and with IMGC"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Applicant is working as salaried and commission basis with his relative. Drawing income from his firm. Can we process such cases. ",
+        "List of Mitigants ": "1.Financials from where income are drawn vetted and documented. 2 Restricted LTV. 3. Banking analysed for credits from said firm.",
+        "Quantitative measures, \nMitigates": "3 EMI DSRA"
+    },
+    {
+        "Reject Category": "Business Vintage or Work Experience",
+        "Reject Reasons": "Customer has very low ABB, ITR available for only 2 Yrs. Business Vintage not able to derive\n",
+        "List of Mitigants ": "1.Profile RCU done for mitigate business Vintage, 2. Case Processed with Low LTV and Premium ROI offered",
+        "Quantitative measures, \nMitigates": "Low LTV and Premium ROI"
+    },
+    {
+        "Reject Category": "Hunter Negative",
+        "Reject Reasons": "Customer has dual active PAN.",
+        "List of Mitigants ": "Customer was made to surrender one PAN . 2. Exceptional approval taken.",
+        "Quantitative measures, \nMitigates": "3 EMI DSRA"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Property was registered in Self & wife . Wife due to Divorce Gifted her share in Husband  & Now property ownership is transferred in name of Husband & mother in Law name. Now Applicant has applied for Internal BT for removing spouse name from loan. \nIt is family internal transaction.\nDue to dispute wife she is gift deed the property. Divorce not done. As per customer both are seprate in mutual undersating.",
+        "List of Mitigants ": "1.Documented Stamped and notarized indemnity,2. Court Judgement order",
+        "Quantitative measures, \nMitigates": "Document Divorce copy, Legal Consent"
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Can we process Case which is not eligible under Cash Profile method,Collateral not at marketable location. End use not permissible under CM Assessment. Case not Eligible under GST Programme , as 24 Months GSTR not Available.",
+        "List of Mitigants ": "1.Basis Business Vintage, 2.ABB Maintained ,3. Banking Credits from Parties.",
+        "Quantitative measures, \nMitigates": "Low LTV "
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Captioned case is rejected due to Short eligibility. Applicant current eligibility is Rs. 42.50 Lac and Applicant current total outstanding is Rs.62.20 La",
+        "List of Mitigants ": "1.Enhanced FOIR offered basis Overall job vintage is as per policy norms,2.clear track of live running loans",
+        "Quantitative measures, \nMitigates": "Premium ROI"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Top up on Property owned by Brother funded by ABHFL affordable earlier.",
+        "List of Mitigants ": "1.Took Brother as Applicant, 2 SPDC from Brother.3 EMI taken as DSRA. ",
+        "Quantitative measures, \nMitigates": "DSRA"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Customer is Regularly bouncing EMI in active Property Loan, Has No Asset Created, Not having last 2 Years ITR,\n",
+        "List of Mitigants ": "1.Documented SOA since inception. As EMI was paid the same month and sufficient Balance availed in Other account Case processed further. 2. IMGC cover taken 2. 3.Premium ROI Charged",
+        "Quantitative measures, \nMitigates": " IMGC and Premium ROI "
+    },
+    {
+        "Reject Category": "Over Leveraged Profile",
+        "Reject Reasons": "Salaried customer available Multiple PL with end use not justified. ",
+        "List of Mitigants ": "1.Justified End Use of personal Loan taken. 2.Additional Coverage of IMGC and Premium ROI Charged",
+        "Quantitative measures, \nMitigates": "IMGC to be taken "
+    },
+    {
+        "Reject Category": "Hunter Negative",
+        "Reject Reasons": "Hunter Declined",
+        "List of Mitigants ": "1.Repayment track of applicant is clear, 2.Regular salary credited in Bank account. 3. Also basis of PD comfort case has been relooked",
+        "Quantitative measures, \nMitigates": "Hunter clerance from RCU Team on record. Referance Check Done with TPC"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Latest credit card settled & DPD observed in <12 MOB in AL",
+        "List of Mitigants ": "1.Decent Business vintage,  2.Purchasing Property for Investment will be receiving future rental income of Rs. 20-25K Monthly, 3.FOIR Within Norms, 4.Decent inflow in the banking",
+        "Quantitative measures, \nMitigates": "Case is Processed under Heigher ROI  Yeilds"
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "Case is rejected due to high FOIR ,Applicant is interior designer by profession. As per applicant, around 20% of sales is in cash.",
+        "List of Mitigants ": "1.Decent vintage 25 years, annual potential receipt is around 7cr to 8cr , 2.High profit margin business, 3.cash base business",
+        "Quantitative measures, \nMitigates": "We had collected Work Orders to Process case along with GST Details and Finfort of same"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Under ABB Program applicant is not eligible for the requested amount.\nIn last six-month applicant took a loan amount of Rs. 38 Lacs as BL & PL which was utilised by the applicant in his recent started firm of banquet hall.\n4HL Enquiries seen in the last one month.",
+        "List of Mitigants ": "1.Purchasing Property will be Future SORP2.Applicant is having decent banking inflow.3.Running Loan track is Clear",
+        "Quantitative measures, \nMitigates": "Closure  of exisiting loans to get FOIR in Control and  DSRA is taken for Precaution Measures ."
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Applicant is doing a job from where he is getting Rs. 20k however there is no salary slip or certificate available.\nApplicant is delivering milk & other related products in morning to earn side income. As informed by him he sells 100 litres daily on average in which he gets Rs. 1-3 as margins.",
+        "List of Mitigants ": "1.LTV is Good, and 2.DSRA taken",
+        "Quantitative measures, \nMitigates": "Case Processed under Low LTV for higher ROI Yeilds and  DSRA Taken\n"
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "10 MOB BT with top requirement, Foir on higher side",
+        "List of Mitigants ": "1.Decent experience 2.Good qualification 3.LTV supported",
+        "Quantitative measures, \nMitigates": "Closure of Exisiting obligation &\n DSRA has been taken "
+    },
+    {
+        "Reject Category": "Turnover Decline",
+        "Reject Reasons": "Business turnover of the applicant is declining Y-o-Y. ",
+        "List of Mitigants ": "1.Decent real-estate asset base created over the years.2.Cash Income of Rs.6-7L per month from restaurant business.",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": " DSRA Taken for Precautionary measures \"",
+        "Reject Reasons": ""
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "High FOIR",
+        "List of Mitigants ": "1.Decent Vintage2.Good ABB in banking3.Income validate from 26 AS, 4Online degree verified5.ABHFL existing close loan customer, MBBS Dr, ",
+        "Quantitative measures, \nMitigates": "LTV  is 50% and Heigher ROI Yields Taken "
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Labour contractor profile which  fall under caution profile list as per policy.",
+        "List of Mitigants ": "1.Applicant having business transaction on Cash base and he has closed 2 loans in Previous month only and we are going to close two loan from proposed fund.\n",
+        "Quantitative measures, \nMitigates": "Case is to be processed under surrogate  which gives high yeilds and DSRA taken "
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "Case is not eligible under CPM program as FOIR is 670pc and in ABB surrogate program industrial property is not allowed ",
+        "List of Mitigants ": "1.Business vintage since 2007\n2.Second generation involved in business - It is family-owned business however proposed set up is started by applicant himself in 2007 and father's business is managed by his brother.\n3.Clear RTR of running obligations\n4.Decent asset base of 5cr.+\nP5.roperty purchase for self-occupation",
+        "Quantitative measures, \nMitigates": "Case is to be processed under Banking surrogate for  ROI Yeilds "
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Negative profile _ Customer is into Film director cum producer.Proposed for fresh LAP against property without plan approval &lt; 10 years construction age.No office set up in Chennai and base office at USA.",
+        "List of Mitigants ": "Caution Profile can be considered only under Cash Profit Method and cannot be consdiered under Surrogates programs. Check for Income documents and FOIR meeting norms. Self occupied properties with low LTV could be considered.",
+        "Quantitative measures, \nMitigates": "3 Months DSRA and better ROI could be proposed."
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "External dedupe bad match in cc with dpd /od and written off also External PL 3 bounce in last 12 months including jan 2025 ",
+        "List of Mitigants ": "Check for other incomes for family members with good CIBIL score. Low LTV may be considered under Retail/Informal ",
+        "Quantitative measures, \nMitigates": "Higher ROI / Low LTV / DSRA for 3 months can be proposed"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Reject: Caution Profile cannot be done under surrogate / Income Proof Required.",
+        "List of Mitigants ": "Labour Contractor - Income proof availability to be checked since good CIBIL score noted and Bureau score at 5.",
+        "Quantitative measures, \nMitigates": "Plot with less LTV can be considered"
+    },
+    {
+        "Reject Category": "Over Leveraged Profile",
+        "Reject Reasons": "Latest bounces and applicant is overleveraged with multiple small ticket loans. Applicant is more into gambling as noted in banking.",
+        "List of Mitigants ": "Since HL, IMGC coverage, CIBIL score norm met",
+        "Quantitative measures, \nMitigates": "CIBIL score norm met, Jocata score1 - Can be considered under Pragathi with IMGC Coverage"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Applicant is doing freelancing AI related work - Data modelling and statistics analytics but there is no monthly GST filed and payments in account are from individual not from non individualIn software development all business transaction will be in account but customer doesn't have any such transaction and he is confirming few are in cash alsoMultiple enquiry - 24 enquiries in last 2 months - Almost in all banks and FIs.Co App is contract employee in TIDCO and contract period is going to close soon.No proper business setup and name boardCannot process due to profile is not comfortable and CIBIL enquiries. Case got rejected in all banks like Hero Fincorp, Piramal for the same reason",
+        "List of Mitigants ": "CM assessment program may be checked - CIBIL enquiry mitigations may be checked.",
+        "Quantitative measures, \nMitigates": "Pragathi program may be considered if loan amount less than 30 lacs since good CIBIL score noted"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Reject : Caution profile cannot be done under Surrogate and Collateral Norms not met",
+        "List of Mitigants ": "Builder Profile - Plot + Consctruction",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Rejected due to applicant main source of income from cash rental which is grandmother settlement property. GF is in applicant name, FF is in elder brother name and SF is in elder sister name. Recently FF is settled to our applicant and still SF is retained by elder sister.His elder brother mortgaged the property with Cholamandalam and there was DPDs reported in CIBIL for last five months and same got closed on Dec'24He has filed two years ITR so far and filed on the same date and same monthIt is LAP property against the same collateralCannot process due to cash rental, multi unit and multi tenant property, defaults in CIBIL against proposed property loan, ITR filed on the same date.",
+        "List of Mitigants ": "Alternate Property to be checked considering  and may consider under Low LTV / Pure rentals program.",
+        "Quantitative measures, \nMitigates": "Alternate Property to be checked considering  and may consider under Low LTV / Pure rentals program."
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Cannot process the case due to below reasonBureau score is 2 for LA 50 lacsMultiple credit card and PL are written off and still overdue is reflecting in CIBIL reportApplicant is into granite business started recently on 2021 which is resi cum office as the raw materials are directly procured by manufacturing unit and it is exported. There is high fluctuation in the reported turnover. FY22 is 15 lacs, FY23 is 25 lacs, FY24 is 640 lacs and GST sales for 10 months is Rs 230 lacs - Business stability is not sustained and unable to sight the stock..",
+        "List of Mitigants ": "CIBIL score norm met - Through SOA if repayments could be sustained, considering increasing topline and GST.",
+        "Quantitative measures, \nMitigates": "Higher ROI/ IMGC coverage / Higher ROI"
+    },
+    {
+        "Reject Category": "Turnover Decline",
+        "Reject Reasons": "Reject : 1 . Business Running in Negative Trend details pasted below 2 . Case Eligibility not met under Banking &amp; CPM 3 . Cibil match loan details Required 4 . Negative Net cash flow in Banking check alternative other Bank accounts . 5 . Company commercial to be check 6 . Bt Tracks Required 7 . Very Low Banking Credit Transactions . 8 . Last 12 months GST 3B Required .",
+        "List of Mitigants ": "Check for current GST return filing and it should be in positive trend. Alternative bank statements with good chrun to be considered on low LTV with DSRA/IMGC coverage.",
+        "Quantitative measures, \nMitigates": "DSRA/IMGC coverage / Low LTV / Latest 12 months GST filing"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "6 bounces in consumer Loan with Kotak bank due to insufficient of balance. Proposed property received through Partition. Customer getting rental in bank account on 20th . Stability is less than 3 years. Is into Beero Painting - no Major Business credits Observed.",
+        "List of Mitigants ": "Check balances in other available banking, May be considered under CM assessment with checks from suppliers and customers",
+        "Quantitative measures, \nMitigates": "CM assessment may be considered under retail."
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Negative Profile - Manpower supply. Applicant CIBIL score is 689 - need login approval. CIBIL score low to DPDs in Live Auto Loan. DPDs in live Housing Loan reported in Oct 24 and Overdue in Live Property Loan. Co applicant CIBIL reflects LSS in personal Loan 50k , LSS in two-wheeler Loan, SUB in personal Loans83 days DPD reported in AL 9.50 Lacs and reflects settlement and 60 days DPD in AL 16 Lacs, 150 Days DPDs in closed auto Loans. 60 days DPD in closed Housing Loan reported in 2022. DPD were reflects till Feb 2024.Banking reflects bounces in last 12 months",
+        "List of Mitigants ": "CIBIL score norm met - Through SOA if repayments could be sustained, considering increasing topline and GST.",
+        "Quantitative measures, \nMitigates": "Higher ROI/ IMGC coverage /DSRA/ Higher ROI under Retail books."
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Property situated in low lying location, majority of plots in the vicinity waterlogged, HT Line passing on the road and Property is a irregular shaped Shop site - Open plot, Credit and business team Kindly take a note.Linear dimensions not mentioned in provided copy of seller documents and buyer agreement hence it is recommended to incorporate linear dimensions as per layout in sale agreement / deed / RMODT - prior disbursement, Kindly ensure.Only partial seller documents provided for technical team perusal hence complete seller documents for the subject property is to be verified with legal and report valid subject to availability of complete ownership in the name of seller. Kindly take a note.Survey number wrongly mentioned in provided copy of sale agreement (S No.455/39 and 455/40) hence revised sale agreement along with correct survey number for the subject property (S No.455/35 and 455/40 Part) is to be verified by internal technical team prior disbursement.",
+        "List of Mitigants ": "Alternate Property to be checked considering  good business setup",
+        "Quantitative measures, \nMitigates": "Check for alternate property availability."
+    },
+    {
+        "Reject Category": "Geo Limit",
+        "Reject Reasons": "Reject : Location sourcing not allowed at Kangeyam - Not Okay .",
+        "List of Mitigants ": "Kangeyam location case",
+        "Quantitative measures, \nMitigates": "LOB wise approved PIN code list to be provided. Prime LOB cannot service such locations which are done by Retail."
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Reject: Case Eligibility not met under banking &amp; cpm / Bre Score at 2 / Recent Borrowings is high in last 12 months / 9 Enquiries in last 3 months / Offered collateral is Industrial Property cannot do under Low LTV - Not Okay",
+        "List of Mitigants ": "Any other property availability and CIBIL enquiry mitigates.",
+        "Quantitative measures, \nMitigates": "Alternate property to be checked meeting low LTV norms, good CIBIL score - Low LTV "
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": " Applicant CIBIL score is 661 reflects 3.76 Lacs overdue in Personal Loans and credit cards Recent DPDs in all Loans - customer claims that due to mother medical issues. POS as per CIBIL 63.79 Lacs Including PL and credit cards - customer agreed to close by own funds but customer do not have funds to repay Loans. Customer Transferring salary to CUB Bank immediately. Need statement for further check.",
+        "List of Mitigants ": "Other income availability to be checked and if loan DPDs could be mitigated.",
+        "Quantitative measures, \nMitigates": "Pragathi program may be considered if loan amount less than 30 lacs since good CIBIL score noted"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Reject : Minimum Eligibility not met for applicant income / . Co-applicant age already crossed more than 60 . current age at 61 / Low Income Profile Applicant getting last two months' salary Rs Jan 2025 - 14066 / Feb 2025 - 13616/- . / Both Current Resi and Emp stability not met . each stability is less than one year . / LAP proposal End use of loan Hand loan Closing Rs 10 lacs / Offered collateral is RRP .",
+        "List of Mitigants ": "Next generation income earning son/daughter to be checked and tried for stepup. Document availability for Vintage to be on note.",
+        "Quantitative measures, \nMitigates": "Additional income earning co-applicant meeting Stepup norms"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Reject : Case Eligibility not met under CPM &amp; Banking / Applicant profile is Grocery items wholesale trading, but no stock / No Bills and No weighbridge Bill Maintained hence not able to assess his Income . / Applicant does not have Separate business premises he shared his Friend premises / No business evidence noticed during PD / Co-applicant cibil have multiple loans settled and written off with Overdue . No proper clarification on this with customer / No proper clarification on this Chq bounce in Banking / No asset creation evidence in last two years .",
+        "List of Mitigants ": "Any other business validation pertaining to other family members to be checked",
+        "Quantitative measures, \nMitigates": "Alternate program to be checked as CIBIL score norm met, Pragathi Plus within 30 lacs."
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Reject : GPL cannot be fund to CAT C developers &amp; Eligibility Not Met",
+        "List of Mitigants ": "GPL funding to CAT C developer not available",
+        "Quantitative measures, \nMitigates": "Through our Approved APF projects, we may suggest other properties to the customer."
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Nearly 30 lacs credits observed in bank statement from credit card swipe - Applicant confirmed due to EMI payment and rotation purpose she had availed the loansBounce in BT loan in May'248 enquiries in last three monthsCase got declined in RCU hunter",
+        "List of Mitigants ": "Alternate program like Pragathi HL may be proposed if CIBIL DPDs could be mitigated",
+        "Quantitative measures, \nMitigates": "Alternate program to be checked, Hunter being positive."
+    },
+    {
+        "Reject Category": "Business Setup",
+        "Reject Reasons": "Reject : The business operates purely on a commission basis, with no separate office setup. Due to the nature of the business, it is considered a Caution Profile / ITR Filed on 26/03/2025 for the last two financial years. / Minimal banking habits and Maintained ABB Rs 4946 /- Requested loan amt 40 lacs and emi would be coming 40k plus / Loan Eligibility not met for Requested loan amt .",
+        "List of Mitigants ": "One time ITR - Hence Low LTV program may be considered",
+        "Quantitative measures, \nMitigates": "Low LTV program with latest ITRs could be checked."
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Bureau score is 1App CIBIL has overdue of Rs 87351/- in two credit cardsCo App CIBIL score is 628 due to overdue of Rs 6.89 lacs and write off in 6 credit card and Personal loans - He is a chronic defaulter. He accepted the defaults due to financial issue in PDEven in live loans there are four cheque returns observed for AppApplicant is running a studio for dubbing and editing for radio FM as it comes in Media and negative profilesEligibility issue - Eligible loan amount is 5.40 lacs when considering both applicants incomeApp is having 8 years of experience and Co App is having 20 years of experience but no asset created",
+        "List of Mitigants ": "Alternate program like informal HL may be proposed if CIBIL DPDs could be mitigated under CM assessment programs",
+        "Quantitative measures, \nMitigates": "Alternate program like informal HL may be proposed if CIBIL DPDs could be mitigated, CM assessment program"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Reject : Case Eligibility Not Met: As per the applicant's salary, the income eligibility is Rs 20 lakhs; however, BT outstanding is Rs 42 lakhs, which exceeds the permissible limit and Multiple credit cards have been settled and written off in the last 12 months. Outstanding dues need to be regularized for further consideration.",
+        "List of Mitigants ": "Additional cash flow to be ascertained of other family members, Card settlements may be done.",
+        "Quantitative measures, \nMitigates": "Other income availability to be checked"
+    },
+    {
+        "Reject Category": "Turnover Decline",
+        "Reject Reasons": "Turnover DIP of 43% compared FY24 to F23. Latest 12 months GST details yet to provided. FY23 of 415 lacs and FY24 of 196 lacs.Physical PD not comfortable which done by RCM since customer doesn't know about complete business details and proposed transaction.Eligibility norms not met - Having current obligation of 3.85 lacs against income of Rs 1.60 lacs.",
+        "List of Mitigants ": "Topline decline - GST for 12 months to be established and business further to be verified with suppliers/customers - alternate Cash flow availability, CIBIL score norm met and system score 3.",
+        "Quantitative measures, \nMitigates": "GST for 12 months to be established and business further to be verified with suppliers/customers - alternate Cash flow availability"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "As we discussed, Applicant is having 12 bounces in BT bank top up loan from May'24 to Oct'24 - CIBIL strings having DPDs before one year also. There are 11 housing loan enquiries in last 3 months and no loans got converted because of these bounces.Bureau score is 1",
+        "List of Mitigants ": "Alternate program like informal HL may be proposed if CIBIL DPDs could be mitigated ",
+        "Quantitative measures, \nMitigates": "Alternate program like informal HL may be proposed if CIBIL DPDs could be mitigated "
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Case rejected due to multiple BL enquiries post our login and taken reference check as those are about to disburseCustomer has not disclosed the enquiry facts when he has completed the PD with other financiers on the same dayEligibility not arrived for the required loan amount.",
+        "List of Mitigants ": "Facts from customer to be taken",
+        "Quantitative measures, \nMitigates": "Alternate program to be checked as CIBIL score norm met, Pragathi Plus within 30 lacs."
+    },
+    {
+        "Reject Category": "Hunter Negative",
+        "Reject Reasons": "GST suspended, BT case with 13 MOB, Hunter decline, Pl avoid",
+        "List of Mitigants ": "CM assessment program may be checked if hunter positive.",
+        "Quantitative measures, \nMitigates": "Alternate program to be checked, Hunter being positive."
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Technical PendingEMI clearing bank statement pendingProperty yet document yet to provided",
+        "List of Mitigants ": "Pending documents to be obtained from customer and property documents should be obtianed",
+        "Quantitative measures, \nMitigates": "Upfront login with complete documents required."
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Reject: 1. CIBIL Bad Match in All Applicants Property/Auto/Business/Two-Wheeler Loans We acknowledge the discrepancies flagged in the SMA and Overdue reports &amp; Eligibility Not met / Jocata score is 2 / 9 enquiries in last 3 months / Last year dip in profit.",
+        "List of Mitigants ": "Additional cash flow to be ascertained of other family members, If CIBIL derog could be mitigated with SOA.",
+        "Quantitative measures, \nMitigates": "May be considered under informal with higher ROI and DSRA for 3-6 months"
+    },
+    {
+        "Reject Category": "Over Leveraged Profile",
+        "Reject Reasons": "High FOIR and Leverage levels",
+        "List of Mitigants ": "Check for additional income source. Repayment track of current loans should be clean. YOY growth in turnover and profits are >25%.",
+        "Quantitative measures, \nMitigates": "Can check for DSRA. Offer lower tenor and collateral should be SORP"
+    },
+    {
+        "Reject Category": "Turnover Decline",
+        "Reject Reasons": "Decline in TO above 50%",
+        "List of Mitigants ": "Check for any other income available supporting for EMI payment. Decline should not be due to client loss or debtor defaults.",
+        "Quantitative measures, \nMitigates": "Look for Low LTV with DSRA"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Multiple DPD and delay in EMI payment in BT loan",
+        "List of Mitigants ": "ApartBT loan , other live loans are serviced with clean track. Delay is due to technical / temporary issue not due to cash flows. Proposed for Plain BT ",
+        "Quantitative measures, \nMitigates": "Lower tenor can be considered."
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "under construction property low ltv case",
+        "List of Mitigants ": "Construction stage should be at 90%. Can be checked in other programmes if loan is towards construction of property",
+        "Quantitative measures, \nMitigates": "Premium ROI"
+    },
+    {
+        "Reject Category": "ITR Gap",
+        "Reject Reasons": "ITR FILED IN SAME DAY",
+        "List of Mitigants ": "Can look under Low LTV / Credit manager assessment programme, If customer has business setup and vintage of more than 3 yrs.",
+        "Quantitative measures, \nMitigates": "Check for repayment hostory for previous loans "
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Low CIBL Score",
+        "List of Mitigants ": "Pull deep CIBIL for customer to verify reason for CIBIL Derog, if Derog is due to Gold loan or Agri loan. Repayment of other PL and Secured loans are clean track.",
+        "Quantitative measures, \nMitigates": "Premium ROI"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Profile reject",
+        "List of Mitigants ": "If turnover levels are more than 5 Cr. Client base is with CAT A compnaies having good value of work orders. No recent BL/LAP loans availed",
+        "Quantitative measures, \nMitigates": "FOIR with in 80%, Low LTV only SORP property."
+    },
+    {
+        "Reject Category": "Business Setup",
+        "Reject Reasons": "Vendor PD is refer-business not verified, name board not seen, resi-cum business office",
+        "List of Mitigants ": "Do Physical PD, check business proof available for vintage. Wallet transaction available for business. Neighbor check for business should be positive",
+        "Quantitative measures, \nMitigates": "Informal business offer higher ROI"
+    },
+    {
+        "Reject Category": "BT norms",
+        "Reject Reasons": "PLOT BT not availble as per policy",
+        "List of Mitigants ": "If customer received construction plan and loan is towards house construction. Can be booked as HLBT cum construction loan with stage wise disbursement.",
+        "Quantitative measures, \nMitigates": "LTV to be restricted to HL norms"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Cash salaried",
+        "List of Mitigants ": "Physical PD required to verify the employer and vintage of employment. Can book under informal product. Upto 15 lakhs loan amount.",
+        "Quantitative measures, \nMitigates": "Premium ROI, lower loan tenor"
+    },
+    {
+        "Reject Category": "Age Deviation",
+        "Reject Reasons": " customer is working with Cat A and his age is 52. He is expecting tenure upto 70 years",
+        "List of Mitigants ": "Book under Extended tenure product, if salary is more than 3 lakhs per month. ",
+        "Quantitative measures, \nMitigates": "IMGC Cover to be taken. FOIR with in norms"
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Above FSI norms",
+        "List of Mitigants ": "Building permission regularisation for the actual FSI constructed required to proceed with collateral",
+        "Quantitative measures, \nMitigates": "Higher ROI"
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Property near to buffer Zone/Water body",
+        "List of Mitigants ": "Customer has to look for some other collateral not falling in buffer zone",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Adjacent boundary is religious structure",
+        "List of Mitigants ": "Can not be funded, collataral boundary cannot be religious structure/grave yard",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "High tension lines passing through collateral.",
+        "List of Mitigants ": "High risk properties not to be funded.",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Less than 4 feet passage properties",
+        "List of Mitigants ": "Passage property cannot be funded. Any other collateral with proper access required",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Property in prohibited watch list given by Registration stamps and registration authroity.",
+        "List of Mitigants ": "Need collector or Registration of stamps authority approval required for funding the property listed in prohibited list",
+        "Quantitative measures, \nMitigates": "Higher ROI and lower tenor"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Working of Un-cat or partnership/proprietorship firm ",
+        "List of Mitigants ": "Regular salary credits in Bank, Payslip,  Vintage of the firm and organization should not fall under Negative / caution profile , PF and other compliance required",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Where customer is director and shareholder of the Pvt Ltd company ",
+        "List of Mitigants ": "If there is payslip available and PF and PT deducted and regular credit in his salary account then we can treat it as Salaried otherwise we have to treat it as SENP with company financials.",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "CIBIL <650 and Credit card small overdues nad dpd",
+        "List of Mitigants ": "Clean track of other loans, profile and business comforts, Good ABB 3 times of EMI, FOIR and LTV within norms",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "ITR Gap",
+        "Reject Reasons": "1 Year ITR",
+        "List of Mitigants ": "Should be fund under surrogate product ABB method or Low LTV.",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "High FOIR 350% ",
+        "List of Mitigants ": "Good ABB of 1.25 time of EMI and 40% LTV can process under low LTV program.",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Derogatory history ",
+        "List of Mitigants ": "Bounces observed in Last 3 months ",
+        "Quantitative measures, \nMitigates": "Pricing to be higher than normal loan."
+    },
+    {
+        "Reject Category": "BT Vintage",
+        "Reject Reasons": "Less vintage of loan ",
+        "List of Mitigants ": "BT loan vintage less than 12months, as per policy BT vintage to be 12months ",
+        "Quantitative measures, \nMitigates": "Top up to restricted to 50% "
+    },
+    {
+        "Reject Category": "Business Vintage or Work Experience",
+        "Reject Reasons": "Low business Vintage ",
+        "List of Mitigants ": "Business vintage is less than 3years ",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Over Leveraged Profile",
+        "Reject Reasons": "Overleveraged Profile",
+        "List of Mitigants ": "Higher leverage ",
+        "Quantitative measures, \nMitigates": "ROI and PF to be charged on higher side "
+    },
+    {
+        "Reject Category": "Banking norms",
+        "Reject Reasons": "ABB norms not met ",
+        "List of Mitigants ": "Lower ABB ",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Drain buffer zone",
+        "List of Mitigants ": "Property falls under drone buffer zone",
+        "Quantitative measures, \nMitigates": "LTV contraints of 10% less than policy to be considered "
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility not met ",
+        "List of Mitigants ": "Eligibility not met, higher cash rentals ",
+        "Quantitative measures, \nMitigates": "ROI and PF to be charged on higher side "
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Less Employement stability ",
+        "List of Mitigants ": "Job Vintage less than 3months in current company ",
+        "Quantitative measures, \nMitigates": "-"
+    },
+    {
+        "Reject Category": "Business Setup",
+        "Reject Reasons": "Business Setup",
+        "List of Mitigants ": "Shared Business premises",
+        "Quantitative measures, \nMitigates": "Low LTV "
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility not met ",
+        "List of Mitigants ": "Eligibility not met ",
+        "Quantitative measures, \nMitigates": "Minimum deviartion in FOIR "
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Customer Profile",
+        "List of Mitigants ": "Caution Profile",
+        "Quantitative measures, \nMitigates": "LTV contraints, ROI on higher side "
+    },
+    {
+        "Reject Category": "Age Deviation",
+        "Reject Reasons": "Age norms not met ",
+        "List of Mitigants ": "Age is not sufficing ",
+        "Quantitative measures, \nMitigates": "No deviation in tenure "
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Bureau or Credit Score",
+        "List of Mitigants ": "CMR Rank between 8-10",
+        "Quantitative measures, \nMitigates": "HIGh ROI and LOW LTV "
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Bureau or Credit Score",
+        "List of Mitigants ": "Bounces in tracks",
+        "Quantitative measures, \nMitigates": "Low LTV "
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Income ownership norms not met  ",
+        "List of Mitigants ": "Income ownership norms not met  ",
+        "Quantitative measures, \nMitigates": "No deviation in tenure and age "
+    },
+    {
+        "Reject Category": "BT norms",
+        "Reject Reasons": "BT norms",
+        "List of Mitigants ": "BT from Non-Approved FI",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility Issue",
+        "List of Mitigants ": "Dip In Turnover",
+        "Quantitative measures, \nMitigates": "No FOIR deviation"
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "FOIR Enhancement",
+        "List of Mitigants ": "FOIR Deviation of 5%",
+        "Quantitative measures, \nMitigates": "Additional agri income observed"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "DPD up to 30 Days in Last 12 Months",
+        "List of Mitigants ": "DPD up to 30 Days in Last 12 Months",
+        "Quantitative measures, \nMitigates": " Continued monitoring of repayment behavior."
+    },
+    {
+        "Reject Category": "Age Deviation",
+        "Reject Reasons": "Age Deviation",
+        "List of Mitigants ": "5 Years Age Deviation",
+        "Quantitative measures, \nMitigates": "IMGC "
+    },
+    {
+        "Reject Category": "ITR Gap",
+        "Reject Reasons": "ITR Norms Not Met",
+        "List of Mitigants ": "Applicant filed 2 year ITR less than 12months ",
+        "Quantitative measures, \nMitigates": "No FOIR deviation"
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Collateral or Property",
+        "List of Mitigants ": "Loan Against Commercial Plot",
+        "Quantitative measures, \nMitigates": "Verify that the commercial plot meets all regulatory and marketability standards."
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Caution profile",
+        "List of Mitigants ": "Jewelry business",
+        "Quantitative measures, \nMitigates": "Good Cash income and Low LTV "
+    },
+    {
+        "Reject Category": "Business Setup",
+        "Reject Reasons": "Business Setup",
+        "List of Mitigants ": "Resi cum office set up",
+        "Quantitative measures, \nMitigates": "No FOIR and LTV deviation "
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Caution profile",
+        "List of Mitigants ": "Petrol Pump",
+        "Quantitative measures, \nMitigates": ""
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Jocata Score card - 1 against LA &lt; 50 lacsEligibility norms not met in any program expect Banking since 12 months statement yet to received.Property norms not met - Buying 5 units from 2 diff seller which one holds by POA.Larger extend of 11000 sqft and cost of 550 per sq ft only",
+        "List of Mitigants ": "Alternate program of CM assessment under Pragathi may be checked along with alternate property.",
+        "Quantitative measures, \nMitigates": "May be considered under retail with higher ROI and DSRA for 3-6 months"
+    },
+    {
+        "Reject Category": "Collateral or property",
+        "Reject Reasons": "Reject : Property Norms not met Identified Property is Landlock Property cannot fund and New Bre score at 1 and Loan amt 50 lacs",
+        "List of Mitigants ": "Alternate property under Pragathi may be checked within loan amount norm.",
+        "Quantitative measures, \nMitigates": "Alternate property under Pragathi may be checked within loan amount norm."
+    },
+    {
+        "Reject Category": "Technical Derogs",
+        "Reject Reasons": "Technical rejected - second collateral collateral discussed with seniors and not recommended. Sale certificate case.",
+        "List of Mitigants ": "Alternate property may be checked within loan amount norm.",
+        "Quantitative measures, \nMitigates": "Alternate property may be checked within loan amount norm."
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Reject: Case Eligibility Not met and Its Over Leveraged Foir at 109.26% for Requested Loan amount and Many Enquiry in cibil 23 matches found in last 3 months - Not Okay",
+        "List of Mitigants ": "Details of CIBIL enquery to be checked and if the same can be validated against any technical snag, may be considered for lower loan amount.",
+        "Quantitative measures, \nMitigates": "May be considered under retail with higher ROI and DSRA for 3-6 months, if CIBIL enquiry is mitigatable."
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Pls find case concerns.Builder profile not allowed for LAP - Customer is builder and developing properties for individual customers.Property not allowed - Proposed for fresh LAP against Gramanadham commercial property - Land LAP.Father's income docs not provided to check obligation. Already having O/s 4.78 Crs.No customer details in GST. As confirmed by customer only dealing with retail customer hence same comes under GST.Eligibility norms not met _ Having 12 lacs Cash profit for applicant against requested for 300 lacs",
+        "List of Mitigants ": "To be checked before login since being NoGo item",
+        "Quantitative measures, \nMitigates": "To be checked before login since being NoGo item"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Pls find the case concerns. Eligibility norms not met - Both app Salary of Rs 1.33lacs (Only fixed components) and additional cash rent of 50k (25k considered) where overall income of Rs 1.57 lacs against proposed EMI of Rs 1.43 lacs, FOIR at 91%Co app CIBIL Score at 665 due to gold loan overdue of 8 lacs and Axis Bank PL DPD's up to 52 days.Axis Bank PL 4 EMI got bounce on last 6 months due to insufficient fund.PF and PAN details not reflecting in Co app Payslip.",
+        "List of Mitigants ": "Closure of live loans to be checked along with mitigatable reason for low CIBIL score and DPDs.",
+        "Quantitative measures, \nMitigates": "May be considered under retail with higher ROI and DSRA for 3-6 months, if CIBIL enquiry is mitigatable."
+    },
+    {
+        "Reject Category": "Technical Derogs",
+        "Reject Reasons": "Technical yet to be completed. Live loan sanction letter and repayment account pending.",
+        "List of Mitigants ": "Query documents to be obtained post detailed discussion with customer since both buearu and CIBIL score norms met.",
+        "Quantitative measures, \nMitigates": "both buearu and CIBIL score norms met, hence query clearance would have yeilded positive result."
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "LA &lt; 50 lacs and Bureau Scorecard 1 hence rejected norms not metCo app CIBIL at 653 due to derog in existing Consumer loans and Auto loans.",
+        "List of Mitigants ": "Alternate program of CM assessment under Pragathi may be checked along with any mitigates for low CIBIL score.",
+        "Quantitative measures, \nMitigates": "Alternate property may be checked within loan amount norm."
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility norms not met - Having current proposed EMI of Rs 83k against monthly salary of 82k which is coming at 100.2% of FOIR.Multiple CIBIL Enquiry with last 3 months.3 EMI got bounce on last 12 months insufficient fund.Customer is working with CAT C employer and noticed salary advances in last 2 months. Availed multiple Online loans to manage the current EMI Commitments.No Karza Matches",
+        "List of Mitigants ": "Could check for availability of other family member meeting income ownership matrix meeting income and CIBIL norms along with valid reasons for bounces and recent loans.",
+        "Quantitative measures, \nMitigates": "May be considered under informal with higher ROI and DSRA for 3-6 months"
+    },
+    {
+        "Reject Category": "Business Vintage or Work Experience",
+        "Reject Reasons": "what will be the mitigant for Co-App low Job continuity of 9 month only",
+        "List of Mitigants ": "Check for compnay category if CAT A or B company, Good qualification level and education background. ",
+        "Quantitative measures, \nMitigates": "Check co-applicant income if any available"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Profile is SENP, Product is LAP residential and credit assessed underwriting and is a caution profile of Barber shop. Just give me list of mitigants for approval",
+        "List of Mitigants ": "Can be looked under Micro LAP, Check for business vinatge and locality, Wallet transaction for last one year should reflect in banking. CIBIL repayment track of higher value loans availed. SORP property.",
+        "Quantitative measures, \nMitigates": "Should offer shorter tenor with lower LTV"
+    },
+    {
+        "Reject Category": "Over Leveraged Profile",
+        "Reject Reasons": "Mitigant for over leverage profile",
+        "List of Mitigants ": "Check for leverage reason and end use of funds. Should avoid if fund diversion noticed and Source of EMI payment should not be from availed loans",
+        "Quantitative measures, \nMitigates": "Other income sources available for repayment of loan can be checked"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "can we appraise case on credit manager assessed income program without having any business proof. share the list of mitigants",
+        "List of Mitigants ": "Under informal programme-Credit manager has to establish business proof during PD, by doing reference check, Wallet transaction verification, Supplier verification and any rental document or premises owner record available",
+        "Quantitative measures, \nMitigates": "Credit manager has to establish business proof during PD, by doing reference check, Wallet transaction verification, Supplier verification and any rental document or premises owner record available"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "if customer having Bank salary but getting without any standard deduction, what could be the mitigants",
+        "List of Mitigants ": "Book under affordable. Check for company category, if Cat A/CAT B company check for TDS deduction. Form 16. Get letter from HR for not having standarad deduction.",
+        "Quantitative measures, \nMitigates": "If proprietor firm/ PF salary book under informal. Credit manager Visit and verification of employment and covered by IMGC"
+    },
+    {
+        "Reject Category": "Business Vintage or Work Experience",
+        "Reject Reasons": "Business Vinatge <1 year",
+        "List of Mitigants ": "Too Generic question, requiered precise details.",
+        "Quantitative measures, \nMitigates": "Required previous experience details"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "I need the mitigants for Variation into salary credits over the months what salary to taken for eligiblity",
+        "List of Mitigants ": "If variation is due to bouns or incentive. Collect last  6 months or 2 yrs bouns credit details.",
+        "Quantitative measures, \nMitigates": "Bonus/ Incentive 50% of average of last 2 yrs can be considered. "
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Bureau or Credit Score",
+        "List of Mitigants ": "Applicant’s cibil score  low due to adversity, However current status is written off ",
+        "Quantitative measures, \nMitigates": "1. Satisfactory justification on default in credit cards\n2.CAT-A Employer. \n3. Good salary of 2.31 lacs.\n4. No other running obligations"
+    },
+    {
+        "Reject Category": "Business Vintage or Work Experience",
+        "Reject Reasons": "Business Vintage or Work Experience",
+        "List of Mitigants ": "Applicant is engaged into the Rental business ",
+        "Quantitative measures, \nMitigates": "Applicant is engaged into the Rental business "
+    },
+    {
+        "Reject Category": "ITR Gap",
+        "Reject Reasons": "ITR Gap",
+        "List of Mitigants ": "Rental income not reported in books/ITR. Rental income is being received since latest month",
+        "Quantitative measures, \nMitigates": "IMGC cover taken. "
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility Issue",
+        "List of Mitigants ": "Eligibility issue due to age issue",
+        "Quantitative measures, \nMitigates": "1.) Give extended tenor as per IMGC policy norms "
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "FOIR Enhancement",
+        "List of Mitigants ": "Applicant is salaried and have high FOIR then as per policy. BT Track have MOB less than policy",
+        "Quantitative measures, \nMitigates": "1. BT Track have clean string\n2. Applicant is bank salaried and Collateral is SORP\n3. IMGC Taken"
+    },
+    {
+        "Reject Category": "Age Deviation",
+        "Reject Reasons": "Age Deviation",
+        "List of Mitigants ": "App's age would be 65 years at the time of loan maturity",
+        "Quantitative measures, \nMitigates": "1) Legal Heir son has been taken on loan as an additional income applicant. \n2) IMGC and DSRA backup taken.\n3) Regular salary credit vetted of app and co-app"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility Issue",
+        "List of Mitigants ": "Not eligible on single applicant income",
+        "Quantitative measures, \nMitigates": "1. Co Applicant income taken  \n2. IMGC \n3. DSRA also taken"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Bureau or Credit Score",
+        "List of Mitigants ": "CIBIL Score norms were not met",
+        "Quantitative measures, \nMitigates": "1. Applicant was having good Asset Base."
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "FOIR Enhancement",
+        "List of Mitigants ": "Applicant qualified and providing service for Tax Consulting, Auditing, Book Keeping, Financial Assistance etc since past 7 years but CA passed out in 2017.",
+        "Quantitative measures, \nMitigates": "Prime property"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Bureau or Credit Score",
+        "List of Mitigants ": " Loan eligiblity is not workout and DPD and overdue in running loans",
+        "Quantitative measures, \nMitigates": "Good Business Vintage of 10 years, Applicant is also getting cash rental income from properties. "
+    },
+    {
+        "Reject Category": "Over Leveraged Profile",
+        "Reject Reasons": "Overleveraged Profile",
+        "List of Mitigants ": "Recently availed multiple loans, High FOIR , cibil enquiries",
+        "Quantitative measures, \nMitigates": "1. Income documents of co applicant also documented. \n2. Few loans closure, \n3. End use of existing loans were vetted.\n4. Loan amount reducted"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility Issue",
+        "List of Mitigants ": "High FOIR, DPDs reflecting in old loans",
+        "Quantitative measures, \nMitigates": "1. Co Applicant Income documents were provided"
+    },
+    {
+        "Reject Category": "Business Setup",
+        "Reject Reasons": "Business Setup",
+        "List of Mitigants ": "No document available for business ownership and low stock seen",
+        "Quantitative measures, \nMitigates": "1.Business verified through ref check and neighbors feedback also positive.\n2.Low LTV case"
+    },
+    {
+        "Reject Category": "Over Leveraged Profile",
+        "Reject Reasons": "Overleveraged Profile",
+        "List of Mitigants ": "High loans availed against his business/financials",
+        "Quantitative measures, \nMitigates": "1. Decent Business set up. \n2. Good stsock & activity observed during PD. \n3. Running RTR's are clean. \n"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility Issue",
+        "List of Mitigants ": "Income issues",
+        "Quantitative measures, \nMitigates": "Business Vintage should more than 3 years or experience to be validated along with business inventory turnover and footfalls."
+    },
+    {
+        "Reject Category": "Caution profile",
+        "Reject Reasons": "Caution profile",
+        "List of Mitigants ": "Customer Profile",
+        "Quantitative measures, \nMitigates": "Caution profile - DSA"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Builder Profile",
+        "List of Mitigants ": "Good CIBIL score, Well known Builder of Gurgaon and Good ABB maintained",
+        "Quantitative measures, \nMitigates": "1. Taken more Properties instead of 1, So overall LTV will be low 2. DSRA "
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "Eligibility Issue, High FOIR",
+        "List of Mitigants ": "CA Profile, Good CIBIL score, Business vintage",
+        "Quantitative measures, \nMitigates": "1. Co-Appliacat Income "
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility Issue",
+        "List of Mitigants ": "Good score and Comfortable LTV",
+        "Quantitative measures, \nMitigates": "1. Additional CA and SA Banking taken in which business transactions are routed"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Eligibility Issue",
+        "List of Mitigants ": "Good CIBIL score and CAT A Company employee",
+        "Quantitative measures, \nMitigates": "1. Additional Rental Income considered and IMGC"
+    },
+    {
+        "Reject Category": "Age Deviation",
+        "Reject Reasons": "Age at end of loan tenure 68 years",
+        "List of Mitigants ": "Good CIBIL score and CAT A Company employee",
+        "Quantitative measures, \nMitigates": "1. IMGC and Insurance Cover"
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "High FOIR > 60%",
+        "List of Mitigants ": "Good CIBIL, Low LTV and Good ABB",
+        "Quantitative measures, \nMitigates": "1. 50% cash rental considered instead of 25% and additional DSRA taken"
+    },
+    {
+        "Reject Category": "Geo Limit",
+        "Reject Reasons": "Office Premise outside Geo limit",
+        "List of Mitigants ": "Good CIBIL score and CAT A Company employee",
+        "Quantitative measures, \nMitigates": "1. Property in Geo limit and Local Gur taken "
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "Elgiblity norms not met under Cash Profit Method",
+        "List of Mitigants ": "CIBIL score more than 750, Low LTV and ABB to EMI more than 1 ",
+        "Quantitative measures, \nMitigates": "1. Additional Property taken as interim collateral for certain Period and DSRA"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "CIBIL score below 675",
+        "List of Mitigants ": "Mitigated with the current running clean loans, No dues certiificate for old loans",
+        "Quantitative measures, \nMitigates": "1. Low LTV on Proposal collateral 2. IMGC/DSRA"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Single Applicant ",
+        "List of Mitigants ": "Good CIBIL score and CAT A Company employee",
+        "Quantitative measures, \nMitigates": "1. Full insurance cover and IMGC"
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "High FOIR",
+        "List of Mitigants ": "Running loans have clear track, Cash rich customer, Good Asset base",
+        "Quantitative measures, \nMitigates": "1. Growing Business. 2. Positive PD done. 3. Cash Receipt Verified"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "100% bonus considered",
+        "List of Mitigants ": "Good Job Vintage, LTV within norms",
+        "Quantitative measures, \nMitigates": "1. Good asset base. 2. financial co-applicant(income not considered) 3. DSRA taken"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "Caution profile",
+        "List of Mitigants ": "Jeweller Profile",
+        "Quantitative measures, \nMitigates": "1. Good business transaction in Banking.2. Banking FOIR within norms"
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "High FOIR of 120%",
+        "List of Mitigants ": "Cash rich customer, Good asset base",
+        "Quantitative measures, \nMitigates": "1. Good business vintage and having goodwill in market,2. LTV within norms"
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "High FOIR",
+        "List of Mitigants ": "CO-applicant working, good Job Vintage",
+        "Quantitative measures, \nMitigates": "1. CO-applicant is also working in pvt firm 2. Clear CIBIL history"
+    },
+    {
+        "Reject Category": "Eligibility Issue",
+        "Reject Reasons": "LTV more than norms",
+        "List of Mitigants ": "SORP property offered , other Low LTV norms met",
+        "Quantitative measures, \nMitigates": "1. Other Low LTV norms met. 2. Clear CIBIL"
+    },
+    {
+        "Reject Category": "FOIR enhancement",
+        "Reject Reasons": "High FOIR and multiple loan running",
+        "List of Mitigants ": "Good score and Comfortable LTV",
+        "Quantitative measures, \nMitigates": "1. Healthy stock available 2. cash rich customer"
+    },
+    {
+        "Reject Category": "FI negative",
+        "Reject Reasons": "FI negative",
+        "List of Mitigants ": "Applicant is doing WFH, Hr comfirmation positive",
+        "Quantitative measures, \nMitigates": "1. FOIR and LTV within norms 2. IMGC taken"
+    },
+    {
+        "Reject Category": "Customer Profile",
+        "Reject Reasons": "No saving account",
+        "List of Mitigants ": "Business transaction seen in Saving account",
+        "Quantitative measures, \nMitigates": "1. Applicant having saving acocunt with business transaction 2. LTV within norms"
+    },
+    {
+        "Reject Category": "Bureau or Credit Score",
+        "Reject Reasons": "Multiple DPDs in running loans",
+        "List of Mitigants ": "Derogs in Past, proof given and found positive",
+        "Quantitative measures, \nMitigates": "1. FOIR and LTV within norms 2. Good business profile"
+    }
+]
