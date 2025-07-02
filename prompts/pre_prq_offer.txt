@@ -154,9 +154,9 @@ Here's the structured data extracted from the latest image, organized for clarit
 
 ### **Offer Amount Formula:**
 
-$$
-\text{Offer Amount} = \left[(70\% \times \text{Income}) - \text{Current Monthly Obligation}\right] \times 100
-$$
+
+Offer Amount = [(70%*Income) - {Current Monthly Obligation}]*100
+
 
 ### **Inputs:**
 
