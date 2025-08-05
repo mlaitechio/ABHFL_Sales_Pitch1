@@ -61,5 +61,5 @@ Processing Fees:
 - Assessed Income: 1.00% (Direct/RP Sourcing), 1.50% (DSA Sourcing)
 
 Deviation & Floor rates
-  Segment 1 (SENP) : 9.85%
-  Segment 2 (Bank Salaried) : 9.35% (Govt, Cat A/B) & 9.60% (Other Salaried)
+  Segment 1 (SENP) : 10%
+  Segment 2 (Bank Salaried) : 9.50% (Govt, Cat A/B) & 9.75% (Other Salaried)

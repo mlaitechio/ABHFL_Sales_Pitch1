@@ -1,0 +1,59 @@
+Bullet Payment
+
+
++------------+---------------------------------------------------------+
+| >          | > Norm Description                                      |
+|  Parameter |                                                         |
++============+=========================================================+
+| > Type of  | > Term Loan -- Allows customer to make lump sum         |
+| > Facility | > payments during the term of the loan & allows         |
+|            | >                                                       |
+|            | > them to avail higher loan amount with bullet payments |
+|            | > built into the amortization schedule                  |
++------------+---------------------------------------------------------+
+| > Loans    | > Salaried customers working in CAT A companies with    |
+| >          | > minimum work experience of 3 years                    |
+| applicable |                                                         |
+| > for      |                                                         |
++------------+---------------------------------------------------------+
+| > Customer | > Prime                                                 |
+| > segment  |                                                         |
++------------+---------------------------------------------------------+
+| > CIBIL    | > 730 & above / NTC                                     |
+| > Norms    |                                                         |
++------------+---------------------------------------------------------+
+| > E        | > Financial based eligibility methods only              |
+| ligibility |                                                         |
+| > Method   |                                                         |
++------------+---------------------------------------------------------+
+| > Tenure   | > Up to 300 months                                      |
++------------+---------------------------------------------------------+
+| > Age      | > As per product program                                |
+| > norms    |                                                         |
++------------+---------------------------------------------------------+
+| > Banking  | > Latest 12-month bank statement of salary account      |
+| > norms    |                                                         |
++------------+---------------------------------------------------------+
+| > Rate of  | > Floating rate of interest linked to ABHFL Reference   |
+| > Interest | > rate (ARR)                                            |
++------------+---------------------------------------------------------+
+| > LTV      | > As per RBI norms                                      |
+| >          |                                                         |
+| applicable |                                                         |
++------------+---------------------------------------------------------+
+| > FOIR     | > As per product program (FOIR to be calculated on      |
+| > norms    | > current Net Income)                                   |
++------------+---------------------------------------------------------+
+| > Other    | -   Bullet payments would be linked to bonuses or cash  |
+| > norms    |     > outs                                              |
+|            |                                                         |
+|            | -   Maximum 5 bullet payments during the tenure of the  |
+|            |     > loan with min 2 years gap between each payment    |
+|            |                                                         |
+|            | -   Document related to ESOP letter, Bonus letter, etc. |
+|            |     > to be documented in file                          |
++------------+---------------------------------------------------------+
+| > Program  | > Overall portfolio not exceeding 250 Crs of loan       |
+| > Review   | > outstanding                                           |
++------------+---------------------------------------------------------+
+

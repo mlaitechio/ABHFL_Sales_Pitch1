@@ -299,7 +299,7 @@ StructuredTool.from_function(
         "micro_CF", "step_up", "step_down", "extended_tenure", "lease_rental_discounting",
         "express_balance_transfer_program", "prime_hl", "prime_lap", "priority_balance_transfer",
         "semi_fixed", "staff_loan_price", "power_pitches", "nri_assesment_criteria", "PMAY",
-        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","compliance","pre_prq_offer"
+        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","pre_prq_offer","approved_list_of_financers_mortage_takeover","FOIR_LTV_Max_loan_Grid_Affordable","Go_No_Go_Credit_Filters","Income_Eligibility_Method","Income_Ownership_Matrix","Risk_Assessment_Parameters","Balloon_Payment_prime","Bullet_Payment_prime","Funding_Hotel_Industrial_Educational_Institutes_Norms","Industry_Margin_List","Negative_Collateral","Negative_and_caution_Profiles","Negative_Country_List_for_NRI","Under_Construction_Property_Funding_Norms","Norms_for_Defense_Personnel","Norms_for_HIL_HEL_HCL","sector_specific_norms","insuarance","Norms_ppr_PHCL","Khushi_home_loan"
     ]
     for product_name in product_names:
         tools.append(create_product_info_tool(product_name, abhfl_instance))

@@ -1,0 +1,306 @@
+[Income Ownership Matrix]{.underline}
+
+
+> Clubbing of Income Norms: Income of Immediate Family can be clubbed
+> subject to staying in same house and coming on loan structure.
+> Immediate Family can include -- Father, Mother, Son, Spouse, Brother.
+>
+> Deviation:
+>
+> Daughter, Son-in-Law, Daughter-In-Law, Sister-Sister, Brother Sister
+>
+> *Individual*
+
++----------------------+-----+------+-----------+-----------+--------+
+|                      | Inc |      |           |           |        |
+|                      | ome |      |           |           |        |
++======================+=====+======+===========+===========+========+
+| Ownership            | H   | Wife | >         |           |        |
+|                      | usb |      | Husband + |           |        |
+|                      | and |      | > Wife    |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+| Husband              | Y   | Y    | > Y       |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+| Wife                 | Y   | Y    | > Y       |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+| Husband + Wife       | Y   | Y    | > Y       |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+|                      | Fat | Son  | >         | >         | >      |
+|                      | her |      |  Father + |  Father + |  Son + |
+|                      |     |      | > Son     | > Son +   | > Da   |
+|                      |     |      |           | >         | ughter |
+|                      |     |      |           |  Daughter | > in   |
+|                      |     |      |           | > in law  | >      |
+|                      |     |      |           |           | > law  |
++----------------------+-----+------+-----------+-----------+--------+
+| Father               | Y   | N\*  | > N\*     | > N \*    | > N\*  |
++----------------------+-----+------+-----------+-----------+--------+
+| Son                  | Y   | Y    | > Y       | > Y       | > Y    |
++----------------------+-----+------+-----------+-----------+--------+
+| Father + Son         | Y   | Y    | > Y       | > Y       | > Y    |
++----------------------+-----+------+-----------+-----------+--------+
+| Father + Son +       | Y   | Y    | > Y       | > Y       | > Y    |
+| Daughter in law      |     |      |           |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+|                      |     | N    |           |           |        |
+|                      |     | \* - |           |           |        |
+|                      |     | Yes  |           |           |        |
+|                      |     | if   |           |           |        |
+|                      |     | sole |           |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+|                      | Fat | Daug | >         | >         | > Da   |
+|                      | her | hter |  Father + |  Father + | ughter |
+|                      |     |      | >         | >         | > +    |
+|                      |     |      |  Daughter |  Daughter | >      |
+|                      |     |      |           | >         | > Son  |
+|                      |     |      |           | > \+ Son  | > in   |
+|                      |     |      |           | > in law  | > law  |
++----------------------+-----+------+-----------+-----------+--------+
+| Father               | Y   | N    | > N       | > N       | > N    |
++----------------------+-----+------+-----------+-----------+--------+
+| Daughter             | N   | Y    | > N       | > N       | > Y    |
++----------------------+-----+------+-----------+-----------+--------+
+| Father + Daughter    | Y   | N    | > N       | > N       | > N    |
++----------------------+-----+------+-----------+-----------+--------+
+| Father + Daughter +  | Y   | Y    | > Y       | > Y       | > Y    |
+| Son in law           |     |      |           |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+|                      | Mot | Son  | >         | >         | >      |
+|                      | her |      |  Mother + |  Mother + |  Son + |
+|                      |     |      | > Son     | > Son +   | > Da   |
+|                      |     |      |           | >         | ughter |
+|                      |     |      |           |  Daughter | > in   |
+|                      |     |      |           | > in law  | >      |
+|                      |     |      |           |           | > law  |
++----------------------+-----+------+-----------+-----------+--------+
+| Mother               | Y   | N\*  | > N\*     | > N\*     | > N\*  |
++----------------------+-----+------+-----------+-----------+--------+
+| Son                  | Y   | Y    | > Y       | > Y       | > Y    |
++----------------------+-----+------+-----------+-----------+--------+
+| Mother + Son         | Y   | Y    | > Y       | > Y       | > Y    |
++----------------------+-----+------+-----------+-----------+--------+
+| Mother + Son +       | Y   | Y    | > Y       | > Y       | > Y    |
+| Daughter in law      |     |      |           |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+|                      |     | N    |           |           |        |
+|                      |     | \* - |           |           |        |
+|                      |     | Yes  |           |           |        |
+|                      |     | if   |           |           |        |
+|                      |     | sole |           |           |        |
+|                      |     | c    |           |           |        |
+|                      |     | hild |           |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+|                      | Mot | Daug | > Mother  | >         | > Da   |
+|                      | her | hter | > +       |  Mother + | ughter |
+|                      |     |      | >         | >         | > +    |
+|                      |     |      | >         |  Daughter | >      |
+|                      |     |      |  Daughter | >         | > Son  |
+|                      |     |      |           | > \+ Son  | > in   |
+|                      |     |      |           | > in law  | > law  |
++----------------------+-----+------+-----------+-----------+--------+
+| Mother               | Y   | N    | > N       | > N       | > N    |
++----------------------+-----+------+-----------+-----------+--------+
+| Daughter             | N   | Y    | > N       | > N       | > Y    |
++----------------------+-----+------+-----------+-----------+--------+
+| Mother + Daughter    | Y   | N    | > N       | > N       | > N    |
++----------------------+-----+------+-----------+-----------+--------+
+| Mother + Daughter +  | Y   | Y    | > Y       | > Y       | > Y    |
+| Son in law           |     |      |           |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+|                      | B   | Bro  | > Brother |           |        |
+|                      | rot | ther | > 1+ 2    |           |        |
+|                      | her | 2    |           |           |        |
+|                      | 1   |      |           |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+| Brother 1            | Y   | N    | > N       |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+| Brother 2            | N   | Y    | > N       |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+| Brother 1+ 2         | Y   | Y    | > Y       |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+|                      | B   | Si   | >         |           |        |
+|                      | rot | ster | Brother + |           |        |
+|                      | her |      | > Sister  |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+| Brother              | Y   | N    | > N       |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+| Sister               | N   | Y    | > N       |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+| Brother + Sister     | N   | N    | > N       |           |        |
++----------------------+-----+------+-----------+-----------+--------+
+
+> *Non Individual Entities*
+
++----+-----------+-------------------+--------------------------------+
+| Pr |           |                   |                                |
+| op |           |                   |                                |
+| ri |           |                   |                                |
+| et |           |                   |                                |
+| or |           |                   |                                |
+| sh |           |                   |                                |
+| ip |           |                   |                                |
++====+===========+===================+================================+
+| S  | Income    | Owner             | Applicant                      |
+| r. |           |                   |                                |
+| N  |           |                   |                                |
+| o. |           |                   |                                |
++----+-----------+-------------------+--------------------------------+
+| 1  | Propr     | Proprietor        | Proprietor + One another       |
+|    | ietorship |                   | individual as per the          |
+|    |           |                   |                                |
+|    |           |                   | \'Income Ownership Matrix for  |
+|    |           |                   | Individuals\' where applicable |
+|    |           |                   | (                              |
++----+-----------+-------------------+--------------------------------+
+| 2  | Propr     | Father / Mother / | Father / Mother / Spouse of    |
+|    | ietorship | Spouse            | Proprietor +                   |
+|    |           |                   |                                |
+|    |           | of Proprietor     | Proprietorship                 |
++----+-----------+-------------------+--------------------------------+
+| P  |           |                   |                                |
+| ar |           |                   |                                |
+| tn |           |                   |                                |
+| er |           |                   |                                |
+| sh |           |                   |                                |
+| ip |           |                   |                                |
+| Fi |           |                   |                                |
+| rm |           |                   |                                |
+| \* |           |                   |                                |
++----+-----------+-------------------+--------------------------------+
+| 3  | Pa        | Partner           | Partnership firm + All         |
+|    | rtnership |                   | Partners                       |
+|    | Firm      |                   |                                |
+|    |           |                   | ( Partners should be as per    |
+|    |           |                   | Income ownership matrix for    |
+|    |           |                   | Individuals if they are owners |
+|    |           |                   | of the property)               |
++----+-----------+-------------------+--------------------------------+
+| 4  | Partners  | Partner           | Partner + One another          |
+|    | share of  |                   | individual as per the          |
+|    | Firm\'s   |                   |                                |
+|    | Profits   |                   | \'Income Ownership Matrix for  |
+|    |           |                   | Individuals where applicable   |
++----+-----------+-------------------+--------------------------------+
+| P  |           |                   |                                |
+| ri |           |                   |                                |
+| va |           |                   |                                |
+| te |           |                   |                                |
+| L  |           |                   |                                |
+| im |           |                   |                                |
+| it |           |                   |                                |
+| ed |           |                   |                                |
+| C  |           |                   |                                |
+| om |           |                   |                                |
+| pa |           |                   |                                |
+| ny |           |                   |                                |
+| (N |           |                   |                                |
+| on |           |                   |                                |
+| li |           |                   |                                |
+| st |           |                   |                                |
+| ed |           |                   |                                |
+| Pu |           |                   |                                |
+| bl |           |                   |                                |
+| ic |           |                   |                                |
+| c  |           |                   |                                |
+| om |           |                   |                                |
+| pa |           |                   |                                |
+| ny |           |                   |                                |
+| t  |           |                   |                                |
+| re |           |                   |                                |
+| at |           |                   |                                |
+| ed |           |                   |                                |
+| as |           |                   |                                |
+| P  |           |                   |                                |
+| ri |           |                   |                                |
+| va |           |                   |                                |
+| te |           |                   |                                |
+| co |           |                   |                                |
+| mp |           |                   |                                |
+| an |           |                   |                                |
+| y) |           |                   |                                |
++----+-----------+-------------------+--------------------------------+
+| 5  | Private   | Private Limited   | Private Limited company +      |
+|    | Limited   | Company           | Directors holding \> 50% of    |
+|    | Company   |                   | the shares + Controlling       |
+|    |           |                   | Directors / MD /               |
+|    |           |                   |                                |
+|    |           |                   | Chairman                       |
++----+-----------+-------------------+--------------------------------+
+| 6  | Private   | Private Limited   | Private Limited company +      |
+|    | Limited   | Company           | Director/s whose income        |
+|    | company + |                   | considered + Directors holding |
+|    | D         |                   | \> 50% of the shares +         |
+|    | irector/s |                   | Controlling Directors / MD /   |
+|    |           |                   |                                |
+|    |           |                   | Chairman                       |
++----+-----------+-------------------+--------------------------------+
+| 7  | Private   | Private Limited   | Private Limited company +      |
+|    | Limited   | Company +         | Director (owner of property) + |
+|    | Company   | Director          | Directors holding \> 50% of    |
+|    |           |                   | the shares                     |
+|    |           |                   |                                |
+|    |           |                   | \+ Controlling Directors / MD  |
+|    |           |                   | / Chairman                     |
++----+-----------+-------------------+--------------------------------+
+| 8  | Private   | Private Limited   | Private Limited company +      |
+|    | Limited   | Company +         | Director (owner of property) + |
+|    | Company   | Director + Same   | Director\'s (owner of          |
+|    |           |                   | property) spouse               |
+|    |           | Directors spouse  |                                |
+|    |           |                   | \+ Directors holding \> 50% of |
+|    |           |                   | the shares +                   |
+|    |           |                   |                                |
+|    |           |                   | Controlling Directors / MD /   |
+|    |           |                   | Chairman                       |
++----+-----------+-------------------+--------------------------------+
+| 9  | Private   | Director + His /  | Private Limited company +      |
+|    | Limited   | Her Spouse        | Director (owner of property) + |
+|    | Company   |                   | Director\'s (owner of          |
+|    |           |                   | property) spouse               |
+|    |           |                   |                                |
+|    |           |                   | \+ Directors holding \> 50% of |
+|    |           |                   | the shares +                   |
+|    |           |                   |                                |
+|    |           |                   | controlling Directors / MD /   |
+|    |           |                   | Chairman                       |
++----+-----------+-------------------+--------------------------------+
+| 10 | Private   | Two or more       | Private Limited company +      |
+|    | Limited   | Directors (can be | Directors (owner of            |
+|    | Company   | owners only when  | property) + Directors holding  |
+|    |           | they meet the     | \> 50% of the shares +         |
+|    |           | Income Ownership  | Controlling Directors / MD /   |
+|    |           | matrix            | Chairman                       |
+|    |           |                   |                                |
+|    |           | norms for         |                                |
+|    |           | individuals)      |                                |
++----+-----------+-------------------+--------------------------------+
+| Pu |           |                   |                                |
+| bl |           |                   |                                |
+| ic |           |                   |                                |
+| L  |           |                   |                                |
+| im |           |                   |                                |
+| it |           |                   |                                |
+| ed |           |                   |                                |
+| c  |           |                   |                                |
+| om |           |                   |                                |
+| pa |           |                   |                                |
+| ny |           |                   |                                |
+| (L |           |                   |                                |
+| is |           |                   |                                |
+| te |           |                   |                                |
+| d) |           |                   |                                |
++----+-----------+-------------------+--------------------------------+
+| 11 | Public    | Public limited    | Public limited company         |
+|    | Limited   | company           |                                |
+|    |           |                   |                                |
+|    | company   |                   |                                |
++----+-----------+-------------------+--------------------------------+
+
+> \* Partnership Firm should not have a HUF as partner. If HUF income is
+> being considered for eligibility computation approval from ZCC needs
+> to be taken and amount needs to be disbursed in HUF Account. Else
+> approval from NCC is required.
+>
+> Deviations to Income Ownership Matrix can be approved at NCM level or
+> above.
+>

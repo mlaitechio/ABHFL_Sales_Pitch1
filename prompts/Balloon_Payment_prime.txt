@@ -1,0 +1,58 @@
+Balloon Payment
+
+
++--------------+-------------------------------------------------------+
+| > Parameter  | > Norm Description                                    |
++==============+=======================================================+
+| > Type of    | > Term Loan -- Allows customer to pay lower EMI       |
+| > Facility   | > during the tenure of the loan & makes a lump        |
+|              | >                                                     |
+|              | > sum payment at the end of the period which is up to |
+|              | > 20% of principal loan outstanding                   |
++--------------+-------------------------------------------------------+
+| > Loans      | > Borrowers expecting lump sum payout from long term  |
+| > applicable | > investments                                         |
+| > for        |                                                       |
+|              | -   Self Employed customers (having long term         |
+|              |     > investments with lock-in period)                |
+|              |                                                       |
+|              | -   Salaried customers with long term ESOPs or cash   |
+|              |     > outs                                            |
++--------------+-------------------------------------------------------+
+| > Customer   | > Prime                                               |
+| > segment    |                                                       |
++--------------+-------------------------------------------------------+
+| > CIBIL      | > 730 & above / NTC                                   |
+| > Norms      |                                                       |
++--------------+-------------------------------------------------------+
+| >            | > Financial based eligibility methods only            |
+|  Eligibility |                                                       |
+| > Method     |                                                       |
++--------------+-------------------------------------------------------+
+| > Tenure     | -   Up to 240 months for Self employed                |
+|              |                                                       |
+|              | -   300 months for Salaried customers                 |
++--------------+-------------------------------------------------------+
+| > Age norms  | > As per product program                              |
++--------------+-------------------------------------------------------+
+| > Banking    | > Latest 12-month bank statement of main operating    |
+| > norm       | > account                                             |
++--------------+-------------------------------------------------------+
+| > Rate of    | > Floating rate of interest linked to ABHFL Reference |
+| > Interest   | > rate (ARR)                                          |
++--------------+-------------------------------------------------------+
+| > LTV        | > As per RBI norms                                    |
+| > applicable |                                                       |
++--------------+-------------------------------------------------------+
+| > FOIR norms | > As per product program (FOIR to be calculated on    |
+|              | > current Net Income)                                 |
++--------------+-------------------------------------------------------+
+| > Other      | -   No deviations allowed                             |
+| > norms      |                                                       |
+|              | -   Document related to balloon related repayment     |
+|              |     > capability i.e. Long term investment receipt,   |
+|              |     > ESOP letter, etc to be documented in file       |
++--------------+-------------------------------------------------------+
+| > Program    | > Overall portfolio not exceeding 250 Crs of loan     |
+| > Review     | > outstanding                                         |
++--------------+-------------------------------------------------------+

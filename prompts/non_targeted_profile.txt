@@ -287,5 +287,3 @@
         "Informal": "Caution"
     }
 ]
-
-Must Provide details of all segment in response for that Profile.

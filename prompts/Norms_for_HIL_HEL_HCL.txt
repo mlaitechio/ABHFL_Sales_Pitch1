@@ -1,0 +1,42 @@
+[Norms for HIL/ HEL / HCL Products]{.underline}
+
+
++---------------+------------------------------------------------------+
+| [Norms        | > [Description]{.underline}                          |
+| ]{.underline} |                                                      |
++===============+======================================================+
+| LTV           | -   LTV not to exceed 100% on the Extension /        |
+|               |     Improvement Cost (prepared by a Chartered        |
+|               |     Engineer Architect/ Civil Contractor and as      |
+|               |     verified by our panel valuer)                    |
+|               |                                                      |
+|               | -   LTV on the total property not to exceed the LTV  |
+|               |     mentioned above                                  |
++---------------+------------------------------------------------------+
+| Estimation    | > Estimation cost should be certified by the ABHFL   |
+|               | > empanelled technical Valuer and also               |
+|               | >                                                    |
+|               | > the engineer / architect / civil contractor        |
+|               | > performing the construction                        |
++---------------+------------------------------------------------------+
+| Disbursement  | -   Disbursement to happen as per the level of the   |
+|               |     construction in extension/ construction loans    |
+|               |     and improvement work in Improvement Loans as per |
+|               |     actual invoice raised                            |
+|               |                                                      |
+|               | -   For disbursement, applicant to raise the         |
+|               |     requirement based on the invoice of the          |
+|               |     engineer/ contractor /architect/ interior        |
+|               |     designer.                                        |
+|               |                                                      |
+|               | -   Disbursement to happened directly in the account |
+|               |     of the engineer / contractor who is carrying out |
+|               |     the work.                                        |
+|               |                                                      |
+|               | -   In case the amount has been paid by the          |
+|               |     applicant to the contractor, this amount needs   |
+|               |     to be repaid at the end of the tranche of        |
+|               |     construction to the applicant.                   |
+|               |                                                      |
+|               | -   Any Deviation at RTM/ZCM level                   |
++---------------+------------------------------------------------------+

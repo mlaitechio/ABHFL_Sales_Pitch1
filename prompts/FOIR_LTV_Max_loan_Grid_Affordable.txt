@@ -1,0 +1,227 @@
+[FOIR-LTV & Max loan Grid]
+
++----------+-------------------+------+-------+----------+----------+
+| Income   | LTV               |      |       | > FOIR / | Product  |
+| Eli      |                   |      |       | > NPV^A^ | Cap      |
+| gibility | (For Type I and   |      |       |          |          |
+| Method   | II)               |      |       |          |          |
++==========+===================+======+=======+==========+==========+
+|          | Home Loan         | LA   |       |          |          |
+|          |                   | P/CP |       |          |          |
++----------+-------------------+------+-------+----------+----------+
+|          |                   | Resi | Comm  |          |          |
++----------+-------------------+------+-------+----------+----------+
+| Salary   | Loan Amount       | 70%  | 60%   | 70%^B^   | All      |
+| Income   |                   |      |       |          | Products |
+|          | \<= 30 Lakhs --   |      |       |          | Amount   |
+|          | 90%               |      |       |          | \< 50    |
+|          |                   |      |       |          | Lakhs or |
+|          | \>30 Lakhs \<=75  |      |       |          | as       |
+|          | Lakhs -- 80%      |      |       |          | guided   |
+|          |                   |      |       |          | by       |
+|          | \>75 Lakhs -- 75% |      |       |          | location |
+|          | (As per           |      |       |          | specific |
+|          | regulatory)       |      |       |          | limits   |
+|          |                   |      |       |          | w        |
+|          | Plot and P+C LTV  |      |       |          | hichever |
+|          | as per PP-R       |      |       |          | is lower |
+|          |                   |      |       |          |          |
+|          | and PHCL Product  |      |       |          |          |
++----------+-------------------+------+-------+----------+----------+
+| Cash     |                   | 70%  | 60%   | 80%      |          |
+| Profit   |                   |      |       |          |          |
+| Method   |                   |      |       |          |          |
+| (CPM)    |                   |      |       |          |          |
++----------+-------------------+------+-------+----------+----------+
+| Average  |                   | 65%  | 55%   | Refer    |          |
+| Banking  |                   |      |       | Program  |          |
+| Program  |                   |      |       |          |          |
++----------+-------------------+------+-------+----------+----------+
+| Mortgage |                   | 70%  | 60%   | Refer    |          |
+| Turnover |                   |      |       | Program  |          |
++----------+-------------------+------+-------+----------+----------+
+| Assessed |                   | 70%  | 60%   | 60%      |          |
+| Income   |                   |      |       |          |          |
+| Program  |                   |      |       |          |          |
++----------+-------------------+------+-------+----------+----------+
+| Low LTV  | 50% of Market     | 35%  | 35%   | Refer    |          |
+|          | Value             |      |       | Program  |          |
++----------+-------------------+------+-------+----------+----------+
+
+> *Note:*
+
+1.  LTV% is based on Realizable Value or Documented Value (DV) whichever
+is lower, wherein Documented Value = Sale Deed / Agreement to Sale +
+Builder Charges (i.e. Society Charges / Parking Charges etc.) +
+Construction Agreement
+
+> \+ Land Development Agreement (for Plot + Construction cases only) +
+> Amenities / Furniture & Fixtures Agreement
+>
+> / Extra work etc. LTV grid as defined above. For BT and BT + Top Up
+> cases, LTV will be basis market only.
+
+2.  For Home Loan cases, where loan amount is upto 10 lakhs, Stamp Duty
+and Registration charges can be added in above mentioned Documented
+Value (as per prevailing regulatory norms)
+
+3.  ^A^Applicable LTV for vacant properties is 5% lower than applicable
+LTV on LAP Products (This Clause is not applicable for purchase
+transaction). However Vacant Property can't be funded in any
+surrogate programs listed above under para "Underwriting
+Approaches".
+
+4.  For Home Loans
+
+a.  LTV for purchase of property for investment purpose as
+> determined by local risk can be reduced by 5%.
+
+b.  LTV is subject to the Product specific LTVs as, mentioned below
+> in product specific norms.
+
+c.  Insurance component to be booked as separate loan under Non-Home
+> Loan
+
+5.  ^B^Slab Wise FOIR Applicable for Salaried Customers (including ABG
+> staff) as defined below
+
+> FOIR will be calculated on Annual Net Income as mentioned in Salary
+> Slip / Salary certificate as below
+
+-----------------------------------------------------------------------
+Net Income Levels                                      FOIR
+------------------------------------------------------ ----------------
+Eligible income less than INR 5 lakhs                  60%
+
+Eligible income greater than 5 lakhs but less than     65%
+INR12 lakhs
+
+Eligible income greater than 12 lakhs but less than    70%
+INR 24 lakhs
+
+Eligible income greater than 24 lakhs                  75%
+-----------------------------------------------------------------------
+
+> [Max Loan Amount Grid -- Pragati HL]{.underline}
+
+1.  HL (Applicable for Type II / III / IV collaterals)
+
++---+--------------+-------+-------+-------+-------+-------+-------+
+|   |              | > HL  |       |       |       |       |       |
+|   |              | > Pro |       |       |       |       |       |
+|   |              | perty |       |       |       |       |       |
+|   |              | >     |       |       |       |       |       |
+|   |              |  Type |       |       |       |       |       |
+|   |              | > (A  |       |       |       |       |       |
+|   |              | mount |       |       |       |       |       |
+|   |              | > in  |       |       |       |       |       |
+|   |              | > INR |       |       |       |       |       |
+|   |              | > L   |       |       |       |       |       |
+|   |              | akhs) |       |       |       |       |       |
++===+==============+=======+=======+=======+=======+=======+=======+
+|   | Loan Amount  | Type  |       | Type  |       | Type  |       |
+|   | (in Lakhs)   | II    |       | III   |       | IV    |       |
++---+--------------+-------+-------+-------+-------+-------+-------+
+|   |              | Cat   | >     | Cat   | >     | Cat   | >     |
+|   |              | A+/A  | Other | A+/A  | Other | A+/A  | Other |
+|   |              |       | >     |       | >     |       | >     |
+|   |              |       |  loca |       |  loca |       |  loca |
+|   |              |       | tions |       | tions |       | tions |
++---+--------------+-------+-------+-------+-------+-------+-------+
+| > | Bank         | 1     | 1     | 1     | 75.00 | 50.00 | 30.00 |
+|   | Salaried     | 50.00 | 00.00 | 00.00 |       |       |       |
+| Eligibility Method |              |       |       |       |      | 
++---+--------------+-------+-------+-------+-------+-------+-------+
+|   | Cash Profit  | 1     | 1     | 1     | 75.00 | 50.00 | 30.00 |
+|   | Method       | 50.00 | 00.00 | 00.00 |       |       |       |
++---+--------------+-------+-------+-------+-------+-------+-------+
+|   | Surrogate    | 1     | 1     | 1     | 75.00 | 50.00 | 30.00 |
+|   | Program      | 50.00 | 00.00 | 00.00 |       |       |       |
++---+--------------+-------+-------+-------+-------+-------+-------+
+|   | CM Assessed  | 75.00 | 50.00 | 50.00 | 30.00 | 30.00 | 30.00 |
+|   | Income       |       |       |       |       |       |       |
++---+--------------+-------+-------+-------+-------+-------+-------+
+|   | Cash         | 15.00 |       |       |       |       |       |
+|   | Salaried     |       |       |       |       |       |       |
++---+--------------+-------+-------+-------+-------+-------+-------+
+
+> [LTV Grid: HL]{.underline}
+
++------+----------------+-------+--------+----------+----+-----------+
+| Pro  | Income Program | >     | > Type | Type III | Ty | Special   |
+| duct |                |  Type | > II   |          | pe | C         |
+|      |                | > I   |        |          | IV | ollateral |
++======+================+=======+========+==========+====+===========+
+| Pra  | Formal /       | NHB   |        | NHB norm | 7  | NA        |
+| gati | Surrogate      | LTV   |        | -5%      | 0% |           |
+| HL   | Income         |       |        |          |    |           |
++------+----------------+-------+--------+----------+----+-----------+
+|      | Assessed       | NHB   |        | 70%      | 6  | NA        |
+|      | Income         | LTV   |        |          | 0% |           |
++------+----------------+-------+--------+----------+----+-----------+
+
+> Regulatory LTV (In line with RBI Master Directions)
+
+-   upto 30 lacs -- 90% of COP or RV
+
+-   30- 75 lacs -- 80% of COP or RV
+
+-   75 Lacs + - 75% of COP or RV [Micro LAP -- LTV Grid (Vacant not
+allowed)]{.underline}
+
++-------+------+------+-------+--------+-------+--------+-----+------+
+| >     | Type | Type | >     | > Type | >     | > Type | S   | Spe  |
+| Micro | II   | II   |  Type | > III  |  Type | > IV   | pec | cial |
+| > LAP | --   | --   | > III | > --   | >     | > --   | ial | Col  |
+| >     | R    | Comm | > --  | >      |  IV - | >      | Co  | late |
+| > \-  | esid | erci | > Res | Commer | > Res | Commer | lla | rals |
+| > LTV | enti | al\* | ident | cial\* | ident | cial\* | ter | --   |
+| >     | al\* |      | ial\* |        | ial\* |        | als | Comm |
+|  Grid |      |      |       |        |       |        | --  | erci |
+|       |      |      |       |        |       |        |     | al\* |
+|       |      |      |       |        |       |        | R   |      |
+|       |      |      |       |        |       |        | esi |      |
+|       |      |      |       |        |       |        | den |      |
+|       |      |      |       |        |       |        | tia |      |
+|       |      |      |       |        |       |        | l\* |      |
++=======+======+======+=======+========+=======+========+=====+======+
+| > F   | 70%  | 65%  | 60%   | 55%    | 55%   | 50%    | 55% | 50%  |
+| ormal |      |      |       |        |       |        |     |      |
+| > I   |      |      |       |        |       |        |     |      |
+| ncome |      |      |       |        |       |        |     |      |
++-------+------+------+-------+--------+-------+--------+-----+------+
+| > Ass | 65%  | 60%  | 55%   | 50%    | 50%   | 45%    | 50% | 45%  |
+| essed |      |      |       |        |       |        |     |      |
+| >     |      |      |       |        |       |        |     |      |
+| > /   |      |      |       |        |       |        |     |      |
+| >     |      |      |       |        |       |        |     |      |
+|  Surr |      |      |       |        |       |        |     |      |
+| ogate |      |      |       |        |       |        |     |      |
+| > I   |      |      |       |        |       |        |     |      |
+| ncome |      |      |       |        |       |        |     |      |
++-------+------+------+-------+--------+-------+--------+-----+------+
+
+> \*To be booked under Micro LAP only
+>
+> [Note:]{.underline}
+
+1.  Applicable LTV for vacant properties is 5% lower than applicable LTV
+> in LAP products. However, vacant property can't be funded in any
+> surrogate programs listed above under para "Underwriting
+> Approaches".
+
+2.  Plot LAP LTV to be restricted to 50% for residential plot and 40%
+> for commercial plot (applicable for type I & type II properties).
+
+3.  Plot LAP is not applicable to type III & type IV properties.
+
+| **Income Eligibility Method** | **FOIR / NPV** | **Max Loan Amount**                          |
+| ----------------------------- | -------------- | -------------------------------------------- |
+| Cash Profit Method (CPM)      | 80%            | All Products                                 |
+| Gross Turnover                | 65%            | All Products Amt < 15 Cr                     |
+| Gross Receipts                | 65%            | All Products Amt < 10 Cr                     |
+| Gross Profit                  | 60%            | Home Loan Amt < 10 Crs & Others Amt < 7.5 Cr |
+| Average Banking Program       | 60%            | All Products Amt < 5 Cr                      |
+| Low LTV                       | Refer Program  | All Products Amt < 3 Cr                      |
+| Pure Rental Program           | 60%            | All Products Amt < 2 Crs                     |
+| LRD                           | Refer Program  | Refer Program                                |

@@ -87,6 +87,6 @@ PRIME HL Pricing Grid:
 - Any deviation in Collateral to be booked in Pragati Plus HL & Pragati HL.
 
 ### Deviation Grid & Floor rates :
-    Salaried/SEP: 8.25%
-    SENP – CPM: 8.40%
-    SENP – Surrogate: 9.25%
+    Salaried/SEP: 8.50%
+    SENP – CPM: 8.65%
+    SENP – Surrogate: 9.50%

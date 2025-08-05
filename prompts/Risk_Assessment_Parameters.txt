@@ -1,0 +1,463 @@
+Risk Assessment Parameters:
+
+=============================
+
+Filters are defined based on below mentioned parameters which forms the
+basis for selection of the borrower.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Norm*                        *Description*
+----------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Facility Type                 Secured backed by mortgage created on Collateral
+
+***Age Norms***
+
+Minimum Age                   25 years (could be 18 years where non-individual entity is a party to the loan)
+
+Maximum Age                   -   **Salaried**: 60 years or retirement age whichever is earlier
+
+*(at the end of tenure)*      -   **Self Employed**: 70 years (65 years for Pragati Aashiyana Seg 2 & Micro LAP)
+
+Applicability                 Maximum age norms are applicable for applicants/ co-applicants whose income is being considered.
+
+-   For salaried customer, age norms are applicable if income is considered in arriving at eligibility.
+
+-   For self-employed customer, age norms are applicable where non-individual entity is not a co-applicant. In case where non-individual entity is a co-applicant and is taken as a party to the loan, maximum age restriction would not be applicable. Or
+
+-   In the event of at least 1 co-applicant (individual) being within age norms and is involved in business, then maximum age restriction would not be applicable for SENP customers
+
+Age norm for Property owner   Max age of property owner: 80 years,
+
+*(at the end of tenure)*      For owner age >80 years, to be done with deviation and all legal heirs coming as co-applicants / notarized NOC to be taken
+
+Applicant                     -   Whose Income is considered and is the Owner of the Property to be taken as applicant where applicable
+
+-   Applicant needs to be the individual/non-individual entity whose Income is being considered.
+
+Co-Applicant / Guarantors     -   Could be Individual or Non-Individual Entity or both
+
+-   All Owners of the property are to be taken as Co-Borrowers/ Co-Applicants
+
+<!-- -->
+
+-   In case of partnership firm, all partners are to be the co-applicants in addition to the partnership firm.
+
+-   In case of a company, the company should come in as co-applicant along with its promoters and directors such that combined shareholding is not less than 51%. Separate norms are applicable in case of listed public limited companies.
+
+<!-- -->
+
+-   All individual/ entities whose Income is being considered should come in as co-applicant.
+
+<!-- -->
+
+-   In the event of proportionate income / obligation being considered and non-individual entity is not taken on the loan.
+
+-   For considering 100% income of a company, the company should come in as co-applicant along with its promoters and directors such that combined shareholding is not less than 51%. Separate norms are applicable in case of listed public limited companies.
+
+-   For considering 100% income of a partnership firm, firm should come in as co-applicant along with majority shareholders as co-applicant and NOC from the remaining shareholders.
+
+<!-- -->
+
+-   Co applicant/s is/are required in all cases (Such person should be blood relative/spouse of any of the applicant in case of individual entity)
+
+-   In cases where no blood relative is available, external person can be taken as co-applicant. Where no co- applicant is available, full life insurance covering the entire loan tenure is to be assigned to Aditya Birla Housing Finance Limited (included in LTV) –
+
+-   Income consideration should be as per Income Ownership Matrix
+
+Pension Income                -   Pension Income can be considered up to age of 70 years **(Case should not be appraised on Pension Income only)**
+
+-   Pension Income can be considered maximum up to 35% of Fixed Gross Monthly Income.
+
+
+*Norm*                                                        *Description*
+
+Geo-Limit Definition                                          All ABHFL locations for customer & property. For new locations, geo limits will be approved by PAC committee before start of business for that location.
+
+-   The loan application can be logged in at a location where at least two of the norms below are meeting.
+
+-   Residence of applicant within geo limit or Applicant’s immediate family (which may include Parents/Spouse or children) are staying within the geo limits of the branch and are taken on loan structure.
+
+-   Employment of location of financial applicants is within the geo limit.
+
+-   Property to be financed /mortgaged is within geo limits.
+
+**Property Location**
+
+-   Property to be funded needs to be located within municipal limits or UDA (Urban Development Authority) limits or Gram Panchayat limits of the city
+
+-   Property to be mortgaged should not be in the “caution / restrictive area” as defined for each city/location.
+
+**Applicant / Co-applicant Location**
+
+-   Residential and office address should be in ABHFLs defined locations whose income is being considered deviation at **RCM level subject to Resi/Office falls within defined geo-limits. In case, both are outside geo-limits, ZCM approval** (As per Absolute Authority Power)**.**
+
+-   Residence / Office should not fall in negative /restrictive list.
+
+ABG staff cases wherein property is located in ABHFL operating locations however the customer is based out of geo limit (Remote plant locations), these additional checks need to be performed-
+
+-   Letter from HR/supervisor confirming employment status.
+
+-   Alternate email id to be captured on application form.
+
+Property ownership                                            -   Properties can be owned by Individual, Registered Partnership firms, Companies and LLPs.
+
+-   Loans where property is owned by non-registered partnership firms all partners are to be taken as co-borrowers to the loan in their individual capacities.
+
+Property Age                                                  -   Maximum age of property can be 60 years at loan maturity subject to valuer certifying the residual age of property. The loan tenor cannot exceed the residual age of the property.
+
+-   For properties not meeting above criteria, a structural stability report can be requested from the valuer to confirm residual age of the property basis the structural condition of the building. The Loan tenor in such cases too cannot exceed the residual age as confirmed by the valuer.
+
+Concentration Risk                                            As covered in the APF / Builder approval policy
+
+Valuation for APF cases                                       -   Under Builder Purchase transactions, for loans up to INR 2 Crs, only 1 internal valuation. As defined in updated in APF Note applicable.
+
+Valuation for non-APF cases (Direct builder purchase cases)   -   One Valuation from empanelled vendor who have verified Sanction Plan and other documents. (Non-APF to be processed with approval of ZCM (As per Absolute Authority Power)– as defined in APF Policy applicable)
+
+Valuation for other cases                                     -   1 Valuation from the empanelled Valuer for Loan amount below 50 Lakhs.
+
+-   2 Valuation in case of loan amount INR 50 lacs to &lt; INR 75 lacs, 1 valuation is mandatory from panel vendors and second desktop valuation can be taken by internal technical team for base location where RTM is available. The lower of the two valuations shall be considered for deciding upon the loan amount.
+
+-   In case the loan amount is &gt;= INR 75 lacs or above, team shall necessarily obtain minimum two independent valuation reports from empanelled valuer and the lower of the two shall be considered for deciding upon the loan amount.
+
+-   In case of difference between two valuations being more than 15%, third valuation has to be triggered & lower of only those two valuations (from three) to be considered where the difference in valuation is least and less than or equal to 15%. Third valuation is not required if the lower valuation suffices the loan amount requested.
+
+Legal Clearance                                               -   Satisfactory legal / title report from empanelled lawyers.
+
+-   Sole and First charge on property
+
+-   Mortgage by deposition of title deed and taking POA, Equitable Mortgage/Registered Mortgage where specific legal opinion warrants the same.
+
+-   **In case of document deficiency:**
+
+<!-- -->
+
+-   **in N: NCM approval**
+
+-   **N-1: ZCM approval** (As per Absolute Authority Power)
+
+-   **N-2 onwards: RCM approval.**
+
+<!-- -->
+
+-   **Cases where documents are lost require NCM** or above approval. Further, below mentioned documents need to be collected for acceptance of the recreated Documents:
+
+<!-- -->
+
+-   First Information Report (FIR)
+
+-   No trace certificates
+
+-   No claim certificate and
+
+-   Two paper advertisements
+
+Legal & Technical                                             -   Legal and Technical are mandatory before disbursement for all cases.
+
+-   Legal and Technical reports are not required for initial purchase of a residential dwelling unit from a State Housing Board/Municipal Corporation/ Developmental Authority or other public agencies.
+
+-   Sanction can be issued subject to legal and technical, including where property has not yet been identified. However, in such cases default product LTV has to be adhered to
+
+Sanction Plan                                                 -   Sanction Plan / Completion certificate or Occupancy Certificate (OC) is Mandatory in all the cases
+
+-   In case of non-availability of the Sanction Plan / Completion certificate or Occupancy Certificate (OC) valuer has to ascertain compliance of the construction / property with local municipal construction rules/ bye laws and certify same as part of valuation report.
+
+<!-- -->
+
+-   Properties without sanction plan / Completion certificate or Occupancy Certificate (OC) or any concern; valuer shall release the report with comment by considering area as per permissible limit for valuation purpose (to be verified & documented by technical agency in report) can be approved by RTM/NTM.
+
+Seller BT                                                     Seller BT loan proposals to be done as per process rolled out – in case of any deviation from the norm at ZCM level. (As per Absolute Authority Power)
+
+Semi Fixed rate                                                 **Product**           **Fixed Tenure**   **Additional rate over existing ROI**
+--------------------- ------------------ --------------------------------------------
+Pragati Ashiyana HL   2 yrs              Rate as in when rolled out by product team
+3 yrs
+5 yrs
+Micro LAP             2 yrs
+3 yrs
+5 yrs
+
+1.  **Semi fixed tenure:** Rate of Interest will remain fixed for 2 years or 3 years or 5 years depending on product availability and / or customer request from the date of disbursement till the specified tenure under this scheme.
+
+2.  **Semi Fixed Loan Extension Facility: **
+
+a.  Customers have a choice to extend the semi fixed tenure by bearing applicable conversion charges.
+
+b.  Semi Fixed product extension to be allowed maximum 3 times during life of active loan.
+
+Tenure                                                        > LAP
+
+Home Loans
+
+***Loan Amount***
+
+Minimum Loan Amount                                           INR 5 lacs
+
+Maximum Loan Amount                                           Maximum exposure will be capped to lower of the following:
+
+-   Max. eligibility as per lending norms.
+
+-   Max single borrower limits as per NHB guidelines.
+
+-   Max permissible exposure at a project and developer level.
+
+-   Product / Eligibility Program level maximum loan amount caps.
+
+-   Branch level capping as shared by risk team.
+
+Norms on Furniture & Fixture (F&F) / Amenities                Amenities agreement /F&F is executed to cover the amenities cost / Improvement or extra work/ other cost incurred by the borrower in addition to his consideration cost in sale agreement.
+
+-   In **Home Loan**, Furniture & Fixture (F&F) /Extra Work Agreement or Amenities can be considered up to 200% of Sale Deed/ Agreement to Sale
+
+-   Amenities agreement can be applicable for Resale cases and to be executed between Borrower and Seller/contractor. Refer detailed guidelines.
+
+-   F&F can be applicable for Builder Purchase transaction for ready properties only
+
+-   PAN card of the contractor to be collected in cases wherein payment is going to the contractor towards amenities / F&F Agreement
+
+-   No separate account to be opened for funding towards the same
+
+Mortgage Guarantee (MG) Product Offering                      -   Any loan with Mortgage Guarantee product can be processed by respective approving authority.
+
+-   Separate LAN to be created if MG premium is being funded
+
+Nationality                                                   Indian Resident
+
+Residence Stability (Years in location)                       Minimum 1 year for all Applicant and Co-Applicants whose income is being considered.
+
+Business / Service Continuity                                 -   **Salaried:** Minimum 3years overall experience and 6 months in current organization.
+
+-   **Professional/ Self Employed**: Minimum 3 years overall experience with 24 months in current business& location. In case of LAP and Home loan with loan amount greater than INR 30 lacs minimum vintage in business should be 3 years
+
+References                                                    > 2 references are mandatory for all cases.
+
+Negative Segments                                             > Borrower should not fall in the negative profile list as defined in the annexure
+
+ROC Search                                                    > Mandatory where a Company or LLP firm is a borrower / co-borrower and property mortgaged is of the company to check if any charge is created on the property.
+
+TRC (Trade reference Checks)                                  > Satisfactory, wherever applicable
+
+Clubbing of income                                            -   Clubbing of income can be considered as per Income-Ownership Matrix defined in the annexure
+
+-   In a given proposal, only 1 income eligibility approach (as defined above) can be adopted – NOGO.
+
+<!-- -->
+
+-   However, this restriction wouldn’t be applicable in case of Salaried (vanilla income approach) and Self-Employed income being clubbed.
+
+CIBIL norms                                                   > *CIBIL Score*
+>
+> Min CIBIL score of ***all financial applicants*** to be as follows:
+>
+> Pragati Aashiyana (Segment 1) - &gt;= 650 + NTC
+>
+> Pragati Aashiyana (Segment 2) - &gt;= 700 + NTC
+>
+> Micro LAP - &gt;= 700 + NTC
+
+-   In case of BT, min CIBIL score of &gt;=700, NTC (0, -1, &lt;200) for SENP & &gt;= 675, NTC (0, -1, &lt;200) for Salaried / SEP customers
+
+-   All cases with CIBIL score less than defined score bands to be rejected upfront at point of login.
+
+> *No of Enquiries*
+
+-   Loan enquiries in recent 3 months should be 7 or less (excluding Credit Cards/ Auto loan)
+
+>
+>
+> **Note:** In case of multiple enquiries the credit manager should speak to the customer and try to find out the reason of such multiple loan enquiries. The institution details can be extracted through CIBIL and independent market ref checks should also be done in these cases. – Best effort basis
+>
+> *DPD*
+>
+> No DPD should be there in any account in latest 12 months. As per deviation matrix
+>
+>
+>
+> *For Loan Matches *
+
+-   No SF/WO/SMA/SUB/DBT/LSS status cases in latest 12 months
+
+-   Overdue/WO Amount up to INR 25,000 which is more than 3 years old should not be considered as deviation subject to other loan tracks available for minimum 12 months during the last 3 years.
+
+-   For Overdue/ WO amount more than INR 25,000 but less than 10% of total running credit can be approved at ZCC level else
+
+> **For Credit Card matches**
+
+-   Any write off (w/o) case happened in the card prior to 3 years can be ignored, i.e. w/o date to be 3 years old. For recent w/o approval of RCC is to be taken if amount of w/o is less than INR 25,000. This is assumed on account of some service issue with documented proof. While exercising powers emphasis needs to be paid on ensuring that the applicant has any one loan track or Credit Card for the last 12 months with clean repayment track record.
+
+RTR                                                           -   12 months RTR is required where CIBIL reflects any DPD.
+
+-   For STD, XXX in CIBIL - credit needs to check banking statements for regular debits, however where unavailable, RTR will be required. For STD / XXX cases, RCM to exercise discretion on where RTR is required.
+
+-   Case specific RTR/ SOA could be asked based on case by Credit Manager
+
+Other Mandatory Checks                                        -   Applicant, co-applicant and guarantor
+
+<!-- -->
+
+-   Should not appears in ABHFL Defaulter List
+
+-   Should not appears in Regulator Negative List *(if available)*/ Wilful Defaulters’ List of CIBIL.
+
+-   Should not have any adverse remarks against the Firm/Company, and/or against any of its Promoter in [www.watchoutinvestors.com](http://www.watchoutinvestors.com)
+
+<!-- -->
+
+-   Should have never undergone CDR/BIFR/OTS/Restructuring with any Bank (Other than COVID restructuring)/Financial Institution/NBFC/Financier.
+
+End Use Declaration Letter (For Top up and LAP cases)         -   Not required in all the cases wherein the payment is being directly released to builder/architects/seller of the property.
+
+-   Not required in BT cases wherein the payment is being directly released to the BT institution.
+
+-   Mandatorily to be taken in all the cases when cash-out is being given to the applicant directly. Format enclosed as a part of Loan agreement
+
+Bureau Scorecard                                              -   Decile Score Policy to be referred as per annexure (to be updated separately as per rolled out by risk team from time to time)
+
+
+*Norm*                                 *Description*
+
+Validity                               FI
+
+CIBIL
+
+Technical
+
+Legal & Search Report
+
+Sanction Letter
+
+Field Investigation (FI)               -   FI of all borrowers is mandatory for Residence/office both
+
+-   App FI report needs to be positive/satisfactory
+
+-   In case FI report is refer case to be processed with deviation at ACM level with required mitigants. In case of negative FI, case can be processed with deviation at RCM or above level with mandatory ABHFL employee visit with visit report along with photos are **documented **
+
+-   FI Waiver for Defence Personnel and ABG employee can be approved by RCM subject to ABHFL employee to meet applicant and verify his Original I-Card.
+
+-   Waiver as per the FI waiver policy of the company as per annexure
+
+Personal Discussion (PD)               -   Mandatory for all cases and PD to be held at main operating office or factory, in case PD held at office then factory/warehouse visit is **mandatory (RCM discretion on PD location for outstation factory). **
+
+-   In case of Salaried customer, Tele-PD is permissible.
+
+-   In case of cash salaried physical PD is mandatory.
+
+-   Video PD/Vendor PD norms as rolled out by risk team.
+
+Consideration of Other Obligations     -   All Loans maturing within 12 months from the date of application not to be considered as obligation.
+
+-   Credit Card usage of up to 3 lacs, if usage is &gt; 3 Lacs than after deducting 10% of usage total amount divided by 12 to be considered as obligation.
+
+-   KCC loans interest.
+
+-   Interest obligations on Working Capital/Overdraft facilities need not be considered for income add-back or for obligation.
+
+-   Interest expense of loans being taken over/ closed through disbursal/ closed during the period of the P&L under consideration should be added back.
+
+-   Where repayment on term loans is not monthly but quarterly, average of last two quarters repayment to be taken and then monthly obligation to be calculated.
+
+-   For term loans where there is a moratorium on principal repayment (payment holiday), entire loan principal and interest amount (as per loan sanction letter) divided by the tenure of the loan to be taken as monthly obligation.
+
+-   Customer should not have 2 active home loan at the time of sanction by ABHFL. (Applicable for Home Loan only). In case more customers has two 2 active home loan, the proposed loan to be booked as HL CRE. (refer CRE norms in annexure)
+
+Closure of Other Obligation            Maximum up to 3 loans
+
+**Delegation:** up to 5 loans – RCM, Greater than 5 loans – ZCM (AS PER ABSOLUTE AUTHORITY POWER);
+
+**Loan Type:** If there are more than 2 property loans are being closed case needs to be approved at ZCM (AS PER ABSOLUTE AUTHORITY POWER) level.
+
+Same facility disbursed under multiple accounts to be considered as 1. For example, BT + Top-up on same property
+
+Bank Statement Norm                    **Salaried**: 6 months’ bank statement from salary A/C reflecting the salary credits
+
+**SEP/SENP**: 6 months bank statement for all programs except banking program where 12 bank statement is required.
+
+Additional requirement at Credit Managers discretion.
+
+ABB                                    ABB/ EMI should be ≥ 0.75 time (only for surrogate programs unless mentioned in the program)
+
+Bounce Norm                            -   Inward and outward Cheque returns capped at 2% or 10 cheque whichever is lower in latest 6 months. EMI bounces to be cleared within 30 days from the date of the bounce – discretion approval at RCC level and above
+
+-   Above calculations will exclude bounces on account of technical reasons as proven through availability of sufficient balances in the account on the same day or appropriate written clarifications from bank confirming technical bounces
+
+Balance Transfer Guidelines            -   Complete outstanding including pre-closure charges if applicable, can be funded in a BT, if the current outstanding schedules (or pre-closure letter) along with penal charges are documented. In case of Self declaration for eligibility purposes, outstanding loan to be considered. Credit to validate calculation while funds are to be released based on the pre-closure statement only. Foreclosure letter should not be more than 2 months old at time of disbursement.
+
+-   Cash out component, if any, will be released in favour of the customer only on closure of the BT and receipt of all property documents as per LOD.
+
+-   BT cases where title documents are pending at the Registrar’s office. – NOGO
+
+-   Seller BT transactions will need specific RCM approval and norms include Seller CIBIL as mandatory (CIBIL to be triggered only after receiving authorization form signed by seller and seller KYC), Seller contributions towards closure to be checked, ABHFL payment to Seller will happen post receipt of seller property papers and no dues letter of seller bank/FI etc.
+
+-   List of title documents (LOD) held by existing financier not more than 3 months old at time of disbursement.
+
+-   BT in under-construction cases can be considered for APF projects with RCM and for others ZCM or above approval only.
+
+LTV in BT + Top Cases for Home Loans     Scenario                                                             LTV to be Considered
+-------------------------------------------------------------------- -------------------------------------------------
+Top Up less than or equal to 20% of home loan disbursed amount\*\*   HL LTV is to be considered\*
+Top Up greater than 20% of home loan disbursed amount\*              LAP LTV is to be considered for entire exposure
+
+-   Top up should be booked as a separate loan and cross linked to the BT account.
+
+-   Any top up as defined above need to be booked as LAP in system.
+
+Top Up Norms                           -   Insurance/MG Premium funding will be over and above 20% Top Up amount.
+
+-   Top up loan can be offered only after MOB of 12 months (except BT + Top up cases)
+
+Cautious / Negative Property           -   Properties which fall in the negative area, as specified from time to time.
+
+-   Properties with non-approved usages, unauthorized colonies etc.
+
+-   Properties which fall in cautious/restricted list as mentioned in annexure.
+
+Any deviation at NCM level or above
+
+Property Insurance                     -   Property Insurance is applicable for all the cases which are considered for funding.
+
+-   In BT cases, existing policy copy to be retained in the file.
+
+-   Customer will have the choice of insurance provider.
+
+Refinance                              -   If the client has already acquired the property and has already made the payment to the seller, we cannot fund them under the category of Home loan, hence these cases will have to be classified under the category of non-Home loan only.
+
+Properties self-constructed by the customer which are now ready cannot be refinanced even if within last 12 months, since there cannot be proofs in terms of payment to seller. The same can however be done under the loans against property product.
+
+Method of Loan draw down               -   Payment to seller / builder
+
+-   Payment to other Bank /FI / Seller – in buy-over / debt consolidation / Seller BT cases
+
+-   Payment to customer in LAP cases
+
+-   Refinance as per norms specified above.
+
+-   Down payment / partial down payment and plans other than Construction/ Demand linked as per approved Builder / project norms.
+
+-   Specific Under-Construction Norms on OCR
+
+-   Disbursement would be made post full contribution of the Applicant.
+
+-   Parallel funding i.e. proportionate disbursal is allowed from 1st tranche onwards, in the ratio of LTV at origination with ZCM (AS PER ABSOLUTE AUTHORITY POWER) or above approval. *(For example*: For a INR 100 loan with a 60% approved LTV, and a disbursal requirement for INR 10, ABHFL would disburse INR 6 with customer bringing in the remaining INR 4)
+
+Own Contribution Receipt (OCR)         Customer OCR to be taken prior to ABHFL disbursement (Bank Statement reflecting OCR clearance to be provided). OCR paid through non-banking channel can be accepted up to 5% of total OCR or INR 25,000 whichever is lower with approval with RCM and up to 10% of total OCR or INR 50,000 whichever is lower with approval with ZCM.
+
+Method of Repayment                    -   EMI payments / Structured (*as introduced from time to time*)
+
+-   Under-construction Period i.e. PEMI period can stretch to a maximum of 36 months. In an event wherein the PEMI period is to be extended for more than 36 months NCC or above approval is required
+
+Repayment account                      -   For salaried cases - repayment must be taken from the salary a/c only. PF account & repayment account should be the same.
+
+-   For SEP/SENP - repayment must be taken from the main operating account as decided by Credit.
+
+Repayment Mode                         ABHFL would have NACH as the primary mode of repayment, in addition to direct salary debit for ABG employees (subject to internal approvals). The details under each process are detailed below:
+
+**ECS / NACH**
+
+-   Dully filled NACH Mandate.
+
+As per latest operation roll out for repayment instrument to be considered
+
+Other Norms                            -   Documentation to be in line with the KYC-AML Policy and Credit policy of the Company.
+
+-   Fees and other charges should be as prescribed in the Key Facts Statement and Most Important Terms & Conditions
+
+-   Relevant product / sub-product mapping, wherever applicable, to be carried out.

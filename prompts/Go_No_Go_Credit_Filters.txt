@@ -1,0 +1,108 @@
+[Go-No-Go Credit Filters]{.underline}
+
+
+> Self Employed Borrower to be eligible for credit facility must meet
+> the minimum Credit Filters as defined in table below. The Credit
+> Filters aim to set benchmark so that "all & sundry" Borrowers with
+> varying credit profile do not become eligible for credit facilities.
+> Normally, no funding is to be considered if the Borrower does not meet
+> one/more of the credit filters. However, in exceptional circumstances,
+> such credit proposals where Borrower is not meeting the Credit Filters
+> may be escalated to relevant credit committee for their consideration.
+
++----------------------------------+-----------------------------------+
+| Norm                             | Description                       |
++==================================+===================================+
+| Criteria                         | To be met for all the parties to  |
+|                                  | the loan                          |
++----------------------------------+-----------------------------------+
+| Credit History                   |                                   |
++----------------------------------+-----------------------------------+
+| Appears in ABHFL Defaulter List? | No                                |
++----------------------------------+-----------------------------------+
+| Appears in Regulator Negative    | > No                              |
+| List (UNSCR / Caution Advice     |                                   |
+| issued by NHB / such other       |                                   |
+| negative lists as may be shared  |                                   |
+| by RBI / NHB with ABHFL/Art      |                                   |
+| Housing)                         |                                   |
+|                                  |                                   |
+| or willful defaulter in Bureau?  |                                   |
++----------------------------------+-----------------------------------+
+| Has undergone                    | No                                |
+| CDR/BIFR/OTS/Restructuring with  |                                   |
+| any Bank/Financial               |                                   |
+| Institution/NBFC/Financier.      |                                   |
+| (Except accounts restructured    |                                   |
+| under OTR 1 & 2 guidelines of    |                                   |
+|                                  |                                   |
+| RBI) *Refer note below*          |                                   |
++----------------------------------+-----------------------------------+
+| Any adverse remarks against the  | Specific CIBIL Norms to be        |
+| Firm/Company, any of             | followed.                         |
+|                                  |                                   |
+| its Promoter in CIBIL report     |                                   |
++----------------------------------+-----------------------------------+
+| Any adverse remarks against the  | No                                |
+| Firm/Company, and/or against any |                                   |
+| of its Promoter in               |                                   |
+|                                  |                                   |
+| [[www.watcho                     |                                   |
+| utinvestors.com]{.underline}](ht |                                   |
+| tp://www.watchoutinvestors.com/) |                                   |
+| ?                                |                                   |
++----------------------------------+-----------------------------------+
+| Reference Checks                 |                                   |
++----------------------------------+-----------------------------------+
+| Satisfactory Contact Point       | Yes                               |
+| Verification (CPV) by ABHFL      |                                   |
+|                                  |                                   |
+| appointed agency for the purpose |                                   |
+| / by ABHFL Officer?              |                                   |
++----------------------------------+-----------------------------------+
+| Satisfactory Banker's Reference  | Yes (if applicable), Banker's     |
+| obtained?                        | Reference is discretionary        |
+|                                  |                                   |
+|                                  | however trade reference checks to |
+|                                  | be done. eviation to the same     |
+|                                  | could be approved at ZCC or above |
+|                                  | level                             |
++----------------------------------+-----------------------------------+
+| Satisfactory Trade References    |                                   |
+| obtained?                        |                                   |
++----------------------------------+-----------------------------------+
+
+> [Note:]{.underline} Any deviation at ZCM level or above
+>
+> *[CDR/BIFR/OTS/Restructuring cases]{.underline}*
+>
+> Companies/Firms who were defaulters in the past or who underwent
+> restructuring under CDR/BIFR/OTS or whose names were appearing in
+> RBI's defaulters' List, or who underwent any loan restructuring/OTS
+> with any Bank/FI/NBFC/Financier in the past, but have now regularized
+> payments and come out of the defaulters list/CDR list/BIFR
+> list/restructuring (and the account conduct is regular now) may be
+> considered for funding subject to the following conditions:
+
+-   Minimum 3 years must have elapsed from the date the firm/company has
+come out of restructuring/CDR/BIFR/OTS
+
+-   Account conduct must have been regular in last 3 consecutive years
+
+-   Availability of "No dues certificate" from
+lenders/Bank/FI/NBFC/Financier/CDR Cell, if applicable
+
+-   If the company had been restructured under RBI's CDR framework, a
+copy of the letter from CDR cell which states the CDR terms and
+conditions should be obtained. If the company has come out of CDR,
+the letter from the CDR cell stating the same should be obtained. If
+the liability to CDR lenders is not freeze by CDR cell, the same
+should be insisted upon. If any "recompense" amount is freeze,
+details of the same should be captured in proposal note
+
+-   Letter or certificate from RBI that Firm/Company is no more
+appearing under RBI's defaulters' List, if applicable
+
+-   Any company whose debt has been restructured in the past, but not
+meeting the above criteria should be referred to CBO-ABHFL and Head
+Risk - ABHFL

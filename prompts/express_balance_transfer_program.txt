@@ -124,3 +124,22 @@ Here’s the data in a clear tabular format:
 |                            | TSR                                   | Y                                      | Y                                    | Y                                 |
 |                            | Vetting                               | Y                                      | Y                                    | Y                                 |
 | Eligibility Method         | Min vintage for Balance Transfer <br> 1. < 11 MOB: BT allowed but no top-up allowed <br> 2. 11-18 MOB: BT allowed, max top-up up to 10% <br> 3. 18-24 MOB: BT allowed, max top-up up to 15% <br> 4. 24-36 MOB: BT allowed, max top-up up to 20% <br> 5. > 36 MOB: BT allowed, max top-up up to 30%. For Developer Under construction loan, only BT allowed post 90% construction completion <br> Top up to be offered only post 12 MoB completion
+
+List FI's for express BT
+
+
+| **Sr No** | **Financial Institution (FI)** |
+| --------: | ------------------------------ |
+|         1 | HDFC Bank                      |
+|         2 | ICICI Bank                     |
+|         3 | Axis Bank                      |
+|         4 | Kotak Mahindra Bank            |
+|         5 | SCB (Standard Chartered Bank)  |
+|         6 | HSBC                           |
+|         7 | SBI (State Bank of India)      |
+|         8 | Bank of Baroda                 |
+|         9 | Bank of India                  |
+|        10 | PUNJAB NATIONAL BANK           |
+|        11 | ICICI Home Finance Ltd         |
+|        12 | Tata Capital Housing Finance   |
+|        13 | PNB Housing Finance            |

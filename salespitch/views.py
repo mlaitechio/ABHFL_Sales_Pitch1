@@ -202,7 +202,11 @@ class ChatAPIView(APIView):
                     
                     # asyncio.set_event_loop(loop)
                     questions = replace_slashes(message)
-                    openai_response = iter_over_async(bot_instance.run_conversation(questions.lower()))
+                    if questions is not None and isinstance(questions, str):
+                        questions_lower = questions.lower()
+                    else:
+                        questions_lower = ""
+                    openai_response = iter_over_async(bot_instance.run_conversation(questions_lower))
 
                     for event in openai_response:
                         kind = event.get("event")
@@ -262,8 +266,17 @@ class ChatAPIView(APIView):
                         try:
                             # Try to get JSON response if possible
                             error_message = e.response.text
-                        except Exception:
-                            pass
+                        except Exception as response_error:
+                            logger.error(
+                                "Failed to extract response text from API error",
+                                extra={
+                                    'error_type': type(response_error).__name__,
+                                    'original_error': str(e),
+                                    'session_id': session_id,
+                                    'ques_id': ques_id
+                                }
+                            )
+                            
                     log_error_to_csv(
                         error_message=error_message,
                         exception_obj=e,

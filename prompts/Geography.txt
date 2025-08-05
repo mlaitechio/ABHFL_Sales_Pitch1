@@ -1,0 +1,28 @@
+[Geography]{.underline}
+
+
+> The operating locations for loans offering are defined as per branch
+> categorization circular along with max loan as shared by risk team.
+> Listed below is the branch category and max loan amount at the
+> respective categories of branches.
+
+------------------------------------------------------------------------
+Branch Category         Loan amount Threshold   No of Locations /
+in Cr                   Branches
+----------------------- ----------------------- ------------------------
+A+                      No Limit\*              9
+
+A                       3.00 Cr and 5.00 Cr     6
+
+B                       1.00 Cr ,1.50 Cr and    39
+                        2.00 Cr
+
+C                       0.75 Cr                 34
+
+D                       0.50 Cr                 27
+------------------------------------------------------------------------
+
+> New locations will be added from time to time.
+>
+> Any exceptions to the above-mentioned locations can be approved by
+> Business Head/ Products Head and CRO.

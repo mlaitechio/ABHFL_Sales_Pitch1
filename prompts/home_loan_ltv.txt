@@ -93,3 +93,4 @@
 | Gross Receipts          | 65%                | -         |
 | Gross Profit            | 60%                | -         |
 | Pure Rental             | 60%                | -         |
+

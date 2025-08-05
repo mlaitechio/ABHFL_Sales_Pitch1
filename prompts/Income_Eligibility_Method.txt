@@ -1,0 +1,1609 @@
+[Income Eligibility Method]{.underline}
+
+
+## [Salary Income]{.underline}
+
++-------------------------------------------------------------+--------+
+| Parameters                                                  | \% to  |
+|                                                             | be     |
+|                                                             |        |
+|                                                             | cons   |
+|                                                             | idered |
++=============================================================+========+
+| A. Core Income                                              |        |
++-------------------------------------------------------------+--------+
+| Net Salary as per salary slip (excluding arrears)           | 100%   |
++-------------------------------------------------------------+--------+
+| B. Bonus & LTA                                              |        |
++-------------------------------------------------------------+--------+
+| Fixed Bonus (Average of last 6 months /2 quarters)          | 100%   |
++-------------------------------------------------------------+--------+
+| Performance Linked Bonus / Incentives (Average of last 2    | 50%    |
+| years)                                                      |        |
++-------------------------------------------------------------+--------+
+| Annual LTA (subject to the same not exceeding 5% of Gross   | 100%   |
+| Salary else to be capped at 5% of                           |        |
+|                                                             |        |
+| Gross Salary)                                               |        |
++-------------------------------------------------------------+--------+
+| C. Income from House Property /Rentals                      | 100%   |
+|                                                             |        |
+| Current rentals as per copy of lease deed (min 3 months     |        |
+| old) with credits reflecting into bank                      |        |
+|                                                             |        |
+| account. In absence of registered lease agreement occupancy |        |
+| to be verified and average of last 2 years rentals to be    |        |
+| considered as reflecting in the ITR                         |        |
++-------------------------------------------------------------+--------+
+| D. Other Income                                             |        |
++-------------------------------------------------------------+--------+
+| Agricultural Income -- As per ITR, average of last 2 years  | 100%   |
+| to be considered                                            |        |
++-------------------------------------------------------------+--------+
+| Average Income of last 2 years from other sources i.e.      | 100%   |
+| Interest from FDs and dividend from other                   |        |
+|                                                             |        |
+| investments like company deposit, mutual funds etc. as per  |        |
+| ITR                                                         |        |
++-------------------------------------------------------------+--------+
+| Other Income to be capped at 100% of the (Core Income +     |        |
+| Bonus & LTA)                                                |        |
++-------------------------------------------------------------+--------+
+| Eligible Income                                             |        |
++-------------------------------------------------------------+--------+
+| Eligible Income = Core Income + Bonus & LTA + Income from   |        |
+| House Property /Rental Income + Other Income                |        |
++-------------------------------------------------------------+--------+
+
+> *[Note:]{.underline}*
+
+-   Bank statements reflecting regular salary credits needs to be
+> collected for all the salaried cases
+
+-   Salary certificate must show details of income and deductions. Such
+> certificate should not be more than 1 months old.
+
+-   For change in employment cases, appointment letter copy will be
+> required for the new salary along with previous employer salary
+> details -- new salary may be considered for eligibility basis
+> regional risk manager assessment. -- 1^st^ salary credit required
+> before disbursement
+
+## [Cash Profit Program]{.underline}
+
+> Eligibility in self-employed cases is being appraised as mentioned
+> below:
+
++--------------------------------------------------------+-------------+
+| Parameters                                             | \% to be    |
+|                                                        | considered  |
++========================================================+=============+
+| [A.]{.underline} [Salary Income]{.underline}           |             |
++--------------------------------------------------------+-------------+
+| Net Salary as per ITR drawn from firm (such firm       | 100%        |
+| income is not to be considered)                        |             |
++--------------------------------------------------------+-------------+
+| [B.]{.underline} [EBITDA]{.underline}                  |             |
++--------------------------------------------------------+-------------+
+| Profit Before Tax                                      | 100%        |
++--------------------------------------------------------+-------------+
+| Depreciation^\#^                                       | 100%        |
++--------------------------------------------------------+-------------+
+| Salary/Interest paid to partners/directors             | 100%        |
++--------------------------------------------------------+-------------+
+| Interest Paid\*                                        | 100%        |
++--------------------------------------------------------+-------------+
+|                                                        |             |
++--------------------------------------------------------+-------------+
+| [C.]{.underline} Income from House Property /Rental    | 100%        |
+| Income                                                 |             |
+|                                                        |             |
+| Current rentals as per copy of lease deed (min 3       |             |
+| months old) with credits reflecting into               |             |
+|                                                        |             |
+| bank account registered lease agreement occupancy to   |             |
+| be verified and average of last 2 years rentals to be  |             |
+| considered as reflecting in the ITR                    |             |
++--------------------------------------------------------+-------------+
+| [D.]{.underline} Other Income                          |             |
++--------------------------------------------------------+-------------+
+| Agricultural Income -- As per ITR, average of last 2   | 100%        |
+| years to be considered                                 |             |
++--------------------------------------------------------+-------------+
+| Average Income of last 2 years from other sources      | 100%        |
+| Interest from FDs and dividend from                    |             |
+|                                                        |             |
+| other investments like company deposit, mutual funds   |             |
+| etc.                                                   |             |
++--------------------------------------------------------+-------------+
+| Other Income to be capped at 100% of the (Salary       |             |
+| Income + EBITDA)                                       |             |
++--------------------------------------------------------+-------------+
+| [Eligible Income]{.underline}                          |             |
++--------------------------------------------------------+-------------+
+| Eligible Income = Core Income + EBITDA + Income from   |             |
+| House Property /Rental Income + Other Income           |             |
++--------------------------------------------------------+-------------+
+
+> \* Interest / other payments paid to close family / relatives can be
+> considered here -- as reflecting in 40 A (2) (b) as per the Tax Audit
+> Report
+>
+> \*Interest on CC/OD is neither to be added back nor it is to be
+> considered as obligation
+>
+> ^\#^ Case specific capping on depreciation may be imposed by Risk at
+> the time of appraisal.
+>
+> *[Note:]{.underline}*
+
+-   Scenario: Growth/Decline in EBITDA in current year vis-à-vis
+> previous year
+
+a.  Where current year's EBITDA % growth is up to 50% of the
+> previous year's EBITDA, current year EBITDA is to be
+> considered
+
+b.  Where current year's EBITDA % growth is more than 50% of the
+> last year's EBITDA, average of last 2 years or 50% growth over
+> previous year's EBITDA whichever is higher is to be
+> considered.
+
+c.  Where % decline in EBITDA is more than 20% for reasons other
+> than business expansion related cost increase, RCC approval is
+> required to process the case.
+
+-   Effect of extraordinary or one-time income and expenditure (e.g.
+> loss/profit on sale of asset i.e. capital gains, loss on theft,
+> speculation income, one time interest, donation etc.) to be
+> nullified for computation of Eligible Income
+
+-   EBITDA data is to be taken from the latest financials as filed with
+> the Income Tax body/ Audited Reports.
+
+## [Step Up]{.underline}
+
+-   A step-up loan allows customer to pay a lower Equated Monthly
+Installment (EMI) during the first few years of repayment and
+gradually increase the EMI as the loan term progresses.
+
+-   Enables Customers to purchase their dream home seeking higher Loan
+Eligibility basis expected growth in income with lower EMI for
+initial 3 years & Higher EMI for balance tenure
+
+-   Product parameters are defined as below:
+
++------------+---------------------------------------------------------+
+| Parameter  | Norm Description                                        |
++============+=========================================================+
+| Type of    | Term Loan -- Allows the customer customer to pay a      |
+| Facility   | lower Equated Monthly Installment                       |
+|            |                                                         |
+|            | (EMI) during the first few years of repayment and       |
+|            | gradually increase the EMI as the loan term progresses. |
++------------+---------------------------------------------------------+
+| Loans      | Salaried customers working in CAT A companies with      |
+| applicable | total work experience of min 3 years                    |
+| for        |                                                         |
++------------+---------------------------------------------------------+
+| Qua        | Graduate & above                                        |
+| lification |                                                         |
++------------+---------------------------------------------------------+
+| Customer   | Prime & Affordable                                      |
+| segment    |                                                         |
++------------+---------------------------------------------------------+
+| CIBIL      | 700 & above / NTC                                       |
+| Norms      |                                                         |
++------------+---------------------------------------------------------+
+| E          | Financial based eligibility methods only                |
+| ligibility |                                                         |
+| Method     |                                                         |
++------------+---------------------------------------------------------+
+| Net        | Net monthly income of Rs. 40,000 as reflected in bank   |
+| Monthly    | statement                                               |
+| Income     |                                                         |
++------------+---------------------------------------------------------+
+| Tenure     | Up to 300 months                                        |
++------------+---------------------------------------------------------+
+| Primary    | Up to 36 months                                         |
+| Tenure     |                                                         |
+|            | Under the primary tenure, the customer pays EMI greater |
+|            | than or equal to interest amount                        |
++------------+---------------------------------------------------------+
+| Secondary  | Balance tenure -- under which both principal and        |
+| Tenure     | interest are payable                                    |
++------------+---------------------------------------------------------+
+| Age Norms  | Maximum 45 years at time of loan origination            |
+|            |                                                         |
+|            | Max age at loan maturity to be as per product program   |
++------------+---------------------------------------------------------+
+| Rate of    | Floating rate of interest linked to ABHFL Reference     |
+| Interest   | rate (ARR)                                              |
++------------+---------------------------------------------------------+
+| LTV        | As per NHB norms                                        |
+| applicable |                                                         |
++------------+---------------------------------------------------------+
+| FOIR norms | -   As per product program                              |
+|            |                                                         |
+|            | -   FOIR to be calculated on current Net Income and EMI |
+|            |     proposed for primary loan tenure                    |
+|            |                                                         |
+|            | -   Increase in EMI not to exceed 25% of original EMI   |
+|            |     amount                                              |
++------------+---------------------------------------------------------+
+| Prepayment | No prepayments allowed during the primary tenure        |
++------------+---------------------------------------------------------+
+| Other      | -   Co-applicant to be mandatory to the loan            |
+| norms      |                                                         |
+|            | -   No deviations allowed                               |
++------------+---------------------------------------------------------+
+
+## [Step Down]{.underline}
+
+> To increase target base of customers, by reducing the burden of EMI at
+> the later stages of the loan. Product parameters are defined as below:
+
+## [Assessed Income Program]{.underline}
+
+> Credit Manager Assessed
+
++-------------+--------------------------------------------------------+
+| Parameter   | Norm Description                                       |
++=============+========================================================+
+| Ap          | -   Salaried customer drawing salary in cash           |
+| plicability |                                                        |
+|             | -   SENP/SEP customers with or without                 |
+|             |     ITR/Audited/Unaudited Financials                   |
++-------------+--------------------------------------------------------+
+| Max Loan    | Cash salaried - HL -- INR 15 lakhs , LAP -- INR 10     |
+| Amount      | Lakhs SENP -- As per Max loan amount table above       |
++-------------+--------------------------------------------------------+
+| FOIR        | > 60%                                                  |
+|             |                                                        |
+|             | For Cash Salary -- 50%                                 |
++-------------+--------------------------------------------------------+
+| CIBIL Norms | 700 + & New to Credit customer (NTC)                   |
++-------------+--------------------------------------------------------+
+| Acceptable  | Home loans for intended self-occupation.               |
+| property    |                                                        |
+|             | LAP against self-occupied residential property only.   |
+| norms for   |                                                        |
+| cash        | Plot loans, Rented /vacant property residential ,      |
+| salary.     | commercial property not allowed.                       |
++-------------+--------------------------------------------------------+
+| Eligibility | To assess income of the customer based on the          |
+| c           | following parameters                                   |
+| alculations |                                                        |
+|             | -   Income as stated by the customer                   |
+|             |                                                        |
+|             | -   Validate the said income by                        |
+|             |                                                        |
+|             |     -   Validating with Bank statement if available    |
+|             |                                                        |
+|             |     -   Analysing the asset creation over the past 2   |
+|             |         > years, containing but not limited to         |
+|             |         > Property/Land, Jewellery, and Vehicle etc.   |
+|             |                                                        |
+|             |     -   Estimating the average monthly expenditure of  |
+|             |         > the family -- School Fees, Household         |
+|             |         > expenses, Servicing existing loans etc.      |
+|             |                                                        |
+|             |     -   For cash salary to validate the income with    |
+|             |         > the employer in addition to above            |
+|             |                                                        |
+|             | -   Based on the assessment, the appointed person to   |
+|             |     > arrive at the monthly household income to be     |
+|             |     > considered for service the loan                  |
++-------------+--------------------------------------------------------+
+| Other Norms | -   Consideration of cash Salary to be capped to INR   |
+| for Cash    |     20,000 per month for single individual and max     |
+| Salary      |     capping of INR 30,000 combined cash salary in case |
+|             |     of clubbing of cash salary of multiple customers.  |
+|             |                                                        |
+|             | -   Credit Manager to visit applicant\'s office and    |
+|             |     take reference from employer/manager -- Vendor PD  |
+|             |     cases                                              |
+|             |                                                        |
+|             | -   Office visit report along with photos to be        |
+|             |     documented in appraisal note/CAM                   |
++-------------+--------------------------------------------------------+
+
+## [Average Banking Program]{.underline}
+
++--------------+-------------------------------------------------------+
+| Norms        | > Norm Description                                    |
++==============+=======================================================+
+| Products     | -   HL -- Resale, Fresh Purchase, Plot purchase, Plot |
+| Applicable   |     > plus construction                               |
+|              |                                                       |
+|              | -   LAP -- Residential & Commercial Only fully        |
+|              |     > completed property to be funded.                |
+|              |     > Industrial/Schools/Hotels not to be funded      |
+|              |     > under this.                                     |
+|              |                                                       |
+|              | -   LAP residential plot can be funded.               |
+|              |                                                       |
+|              | -   Commercial Property Purchase -- Under             |
+|              |     > construction and fully completed.               |
+|              |                                                       |
+|              | -   Commercial plot purchase not to be funded         |
++--------------+-------------------------------------------------------+
+| Max Loan     | > Refer Max loan amount table                         |
+| Amount       |                                                       |
++--------------+-------------------------------------------------------+
+| Minimum Loan | 10 lacs                                               |
+| amount       |                                                       |
++--------------+-------------------------------------------------------+
+| Minimum      | 12 months                                             |
+| Tenure       |                                                       |
++--------------+-------------------------------------------------------+
+| Max Tenure   | -   20 Years for HL                                   |
+|              |                                                       |
+|              | -   15 years for LAP                                  |
+|              |                                                       |
+|              | -   Residential Plot -- 15 years for SEP/SENP         |
+|              |                                                       |
+|              | -   Commercial Plot -- Not to be funded               |
++--------------+-------------------------------------------------------+
+| Target       | Only SENP/SEP Profile                                 |
+| Profile      |                                                       |
+|              | > Salaried or any other income cannot be considered   |
+|              | > in this method                                      |
++--------------+-------------------------------------------------------+
+| Eligibility  | > Eligible EMI is calculated as:                      |
+| calculation  |                                                       |
+|              | Avg. Bank balance for last 12 months based on daily   |
+|              | balances as per banking analyzer software analysis.   |
+|              | (A)                                                   |
+|              |                                                       |
+|              | -   less EMI of the loans which are not reflected in  |
+|              |     > the Bank Account but are there as per CIBIL     |
+|              |     > Report or declared by the Applicant. (B)        |
+|              |                                                       |
+|              | -   less EMI of cash-out loans availed in latest 6    |
+|              |     > months (C)                                      |
+|              |                                                       |
+|              | -   less EMI of all the loans where PEMI is running,  |
+|              |     > or customer has not served full EMI for 6       |
+|              |     > months (D)                                      |
+|              |                                                       |
+|              | -   plus, EMI of loans proposed for BT and/or         |
+|              |     > proposed closure can be added back in ABB (E)   |
+|              |                                                       |
+|              | ABB arrived at will be used for loan eligibility ABB. |
+|              |                                                       |
+|              | > Eligibility = 60% \* ABB (A- B-C-D+E)               |
++--------------+-------------------------------------------------------+
+| Clubbing of  | -   OD /CC/home saver account cannot be considered    |
+| Bank         |     > for ABB calculation.                            |
+| Statement    |                                                       |
+| and other    | -   Only Current Account bank statements are to be    |
+| norms        |     > considered.                                     |
+|              |                                                       |
+|              | -   Maximum one saving account can be considered      |
+|              |     > subject to business transactions are routed.    |
+|              |                                                       |
+|              | -   If the customer does not have Current/OD account  |
+|              |     > & uses saving account as main transaction       |
+|              |     > account, same can be considered in ABB          |
+|              |     > computation with deviation.                     |
+|              |                                                       |
+|              | -   Max three bank accounts can be clubbed for        |
+|              |     > eligibility.                                    |
+|              |                                                       |
+|              | -   Bank Accounts with minimum 12 months of vintage   |
+|              |     > and above can be considered. Accounts which are |
+|              |     > closed in latest 12 months than immediately     |
+|              |     > opened account can be considered for            |
+|              |     > eligibility.                                    |
+|              |                                                       |
+|              | -   Avg. monthly credits (excluding intra-account     |
+|              |     > transfer by customer and cash out loans during  |
+|              |     > the period in the account) to be min. 5 times   |
+|              |     > of proposed EMI.                                |
+|              |                                                       |
+|              | -   Min 36 customer-initiated business credit         |
+|              |     > transactions in the latest 12 months. Not more  |
+|              |     > than three months where zero credits are there  |
+|              |     > in latest 12 months.                            |
+|              |                                                       |
+|              | -   Entity /Individuals whose bank statements are     |
+|              |     > considered should meet the Income Ownership     |
+|              |     > Matrix.                                         |
+|              |                                                       |
+|              | -   Exceptional items not to be included in banking   |
+|              |     > credits are as follows.                         |
+|              |                                                       |
+|              | -   Capital receipts on account of sale of assets.    |
+|              |                                                       |
+|              | -   Dilution of the stake in the company by way of    |
+|              |     > sale of equity/ preference capital.             |
+|              |                                                       |
+|              | -   Loan credits                                      |
+|              |                                                       |
+|              | -   Monetary rewards by the judiciary/arbitrators in  |
+|              |     > relation to some litigation.                    |
+|              |                                                       |
+|              | -   Awards/ prize money in relation to some contests, |
+|              |     > whether related to the normal course of         |
+|              |     > business.                                       |
+|              |                                                       |
+|              | -   Any income arising out of illegal/speculative     |
+|              |     > activities.                                     |
++--------------+-------------------------------------------------------+
+
++--------------+-------------------------------------------------------+
+| Norms        | > Norm Description                                    |
++==============+=======================================================+
+| D            | -   Bank statement for the latest 12 months of the    |
+| ocumentation |     > main account and 3 months statement of other    |
+|              |     > accounts. (As mentioned in the financials) in   |
+|              |     > PDF.                                            |
+|              |                                                       |
+|              | -   ITR/Tax audit (where applicable) report for       |
+|              |     > latest year for validation of                   |
+|              |                                                       |
+|              | -   Regulatory compliance of filling, Nature of       |
+|              |     > business, any negative Audit remarks and        |
+|              |     > business is not in losses.                      |
+|              |                                                       |
+|              | -   Udyam Registration certificate for LAP loans      |
+|              |                                                       |
+|              | -   KYC as per KYC/AML policy of the company.         |
++--------------+-------------------------------------------------------+
+| Bounce Norms | -   Inward clearing Cheque returns capped at 2% or 10 |
+|              |     > cheque whichever is lower in latest 6 months.   |
+|              |                                                       |
+|              | -   Outward cheque returns 2% or 10 cheques whichever |
+|              |     > is lower in latest 6 months (L3)                |
+|              |                                                       |
+|              | > Loan repayment required from bank account having    |
+|              | > maximum credits.                                    |
++--------------+-------------------------------------------------------+
+| Age Norms:   | -   Minimum Age: 21 years on boarding                 |
+| Financial    |                                                       |
+| applicant    | -   Maximum Age at loan maturity: 70 years            |
+|              |                                                       |
+|              | Age Norms of Applicant are applicable for all, whose  |
+|              | Banking is being considered.                          |
+|              |                                                       |
+|              | > In case where a/c of a non-individual entity is     |
+|              | > considered, age norm should be met by the promoter  |
+|              | > who is the owner of the property                    |
++--------------+-------------------------------------------------------+
+| CIBIL Norms  | -   CIBIL Score of NTC/700 +                          |
+|              |                                                       |
+|              | -   Commercial CIBIL 8/9/10 not allowed.              |
+|              |                                                       |
+|              | -   Additional norms for 350 lacs + loans             |
+|              |                                                       |
+|              | -   CIBIL Score 730 + for financial applicant.        |
+|              |                                                       |
+|              | -   Financial applicant from whose account repayment  |
+|              |     > is taken and eligibility is derived.            |
+|              |                                                       |
+|              | -   Non-financial co applicants should not have any   |
+|              |     > adverse history.                                |
++--------------+-------------------------------------------------------+
+| Vintage      | Minimum 3 years in the same line of business          |
++--------------+-------------------------------------------------------+
+| LTV          | -   Standard LTV for HL.                              |
+|              |                                                       |
+|              | -   70% LTV for Occupied residential property.        |
+|              |                                                       |
+|              | -   60% LTV for Occupied commercial Property and      |
+|              |     > Commercial property purchase.                   |
+|              |                                                       |
+|              | -   50% LTV for residential plot for construction of  |
+|              |     > house                                           |
+|              |                                                       |
+|              | -   5% lower LTV for vacant collateral.               |
+|              |                                                       |
+|              | -   Only Type 1 & 2 property is allowed.              |
+|              |                                                       |
+|              | -   Special properties/negative property like         |
+|              |     > Industrial/ Hotel/School/multi-tenant property  |
+|              |     > not allowed under this program.                 |
++--------------+-------------------------------------------------------+
+| Profile      | > Negative /Caution profile not allowed in this       |
+|              | > program.                                            |
++--------------+-------------------------------------------------------+
+| Note         | -   Caution/Negative profile as per defined master    |
+|              |     > rolled out by risk team.                        |
+|              |                                                       |
+|              | -   Caution/Negative property as per defined master   |
+|              |     > rolled out by risk team.                        |
+|              |                                                       |
+|              | -   5% deviation can be given for retention and       |
+|              |     > insurance.                                      |
++--------------+-------------------------------------------------------+
+
+## [Low LTV]{.underline}
+
++-----------+----------------------------------------------------------+
+| Norms     | Norm Description                                         |
++===========+==========================================================+
+| A         | > HL -- Resale, Fresh Purchase Plot purchase not to be   |
+| pplicable | > funded.                                                |
+| Products  | >                                                        |
+|           | > LAP -- Residential & Commercial - Only ready property, |
+|           | > self-occupied or rented property can be funded.        |
+|           | > Commercial Property Purchase -- Under construction and |
+|           | > fully completed.                                       |
+|           |                                                          |
+|           | -   Vacant Property not to be funded.                    |
+|           |                                                          |
+|           | -   Industrial/Schools/Hotels not to be funded under     |
+|           |     > this.                                              |
+|           |                                                          |
+|           | -   LAP Plot not to be funded                            |
++-----------+----------------------------------------------------------+
+| > Appl    | -   Applicable only for ready property                   |
+| icability |                                                          |
+|           | -   HL & CPP with 75% and above constructed property     |
+|           |                                                          |
+|           | -   Applicable for SENP/SEP customers only               |
+|           |                                                          |
+|           | -   For self-occupied properties only                    |
+|           |                                                          |
+|           | -   For cases above INR 40 Lakh for A/A+ locations & INR |
+|           |     > 20 lakh for other locations                        |
++-----------+----------------------------------------------------------+
+| Loan      | -   Minimum: A+/A city limits -- 40 lacs, other          |
+| amount    |     > locations -- 20 lacs                               |
+|           |                                                          |
+|           | -   Maximum: Refer Max loan amount table                 |
++-----------+----------------------------------------------------------+
+| Min       | -   12 months                                            |
+| Tenure    |                                                          |
++-----------+----------------------------------------------------------+
+| Max       | -   20 Years for HL                                      |
+| Tenure    |                                                          |
+|           | -   15 years for LAP/CPP                                 |
++-----------+----------------------------------------------------------+
+| EMI       | -   Minimum 25% of the proposed loan amount EMI should   |
+| Servicing |     > have been serviced by the customer for at least 6  |
+|           |     > months in last 12 months                           |
++-----------+----------------------------------------------------------+
+| Income    | -   Income assessment through PD with ABHFL credit team. |
+| E         |                                                          |
+| stimation |                                                          |
++-----------+----------------------------------------------------------+
+| Loans     | -   Total Loans availed in the last 12 months should not |
+| taken in  |     > exceed 50% of the proposed loan amount.            |
+| last 12   |                                                          |
+| months    |                                                          |
++-----------+----------------------------------------------------------+
+| Banking   | -   Inward /Outward clearing Cheque returns capped at 2% |
+| Norms     |     > or 10 cheque whichever is lower in last 6 months.  |
+|           |                                                          |
+|           | -   ABB/ EMI should be ≥ 1 times                         |
++-----------+----------------------------------------------------------+
+| Personal  | -   Mandatory for all cases                              |
+| d         |                                                          |
+| iscussion |                                                          |
++-----------+----------------------------------------------------------+
+| Docu      | -   Bank statement of latest 6 months                    |
+| mentation |                                                          |
+|           | -   ITR/Tax audit (where applicable) report for latest   |
+|           |     > year for validation of                             |
+|           |                                                          |
+|           | -   Regulatory compliance of filling                     |
+|           |                                                          |
+|           | -   Nature of business,                                  |
+|           |                                                          |
+|           | -   any negative Audit remarks.                          |
+|           |                                                          |
+|           | -   Business is not in losses.                           |
+|           |                                                          |
+|           | -   Udyam Registration certificate for LAP loans         |
+|           |                                                          |
+|           | -   KYC as per KYC/AML policy of the company.            |
++-----------+----------------------------------------------------------+
+| Caution   | -   Caution/Negative profiles are not to be funded       |
+| profiles  |                                                          |
++-----------+----------------------------------------------------------+
+| Customer  | -   Customer should bring his/her equity before the      |
+| Equity    |     > disbursal of the loan for home loan (other         |
+|           |     > co-applicant should be immediate family member)    |
+|           |                                                          |
+|           | -   Financial applicants and property owner should be    |
+|           |     > same for LAP cases                                 |
++-----------+----------------------------------------------------------+
+| > LTV     | -   Only type 1 & 2 property is allowed in this.         |
+|           |                                                          |
+|           | -   LTV up to 50% of the Market value for home loans     |
+|           |                                                          |
+|           | -   LTV of 40% for LAP/CPP cases                         |
+|           |                                                          |
+|           | -   BT + Top Up Loan where Top Up loan is up to 20% of   |
+|           |     > Original Home Loan - HL LTV and above that amount  |
+|           |     > LAP LTV will be applicable)                        |
+|           |                                                          |
+|           | -   5% deviation can be given for retention and          |
+|           |     > insurance.                                         |
++-----------+----------------------------------------------------------+
+| Vintage   | -   3 years and above                                    |
++-----------+----------------------------------------------------------+
+| CIBIL     | -   NTC & 730 +                                          |
+| score     |                                                          |
+|           | -   D7-D10 allowed for cases upto 50 Lakhs below 730     |
+|           |     > CIBIL Score                                        |
++-----------+----------------------------------------------------------+
+| Note      | -   Caution/Negative profile as per defined master       |
+|           |     > rolled out by risk team.                           |
+|           |                                                          |
+|           | -   Caution/Negative property as per defined master      |
+|           |     > rolled out by risk team.                           |
+|           |                                                          |
+|           | -   5% deviation can be given for retention and          |
+|           |     > insurance.                                         |
++-----------+----------------------------------------------------------+
+
+## [GST Turnover Program]{.underline}
+
++----------------+-----------------------------------------------------+
+| Parameters     | > Norms description                                 |
++================+=====================================================+
+| Target segment | > SENP profile only (Private limited companies,     |
+|                | > single proprietors, public limited companies, and |
+|                | > partner organizations)                            |
++----------------+-----------------------------------------------------+
+| Loan type      | > Home Loan Purchase, LAP, Commercial Property      |
+|                | > Purchase                                          |
++----------------+-----------------------------------------------------+
+| Loan Amount    | > Minimum: 20 lacs                                  |
+|                | >                                                   |
+|                | > Maximum: 200 lacs                                 |
++----------------+-----------------------------------------------------+
+| Loan Tenure    | > Home Loan -- 20yrs                                |
+|                | >                                                   |
+|                | > LAP/Commercial property purchase -- 15yrs         |
++----------------+-----------------------------------------------------+
+| Eligibility    | -   The GST T/O of last 12 months to be considered  |
+| computation    |     > for the purpose of eligibility computation.   |
+|                |                                                     |
+|                | -   70% (60% with deviation) of the turnover to be  |
+|                |     > routed through Banking.                       |
+|                |                                                     |
+|                | -   50% capping on turnover increase (in case of    |
+|                |     > current year turnover has increased by more   |
+|                |     > than 50% from previous year)                  |
+|                |                                                     |
+|                | -   Dip in turnover by 20% cases will not be        |
+|                |     > processed under this method                   |
+|                |                                                     |
+|                | -   All obligations to be considered post           |
+|                |     application of FOIR.                            |
+|                |                                                     |
+|                | -   Loans maturing within next 12 months to be      |
+|                |     excluded.                                       |
+|                |                                                     |
+|                | -   GST Turnover under same PAN can be considered   |
+|                |     for calculation (entity and all partners        |
+|                |     director to be taken as co applicant).          |
+|                |                                                     |
+|                | -   FOIR to be capped max. upto 100 % with no       |
+|                |     deviation beyond that allowed.                  |
+|                |                                                     |
+|                | -   GST returns should not be filed in one go &     |
+|                |     delay in GST filling should not be more than 3  |
+|                |     months.                                         |
+|                |                                                     |
+|                | -   The Net profit margins to be applied on the T/O |
+|                |     > as per the below Industry Margins:            |
+|                |                                                     |
+|                |     -   Manufacturing - 8                           |
+|                |                                                     |
+|                |     -   Service -- 6                                |
+|                |                                                     |
+|                |     -   Trading -- 4                                |
++----------------+-----------------------------------------------------+
+| Business       | > Minimum 3 years in same business & location       |
+| Vintage        | > (based on GST registration)                       |
++----------------+-----------------------------------------------------+
+| LTV            | -   Home Loan - as per Regulatory LTV               |
+|                |                                                     |
+|                | -   Loan against property & Commercial Property     |
+|                |     purchase (Readymade/Completed only) -- 5% lower |
+|                |     to CPM LTV norms                                |
+|                |                                                     |
+|                | -   Industrial Property Not allowed                 |
++----------------+-----------------------------------------------------+
+| Banking Norms  | -   Last 12 months bank statement                   |
+|                |                                                     |
+|                | -   Annualized credit should be min 70% of turnover |
+|                |     (TO)as reflected in GST return (60% with        |
+|                |     deviation at NCM)                               |
+|                |                                                     |
+|                | -   Inward clearing cheque returns capped at 2% or  |
+|                |     10 cheque whichever is lower.                   |
+|                |                                                     |
+|                | -   Minimum 3 customer induced transactions in a    |
+|                |     > month in last 3 months                        |
++----------------+-----------------------------------------------------+
+| CIBIL          | > 700 & above /NTC                                  |
++----------------+-----------------------------------------------------+
+| Restricting    | -   GST exempt businesses not covered under this    |
+|                |     > program.                                      |
+|                |                                                     |
+|                | -   Businesses Like Petrol Pumps /                  |
+|                |     Builder/Jeweller/Steel traders/ Metal trader/   |
+|                |     Car traders/ NIL GST Businesses/ Export to be   |
+|                |     excluded.                                       |
+|                |                                                     |
+|                | -   Surrogate Program - Go no Negative/ Caution     |
+|                |     Profile and Properties                          |
+|                |                                                     |
+|                | -   NIL Month with NIL Turnover in last 6 months    |
++----------------+-----------------------------------------------------+
+| Documentation  | -   KYC of borrower, Security Provider and Parties  |
+|                |     > to the loan                                   |
+|                |                                                     |
+|                | -   GSTR 1 (Quarterly) & GSTR 3B (monthly)          |
+|                |                                                     |
+|                | -   GSTR 1(monthly)                                 |
+|                |                                                     |
+|                | -   GSTR 3 (Quarterly) - For composition (Dealers)  |
+|                |                                                     |
+|                | -   PDF Banking for BSA                             |
++----------------+-----------------------------------------------------+
+| Other norms    | -   Business Visit by Employee mandatory            |
+|                |                                                     |
+|                | -   Returns to be collected - Program applicable    |
+|                |     > only for Online GST fetch.                    |
++----------------+-----------------------------------------------------+
+| Product level  | > 100 Cr.                                           |
+| capping        |                                                     |
++----------------+-----------------------------------------------------+
+
+## [Gross Turnover Program]{.underline}
+
++-----------+----------------------------------------------------------+
+| > Gross   |                                                          |
+| >         |                                                          |
+|  Turnover |                                                          |
+| > Program |                                                          |
+| > --      |                                                          |
+| > A       |                                                          |
+| pplicable |                                                          |
+| > for     |                                                          |
+| > SENP    |                                                          |
+| >         |                                                          |
+| Customers |                                                          |
++===========+==========================================================+
+| > Norms   | > Norm Description                                       |
++-----------+----------------------------------------------------------+
+| >         | > Eligible Income = Gross Turnover X Margin              |
+|  Eligible |                                                          |
+| > Income  | -   Gross Turnover will be as reported in the            |
+|           |     > financials.                                        |
+|           |                                                          |
+|           | -   Margin is defined for relevant industry as per       |
+|           |     > annexure                                           |
++-----------+----------------------------------------------------------+
+| >         | -   Clubbing is allowed for similar line of business &   |
+|  Clubbing |     > can be considered for income computation.          |
+| > of More |                                                          |
+| > than    | -   Vintage of each line of business to be considered.   |
+| > one     |                                                          |
+| >         | -   Margin to be considered separately for each line of  |
+|  business |     > business considered                                |
++-----------+----------------------------------------------------------+
+| >         | -   Where % growth in turnover is up to 20% of the last  |
+|  Turnover |     > year's Turnover current year turnover is to be     |
+| > Cons    |     > considered.                                        |
+| ideration |                                                          |
+|           | -   Where % growth is more than 20% but less than or     |
+|           |     > equal to 50% of last year's turnover, average of 2 |
+|           |     > years or 20% growth whichever is higher is to be   |
+|           |     > considered.                                        |
+|           |                                                          |
+|           | -   Wherever growth in current year turnover is more     |
+|           |     > than 50%, then average of 2 years is               |
+|           |                                                          |
+|           | > required                                               |
++-----------+----------------------------------------------------------+
+| > Gross   | > Eligible Income as per Gross Turnover to be 3 times of |
+| >         | > EBITDA.                                                |
+|  Turnover |                                                          |
+| >         |                                                          |
+| >         |                                                          |
+| vis-à-vis |                                                          |
+| > EBITDA  |                                                          |
+| > clause  |                                                          |
++-----------+----------------------------------------------------------+
+| > Other   | > Other income to be considered at actual capped at 100% |
+| > Income  | > of eligible income.                                    |
++-----------+----------------------------------------------------------+
+| > Rental  | > Income from House Property /Rental Income Subject to  |
+| > Income  | > property mortgaged and rentals escrowed with ABHFL can |
+|           | > be considered 100% (i.e., actual net rent)             |
+|           | >                                                        |
+|           | > [Rent consideration norm:]{.underline}                 |
+|           | >                                                        |
+|           | > Current rentals as per copy of lease deed (min 3       |
+|           | > months old) with credits reflecting into bank          |
+|           | >                                                        |
+|           | > account (6months period) / occupancy verified by Risk  |
+|           | > team or in the absence of registered lease agreement,  |
+|           | > average of last 2 years rentals as reflecting in the   |
+|           | > ITR                                                    |
++-----------+----------------------------------------------------------+
+| > Banking | > [Operating account norm]{.underline}                   |
+| > Norm    |                                                          |
+|           | -   Annualized Credits (annualized from 6 months         |
+|           |     > banking) should be min 60% of reported turnover.   |
+|           |                                                          |
+|           | -   Inward clearing Cheque returns capped at 2% or 10    |
+|           |     > cheque whichever is lower in last 6 months.        |
+|           |                                                          |
+|           | -   Min 3 customer-initiated transactions in a month in  |
+|           |     > the last 3 months                                  |
+|           |                                                          |
+|           | -   Loan repayment required from bank account meeting    |
+|           |     > above norm                                         |
++-----------+----------------------------------------------------------+
+| > Docu    | -   Latest 6 months banking required from the operating  |
+| mentation |     > account.                                           |
+|           |                                                          |
+|           | -   Loan up to 1 Cr based on ITR/unaudited financials.   |
+|           |                                                          |
+|           | -   Mandatory 2 years audited financials for loans       |
+|           |     > greater than 1 Cr.                                 |
+|           |                                                          |
+|           | -   In case wherein there is huge variance between       |
+|           |     > Industry Margin List and Book Margin as per        |
+|           |     > financial, Credit analyst to analyse the reason    |
+|           |     > for the same and the same need to be documented in |
+|           |     > the proposal note as well                          |
++-----------+----------------------------------------------------------+
+
+## [Gross Receipts Program]{.underline}
+
++-----------+----------------------------------------------------------+
+| Gross     |                                                          |
+| Receipt   |                                                          |
+| Program   |                                                          |
+| --        |                                                          |
+| A         |                                                          |
+| pplicable |                                                          |
+| for SEP   |                                                          |
+| Customers |                                                          |
++===========+==========================================================+
+| Norms     | Norm Description                                         |
++-----------+----------------------------------------------------------+
+| Eligible  | -   Eligibility for professionals like Doctors           |
+| Income    |     (MBBS/BDS/MD/MS), Chartered Accountants and          |
+|           |     Architects.                                          |
+|           |                                                          |
+|           | -   Business income is a multiple of gross receipts.     |
+|           |                                                          |
+|           |     -   Doctors = 3 times                                |
+|           |                                                          |
+|           |     -   Chartered Accountants / Architects = 2 times     |
+|           |                                                          |
+|           | -   Standard deduction of 20% (for all expenses) to be   |
+|           |     deducted from the total income calculated by using   |
+|           |     above multiplier.                                    |
+|           |                                                          |
+|           | -   Income of one another entity can be clubbed with     |
+|           |     deviation.                                           |
+|           |                                                          |
+|           | -   Other income to be considered at actual capped at    |
+|           |     100% of eligible income.                             |
+|           |                                                          |
+|           | -   This programme is not applicable to doctors who own  |
+|           |     & run a Hospital/ Nursing home or doctors working as |
+|           |     consultant with hospitals & receives professional    |
+|           |     income.                                              |
++-----------+----------------------------------------------------------+
+| Rental    | Income from House Property /Rental Income Subject to    |
+| Income    | property mortgaged and rentals escrowed with ABHFL can   |
+|           | be considered 100% (i.e., actual net rent)               |
+|           |                                                          |
+|           | [Rent consideration norm:]{.underline}                   |
+|           |                                                          |
+|           | Current rentals as per copy of lease deed (min 3 months  |
+|           | old) with credits reflecting into bank account (6months  |
+|           | period) / occupancy verified by Risk team or in the      |
+|           | absence of registered lease agreement, average of last 2 |
+|           | years rentals as reflecting in the ITR                   |
++-----------+----------------------------------------------------------+
+| Banking   | [Operating account norm]{.underline}                     |
+| Norm      |                                                          |
+|           | -   Annualized Credits (annualized from6 months banking) |
+|           |     should be min 60% of reported receipts.              |
+|           |                                                          |
+|           | -   Inward clearing Cheque returns capped at 2% or 10    |
+|           |     cheque whichever is lower in last 6 months.          |
+|           |                                                          |
+|           | -   Min 3 customer-initiated transactions in a month in  |
+|           |     the last 3 months                                    |
+|           |                                                          |
+|           | -   Loan repayment required from bank account meeting    |
+|           |     above norm                                           |
++-----------+----------------------------------------------------------+
+| Docu      | -   Latest 6 months banking required from the operating  |
+| mentation |     account.                                             |
+|           |                                                          |
+|           | -   Loan up to 2.5 Cr based on ITR/unaudited financials. |
+|           |                                                          |
+|           | -   Mandatory 2 years audited financials for loans       |
+|           |     greater than 2.5 Cr                                  |
++-----------+----------------------------------------------------------+
+
+## [Gross Profit Program]{.underline}
+
++-----------+----------------------------------------------------------+
+| Norms     | Norm Description                                         |
++===========+==========================================================+
+| El        | Based on average of 2 years GP as per financials capped  |
+| igibility | to a 50% growth over the previous year                   |
+| ca        |                                                          |
+| lculation | -   Min cash profit of INR 4 Lakhs                       |
+|           |                                                          |
+|           | -   Min loan amount: INR 75 Lakhs for Metros& INR 50     |
+|           |     lakhs for non-Metros                                 |
+|           |                                                          |
+|           | -   Max decline in turn over or Gross Profit by 20%      |
+|           |                                                          |
+|           | -   Target market for this program are the following     |
+|           |     types of customers only:                             |
+|           |                                                          |
+|           |     -   Manufacturing businesses                         |
+|           |                                                          |
+|           |     -   Traders who purchase stock in their own books,   |
+|           |         > this needs to be reflected in the financials.  |
+|           |                                                          |
+|           | -   Gross Profit to be reflected in the financials. If   |
+|           |     the same is not reflected in the financials, the     |
+|           |     same can be taken from 3CB/3CD (Tax audit report).   |
+|           |                                                          |
+|           | -   Interest paid in last 6 months (Annualized Interest) |
+|           |     on CC/OD limits to be deducted for eligibility       |
+|           |     computation purposes.                                |
+|           |                                                          |
+|           | -   Other income can be considered up to 100% of the     |
+|           |     Eligible Income                                      |
++-----------+----------------------------------------------------------+
+| Rental    | Income from House Property /Rental Income Subject to    |
+| Income    | property mortgaged and rentals escrowed with ABHFL can   |
+|           | be considered 100% (i.e., actual net rent)               |
+|           |                                                          |
+|           | [Rent consideration norm:]{.underline}                   |
+|           |                                                          |
+|           | Current rentals as per copy of lease deed (min 3 months  |
+|           | old) with credits reflecting into bank account (6months  |
+|           | period) / occupancy verified by Risk team or in the      |
+|           | absence of registered lease agreement, average of last 2 |
+|           | years rentals as reflected in the ITR                    |
++-----------+----------------------------------------------------------+
+| Docu      | -   Latest 6 months banking required from the operating  |
+| mentation |     account.                                             |
+|           |                                                          |
+|           | -   Loan up to 1 Cr based on ITR/unaudited financials.   |
+|           |                                                          |
+|           | -   Mandatory 2 years audited financials for loans       |
+|           |     greater than 1 Cr                                    |
++-----------+----------------------------------------------------------+
+
+## [Pure Rental Program]{.underline}
+
++------------+---------------------------------------------------------+
+| Norms      | > Norm Description                                      |
++============+=========================================================+
+| App        | -   Caution/ High Risk properties & profiles are not to |
+| licability |     > be considered under this offering.                |
+|            |                                                         |
+|            | -   Applicable for SENP/SEP customers only              |
++------------+---------------------------------------------------------+
+| Loan       | -   Maximum loan amount of INR 2 Crs                    |
+| Amount &   |                                                         |
+| Tenure     | -   Maximum tenure offered is 10 years                  |
++------------+---------------------------------------------------------+
+| E          | -   Net rental credited in bank account: 100%           |
+| ligibility |     > consideration.                                    |
+| ca         |                                                         |
+| lculations | -   Rentals received in cash: 25% consideration (capped |
+|            |     > to 50% of total rentals)                          |
++------------+---------------------------------------------------------+
+| Banking    | -   Latest 6 months banking required from the operating |
+| Norm       |     > account.                                          |
+|            |                                                         |
+|            | -   Average Bank Balance \>= 1.25 times proposed EMI    |
++------------+---------------------------------------------------------+
+| Other      | -   All rentals to be supported by registered/notarized |
+| Norms      |     > rent agreements.                                  |
+|            |                                                         |
+|            | -   Rentals considered must not have expired rent       |
+|            |     > agreements.                                       |
+|            |                                                         |
+|            | -   Rentals with less than or equal to 3 months         |
+|            |     > longevity not to be considered unless supported   |
+|            |     > by previous rental agreements.                    |
+|            |                                                         |
+|            | -   Rentals received in cash to be supported by a       |
+|            |     > positive rental CPV to be sure about the income.  |
+|            |                                                         |
+|            | -   Gross monthly rent from 1 unit should not be less   |
+|            |     than 10,000.                                        |
+|            |                                                         |
+|            | -   If business income is clubbed with rental income,   |
+|            |     then case to be appraised under cash profit method. |
+|            |                                                         |
+|            | -   Lower of total rental income as evidenced through   |
+|            |     rent agreements or rental income declared in ITR    |
+|            |     returns to be considered for loan eligibility.      |
+|            |                                                         |
+|            | -   Repayment to be taken from the main bank account,   |
+|            |     where rentals are getting credited.                 |
+|            |                                                         |
+|            | -   All obligations of app/co-app to be considered      |
+|            |     whose rental income is being considered for loan    |
+|            |     eligibility                                         |
++------------+---------------------------------------------------------+
+
+## [General Purpose Loan]{.underline}
+
++---------------+------------------------------------------------------+
+| > Parameter   | Norm Description                                     |
++===============+======================================================+
+| > Type of     | Secured general purpose loan -- Secured by           |
+| > loan        | residential collateral. Loan would be linked to      |
+|               | parent loan                                          |
++---------------+------------------------------------------------------+
+| Loan Amount   | Minimum: 3 lakhs Maximum:                            |
+|               |                                                      |
+|               | -   Cat A/A+ locations: Rs. 50 lakhs                 |
+|               |                                                      |
+|               | -   Other locations: Rs. 30 lakhs                    |
++---------------+------------------------------------------------------+
+| > Eligible    | -   Salaried customers -- ABG/CAT A/CAT B            |
+| > customer    |                                                      |
+|               | -   SEP/SENP with CIBIL score of 730+                |
+|               |                                                      |
+|               | -   Applicable only as bundled offering with Home    |
+|               |     > loans (New / Resale)                           |
+|               |                                                      |
+|               | -   Negative/Caution profile not to be funded        |
++---------------+------------------------------------------------------+
+| Eligible      | -   Applicable for Type I/II collaterals only        |
+| Properties    |                                                      |
+|               | -   Only for self-occupation purposes, not to be     |
+|               |     > funded for investment properties.              |
+|               |                                                      |
+|               | -   Purchase in approved APF projects only (Cat A &  |
+|               |     > B developers only)                             |
+|               |                                                      |
+|               | -   Purchase of resale units                         |
+|               |                                                      |
+|               | -   Caution and negative properties/ in negative     |
+|               |     > areas not be funded                            |
++---------------+------------------------------------------------------+
+| > Purpose     | -   For fresh purchase, GPL to be utilized to cover  |
+|               |     for the immediate use of funds for               |
+|               |     improvement/renovation/furnishing or any         |
+|               |     personal need of funds                           |
+|               |                                                      |
+|               | -   For BT cases, GPL amount can only be funded if   |
+|               |     > there is a shortfall in amount.                |
++---------------+------------------------------------------------------+
+| > Loan Tenure | -   Balance tenure of parent Home loan               |
+|               |                                                      |
+|               | -   Both loans to be cross linked to each other and  |
+|               |     > co-terminus with Home loan                     |
+|               |                                                      |
+|               | -   GPL needs to be closed together / earlier than   |
+|               |     > the Home loan                                  |
++---------------+------------------------------------------------------+
+| LTV (Bundled  | Total LTV for the loan (HL+ GPL) not to exceed       |
+| offering      |                                                      |
+| withHL for    | -   90% of MV of the property                        |
+| acquisition   |                                                      |
+| transaction)  | -   10% customer equity should be traced to bank     |
+|               |     > channel. No CASH OCR acceptable                |
++---------------+------------------------------------------------------+
+| Income        | -   Financial Method (Cash Profit Method/Bank        |
+| eligibility   |     > Salaried) only                                 |
+|               |                                                      |
+|               | -   Assessed Surrogate Program (Gross Receipt /      |
+|               |     > Average Banking Program /GST Method)           |
++---------------+------------------------------------------------------+
+| Risk          | Salaried                                             |
+| Assessment    |                                                      |
+| Criteria      | -   3 year's experience with 6 months in current     |
+|               |     > organization                                   |
+|               |                                                      |
+|               | -   Should not be employed with negative industry    |
+|               |     > employers.                                     |
+|               |                                                      |
+|               | -   Mandatory Statutory deductions should be there   |
+|               |                                                      |
+|               | -   CIBIL Score 700/NTC SENP                         |
+|               |                                                      |
+|               | -   Vintage of 3 years with documentary evidence     |
+|               |     > (other than udyog aadhar /udyam registration   |
+|               |     > certificate to be there)                       |
+|               |                                                      |
+|               | -   Atleast 6 months gap between two ITR filling     |
+|               |                                                      |
+|               | -   ABB/EMI of 0.75                                  |
+|               |                                                      |
+|               | -   CIBIL score 730+                                 |
+|               |                                                      |
+|               | > No deviation on above norms                        |
++---------------+------------------------------------------------------+
+| > Loan        | -   GPL application form and loan agreement to be    |
+| > Handling    |     > collected separately                           |
+|               |                                                      |
+|               | -   Separate set of documentation including Sanction |
+|               |     > letter, loan agreement, and NACH mandate will  |
+|               |     > be executed for the general-purpose loan along |
+|               |     > with the documentation for Home loan.          |
+|               |                                                      |
+|               | -   General purpose loan will be booked as a         |
+|               |     > separate loan on loan origination system and   |
+|               |     > cross linked to the home loan                  |
+|               |                                                      |
+|               | -   In case of closure of home loan, the             |
+|               |     > general-purpose loan needs to be closed before |
+|               |     > closure the home loan.                         |
+|               |                                                      |
+|               | -   End use letter to be collected for GPL Loan      |
++---------------+------------------------------------------------------+
+| Deviations    | -   Any deviation in program NCM level               |
++---------------+------------------------------------------------------+
+
+## [Priority Channel -- BT program for Salaried customers of ABC ecosystem]{.underline}
+
++--------+--------------+---------------------+-----------------------+
+| > Par  | > Parameters | > ABC Employees     | > Existing / New to   |
+| ameter |              |                     | > ABC Customers       |
+|        |              |                     | > Salaried            |
++========+==============+=====================+=======================+
+| > Ap   | BT Variant   | > Priority BT       | Priority BT           |
+| proach |              |                     |                       |
++--------+--------------+---------------------+-----------------------+
+|        | BT           | > All approved list | 13 approved BT        |
+|        | Institution  | > of Fis            | Institutions          |
++--------+--------------+---------------------+-----------------------+
+| > P    | Product      | > HL & LAP          | HL                    |
+| roduct | Applicable   |                     |                       |
++--------+--------------+---------------------+-----------------------+
+|        | Loan Amount  | > Upto 3 Crs        | Upto 1 Cr             |
++--------+--------------+---------------------+-----------------------+
+|        | CIBIL        | 675 & above         | 730 & above           |
++--------+--------------+---------------------+-----------------------+
+|        | Tenure       | > HL -30 yrs LAP -  | HL - 30 yrs           |
+|        |              | > 15 yrs            |                       |
++--------+--------------+---------------------+-----------------------+
+|        | LTV          | > HL - As per NHB   | HL - As per NHB norms |
+|        |              | > norms LAP - Resi  |                       |
+|        |              | > :70% LAP - Comm   |                       |
+|        |              | > :60%              |                       |
++--------+--------------+---------------------+-----------------------+
+|        | ROI          | > As per Staff grid | As per Standard grid  |
++--------+--------------+---------------------+-----------------------+
+| Login  | Employee     | > 6 months          | 6 months (to be       |
+|        | Vintage with |                     | verified by EPFO)     |
+|        | current      |                     |                       |
+|        | organization |                     |                       |
++--------+--------------+---------------------+-----------------------+
+|        | KYC          | > Y (Not required   | Y (Not required if    |
+|        |              | > if digitally      | digitally verified)   |
+|        |              | > verified)         |                       |
++--------+--------------+---------------------+-----------------------+
+|        | Salary Slip  | > N                 | N                     |
++--------+--------------+---------------------+-----------------------+
+|        | Bank         | > N                 | N                     |
+|        | Statement    |                     |                       |
++--------+--------------+---------------------+-----------------------+
+|        | Form 16      | > N                 | N                     |
++--------+--------------+---------------------+-----------------------+
+|        | ITR for Self | > NA                | NA                    |
+|        | Employed     |                     |                       |
++--------+--------------+---------------------+-----------------------+
+| > Fin  | FI -         | > N if HR gives     | Y                     |
+| ancial | Residential  | > confirmation of   |                       |
+| > Sa   |              | > address           |                       |
+| nction |              | >                   |                       |
+|        |              | > CIBIL- to be      |                       |
+|        |              | > handled in Low    |                       |
+|        |              | > Touch             |                       |
+|        |              | >                   |                       |
+|        |              | > journey           |                       |
++--------+--------------+---------------------+-----------------------+
+|        | FI - Office  | > N if work e-mail  | > N if work e-mail is |
+|        |              | > is verified       | > verified through IT |
+|        |              | > through IT        | > solution OR Karza   |
+|        |              | > solution OR Karza | > report covers EPFO  |
+|        |              | > report covers     | > match- Part of Low  |
+|        |              | > EPFO match- Part  | > Touch journey       |
+|        |              | > of Low Touch      |                       |
+|        |              | >                   |                       |
+|        |              | > journey           |                       |
++--------+--------------+---------------------+-----------------------+
+|        | RCU          | > N                 | N                     |
++--------+--------------+---------------------+-----------------------+
+|        | PD           | > Welcome call by   | Welcome call by       |
+|        |              | > Credit            | Credit                |
++--------+--------------+---------------------+-----------------------+
+|        | Credit       | > Central           | Central Underwriting  |
+|        | Assessment   | > Underwriting      |                       |
+|        | by           |                     |                       |
++--------+--------------+---------------------+-----------------------+
+| >      | LOD & FC     | > Y                 | Y                     |
+|  Final | from Current |                     |                       |
+| > Sa   | Lender       |                     |                       |
+| nction |              |                     |                       |
++--------+--------------+---------------------+-----------------------+
+|        | Latest SOA   | > Y                 | Y                     |
+|        | from         |                     |                       |
+|        | repayment    |                     |                       |
+|        | date         |                     |                       |
++--------+--------------+---------------------+-----------------------+
+|        | Technical    | > As per policy     | As per policy         |
++--------+--------------+---------------------+-----------------------+
+|        | Legal        | > N                 | N                     |
++--------+--------------+---------------------+-----------------------+
+|        | TSR          | > Y                 | Y                     |
++--------+--------------+---------------------+-----------------------+
+|        | Vetting      | > Y                 | Y                     |
++--------+--------------+---------------------+-----------------------+
+| >      |              |                     |                       |
+| Others |              |                     |                       |
++--------+--------------+---------------------+-----------------------+
+|        | Eligibility  | > RTR based         | RTR based             |
+|        | Method       |                     |                       |
++--------+--------------+---------------------+-----------------------+
+|        | Top Up       | > Minimum vintage   |                       |
+|        | applicable   | > for Balance       |                       |
+|        |              | > Transfer and top  |                       |
+|        |              | > up % (Top up      |                       |
+|        |              | > limit on original |                       |
+|        |              | > Sanction Amount)  |                       |
+|        |              |                     |                       |
+|        |              | 1.  \< 11 MOB: BT   |                       |
+|        |              |     > allowed but   |                       |
+|        |              |     > No top-up     |                       |
+|        |              |     > allowed.      |                       |
+|        |              |                     |                       |
+|        |              | 2.  \> 11 to 18     |                       |
+|        |              |     > MOB: BT       |                       |
+|        |              |     > allowed and   |                       |
+|        |              |     > max top-up up |                       |
+|        |              |     > to 10%        |                       |
+|        |              |                     |                       |
+|        |              | 3.  \> 18 to 24     |                       |
+|        |              |     > MOB: BT       |                       |
+|        |              |     > allowed and   |                       |
+|        |              |     > max top-up up |                       |
+|        |              |     > to 15%        |                       |
+|        |              |                     |                       |
+|        |              | 4.  \> 24 to 36     |                       |
+|        |              |     > MOB: BT       |                       |
+|        |              |     > allowed and   |                       |
+|        |              |     > max top-up up |                       |
+|        |              |     > to 20%        |                       |
+|        |              |                     |                       |
+|        |              | 5.  \> 36 MOB: BT   |                       |
+|        |              |     > allowed & max |                       |
+|        |              |     > top-up up to  |                       |
+|        |              |     > 30%           |                       |
+|        |              |                     |                       |
+|        |              | > For Developer     |                       |
+|        |              | > Under             |                       |
+|        |              | > construction      |                       |
+|        |              | > loan, only BT     |                       |
+|        |              | > allowed post 12   |                       |
+|        |              | > MoB Top up to be  |                       |
+|        |              | > offered only post |                       |
+|        |              | > 90% construction  |                       |
+|        |              | > completion        |                       |
++--------+--------------+---------------------+-----------------------+
+| >      | eAgreement   | > Mandatory         | Mandatory             |
+| Disbur |              |                     |                       |
+| sement |              |                     |                       |
++--------+--------------+---------------------+-----------------------+
+|        | Enach        | > Mandatory         | Mandatory             |
++--------+--------------+---------------------+-----------------------+
+| P      |              | > No Limit          | 100 Crs               |
+| rogram |              |                     |                       |
+| Review |              |                     |                       |
++--------+--------------+---------------------+-----------------------+
+
+> [List of 13 FI for Priority BT/Express BT]{.underline}
+
+-----------------------------------------------------------------------
+Sr No          List of Top 13 FI's for Green Channel
+-------------- --------------------------------------------------------
+1              HDFC Bank
+
+2              ICICI Bank
+
+3              Axis Bank
+
+4              Kotak Mahindra Bank
+
+5              SCB
+
+6              HSBC
+
+7              SBI
+
+8              Bank of Baroda
+
+9              Bank of India
+
+10             PUNJAB NATIONAL BANK
+
+11             ICICI Home Finance Ltd
+
+12             Tata Capital Housing Finance
+
+13             PNB Housing Finance
+-----------------------------------------------------------------------
+
+## [Express BT]{.underline}
+
++-----+------+------------------+------------------+------------------+
+| > P | > P  | > ABC            | New to ABC -     | Universe - LAP   |
+| ara | aram | > Customers -    | Self Employed    |                  |
+| met | eter | > SENP &         |                  |                  |
+| >   | > s  | > Salaried       |                  |                  |
+|  er |      | > (Others)       |                  |                  |
++=====+======+==================+==================+==================+
+| > P | Pro  | HL               | HL               | LAP              |
+| rod | duct |                  |                  |                  |
+| uct | Ap   |                  |                  |                  |
+|     | plic |                  |                  |                  |
+|     | able |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | BT   | 13 approved BT   |                  |                  |
+|     |      | Institutions     |                  |                  |
+|     | Ins  |                  |                  |                  |
+|     | titu |                  |                  |                  |
+|     | tion |                  |                  |                  |
+|     | s    |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | Loan | Upto 3 Crs       | Upto 3 Crs       | upto 1 Cr        |
+|     | Am   |                  |                  |                  |
+|     | ount |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | C    | Salaried - 700+  | 730 & above      | > 730 & above    |
+|     | IBIL |                  |                  |                  |
+|     |      | SEP &SENP - 700  |                  |                  |
+|     |      | & above          |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | Te   | > HL             | HL - SEP/SENP -  | LAP - 15 yrs     |
+|     | nure | > -Salaried-25   | 20 yrs           |                  |
+|     |      | > yrs HL -       |                  |                  |
+|     |      | > SEP/SENP - 20  |                  |                  |
+|     |      | > yrs            |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | LTV  | HL - As per NHB  | HL - As per NHB  | > LAP-Resi: 65%  |
+|     |      | norms            | norms            | >                |
+|     |      |                  |                  | > LAP-Comm: 55%  |
++-----+------+------------------+------------------+------------------+
+|     | ROI  | As per Standard  | As per Standard  | As per Standard  |
+|     |      | Grid             | Grid             | Grid             |
++-----+------+------------------+------------------+------------------+
+| >   | Vin  | Sal: Overall exp | Sal: Overall exp | Sal: Overall exp |
+|  Lo | tage | of 3 years and 6 | of 3 years and 6 | of 3 years and 6 |
+| gin |      | months in        | months in        | months in        |
+|     |      | current          | current          | current          |
+|     |      | organization     | organization     | organization     |
+|     |      |                  |                  |                  |
+|     |      | SENP: Minimum    | SENP: Minimum    | SENP: Minimum    |
+|     |      | Vintage of       | Vintage of       | Vintage of       |
+|     |      |                  |                  |                  |
+|     |      | 3 years          | 3 years          | 3 years          |
++-----+------+------------------+------------------+------------------+
+|     | KYC  | > Y (Not         | > Y (Not         | > Y (Not         |
+|     |      | > required if    | > required if    | > required if    |
+|     |      | > digitally      | > digitally      | > digitally      |
+|     |      | > verified)      | > verified)      | > verified)      |
++-----+------+------------------+------------------+------------------+
+|     | Sa   | 3 Months         | 3 months         | 3 months         |
+|     | lary |                  |                  |                  |
+|     | Slip |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | Bank | 6 Months         | 6 Months         | 6 Months         |
+|     | S    |                  |                  |                  |
+|     | tate |                  |                  |                  |
+|     | ment |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | Form | N                | Y                | Y                |
+|     | 16   |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | ITR  | Latest 2 year    | Latest 2 year    | Latest 2 year    |
+|     | for  | financials       | financials       | financials       |
+|     |      |                  |                  |                  |
+|     | Self |                  |                  |                  |
+|     | Empl |                  |                  |                  |
+|     | oyed |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+| >   | FI - | Y                | Y                | Y                |
+| Fin |      |                  |                  |                  |
+| anc | Re   |                  |                  |                  |
+| ial | side |                  |                  |                  |
+| >   | ntia |                  |                  |                  |
+|  Sa | l    |                  |                  |                  |
+| nct |      |                  |                  |                  |
+| ion |      |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | FI - | Y                | Y                | Y                |
+|     | Of   |                  |                  |                  |
+|     | fice |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | RCU  | Y                | Y                | Y                |
++-----+------+------------------+------------------+------------------+
+|     | PD   | > Salaried -     | >                | > Salaried -     |
+|     |      | > Video/Tele     |  Self-employed - | > Video/Tele     |
+|     |      | > Self-employed  | > Video/Physical | > Self-employed  |
+|     |      | > -              |                  | > -              |
+|     |      |                  |                  |                  |
+|     |      | Video/Physical   |                  | Video/Physical   |
++-----+------+------------------+------------------+------------------+
+| >   | LOD  | Y                | Y                | Y                |
+|  Fi | & FC |                  |                  |                  |
+| nal |      |                  |                  |                  |
+| >   | from |                  |                  |                  |
+|  Sa | Cur  |                  |                  |                  |
+| nct | rent |                  |                  |                  |
+| ion |      |                  |                  |                  |
+|     | Le   |                  |                  |                  |
+|     | nder |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | La   | Y                | Y                | Y                |
+|     | test |                  |                  |                  |
+|     | SOA  |                  |                  |                  |
+|     | from |                  |                  |                  |
+|     | r    |                  |                  |                  |
+|     | epay |                  |                  |                  |
+|     | ment |                  |                  |                  |
+|     |      |                  |                  |                  |
+|     | date |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | T    | Y                | Y                | Y                |
+|     | echn |                  |                  |                  |
+|     | ical |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | L    | Y                | Y                | Y                |
+|     | egal |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | TSR  | Y                | Y                | Y                |
++-----+------+------------------+------------------+------------------+
+|     | Vet  | Y                | Y                | Y                |
+|     | ting |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | Eli  | Min vintage for  |                  |                  |
+|     | gibi | Balance Transfer |                  |                  |
+|     | lity | and top up %     |                  |                  |
+|     | Me   | (Top up limit on |                  |                  |
+|     | thod | original         |                  |                  |
+|     |      | Sanction Amount) |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | 1.  \< 11 MOB:   |                  |                  |
+|     |      |     BT allowed   |                  |                  |
+|     |      |     but No       |                  |                  |
+|     |      |     top-up       |                  |                  |
+|     |      |     allowed.     |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | 2.  \> 11 to 18  |                  |                  |
+|     |      |     MOB: BT      |                  |                  |
+|     |      |     allowed and  |                  |                  |
+|     |      |     max top-up   |                  |                  |
+|     |      |     up to 10%    |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | 3.  \> 18 to 24  |                  |                  |
+|     |      |     MOB: BT      |                  |                  |
+|     |      |     allowed and  |                  |                  |
+|     |      |     max top-up   |                  |                  |
+|     |      |     up to 15%    |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | 4.  \> 24 to 36  |                  |                  |
+|     |      |     MOB: BT      |                  |                  |
+|     |      |     allowed and  |                  |                  |
+|     |      |     max top-up   |                  |                  |
+|     |      |     up to 20%    |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | 5.  \> 36 MOB:   |                  |                  |
+|     |      |     BT allowed & |                  |                  |
+|     |      |     max top-up   |                  |                  |
+|     |      |     up to 30%    |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | For Developer    |                  |                  |
+|     |      | Under            |                  |                  |
+|     |      | construction     |                  |                  |
+|     |      | loan, only BT    |                  |                  |
+|     |      | allowed post 12  |                  |                  |
+|     |      | Mob Top up to be |                  |                  |
+|     |      | offered only     |                  |                  |
+|     |      | post 90%         |                  |                  |
+|     |      | construction     |                  |                  |
+|     |      | completion       |                  |                  |
++-----+------+------------------+------------------+------------------+
+
++-----+------+------------------+------------------+------------------+
+| > P | > P  | > ABC            | New to ABC -     | Universe - LAP   |
+| ara | aram | > Customers -    | Self Employed    |                  |
+| met | eter | > SENP &         |                  |                  |
+| >   | > s  | > Salaried       |                  |                  |
+|  er |      | > (Others)       |                  |                  |
++=====+======+==================+==================+==================+
+| >   | eAgr | Mandatory        | Mandatory        | Mandatory        |
+|  Di | eeme |                  |                  |                  |
+| sbu | nt   |                  |                  |                  |
+| rse |      |                  |                  |                  |
+| > m |      |                  |                  |                  |
+| ent |      |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+|     | E    | Mandatory        | Mandatory        | Mandatory        |
+|     | nach |                  |                  |                  |
++-----+------+------------------+------------------+------------------+
+| B   | Ban  | -   Inward       |                  |                  |
+| ank | king |     > clearing   |                  |                  |
+| ing | N    |     > Cheque     |                  |                  |
+| No  | orms |     > returns    |                  |                  |
+| rms |      |     > capped at  |                  |                  |
+|     |      |     > 2% or 10   |                  |                  |
+|     |      |     > cheque     |                  |                  |
+|     |      |     > whichever  |                  |                  |
+|     |      |     > is lower   |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | -   ABB/EMI of   |                  |                  |
+|     |      |     > 1time      |                  |                  |
++-----+------+------------------+------------------+------------------+
+| Lo  | RTR  | -   Total Loans  |                  |                  |
+| ans | &    |     > availed in |                  |                  |
+|     |      |     > the last   |                  |                  |
+|     | Cash |     > 12 months  |                  |                  |
+|     | -out |     > should not |                  |                  |
+|     |      |     > exceed 50% |                  |                  |
+|     |      |     > of the     |                  |                  |
+|     |      |     > proposed   |                  |                  |
+|     |      |     > loan       |                  |                  |
+|     |      |     > amount.    |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | ```{=html}       |                  |                  |
+|     |      | <!-- -->         |                  |                  |
+|     |      | ```              |                  |                  |
+|     |      | -   Increase in  |                  |                  |
+|     |      |     > EMI should |                  |                  |
+|     |      |     > be less    |                  |                  |
+|     |      |     > than 50%   |                  |                  |
+|     |      |     > in last 12 |                  |                  |
+|     |      |     > months     |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | -   There should |                  |                  |
+|     |      |     > be no EMI  |                  |                  |
+|     |      |     > bounces    |                  |                  |
+|     |      |     > due to     |                  |                  |
+|     |      |                  |                  |                  |
+|     |      |  > non-technical |                  |                  |
+|     |      |     > reasons in |                  |                  |
+|     |      |     > any of the |                  |                  |
+|     |      |     > customers  |                  |                  |
+|     |      |     > track      |                  |                  |
+|     |      |     > during     |                  |                  |
+|     |      |     > last 12    |                  |                  |
+|     |      |     > months     |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | -   No           |                  |                  |
+|     |      |                  |                  |                  |
+|     |      |    > delinquency |                  |                  |
+|     |      |     > in last 12 |                  |                  |
+|     |      |     > months in  |                  |                  |
+|     |      |     > any of the |                  |                  |
+|     |      |     > loans      |                  |                  |
+|     |      |                  |                  |                  |
+|     |      | -   Never 30+ in |                  |                  |
+|     |      |     > BT loan    |                  |                  |
++-----+------+------------------+------------------+------------------+
+| De  |      | Any deviations   |                  |                  |
+| via |      | in program at    |                  |                  |
+| tio |      | NCM level        |                  |                  |
+| ns  |      |                  |                  |                  |
++-----+------+------------------+------------------+------------------+

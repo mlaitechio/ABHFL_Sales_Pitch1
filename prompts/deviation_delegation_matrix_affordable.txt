@@ -19,9 +19,8 @@
     "HL Standard > 30 years": "NCM"
   },
   "Gap in ITR filing": {
-    "ITR filed within 3 months": "CCO",
-    "ITR filed within 4-6 months": "NCM",
-    "Average of 6 months CC/OD utilization greater than 100%": "ZCM"
+    "ITR GAP less than 6 months for Income Programs other than surrogate programs (CM assessed, Low LTV, ABP)": "ZCM",
+    "ITR GAP less than 6 months for surrogate programs - CM assessed, Low LTV, ABP" : na
   },
   "Banking Norms": {
     "Banking credits for 6 months less than 40% but upto 20% of annual turnover for loan amount greater than INR 50 lacs": "RCM",

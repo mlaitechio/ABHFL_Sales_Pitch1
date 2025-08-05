@@ -1,0 +1,120 @@
+Negative and caution Profiles {.underline}
+
+>
+> The profiles mentioned below are historically perceived as High-Risk
+> customers which will be a non-target segment for us.
+
++---------+-----------------------------------------------+-----------+
+| 1       | > Anti-Social organizations and elements.     | >         |
+|         |                                               |  Negative |
++=========+===============================================+===========+
+| 2       | > Politicians and persons with political      | >         |
+|         | > influence, Social Workers                   |  Negative |
++---------+-----------------------------------------------+-----------+
+| 3       | > Security Services Companies and their       | >         |
+|         | > Employees, Manpower/Staffing service.       |  Negative |
++---------+-----------------------------------------------+-----------+
+| 4       | > Chit fund companies/Stock                   | >         |
+|         | > Broking/Investment companies and related    |  Negative |
+|         | > employees.                                  |           |
++---------+-----------------------------------------------+-----------+
+| 5       | > Real estate agents & Share brokers          | >         |
+|         |                                               |  Negative |
++---------+-----------------------------------------------+-----------+
+| 6       | > Builders and their relatives                | > Caution |
++---------+-----------------------------------------------+-----------+
+| 7       | > Time share companies and related persons,   | >         |
+|         | > Film producing company                      |  Negative |
++---------+-----------------------------------------------+-----------+
+| 8       | > Butchers & fish vendors                     | >         |
+|         |                                               |  Negative |
++---------+-----------------------------------------------+-----------+
+| 9       | > Poultry Farm, Cattle rarer, Dairy related   | > Caution |
+|         | > business                                    |           |
++---------+-----------------------------------------------+-----------+
+| 10      | > Diamond dealer & jewellers, Including       | > Caution |
+|         | > Imitation Jewell (Negative for LAP          |           |
+|         | > proposal)                                   |           |
++---------+-----------------------------------------------+-----------+
+| 11      | > Bullion trader.                             | >         |
+|         |                                               |  Negative |
++---------+-----------------------------------------------+-----------+
+| 12      | > Production, Trade, dealer in weapons and    | >         |
+|         | > ammunitions,                                |  Negative |
++---------+-----------------------------------------------+-----------+
+| 13      | > Gambling, casinos, Lottery and equivalent   | >         |
+|         | > enterprises.                                |  Negative |
++---------+-----------------------------------------------+-----------+
+| 14      | > Gym, Fitness centre and Massage centre      | > Caution |
++---------+-----------------------------------------------+-----------+
+| 15      | > SPA, Saloon/unisex saloon / Beauty Parlour  | > Caution |
+|         | > (Except small units)                        |           |
++---------+-----------------------------------------------+-----------+
+| 16      | > Money lenders/ Private financers            | >         |
+|         |                                               |  Negative |
++---------+-----------------------------------------------+-----------+
+| 17      | > Multi-level marketing (MLM) & Chain         | >         |
+|         | > Marketing channels                          |  Negative |
++---------+-----------------------------------------------+-----------+
+
++---------+-----------------------------------------------+-----------+
+| 18      | > Mining work                                 | >         |
+|         |                                               |  Negative |
++=========+===============================================+===========+
+| 19      | > Entertainment & Art related business, movie | >         |
+|         | > halls, malls , Banquet halls , Disco Pubs   |  Negative |
++---------+-----------------------------------------------+-----------+
+| 20      | > Case based on Agriculture Income only       | >         |
+|         |                                               |  Negative |
++---------+-----------------------------------------------+-----------+
+| 21      | > Collection agency ,FI, DSA (Sourcing agents | >         |
+|         | > for Banks and Financial Institutes)         |  Negative |
++---------+-----------------------------------------------+-----------+
+| 22      | > Plantation companies                        | >         |
+|         |                                               |  Negative |
++---------+-----------------------------------------------+-----------+
+| 23      | > Astrologer, Pandit, Priest                  | > Caution |
++---------+-----------------------------------------------+-----------+
+| 24      | > Cyber Café, CD / DVD Rentals , STD / PCO,   | >         |
+|         | > Xerox centre , Cable operator , Courier     |  Negative |
+|         | >                                             |           |
+|         | > Agency , Ticketing agents                   |           |
++---------+-----------------------------------------------+-----------+
+| 25      | > Tours and Travels agents and operators      | > Caution |
++---------+-----------------------------------------------+-----------+
+| 26      | > Mobile shop                                 | > Caution |
++---------+-----------------------------------------------+-----------+
+| 27      | > News reporter / Media employee / Media      | >         |
+|         | > House , Detective agency                    |  Negative |
++---------+-----------------------------------------------+-----------+
+| 28      | > Lawyers ,Advocate / Policeman/ Traffic      | > Caution |
+|         | > Police                                      |           |
++---------+-----------------------------------------------+-----------+
+| 29      | > Daily wage / Workers                        | >         |
+|         |                                               |  Negative |
++---------+-----------------------------------------------+-----------+
+| 30      | > Alcoholic beverages (excluding beer and     | >         |
+|         | > wine), tobacco, Wine Shops, Bars, Liquor    |  Negative |
+|         | >                                             |           |
+|         | > Shops                                       |           |
++---------+-----------------------------------------------+-----------+
+| 31      | > Bar & Restaurant                            | > Caution |
++---------+-----------------------------------------------+-----------+
+| 32      | > Petrol Pump owners (All locations within    | > Caution |
+|         | > city limits can be considered as normal     |           |
+|         | >                                             |           |
+|         | > profile)                                    |           |
++---------+-----------------------------------------------+-----------+
+| 33      | > Auto / Ola Driver with owned vehicle        | >         |
+|         | > (without owned negative)                    |  Negative |
++---------+-----------------------------------------------+-----------+
+| 34      | > Scrap dealers                               | > Caution |
++---------+-----------------------------------------------+-----------+
+| 35      | > Laundry & Dyeing                            | > Caution |
++---------+-----------------------------------------------+-----------+
+| 36      | > Govt. Contractor                            | > Caution |
++---------+-----------------------------------------------+-----------+
+| 37      | > Coaching inst & tuitions                    | > Caution |
++---------+-----------------------------------------------+-----------+
+| 38      | > Document writer / stamp vendor              | > Caution |
++---------+-----------------------------------------------+-----------+

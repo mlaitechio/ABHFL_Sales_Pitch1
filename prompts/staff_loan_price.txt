@@ -13,9 +13,9 @@ Here’s the extracted data in a more structured format:
 | **LAP – Type I**                         | NA                | 9.45%       | --                       |
 | **Micro LAP – Type II/III**              | NA                | 11.00%      | --                       |
 | **Micro LAP – Type IV / Special**        | NA                | 12.50%      | --                       |
-| **GPL**                                   | NA                |Premium of 1% on HL ROI|
+
 
 ### Note:
-For HL – Floor rate @8.05% at MD & CEO
-▪    For Staff loans, no deviation allowed on Rate of Interest & fees except for LAP – Type 1, Floor rate @8.95% at BH level 
-▪ No channel payouts (DSA & RP) will be applicable for staff cases.
+    For HL – Floor rate @8.05% at MD & CEO
+    For Staff loans, no deviation allowed on Rate of Interest & fees except for LAP – Type 1, Floor rate @8.95% at BH level  
+    No channel payouts (DSA & RP) will be applicable for staff cases.

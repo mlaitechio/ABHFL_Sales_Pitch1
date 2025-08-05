@@ -1,0 +1,205 @@
+Aditya Birla Housing Finance Limited (ABHFL)
+
+
+
+      Khushi HL  Product Variant Note
+  
+
+ Version: ABHFL/Jun’25/1.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authorized By	Designation	Date	Signature
+Pankaj Gadgil	MD & CEO		
+Subhajeet Roy Chaudhary	Chief Risk Officer		
+Dharmendra Patro	Chief Credit Officer	 	
+Rajan Suri	Chief Business Officer		
+Preeti Mishra	Head-Product, Digital, BD, Partnerships & Customer Service		
+Shreya Shah	Chief Compliance Officer		
+Mohua Chowdhury	Head- Operations & Process Excellence		
+Reviewed By	Designation	Date	Signature
+Gagandeep Bhayan	Head Policy		
+Bhavin Desai	Head Product- Prime and Affordable		
+Kunal Urdhwareshe	Head Analytics		
+ThangaDurai G	National Credit Manager		
+
+
+ 
+
+
+
+Table of Contents
+1.	Introduction	4
+2.	Objective	4
+3.	Frequency of Review	4
+4.	Eligibility Criteria: Under Khushi HL	4
+5.	Policy Changes : Khushi HL	5
+7.	Pricing and Processing Fees mechanism	8
+6.	Process Flow	8
+7.	Monthly opportunity Analysis	8
+Annexure 1: Detailed Business Analysis	9
+Annexure 2:  Product Variant Criteria	9
+
+ 
+
+
+1.	Introduction
+
+To Design a Financial Inclusion HL product  variant, enabling LIG and EWS customer segment.
+2.	Objective
+To launch a dedicated Financial Inclusion HL product  variant “Khushi HL” LIG and EWS customer segment, enabling ABHFL to enhance its penetration across different segment. The product aligns with our mission to promote affordable housing while mitigating credit risk through government guarantees.
+
+3.	Frequency of Review
+	This policy would be reviewed annually, if deemed necessary.
+	Pricing ( ROI and PF) to be reviewed and tracked with overall pricing grid of ABHFL
+	Reviews and modifications during the year based on specific need may be undertaken, basis approval from PAC committee
+
+4.	Eligibility Criteria: Under Khushi HL
+
+Product Variant Summary
+
+Product Variant details	The product variant will target customers home loans taken by eligible beneficiaries (customers) with annual household incomes up to ₹3 lakh for EWS and ₹6 lakh for LIG. 
+Eligibility Criteria	Parameters	EWS/LIG/LIG
+Annual Household Income
+(Per Annum)	EWS – Up to ₹3 Lakhs
+LIG – ₹3 Lakhs to ₹6 Lakhs
+Maximum Housing Loan Eligibility	₹20 Lakhs
+Maximum Housing Value	-
+Maximum Carpet Area	60 sq. mtr.
+End Use	construction/purchase of house
+For identification as an EWS/LIG beneficiary under the product variant, an individual loan applicant will submit self-certificate/affidavit as proof of income.
+Refer Annexure 2:  For Product Variant details available in finverse
+Interest Rate	The Company may charge a maximum rate of interest of 7% above the repo rate 
+Exclusions Criteria 	
+•	Only Housing cases allowed
+•	Any part of the loan amount shall not be used for purchase of land or plot . 
+•	No dues or fees etc. shall be pending at the end of borrower while applying for guaranteed cover 
+•	Family income more than eligible limit
+•	Loan should not have been sanctioned before September 1, 2024 and classified as SMA/NPA
+•	Any property type not cover under SARFESAI Act
+•	Non RERA Approved Projects
+•	BT loans
+Property related criteria	•	In case an under-construction dwelling unit  supported under the Scheme is in a Multi-Storey Apartment Project/Building – Project/Building shall be RERA compliant 
+
+5.	Policy Changes : Khushi HL
+
+5.A. Policy Design Changes
+Criteria
+	Current Norms for  customer eligible in Khushi HL
+Business Vintage	Minimum 1 years’ operating from same location
+ Job Experience/ Stability	Minimum 2 years overall experience & min 6 months employment with current organization
+Residence Stability	In case of Rented Residence: Minimum 1 years residence stability in the same city & 6months in current residence.
+Cibil	Score >=650/NTC
+
+Bureau Score	NA ( except for Pragati Aashiyana Segment -II , loan amount 15-20 lakhs)
+
+5.A. Policy enhancement with Khushi Hl
+•	Pragati Aashiana Segment -1
+PARAMETERS	Current Norms for Khushi hl
+Type of Transaction 	•	Home Loan (HL) 
+•	Home Construction Loan (HCL)
+Maximum Loan Amount	Rs. 20 Lakhs
+Maximum Tenure	Self Employed & Cash Salaried- 25 Years
+Salaried – 30 Years
+FOIR Norms	As per Existing Norms: No further deviations
+LTV Norms	Existing Norms
+
+•	Pragati Aashiana Segment -II
+PARAMETERS	Current Norms for Khushi hl
+Type of Transaction 	•	Home Loan (HL) 
+•	Home Construction Loan (HCL)
+Maximum Loan Amount	Rs. 20 Lakhs
+Maximum Tenure	20 Years
+FOIR Norms	Existing Norms
+CIBIL 	Bureau Decile D1 and D2 – NoGo ( Loan Amount: 15- 20 lakhs)
+LTV	Existing Norms
+
+
+5.C.  Deviation Changes
+Deviation	Current Norms 
+Any term loan account with DPD of 30+ days in latest 12 months	
+30+ in 6-12 months with latest 6 months being cleared: ACM
+
+30+ in 6-12 months with 0+ DPD present in latest 6 month as well:  ZCM
+
+30+ DPD in latest 6 month: NCM
+Terms loans in 12 months + DPD beyond 90 days
+	ZCM
+3 or more EMI Bounce in Last six months
+While not all are bounced	ZCM
+
+Funding to HL caution and negative Profile:	Caution: Declared income(RCM), Surrogate(NCM)
+
+Negative: NCM	ZCM
+Foir	Pragati Aashiana Segment I: No FOIR Deviation allowed
+
+Pragati Aashiana Segment II: As per existing Norms
+
+No go parameters for booking under Khushi HL:
+1.	HL: Plot and P+C loans
+2.	Carpet area greater than 60 sq. meter
+3.	Loan amount greater than 20 lacs
+4.	Any property not covered in SARFESAI Act or Non RERA approved projects
+5.	BT loans
+6.	Non first home buyer and not fitting EWS (3 Lacs) and LIG (6 Lacs) income criteria
+
+7.	Pricing and Processing Fees mechanism
+
+a.	Pricing Mechanism 
+•	Max ROI that can be capped at Repo + 7.00%  – i.e. (12.5% as of todays REPO)
+•	Repo Linked ARR – 14 to be renamed and presented to ALCO
+
+b.	Processing Fee Proposal 
+Processing Fee	Direct / RP Sourcing	DSA Sourcing
+CPM /Salary Income	1.50%	2.00%
+Surrogates/ CM Assessed / Cash Salary	2.00%	2.25%
+
+6.	Process Flow
+
+Stage	Activity	Responsibility	System Requirement
+Lead Generation 	Sales representatives will punch leads in Salesforce, selecting the dedicated Sub-variant 	Sales	SFDC - New Sub-variant to be created under Informal HL product Code
+Application Login in Finverse	Standard login process to be followed	Sales	Finverse - New Sub-variant to be created under Informal HL product Code.
+Underwriting	Assess the application to confirm compliance with NCGTC Scheme parameters in below mentioned cohorts
+Note: Repo linked ARR to be tagged as per product and sub-variant selection	Credit	Report to be created for customer identification.
+Refer Annexure 1 above for fields and system availability
+Disbursement	Additional fields & customer declaration as required for NCGTC pool submission to be collected.	Operations	Functionality to be created to capture additional details required for Pool submission
+Post Disbursal	Final pool approved with NCGTC Scheme should have footprint in LMS	DT	Flag similar to NHB Refinance to be created in A3S for final NCGTC Pool
+
+
+7.	Monthly opportunity Analysis 
+
+Category	cases approved	Business 
+(Sanction in cr)	overall
+approval rate	Revised App Rates
+Full Opportunity tap(100%)	500	90	61%	65%
+Current pattern (60% approval)	300	54	61%	63%
+Conservative ( 20% approval)	100	18	61%	62%
+Refer Annexure 1:  Detailed Business Analysis
+
+ 
+
+Annexure 2:  Product Variant Criteria
+
+
+Scheme Parameter	Field Available	Finverse Screen
+1st Time Home Buyer 	Yes	Regulatory Details
+Carpet Area	Yes	Technical
+Household Income	Yes	As per Logic shared by Risk for PMAY
+Loan Amount	Yes	
+Purpose	Yes	Product Scheme /Sub Scheme
+SARFAESI 	No	Mentioned in Legal report
+

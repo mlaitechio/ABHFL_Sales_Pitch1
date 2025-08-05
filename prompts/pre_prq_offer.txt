@@ -69,23 +69,15 @@ Verification Parameters
 
 Financial Sanction Parameters
 
-Loan Eligibility and Norms: Salaried vs. Self-Employed
-For both salaried and self-employed individuals, the following loan parameters are determined as per existing product policy:
-
-Eligibility
-
-Bureau Norms
-
-RTR Norms (all live to be checked from Bureau)
-
-Bounce Norms (to be checked from Banking for all active term loans)
-
-LTV and Tenure Norms
-
-PDD (applicable for BT loans)
-
-Top Up Norm on HL loan on Sanction amount (eligible for BT)
-
+| **Parameter**                                                     | **Salaried** | **Self Employed**              |
+| ----------------------------------------------------------------- | ------------ | ------------------------------ |
+| Eligibility                                                       |                                              |
+| Bureau Norms                                                      |                                              |
+| RTR Norms of all live to be checked from Bureau                   |       As per Existing Product Policy         |
+| Bounce Norms to be checked from Banking for all active term loans |                                              |
+| LTV and Tenure Norms                                              |                                              |
+| PDD (Applicable for BT loans)                                     |                                              |
+| Top Up Norm on HL loan on Sanction amount (eligible for BT)       |                                              |
 
 Disbursement Parameters
 | **Parameter** | **Salaried** | **Self Employed** |
@@ -154,9 +146,9 @@ Here's the structured data extracted from the latest image, organized for clarit
 
 ### **Offer Amount Formula:**
 
-
-Offer Amount = [(70%*Income) - {Current Monthly Obligation}]*100
-
+$$
+\text{Offer Amount} = \left[(70\% \times \text{Income}) - \text{Current Monthly Obligation}\right] \times 100
+$$
 
 ### **Inputs:**
 

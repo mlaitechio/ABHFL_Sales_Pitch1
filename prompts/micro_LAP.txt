@@ -96,6 +96,15 @@ Table 1: Micro LAP - Detailed Norms
 *Note: For Type II Collateral, no further deviation allowed in LTV even to accommodate insurance/processing charges etc.*
 
 ---
+
+| **Collateral Type** | **Cat A+**  | **Cat A**     | **Others**  |
+| ------------------- | ----------- | ------------- | ----------- |
+| **Type II**         | INR 75 Lacs | INR 50 Lacs\* | INR 30 Lacs |
+| **Type III**        | INR 50 Lacs | INR 50 Lacs   | INR 30 Lacs |
+| **Type IV**         | INR 30 Lacs | INR 30 Lacs   | INR 20 Lacs |
+
+*For Jaipur, Coimbatore, Indore, Chandigarh – INR 75 Lacs
+
 Not : You must clarify collateral type and Income Programs before providing answer related any pricing query
 ### Table 3: Micro LAP - Pricing Grid
 
@@ -193,5 +202,5 @@ Floor rate (segment 1)
 |   Type IV & Special | 14%          | 14.50% |
 
 Note : 
--    Floor rate to be 100 bps higher for CM Assessed & Cash Salaried Method
--    FOIR Deviation upto 10% , 50 bps premium &  Beyond 10%  150 bps, premium to be charged on above floor rate (applicable for CM  Assessed Income/Cash Salary)
+- Floor rate to be 100 bps higher for CM Assessed & Cash Salaried Method
+

@@ -1,0 +1,439 @@
+[Norms for PP-R and PHCL Products]{.underline}
+
+
++---------------+------------------------------------------------------+
+| [Norms        | > [Description]{.underline}                          |
+| ]{.underline} |                                                      |
++===============+======================================================+
+| Eligible      | -   Plots Developed for residential purposes will be |
+| Plots         |     financed under this scheme                       |
+|               |                                                      |
+|               | -   Agricultural Lands are not entitled for funding  |
+|               |                                                      |
+|               | -   Plots to be financed should be located within    |
+|               |     the municipal limits or within the jurisdiction  |
+|               |     of government development authorities in each    |
+|               |     city.                                            |
+|               |                                                      |
+|               | -   Plots must not be located in the negative /      |
+|               |     cautious area                                    |
+|               |                                                      |
+|               | -   Eligible Plots                                   |
+|               |                                                      |
+|               |     -   Direct Allotment through Govt. Authority     |
+|               |                                                      |
+|               |     -   CAT A / Approved Developer Allotment         |
+|               |                                                      |
+|               |     -   Plots allotted by Other than Govt and CAT A  |
+|               |         > /Approved Developer can be funded with     |
+|               |         > additional norms as mentioned below        |
++---------------+------------------------------------------------------+
+| Product Cap   | > Total exposure in the PP-R and PHCL is capped at   |
+|               | > 20% of the overall Home Loan Portfolio             |
+|               | > (*monitoring of the same to be started post 6      |
+|               | > months of launch of HL Program*). In case of       |
+|               | > breach of the norm joint approval from Head Risk   |
+|               | > and Business Head-                                 |
+|               | >                                                    |
+|               | > Affordable Housing is to be taken for continuation |
+|               | > of business under these products.                  |
++---------------+------------------------------------------------------+
+| Plot + Home   | -   Plot LTV --- 75-90% on Market value as per       |
+| Construction  |     Regulatory norms or 75% of Documented Value      |
+| Loan          |     whichever is lower.                              |
+|               |                                                      |
+|               | -   Up to 100% of construction cost (prepared by a   |
+|               |     Chartered Engineer/ Architect/ Civil Contractor  |
+|               |     and as verified by our panel valuer/technical    |
+|               |     team) subject to overall LTV within the below    |
+|               |     norms---                                         |
+|               |                                                      |
+|               | -   Overall P+C LTV                                  |
+|               |                                                      |
+|               |     -   Loan \<30 lakhs: 90%                         |
+|               |                                                      |
+|               |     -   Loan 30-75 L: 80%                            |
+|               |                                                      |
+|               |     -   Loan \>75 L: 75%                             |
+|               |                                                      |
+|               | -   LTV on the total property (Plot + Construction)  |
+|               |     not to exceed the regulatory LTV grid.           |
++---------------+------------------------------------------------------+
+| Disbursement  | > Funding against Plot is to be restricted up to     |
+|               | > Plot Purchase LTV till construction is reached at  |
+|               | > plinth level subsequent to which differential      |
+|               | > amount to be released                              |
++---------------+------------------------------------------------------+
+| Additional    | -   Should be in an area where residential occupancy |
+| norms plots   |     is underway                                      |
+| allotted by,  |                                                      |
+| other than DA | -   Availability of basic facilities like Road,      |
+| and Cat A     |     Electricity, Sewage, potable Water.              |
+| developer     |                                                      |
+|               | -   Technical report should mention all these        |
+|               |     things, if required / RTM/ RCM should do a site  |
+|               |     visit, which will help in better understanding   |
+|               |     and for future funding in that area.             |
++---------------+------------------------------------------------------+
+
++---------------+------------------------------------------------------+
+| [Norms        |                                                      |
+| ]{.underline} |                                                      |
+| [Description  |                                                      |
+| ]{.underline} |                                                      |
++===============+======================================================+
+|               | -   Title document for plot like Sale Deed / TPA /   |
+|               |     Allotment letter needs to come in before         |
+|               |     disbursal/ OTC and cannot be PDD                 |
+|               |                                                      |
+|               | -   For Builder developed township - where Plot is   |
+|               |     demarcated as per sanction plan and              |
+|               |                                                      |
+|               | > developer is going to do construction              |
++---------------+------------------------------------------------------+
+
+> *[Other Conditions:]{.underline}*
+
+-   In case of Plot purchase case, LTV to be calculated on Market Value
+> or DV (Documented Value) whichever is lower (LTV as mentioned
+> above)
+
+-   In Plot + Construction Loan, if single loan is booked for composite
+> loan amount - Loan to be at Pre-EMI stage till fully
+> completed/disbursed.
+
+-   In composite Loan (Plot + Construction Loan) where overall loan is
+> as per HL LTV Grid, 1st disbursement will be capped at 75% of Plot
+> Value or regulatory LTV on documented Plot value whichever is
+> lower. The rest of the amount would be disbursed in tranches post
+> commencement of construction on the plot purchased.
+
+-   Construction Area should be at least 50% of Plot Area
+
+-   Construction cost should not be more than three times of plot value.
+
+-   Registered title documents to be collected upfront in all the PHCL
+> cases.
+
+-   The construction of the residential unit should commence within 12
+> months of plot acquisition.
+
+-   An undertaking to be taken from the customer, to commence
+> construction of a residential property within 12 months of full
+> disbursal for the plot and completion within 24 months from the
+> date of full disbursal for the plot. The undertaking will contain
+> the clause:
+
+> \- *"If the construction does not commence within 18 months from the
+> date of full disbursement of plot portion, the loan will be
+> re-classified as plot loan and margin to be increased by 2% than the
+> margin offered at the time of the sanction or prevalent ROI at the
+> time of re-pricing (as per sole discretion of ABHFL), post doing the
+> technical visit by ABHFL."*
+>
+> The disbursement process would be as given below:
+
+-   Borrower would be required to put in his equity on the plot upfront.
+
+-   A final estimate for the construction of the residential unit should
+> be provided, along with the sanctioned plan, just before
+> commencement of the construction.
+
+-   Legal verification and Technical Valuation would be done as per
+> normal process.
+
+-   The borrower would pay Pre-Emi on the amount disbursed for the plot
+> and construction until construction is complete
+
+ Sector Specific Norms Norms for below
+> sectors:
+
+-   Auto & Auto Ancillary
+
+-   Beauty care/Salon
+
+-   Education & Research - Day care & Tuition
+
+-   Education & Research - School & College
+
+> [LAP / Home Loan]{.underline}
+
+-   CIBIL score NTB & 700+ only allowed (Less than 700 not allowed)
+
+> Norms for Hotel, restaurant & tourism industry [LAP]{.underline}
+
+-   CIBIL score 730+ only allowed (NTB, less than 730 not allowed)
+
+> [Home Loan:]{.underline}
+
+-   CIBIL score less than 700 not allowed.
+
+-   CIBIL score NTB & 700 -730 -- LTV to 10% less than regulatory norms
+> i.e., up to 30 lacs -- 80%, 30-75 lacs -- 70%, above 75 lacs --
+> 65%
+
+-   CIBIL score above 730+ - No restriction on LTV.
+
+> []{#_bookmark28 .anchor} NRI Customer Assessment Criteria
+
++------------+---------------------------------------------------------+
+| [C         | [Particulars]{.underline}                               |
+| riteria]{. |                                                         |
+| underline} |                                                         |
++============+=========================================================+
+| Eligible   | Salaried NRI customers only.                            |
+| customer   |                                                         |
++------------+---------------------------------------------------------+
+| Definition | NRI: Non-Resident Indian is a Citizen of India residing |
+|            | outside India.                                          |
+|            |                                                         |
+|            | -   He/ She is an Indian citizen holding a valid Indian |
+|            |     passport. Stays outside India for employment /      |
+|            |     business/ vocation for an uncertain period.         |
+|            |                                                         |
+|            | PIO: Citizen of any country other than Bangladesh and   |
+|            | Pakistan, if he/she                                     |
+|            |                                                         |
+|            | -   Held an Indian passport. Either of his/her parents  |
+|            |     or grandparents were citizen of India or the person |
+|            |     is a spouse of Indian citizen                       |
++------------+---------------------------------------------------------+
+| Applicable | All Home Loan, Plot + Construction, Home Extension      |
+| products   | Loan, Construction Loan products can be offered.        |
+|            | Specific norms for the individual product definition in |
+|            | the main policy would be applicable.                    |
+|            |                                                         |
+|            | Top up loans/ Insurance / LAP / LRD / Commercial        |
+|            | property purchase cannot be offered                     |
++------------+---------------------------------------------------------+
+| Minimum    | Gross income prior to deduction. of tax                 |
+| monthly    |                                                         |
+| Income     | -   US and other countries = USD 3,500 per month or     |
+| e          |     equivalent.                                         |
+| ligibility |                                                         |
+| norm       | -   Middle East countries = 7,000 AED per month or      |
+|            |     equivalent,                                         |
++------------+---------------------------------------------------------+
+| Minimum    | 23 yrs. at the time of origination of the loan          |
+| age        |                                                         |
++------------+---------------------------------------------------------+
+| Maximum    | -   NRIs working in the US and other western countries: |
+| tenure of  |     15 years.                                           |
+| the loan   |                                                         |
+|            | -   NRIs working in GCC countries and other countries:  |
+|            |     10 years. (NRI working with MNC/ Govt. Department:  |
+|            |     15 years.)                                          |
++------------+---------------------------------------------------------+
+| Minimum    | Salaried customer whose income is the main income must  |
+| qua        | be at least a graduate                                  |
+| lification |                                                         |
++------------+---------------------------------------------------------+
+| Years in   | -   Minimum years in employment abroad: 1 year          |
+| employment |                                                         |
+|            | -   Minimum total years of experience: 3 years          |
++------------+---------------------------------------------------------+
+| FOIR       | 50% of net income                                       |
++------------+---------------------------------------------------------+
+| LTV        | As per standard grid in product program \[Refer section |
+|            | FOIR-LTV grid\]                                         |
++------------+---------------------------------------------------------+
+| Merchant   | For Officer Engineers and Officer Navigators except for |
+| Navy       | cadets, the following income eligibility norms apply:   |
+|            |                                                         |
+|            | A.  Calculate average number of months in a year        |
+|            |     > customer had sailed.                              |
+|            |                                                         |
+|            | B.  Refer to latest contract and calculate current      |
+|            |     > monthly income.                                   |
+|            |                                                         |
+|            | C.  Compute annual income as A \* B.                    |
+|            |                                                         |
+|            | D.  Eligible monthly income calculated as A \* B / 12   |
++------------+---------------------------------------------------------+
+| Currency   | -   Currency conversion to be referred as per web link: |
+| Conversion |     [http://www.xe.com/.](http://www.xe.com/)           |
+|            |                                                         |
+|            | -   Screen shot -- printout of the web page depicting   |
+|            |     the conversion rate to be kept in file for records  |
++------------+---------------------------------------------------------+
+| Salary     | -   Components regularly reflect in salary slip /       |
+| Income     |     monthly salary certificate.                         |
+|            |                                                         |
+|            | -   Bonus/overtime pay/duty pay etc. not to be          |
+|            |     considered while computing the eligibility.         |
+|            |                                                         |
+|            | -   Benefits- Customer provided with company            |
+|            |     accommodation (confirmed through appointment letter |
+|            |     or company letter) can be given higher FOIR         |
+|            |     (Maximum 10% additional)                            |
++------------+---------------------------------------------------------+
+| Other      | -   Other income as mentioned earlier for resident      |
+| Income     |     Indian would apply.                                 |
+|            |                                                         |
+|            | -   NRI\'s other income earned in India should get      |
+|            |     credited into the NRO account.                      |
++------------+---------------------------------------------------------+
+| Clubbing   | -   Income of applicant and co-applicant can be         |
+| of income  |     considered for loan eligibility.                    |
+|            |                                                         |
+|            | -   Income between NRI applicant and resident Indian    |
+|            |     co-applicant can be considered (Repayment of the    |
+|            |     loan will be from NRE/NRO account of the NRI only)  |
++------------+---------------------------------------------------------+
+| Power of   | -   The NRI needs to appoint an individual resident in  |
+| Attorney   |     India as his/her POA should be residing at ABHFL    |
+|            |     branch locations                                    |
++------------+---------------------------------------------------------+
+| Execution  | -   In case where NRI borrower is outside India at the  |
+| of General |     time of application, standard POA must be duly      |
+| Power of   |     attested by the Indian Consulate or                 |
+| Attorney   |                                                         |
+|            | -   POA to be locally notarized if NRI customer is in   |
+|            |     India at the time of application. In case, an NRI   |
+|            |     executed a POA in India with an empowerment of      |
+|            |     document execution, then in such                    |
++------------+---------------------------------------------------------+
+
++------------+---------------------------------------------------------+
+| [C         | [Particulars]{.underline}                               |
+| riteria]{. |                                                         |
+| underline} |                                                         |
++============+=========================================================+
+|            | > cases it would be sufficient if the Power of Attorney |
+|            | > is duly stamped and notarized. The entry & exit stamp |
+|            | > certifying that the NRI was in India at the time of   |
+|            | > POA execution \[Copy of passport to be taken for      |
+|            | > verification\]                                        |
++------------+---------------------------------------------------------+
+| Mode of    | -   Repayment would be made from NRE / NRO accounts     |
+| repayment  |     through NACH.                                       |
+|            |                                                         |
+|            | -   Maximum repayment permitted is 180 months (15       |
+|            |     years) no moratorium / grading structures allowed.  |
++------------+---------------------------------------------------------+
+| Income     | -   3 month\'s salary slips showing all deductions in   |
+| proof      |     English \[if not in English, translated copy of the |
+|            |     salary slips in English from authorized             |
+|            |     translators\]                                       |
+|            |                                                         |
+|            | -   Bank account statement in foreign country for last  |
+|            |     6 months.                                           |
+|            |                                                         |
+|            | -   If salary slips are not available, then salary      |
+|            |     certificate with complete job details.              |
++------------+---------------------------------------------------------+
+| Caution    | -   Laborers engaged in offshore/site construction      |
+| profiles   |     activity.                                           |
+|            |                                                         |
+|            | -   Posted offshore drilling platform.                  |
+|            |                                                         |
+|            | -   Staying/employed in Ajman/ Fujairah                 |
+|            |                                                         |
+|            | -   Working as Drivers                                  |
+|            |                                                         |
+|            | -   Individuals from Nepal, Bangladesh, Sinhala, Bhutan |
+|            |     etc. who reside in India                            |
++------------+---------------------------------------------------------+
+| Merchant   | -   Minimum designation for Merchant Navy to be 1st     |
+| Navy       |     Officer/ Engineer/Radio                             |
+| documents  |                                                         |
+|            | -   Copy of (CDC) for the past two years to establish   |
+|            |     continuity of employment.                           |
+|            |                                                         |
+|            | -   Copy of the latest Contract showing the income      |
+|            |     earned                                              |
++------------+---------------------------------------------------------+
+| Identity   | Identity Proof (for NRI)                                |
+| Proof      |                                                         |
+|            | -   Photocopies of passport with customer\'s name,      |
+|            |     address, DOB, date and place of issue, expiry date, |
+|            |     photograph, signature, and stamp regarding stay     |
+|            |     outside India appear.                               |
+|            |                                                         |
+|            | -   Photocopy of valid work permit / employment visa.   |
+|            |                                                         |
+|            | -   For expired visas, petitions made to the visa       |
+|            |     authorities for renewal of visa. [Identity Proof    |
+|            |     (for PIO)]{.underline}                              |
+|            |                                                         |
+|            | -   Photocopies of relevant pages of current passport.  |
+|            |                                                         |
+|            | -   Photocopy of the PlO card or copy of past Indian    |
+|            |     passport of self / parent / grandparent along with  |
+|            |     the self-declaration of relationship duly notarized |
+|            |     and stamped for requisite value                     |
++------------+---------------------------------------------------------+
+| Residence  | -   As per existing ABHFL KYC Policy Norms              |
+| Proof of   |                                                         |
+| applicant  |                                                         |
+| & POA      |                                                         |
+| holder     |                                                         |
++------------+---------------------------------------------------------+
+| Repayment  | -   RTR of previous loan for last 12 months to be       |
+| Track      |     validated through bank statements                   |
+| record     |                                                         |
++------------+---------------------------------------------------------+
+| Credit     | -   Applicant to generate his credit score report from  |
+| Bureau     |     his country & provide along with the application    |
+| score      |                                                         |
+| report     |                                                         |
++------------+---------------------------------------------------------+
+| Banking    | -   Latest 6 months banking of international account    |
+|            |     where salary is getting credited                    |
+|            |                                                         |
+|            | -   Latest 6 months bank statement of NRE/NRO account   |
+|            |                                                         |
+|            | -   Average Bank Balance \>= 2 times of proposed EMI    |
++------------+---------------------------------------------------------+
+| Signature  | -   Banker\'s verification.                             |
+| ve         |                                                         |
+| rification | -   Signature in PF cheque, PDC., Passport, PAN card    |
+|            |     must match signature on application                 |
++------------+---------------------------------------------------------+
+| Mail       | Mail Confirmation for NRI Loan Application check and    |
+| Con        | NRI Employment Verification check should be from        |
+| firmations | customer's (NRI) and HR's official email ID             |
++------------+---------------------------------------------------------+
+| Domain     | Domain Check to be positive for                         |
+| Check      |                                                         |
+|            | -   Employer's Website                                  |
+|            |                                                         |
+|            | -   Website of customer's official email ID             |
+|            |                                                         |
+|            | -   Website of HR's official email ID                   |
+|            |                                                         |
+|            | Domain checks to be conducted by local FCU team.        |
++------------+---------------------------------------------------------+
+| Other      | -   PIOs if resident in India would be appraised as a   |
+| Norms      |     resident Indian.                                    |
+|            |                                                         |
+|            | -   If applicant is likely to return to India within a  |
+|            |     year, loan eligibility to be assessed based on      |
+|            |     lower of their current salary abroad or their       |
+|            |     Indian salary.                                      |
+|            |                                                         |
+|            | -   Work Permit / Working Visa to be checked for NRIs.  |
++------------+---------------------------------------------------------+
+
++------------+---------------------------------------------------------+
+| [C         | [Particulars]{.underline}                               |
+| riteria]{. |                                                         |
+| underline} |                                                         |
++============+=========================================================+
+|            | -   Product specific parameters are the same as for     |
+|            |     resident Indians under different products.          |
+|            |                                                         |
+|            | -   NRI customer has to be the main applicant on the    |
+|            |     loan and property also has to be owned by him/her.  |
+|            |                                                         |
+|            | -   The loan application form for an NRI loan [must be  |
+|            |     signed by NRI applicant in original. A]{.underline} |
+|            |     [power of attorney (POA) cannot sign the            |
+|            |     application form.]{.underline}                      |
+|            |                                                         |
+|            | -   Credit Bureau Check/ De-duplication check is        |
+|            |     mandatory for all applicants                        |
++------------+---------------------------------------------------------+
+| Negative   | Applicants working in negative countries cannot be      |
+| Countries  | considered. Refer Negative countries annexure below     |
++------------+---------------------------------------------------------+
