@@ -21,6 +21,7 @@ from .evalution import StepNecessityEvaluator
 import logging
 import tiktoken
 import time
+import jwt
 
 logger = logging.getLogger(__name__)
 # Render the main page
@@ -536,3 +537,58 @@ class EvaluationAPIView(APIView):
             return Response({'error': 'No evaluation found for the given ques_id.'}, status=status.HTTP_404_NOT_FOUND)
 
         return Response({'score': evaluation.score}, status=status.HTTP_200_OK)
+    
+class TokenDecodeView(APIView):
+    """
+    API View to decode JWT token and extract email.
+    
+    Accepts:
+        POST request with JSON: { "token": "<JWT token>" }
+    Returns:
+        JSON: { "email": "<email from token>" } or appropriate error message
+    """
+    
+    def post(self, request, *args, **kwargs):
+        # Get token from request data
+        token = request.data.get('token')
+        
+        # Validate token presence
+        if not token:
+            return Response(
+                {'error': 'Token is required.'}, 
+                status=status.HTTP_400_BAD_REQUEST
+            )
+            
+        try:
+            # Decode token without verification since we don't have the secret key
+            # NOTE: In production, use proper verification with secret/public key
+            decoded_token = jwt.decode(token, options={"verify_signature": False})
+            
+            # Extract email from decoded token
+            email = decoded_token.get('email')
+            
+            # Validate email presence in token
+            if not email:
+                return Response(
+                    {'error': 'Email not found in token.'}, 
+                    status=status.HTTP_400_BAD_REQUEST
+                )
+                
+            # Return success response with email
+            return Response(
+                {'email': email},
+                status=status.HTTP_200_OK
+            )
+            
+        except jwt.InvalidTokenError:
+            # Handle specific JWT decode errors
+            return Response(
+                {'error': 'Invalid token format.'}, 
+                status=status.HTTP_401_UNAUTHORIZED
+            )
+        except Exception as e:
+            # Handle any other unexpected errors
+            return Response(
+                {'error': f'Error processing token: {str(e)}'}, 
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR
+            )
