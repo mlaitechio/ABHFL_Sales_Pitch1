@@ -10,6 +10,6 @@ urlpatterns = [
     path('bookmark/', BookmarkMessage.as_view(), name='bookmark'),
     path('rename_session/', RenameSessionAPIView.as_view(), name='rename_session'),
     path('evalution_api/', EvaluationAPIView.as_view(), name='evalution'),
-    path('decode-token/', TokenDecodeView.as_view(), name='decode-token'),
+    path('decode_token/', TokenDecodeView.as_view(), name='decode-token'),
     # path('evalution/', evalution, name='evalution_dashboard'),
 ]
