@@ -51,7 +51,10 @@ def step_down_pension_income_calculator_tool(dob_of_person, monthly_income_from_
 
 def logincheck_documents_tool(employment, eligibility_method=None, rental_income=False, other_income=False):
     """Get the list of required documents for login."""
-    return logincheck_documents(employment.lower(), eligibility_method.lower(), rental_income, other_income)
+    employment = employment.lower() if employment else None
+    eligibility_method = eligibility_method.lower() if eligibility_method else None
+    
+    return logincheck_documents(employment, eligibility_method, rental_income, other_income)
 
 def branches_list_tool(hfc_name, state, district=None, pincode=None):
     """Filter branch details of Housing Finance Companies (HFCs)."""

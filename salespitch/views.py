@@ -258,7 +258,7 @@ class ChatAPIView(APIView):
                     chat_history.save()
                     # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
                     import threading
-                    threading.Thread(target=evaluate_and_save, args=(evaluator1,questions, final_answer, events,ques_id ,session)).start()
+                    threading.Thread(target=evaluate_and_save, args=(evaluator1,questions_lower, final_answer, events,ques_id ,session)).start()
 
                 except Exception as e:
                     # Enhanced error logging to capture full OpenAI error response if available
