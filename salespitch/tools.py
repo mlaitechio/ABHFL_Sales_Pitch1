@@ -177,7 +177,10 @@ def create_output_extract_tools(base_dir="output_extracted2"):
         def make_tool_function(layout_path):
             def tool_func():
                 with open(layout_path, "r", encoding="utf-8") as f:
-                    return f.read() + "\n" + "For each step in the output, you must provide a valid image path or link that visually represents the step. "
+                    return f.read() + "\n" + """For every step, include the image exactly as provided in the content. Do not prepend sandbox:/ or modify the path in any way. Use the Markdown format like this:
+![Alt Text])(image_path start with media/...)
+
+If the provided path already includes media/..., use it exactly, even if the model normally tries to add a prefix. Never skip an image; if a step has no path, output an explicit error message."""
             return tool_func
 
         func = make_tool_function(layout_file)
