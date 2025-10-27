@@ -177,7 +177,7 @@ def create_output_extract_tools(base_dir="output_extracted2"):
         def make_tool_function(layout_path):
             def tool_func():
                 with open(layout_path, "r", encoding="utf-8") as f:
-                    return f.read() + "\n" + "Must provide image path link of each step. "
+                    return f.read() + "\n" + "For each step in the output, you must provide a valid image path or link that visually represents the step. "
             return tool_func
 
         func = make_tool_function(layout_file)
