@@ -61,5 +61,6 @@
   "sector_specific_norms": "Defined credit and lending norms applicable to specific sectors like Auto, Salon, Education, and Hospitality based on CIBIL score and loan type",
   "insurance": "Guidelines and requirements related to borrower or property insurance in the loan process",
   "Norms_ppr_PHCL": "Policies and lending norms specific to Pre-Property Release (PPR) and  PHCL (Property-Backed Home/Commercial Loan) segment",
-  "Khushi_home_loan":"Provide a details about khushi home loan"
+  "Khushi_home_loan":"Provide a details about khushi home loan",
+  "Bureau_Scorecard":"Provide Details about Bureau Scorecard or zakota scorecard or score like d1 to d10"
 }

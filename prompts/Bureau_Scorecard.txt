@@ -1,0 +1,51 @@
+Loan amount >50 Lac, Self Employed , BT transaction, Bureau Decile (1 to 4) & for select locations. Following changes has been enabled
+
+| Product  | Customer Type | Transaction Type | Bureau Decile                   | Location                                                                                                  | Remarks                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------- | ------------- | ---------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| HL & LAP | SENP/SEP      | Balance Transfer | 1 to 2( Not Allowed)            | Delhi NCR, Mumbai, Pune, Kolkata, Bangalore, Agra, Dehradun, Ludhiana, Nagpur, Raipur, Surat, Vadodara ## | Not Allowed                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| HL & LAP | SENP/SEP      | Balance Transfer | 3 & 4 ( Allowed, Refer Remarks) | Delhi NCR, Mumbai, Pune, Kolkata, Bangalore, Agra, Dehradun, Ludhiana, Nagpur, Raipur, Surat, Vadodara ## | Below mentioned parameters are NO GO category<br><br>FOIR Deviation =>20%<br>Decline in Turnover =>20%<br>Cash Rental income not to be considered<br>DPD or Bouncing in BT loan track in last 12 months<br>BT loan Vintage <=12 months<br>Banking Surrogate: Policy norm not met<br>Industrial/Plot Collateral Sourcing<br>Combined LTV on total exposure =>80%<br>Assessment: Mortgage Takeover (Express BT and Priority BT) Program |
+ 
+
+Bureau Scorecard table is as below
+
+ | Score Card | Score | Risk Index Interpretation | Self Employed LA <=50 Lacs | Cash Salaried | Bank Salaried | Self Employed Loan Amount > 50 Lacs Eligibility Program :Gross Receipt/Gross Turnover | Self Employed Loan Amount > 50 Lacs Loan Purpose :Balance Transfer \* | Office FI ( Loan Amount upto 50 lacs)    |
+| ---------- | ----- | ------------------------- | -------------------------- | ------------- | ------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------- |
+|  |
+|  |
+| Bureau     | D1    | Very High Risk            | Not Allowed                | Not Allowed   | Tele PD       | Not Allowed                                                                           | Not Allowed                                                           | SENP - NA // Salaried – Applicable       |
+| Bureau     | D2    | Very High Risk            | Not Allowed                | Not Allowed   | Tele PD       | Not Allowed                                                                           | Not Allowed                                                           | SENP - NA // Salaried – Applicable       |
+| Bureau     | D3    | Very High Risk            | Physical PD                | Physical PD   | Tele PD       | Not Allowed                                                                           | Physical PD<sup>1,3</sup>                                             | Not applicable where physical PD is done |
+| Bureau     | D4    | High Risk                 | Physical PD                | Physical PD   | Tele PD       | Not Allowed                                                                           | Physical PD<sup>1,3</sup>                                             | Not applicable where physical PD is done |
+| Bureau     | D5    | High Risk                 | Physical PD                | Physical PD   | Tele PD       | Physical PD<sup>1</sup>                                                               | Physical PD<sup>1</sup>                                               | Not applicable where physical PD is done |
+| Bureau     | D6    | Medium Risk               | Video PD<sup>2</sup>       | Physical PD   | Tele PD       | Physical PD<sup>1</sup>                                                               | Physical PD<sup>1</sup>                                               | Applicable where Video PD done           |
+| Bureau     | D7    | Medium Risk               | Video PD<sup>2</sup>       | Physical PD   | Tele PD       | Physical PD<sup>1</sup>                                                               | Physical PD<sup>1</sup>                                               | Applicable where Video PD done           |
+| Bureau     | D8    | Low Risk                  | Video PD<sup>2</sup>       | Physical PD   | Tele PD       | Physical PD<sup>1</sup>                                                               | Physical PD<sup>1</sup>                                               | Not Applicable                           |
+| Bureau     | D9    | Low Risk                  | Video PD<sup>2</sup>       | Physical PD   | Tele PD       | Physical PD<sup>1</sup>                                                               | Physical PD<sup>1</sup>                                               | Not Applicable                           |
+| Bureau     | D10   | Low Risk                  | Video PD<sup>2</sup>       | Physical PD   | Tele PD       | Physical PD<sup>1</sup>                                                               | Physical PD<sup>1</sup>                                               | Not Applicable                           |
+| Bureau     | NA    |  Not Applicable           | Physical PD                | Physical PD   | Tele PD       | Physical PD<sup>1</sup>                                                               | Physical PD<sup>1</sup>                                               | FI Applicable                            |
+ 
+
+*Applicable only for Agra, Dehradun, Kolkata, Ludhiana, Nagpur, Raipur, Surat, Vadodara, Bangalore, Delhi NCR, Mumbai, Pune
+
+1FI waiver as per policy and no waiver based on bureau Scorecard.
+
+2Video PD not applicable for
+
+East region and Branches as rolled out with 30+ >0.5% in new book.
+Negative profile & Resi Cum office profile not allowed for Video PD.
+ 
+
+3 Below mentioned parameters are NO GO category
+
+FOIR Deviation =>20%
+Decline in Turnover =>20%
+Cash Rental income not to be considered
+DPD or Bouncing in BT loan track in last 12 months
+BT loan Vintage <=12 months
+Banking Surrogate: Policy norm not met
+Industrial/Plot Collateral Sourcing
+Combined LTV on total exposure =>80%
+Assessment: Mortgage Takeover (Express BT and Priority BT) Program
+
+Kindly cascade to all the team members, please get in touch with Product/Risk team for any query.
+** The above circular and policy circulation for Internal purpose only **

@@ -7,6 +7,7 @@ GENERAL PURPOSE LOAN
         Loan would be linked to parent loans
 
     ** Loan Amount: **
+     Minimum : 3 lakhs
         - ▪ Cat A+/A: 50 lakhs
           ▪ Other locations: 30 lakhs
 

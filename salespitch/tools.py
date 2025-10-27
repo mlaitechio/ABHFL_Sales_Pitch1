@@ -111,6 +111,87 @@ def create_product_info_tool(product_name, abhfl_instance):
         name=tool_name,
         description=tool_description,
     )
+    
+def create_product_info_tool(product_name, abhfl_instance):
+    """Create a tool to retrieve information about a specific product."""
+    tool_name = product_name.lower().replace(" ", "_") + "_info"
+    product_descriptions = get_product_descriptions()
+    
+    if product_name in product_descriptions:
+        tool_description = product_descriptions[product_name]
+    else:
+        tool_description = f"Retrieve detailed information about the {product_name} product."
+    
+    def product_info_tool():
+        product_info = get_product_info(product_name)
+        with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
+            text = f.read()
+        # Append product info to system message
+        abhfl_instance.append_to_system_message(text + product_info)
+        return product_info
+
+    return StructuredTool.from_function(
+        func=product_info_tool,
+        name=tool_name,
+        description=tool_description,
+    )
+    
+def create_output_extract_tools(base_dir="output_extracted2"):
+    """Auto-generate tools from extracted PDF content folders."""
+    tools = []
+
+    if not os.path.exists(base_dir):
+        print(f"⚠ Directory not found: {base_dir}")
+        return tools
+
+    for folder in os.listdir(base_dir):
+        folder_path = os.path.join(base_dir, folder)
+        if not os.path.isdir(folder_path):
+            continue
+
+        # Detect files
+        summary_file = None
+        layout_file = None
+
+        for file in os.listdir(folder_path):
+            if file.lower().endswith("_summary.json"):
+                summary_file = os.path.join(folder_path, file)
+            elif file.lower().endswith("_layout.txt"):
+                layout_file = os.path.join(folder_path, file)
+
+        if not layout_file:
+            continue  # Skip folders without main text content
+
+        # Load description
+        description = f"Retrieve content for {folder}."
+        if summary_file and os.path.exists(summary_file):
+            try:
+                with open(summary_file, "r", encoding="utf-8") as f:
+                    summary_data = json.load(f)
+                # You can customize how to extract summary
+                description = summary_data.get("summarization", description)
+            except Exception:
+                pass
+
+        # Define the function for this tool
+        def make_tool_function(layout_path):
+            def tool_func():
+                with open(layout_path, "r", encoding="utf-8") as f:
+                    return f.read() + "\n" + "Must provide image path link of each step. "
+            return tool_func
+
+        func = make_tool_function(layout_file)
+        tool_name = folder.lower().replace(" ", "_").replace("-", "_")
+
+        tools.append(
+            StructuredTool.from_function(
+                func=func,
+                name=f"{tool_name}_tool",
+                description=description
+            )
+        )
+
+    return tools
 
 def create_tools(abhfl_instance):
     """Create and return a list of StructuredTools."""
@@ -302,9 +383,11 @@ StructuredTool.from_function(
         "micro_CF", "step_up", "step_down", "extended_tenure", "lease_rental_discounting",
         "express_balance_transfer_program", "prime_hl", "prime_lap", "priority_balance_transfer",
         "semi_fixed", "staff_loan_price", "power_pitches", "nri_assesment_criteria", "PMAY",
-        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","pre_prq_offer","approved_list_of_financers_mortage_takeover","FOIR_LTV_Max_loan_Grid_Affordable","Go_No_Go_Credit_Filters","Income_Eligibility_Method","Income_Ownership_Matrix","Risk_Assessment_Parameters","Balloon_Payment_prime","Bullet_Payment_prime","Funding_Hotel_Industrial_Educational_Institutes_Norms","Industry_Margin_List","Negative_Collateral","Negative_and_caution_Profiles","Negative_Country_List_for_NRI","Under_Construction_Property_Funding_Norms","Norms_for_Defense_Personnel","Norms_for_HIL_HEL_HCL","sector_specific_norms","insuarance","Norms_ppr_PHCL","Khushi_home_loan"
+        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","pre_prq_offer","approved_list_of_financers_mortage_takeover","FOIR_LTV_Max_loan_Grid_Affordable","Go_No_Go_Credit_Filters","Income_Eligibility_Method","Income_Ownership_Matrix","Risk_Assessment_Parameters","Balloon_Payment_prime","Bullet_Payment_prime","Funding_Hotel_Industrial_Educational_Institutes_Norms","Industry_Margin_List","Negative_Collateral","Negative_and_caution_Profiles","Negative_Country_List_for_NRI","Under_Construction_Property_Funding_Norms","Norms_for_Defense_Personnel","Norms_for_HIL_HEL_HCL","sector_specific_norms","insuarance","Norms_ppr_PHCL","Khushi_home_loan","Bureau_Scorecard"
+    ]
     ]
     for product_name in product_names:
         tools.append(create_product_info_tool(product_name, abhfl_instance))
-
+    tools.extend(create_output_extract_tools("output_extracted2"))
+    
     return tools
