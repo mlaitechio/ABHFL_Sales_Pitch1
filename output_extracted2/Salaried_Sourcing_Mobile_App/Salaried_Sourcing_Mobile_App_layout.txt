@@ -1,0 +1,978 @@
+Finverse User Manual – Mobile App
+Sourcing Journey - Salaried
+ABHFL Training Team, Finverse manual – Salaried Sourcing v1.0, July 2023
+/media/Salaried_Sourcing_Mobile_App/images/page1_full.png
+
+Agenda
+To install the app on your mobile and get started, use the below link
+https://finverselos.adityabirlacapital.com/apps/apk/abhfl.apk,
+•
+Copy and paste the link in Chrome browser
+•
+Download the APK file
+•
+Go to downloads folder in your mobile
+•
+Install the app using APK file
+This training module covers the Sourcing journey for “Salaried”
+/media/Salaried_Sourcing_Mobile_App/images/page2_full.png
+
+Sourcing Journey - Salaried
+Select this option to login and
+enter your credentials
+/media/Salaried_Sourcing_Mobile_App/images/page3_full.png
+
+Sourcing Journey - Salaried
+Enter your employee ID and
+password
+/media/Salaried_Sourcing_Mobile_App/images/page4_full.png
+
+Sourcing Journey - Salaried
+To start adding the details of a
+new application, click here
+/media/Salaried_Sourcing_Mobile_App/images/page5_full.png
+
+Sourcing Journey - Salaried
+Click Yes if case is sourced by
+“Branch”
+/media/Salaried_Sourcing_Mobile_App/images/page6_full.png
+
+Sourcing Journey - Salaried
+Enter customer’s mobile
+number
+/media/Salaried_Sourcing_Mobile_App/images/page7_full.png
+
+Sourcing Journey - Salaried
+Sales CRM ID will get auto populated
+/media/Salaried_Sourcing_Mobile_App/images/page8_full.png
+
+Sourcing Journey - Salaried
+If sales executives or senior sales executive is logging in
+file than his name will auto populate under sales
+executive name and sales executive need to select his
+reporting manager name under RM name.
+Sales Manager need to enter only their name in RM name
+/media/Salaried_Sourcing_Mobile_App/images/page9_full.png
+
+Sourcing Journey - Salaried
+Click on proceed
+/media/Salaried_Sourcing_Mobile_App/images/page10_full.png
+
+Sourcing Journey - Salaried
+Select “Residency Status”, “BT
+Flag”, “Type of Property” as
+applicable
+/media/Salaried_Sourcing_Mobile_App/images/page11_full.png
+
+Sourcing Journey - Salaried
+Select Seller BT as applicable and fill
+other details from dropdown menus
+/media/Salaried_Sourcing_Mobile_App/images/page12_full.png
+
+Sourcing Journey - Salaried
+Select the applicable
+segment
+from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page13_full.png
+
+Sourcing Journey - Salaried
+Select Product from dropdown menu
+/media/Salaried_Sourcing_Mobile_App/images/page14_full.png
+
+Sourcing Journey - Salaried
+Select the applicable
+product
+from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page15_full.png
+
+Sourcing Journey - Salaried
+Select Variant
+/media/Salaried_Sourcing_Mobile_App/images/page16_full.png
+
+Sourcing Journey - Salaried
+Select the applicable
+variant
+from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page17_full.png
+
+Sourcing Journey - Salaried
+Select Sub Variant
+/media/Salaried_Sourcing_Mobile_App/images/page18_full.png
+
+Sourcing Journey - Salaried
+Select the applicable
+sub
+variant
+from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page19_full.png
+
+Sourcing Journey - Salaried
+Select Eligibility Program
+/media/Salaried_Sourcing_Mobile_App/images/page20_full.png
+
+Sourcing Journey - Salaried
+Select the applicable
+eligibility
+program
+from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page21_full.png
+
+Sourcing Journey - Salaried
+Select construction status
+/media/Salaried_Sourcing_Mobile_App/images/page22_full.png
+
+Sourcing Journey - Salaried
+Select the applicable
+construction status
+from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page23_full.png
+
+Sourcing Journey - Salaried
+Select Proposed Property
+Occupancy
+/media/Salaried_Sourcing_Mobile_App/images/page24_full.png
+
+Sourcing Journey - Salaried
+Select the applicable
+proposed
+property occupancy
+from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page25_full.png
+
+Sourcing Journey - Salaried
+Enter details of
+property city
+/media/Salaried_Sourcing_Mobile_App/images/page26_full.png
+
+Sourcing Journey - Salaried
+Enter expected market value
+and required loan amount
+/media/Salaried_Sourcing_Mobile_App/images/page27_full.png
+
+Sourcing Journey - Salaried
+Enter ROI as per RAAC rate and
+applicable tenure
+/media/Salaried_Sourcing_Mobile_App/images/page28_full.png
+
+Sourcing Journey - Salaried
+If there is a secondary product,
+click on add product and add
+product details
+/media/Salaried_Sourcing_Mobile_App/images/page29_full.png
+
+Sourcing Journey - Salaried
+Add Secondary Product Details. Once
+Secondary Product is added – Segment,
+Product & Eligibility Program shall be
+populated and is Not-Editable. Variant, Sub-
+Variant can be added as the case maybe
+/media/Salaried_Sourcing_Mobile_App/images/page30_full.png
+
+Sourcing Journey - Salaried
+Add Sub Variant. Other details
+will be auto populated
+/media/Salaried_Sourcing_Mobile_App/images/page31_full.png
+
+Sourcing Journey - Salaried
+Select applicable sub variant
+from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page32_full.png
+
+Sourcing Journey - Salaried
+Enter required loan amount for
+secondary product
+/media/Salaried_Sourcing_Mobile_App/images/page33_full.png
+
+Sourcing Journey - Salaried
+Enter ROI and tenure for
+secondary product
+/media/Salaried_Sourcing_Mobile_App/images/page34_full.png
+
+Sourcing Journey - Salaried
+Click on proceed to move to
+next screen
+/media/Salaried_Sourcing_Mobile_App/images/page35_full.png
+
+Sourcing Journey - Salaried
+Add applicant details on
+this page
+/media/Salaried_Sourcing_Mobile_App/images/page36_full.png
+
+Sourcing Journey - Salaried
+Select applicant profile as
+salaried
+/media/Salaried_Sourcing_Mobile_App/images/page37_full.png
+
+Sourcing Journey - Salaried
+Enter Applicant Information. Once PAN
+Number is verified name, gender, DOB
+and age gets auto populated
+/media/Salaried_Sourcing_Mobile_App/images/page38_full.png
+
+Sourcing Journey - Salaried
+Ensure that customer’s name is
+as per Aadhar card
+/media/Salaried_Sourcing_Mobile_App/images/page39_full.png
+
+Sourcing Journey - Salaried
+Ensure that customer’s mobile
+number is correct. Verification
+OTP will be sent on this number
+/media/Salaried_Sourcing_Mobile_App/images/page40_full.png
+
+Sourcing Journey - Salaried
+Enter city
+/media/Salaried_Sourcing_Mobile_App/images/page41_full.png
+
+Sourcing Journey - Salaried
+Select qualification from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page42_full.png
+
+Sourcing Journey - Salaried
+Enter designation, personal
+email ID and Official email ID if
+available
+/media/Salaried_Sourcing_Mobile_App/images/page43_full.png
+
+Sourcing Journey - Salaried
+Select applicable option
+/media/Salaried_Sourcing_Mobile_App/images/page44_full.png
+
+Sourcing Journey - Salaried
+Click on Proceed
+/media/Salaried_Sourcing_Mobile_App/images/page45_full.png
+
+Sourcing Journey - Salaried
+Verification of mobile number
+and email ID will happen on
+this page
+/media/Salaried_Sourcing_Mobile_App/images/page46_full.png
+
+Sourcing Journey - Salaried
+Once you click on verify,
+verification code will be sent to
+the customer’s mobile number
+/media/Salaried_Sourcing_Mobile_App/images/page47_full.png
+
+Sourcing Journey - Salaried
+Enter the verification code and
+click on verify
+/media/Salaried_Sourcing_Mobile_App/images/page48_full.png
+
+Sourcing Journey - Salaried
+Green tick indicates that mobile
+number is verified
+/media/Salaried_Sourcing_Mobile_App/images/page49_full.png
+
+Sourcing Journey - Salaried
+Click on send verification code to
+verify email ID. Verification code will
+be sent to customer’s email ID
+/media/Salaried_Sourcing_Mobile_App/images/page50_full.png
+
+Sourcing Journey - Salaried
+Enter the verification code and click
+on verify
+/media/Salaried_Sourcing_Mobile_App/images/page51_full.png
+
+Sourcing Journey - Salaried
+Green tick indicates that email id is
+verified. Once Verified all
+communications shall happen on the
+said number/ e-mail ID
+/media/Salaried_Sourcing_Mobile_App/images/page52_full.png
+
+Sourcing Journey - Salaried
+Click here to accept terms
+and conditions
+/media/Salaried_Sourcing_Mobile_App/images/page53_full.png
+
+Sourcing Journey - Salaried
+Click on proceed to move to
+next screen
+/media/Salaried_Sourcing_Mobile_App/images/page54_full.png
+
+Sourcing Journey - Salaried
+Add applicant’s income and
+obligation details on this screen
+/media/Salaried_Sourcing_Mobile_App/images/page55_full.png
+
+Sourcing Journey - Salaried
+Select employer type from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page56_full.png
+
+Sourcing Journey - Salaried
+Select Employer type from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page57_full.png
+
+Sourcing Journey - Salaried
+Enter Employer Name
+/media/Salaried_Sourcing_Mobile_App/images/page58_full.png
+
+Sourcing Journey - Salaried
+Employer category will get
+auto populated
+/media/Salaried_Sourcing_Mobile_App/images/page59_full.png
+
+Sourcing Journey - Salaried
+Enter applicant’s total work
+experience
+/media/Salaried_Sourcing_Mobile_App/images/page60_full.png
+
+Sourcing Journey - Salaried
+Enter applicant’s retirement age
+/media/Salaried_Sourcing_Mobile_App/images/page61_full.png
+
+Sourcing Journey - Salaried
+Enter applicant’s salary details
+/media/Salaried_Sourcing_Mobile_App/images/page62_full.png
+
+Sourcing Journey - Salaried
+Add other income. Select type of
+income from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page63_full.png
+
+Sourcing Journey - Salaried
+Select the type of other income
+from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page64_full.png
+
+Sourcing Journey - Salaried
+Enter the amount.
+Click on add income if you want to add more
+sources of additional income
+/media/Salaried_Sourcing_Mobile_App/images/page65_full.png
+
+Sourcing Journey - Salaried
+Enter existing obligation details here.
+Select type of obligation from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page66_full.png
+
+Sourcing Journey - Salaried
+Select type of obligation
+from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page67_full.png
+
+Sourcing Journey - Salaried
+Enter the amount.
+Click on add loans if you want
+to add more loans
+/media/Salaried_Sourcing_Mobile_App/images/page68_full.png
+
+Sourcing Journey - Salaried
+Click on yes to automate the
+process of financial data
+/media/Salaried_Sourcing_Mobile_App/images/page69_full.png
+
+Sourcing Journey - Salaried
+Click here to proceed
+/media/Salaried_Sourcing_Mobile_App/images/page70_full.png
+
+Sourcing Journey - Salaried
+Loan Eligibility request details can
+be seen here as per data entered
+previously
+/media/Salaried_Sourcing_Mobile_App/images/page71_full.png
+
+Sourcing Journey - Salaried
+Choose applicable
+option
+/media/Salaried_Sourcing_Mobile_App/images/page72_full.png
+
+Sourcing Journey - Salaried
+Click on continue
+/media/Salaried_Sourcing_Mobile_App/images/page73_full.png
+
+Sourcing Journey - Salaried
+Review eligibility
+details here
+/media/Salaried_Sourcing_Mobile_App/images/page74_full.png
+
+Sourcing Journey - Salaried
+Add Non Financial Co-
+applicant if any
+/media/Salaried_Sourcing_Mobile_App/images/page75_full.png
+
+Sourcing Journey - Salaried
+Add details of Non Financial Co-
+applicant
+/media/Salaried_Sourcing_Mobile_App/images/page76_full.png
+
+Sourcing Journey - Salaried
+Enter PAN card number
+/media/Salaried_Sourcing_Mobile_App/images/page77_full.png
+
+Sourcing Journey - Salaried
+Once PAN number is entered. Other
+details get auto populated
+/media/Salaried_Sourcing_Mobile_App/images/page78_full.png
+
+Sourcing Journey - Salaried
+Enter relationship with applicant
+/media/Salaried_Sourcing_Mobile_App/images/page79_full.png
+
+Sourcing Journey - Salaried
+Select co-applicant’s relationship with
+the applicant
+/media/Salaried_Sourcing_Mobile_App/images/page80_full.png
+
+Sourcing Journey - Salaried
+Enter co-applicant’s mobile number.
+Ensure that the mobile number is
+correct as verification code will be
+sent on this number
+/media/Salaried_Sourcing_Mobile_App/images/page81_full.png
+
+Sourcing Journey - Salaried
+Enter other required details of the co-
+applicant
+/media/Salaried_Sourcing_Mobile_App/images/page82_full.png
+
+Sourcing Journey - Salaried
+Verify Co-applicant’s mobile number
+by entering the verification received
+on their mobile number
+/media/Salaried_Sourcing_Mobile_App/images/page83_full.png
+
+Sourcing Journey - Salaried
+Verify Co-applicant’s email ID by
+entering the code received on their
+email ID
+/media/Salaried_Sourcing_Mobile_App/images/page84_full.png
+
+Sourcing Journey - Salaried
+Click here to accept the terms and
+conditions and click on Proceed
+/media/Salaried_Sourcing_Mobile_App/images/page85_full.png
+
+Sourcing Journey - Salaried
+Check the loan eligibility details here
+/media/Salaried_Sourcing_Mobile_App/images/page86_full.png
+
+Sourcing Journey - Salaried
+Click here to update
+applicant type
+/media/Salaried_Sourcing_Mobile_App/images/page87_full.png
+
+Sourcing Journey - Salaried
+To update applicant type
+select from the dropdown
+and click on save
+/media/Salaried_Sourcing_Mobile_App/images/page88_full.png
+
+Sourcing Journey - Salaried
+Click here to add
+more co-applicants
+/media/Salaried_Sourcing_Mobile_App/images/page89_full.png
+
+Sourcing Journey - Salaried
+Click here to
+Proceed
+/media/Salaried_Sourcing_Mobile_App/images/page90_full.png
+
+Sourcing Journey - Salaried
+Bureau check for applicant and
+co-applicant is done here
+/media/Salaried_Sourcing_Mobile_App/images/page91_full.png
+
+Sourcing Journey - Salaried
+Select address type from the
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page92_full.png
+
+Sourcing Journey - Salaried
+Enter pincode
+/media/Salaried_Sourcing_Mobile_App/images/page93_full.png
+
+Slide No
+Sourcing Journey - Salaried
+Enter address details
+/media/Salaried_Sourcing_Mobile_App/images/page94_full.png
+
+Sourcing Journey - Salaried
+Click here to initiate bureau
+check
+/media/Salaried_Sourcing_Mobile_App/images/page95_full.png
+
+Sourcing Journey - Salaried
+Bureau check for applicant is
+completed
+/media/Salaried_Sourcing_Mobile_App/images/page96_full.png
+
+Sourcing Journey - Salaried
+Select the co-applicant and fill
+the address details of co-
+applicant (if different from
+applicant)
+/media/Salaried_Sourcing_Mobile_App/images/page97_full.png
+
+Sourcing Journey - Salaried
+Initiate bureau check for co-
+applicant
+/media/Salaried_Sourcing_Mobile_App/images/page98_full.png
+
+Sourcing Journey - Salaried
+Complete bureau check for
+applicant and all co-applicants
+/media/Salaried_Sourcing_Mobile_App/images/page99_full.png
+
+Sourcing Journey - Salaried
+Click here to proceed
+/media/Salaried_Sourcing_Mobile_App/images/page100_full.png
+
+Sourcing Journey - Salaried
+Review fees and charges here
+/media/Salaried_Sourcing_Mobile_App/images/page101_full.png
+
+Sourcing Journey - Salaried
+Click on the pencil icon to edit
+fees
+/media/Salaried_Sourcing_Mobile_App/images/page102_full.png
+
+Sourcing Journey - Salaried
+Edit fees if required
+/media/Salaried_Sourcing_Mobile_App/images/page103_full.png
+
+Sourcing Journey - Salaried
+Accept offer and tick make
+payment
+/media/Salaried_Sourcing_Mobile_App/images/page104_full.png
+
+Sourcing Journey - Salaried
+Select payment mode
+/media/Salaried_Sourcing_Mobile_App/images/page105_full.png
+
+Sourcing Journey - Salaried
+Select Online Payment
+/media/Salaried_Sourcing_Mobile_App/images/page106_full.png
+
+Sourcing Journey - Salaried
+Select this option, payment link
+will be sent to applicant
+/media/Salaried_Sourcing_Mobile_App/images/page107_full.png
+
+Sourcing Journey - Salaried
+Once payment is completed,
+this screen appears
+/media/Salaried_Sourcing_Mobile_App/images/page108_full.png
+
+Sourcing Journey - Salaried
+Click on Proceed to additional
+details screen to add additional
+details of applicant and co-
+applicant
+/media/Salaried_Sourcing_Mobile_App/images/page109_full.png
+
+Sourcing Journey - Salaried
+Select Applicant’s name from
+dropdown and add personal
+details
+/media/Salaried_Sourcing_Mobile_App/images/page110_full.png
+
+Sourcing Journey - Salaried
+Enter all the required details
+/media/Salaried_Sourcing_Mobile_App/images/page111_full.png
+
+Sourcing Journey - Salaried
+Select category from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page112_full.png
+
+Sourcing Journey - Salaried
+Select applicable category from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page113_full.png
+
+Sourcing Journey - Salaried
+Select type of residence from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page114_full.png
+
+Sourcing Journey - Salaried
+Enter customer’s Aadhar
+number for e verification. Wait
+for few minutes to get the OTP
+for Aadhar verification
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page115_full.png
+
+Sourcing Journey - Salaried
+Enter verification code received
+on customer’s mobile number
+and click on Proceed
+/media/Salaried_Sourcing_Mobile_App/images/page116_full.png
+
+Sourcing Journey - Salaried
+If customer does not receive
+OTP then verify through
+DigiLocker. Verification link will
+be sent to the customer
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page117_full.png
+
+Sourcing Journey - Salaried
+Click on send verification link
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page118_full.png
+
+Sourcing Journey - Salaried
+Verification link is sent to the
+customer
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page119_full.png
+
+Sourcing Journey - Salaried
+Applicant needs to login to
+customer portal
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page120_full.png
+
+Sourcing Journey - Salaried
+Customer will receive OTP for
+login
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page121_full.png
+
+Sourcing Journey - Salaried
+Customer needs to select
+application for which
+verification needs to be done
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page122_full.png
+
+Sourcing Journey - Salaried
+Customer needs to enter the
+capcha
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page123_full.png
+
+Sourcing Journey - Salaried
+Customer needs to enter the
+OTP
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page124_full.png
+
+Sourcing Journey - Salaried
+Customer needs to click on
+allow
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page125_full.png
+
+Sourcing Journey - Salaried
+Customer will receive the
+message that verification is
+complete
+*******
+/media/Salaried_Sourcing_Mobile_App/images/page126_full.png
+
+Sourcing Journey - Salaried
+Once Aadhar is verified, it gets
+masked automatically and
+verification status changes to
+completed
+/media/Salaried_Sourcing_Mobile_App/images/page127_full.png
+
+Sourcing Journey - Salaried
+Select the applicable
+option
+/media/Salaried_Sourcing_Mobile_App/images/page128_full.png
+
+Sourcing Journey - Salaried
+Click here to add office address
+/media/Salaried_Sourcing_Mobile_App/images/page129_full.png
+
+Sourcing Journey - Salaried
+Add office address
+/media/Salaried_Sourcing_Mobile_App/images/page130_full.png
+
+Sourcing Journey - Salaried
+Click here to proceed
+/media/Salaried_Sourcing_Mobile_App/images/page131_full.png
+
+Sourcing Journey - Salaried
+Select applicant’s preferred
+mailing address
+/media/Salaried_Sourcing_Mobile_App/images/page132_full.png
+
+Sourcing Journey - Salaried
+Select applicant’s preferred
+email Id for communication
+/media/Salaried_Sourcing_Mobile_App/images/page133_full.png
+
+Sourcing Journey - Salaried
+Select applicant’s
+preferred language
+/media/Salaried_Sourcing_Mobile_App/images/page134_full.png
+
+Sourcing Journey - Salaried
+Select applicant’s salary type
+/media/Salaried_Sourcing_Mobile_App/images/page135_full.png
+
+Sourcing Journey - Salaried
+Consent for ABHFL will be
+already marked, do not make
+any changes here
+/media/Salaried_Sourcing_Mobile_App/images/page136_full.png
+
+Sourcing Journey - Salaried
+Click on Switch to Document
+Upload
+/media/Salaried_Sourcing_Mobile_App/images/page137_full.png
+
+Sourcing Journey - Salaried
+Upload customer’s documents
+here
+/media/Salaried_Sourcing_Mobile_App/images/page138_full.png
+
+Sourcing Journey - Salaried
+Click here to capture applicant’s
+photo using your phone’s
+camera
+/media/Salaried_Sourcing_Mobile_App/images/page139_full.png
+
+Sourcing Journey - Salaried
+Once photo is uploaded you get
+confirmation message
+/media/Salaried_Sourcing_Mobile_App/images/page140_full.png
+
+Sourcing Journey - Salaried
+Click here to upload identity
+proof
+/media/Salaried_Sourcing_Mobile_App/images/page141_full.png
+
+Sourcing Journey - Salaried
+To upload the document, you can click the document’s
+picture using your phone’s camera or upload an image from
+your phone’s gallery or upload a PDF document downloaded
+on your phone
+/media/Salaried_Sourcing_Mobile_App/images/page142_full.png
+
+Sourcing Journey - Salaried
+Click here to select document
+type
+/media/Salaried_Sourcing_Mobile_App/images/page143_full.png
+
+Sourcing Journey - Salaried
+Select the type of document for
+identity proof from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page144_full.png
+
+Sourcing Journey - Salaried
+Upload address proof. Select the
+type of document for address
+proof from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page145_full.png
+
+Sourcing Journey - Salaried
+Since this is salaried case, upload
+Form 16 or salary slip
+/media/Salaried_Sourcing_Mobile_App/images/page146_full.png
+
+Sourcing Journey - Salaried
+Select document type from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page147_full.png
+
+Sourcing Journey - Salaried
+Upload last 6 months’ bank
+statement
+/media/Salaried_Sourcing_Mobile_App/images/page148_full.png
+
+Sourcing Journey - Salaried
+If any document is pending for
+applicant or co-applicant, you
+will get a pop-up message
+/media/Salaried_Sourcing_Mobile_App/images/page149_full.png
+
+Sourcing Journey - Salaried
+Once all documents are uploaded select the declaration
+that you have seen and verified all the original
+documents
+Click on Proceed
+/media/Salaried_Sourcing_Mobile_App/images/page150_full.png
+
+Sourcing Journey - Salaried
+Click here to add additional
+details of co-applicant
+/media/Salaried_Sourcing_Mobile_App/images/page151_full.png
+
+Sourcing Journey - Salaried
+Select the co-applicant’s
+name to add additional
+details
+/media/Salaried_Sourcing_Mobile_App/images/page152_full.png
+
+Sourcing Journey - Salaried
+Add personal details of co-
+applicant
+/media/Salaried_Sourcing_Mobile_App/images/page153_full.png
+
+Sourcing Journey - Salaried
+Add personal details of co-
+applicant
+/media/Salaried_Sourcing_Mobile_App/images/page154_full.png
+
+Sourcing Journey - Salaried
+Select co-applicants preferred
+mailing address, email Id and
+language
+/media/Salaried_Sourcing_Mobile_App/images/page155_full.png
+
+Sourcing Journey - Salaried
+Mark the consent for co-
+applicant
+/media/Salaried_Sourcing_Mobile_App/images/page156_full.png
+
+Sourcing Journey - Salaried
+Upload co-applicant’s
+documents
+/media/Salaried_Sourcing_Mobile_App/images/page157_full.png
+
+Sourcing Journey - Salaried
+Capture co-applicant’s photo
+/media/Salaried_Sourcing_Mobile_App/images/page158_full.png
+
+Sourcing Journey - Salaried
+Upload identity and address proof similar to
+applicant. Also, upload relationship proof with
+the applicant
+/media/Salaried_Sourcing_Mobile_App/images/page159_full.png
+
+Sourcing Journey - Salaried
+Select type of relationship proof
+from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page160_full.png
+
+Sourcing Journey - Salaried
+Confirm that you have seen and
+verified original documents
+/media/Salaried_Sourcing_Mobile_App/images/page161_full.png
+
+Sourcing Journey - Salaried
+Click on proceed
+/media/Salaried_Sourcing_Mobile_App/images/page162_full.png
+
+Sourcing Journey - Salaried
+Green tick confirms that documents
+have been uploaded for both
+applicant and co-applicant
+/media/Salaried_Sourcing_Mobile_App/images/page163_full.png
+
+Sourcing Journey - Salaried
+Enter property details
+here
+/media/Salaried_Sourcing_Mobile_App/images/page164_full.png
+
+Sourcing Journey - Salaried
+Enter property details
+here
+/media/Salaried_Sourcing_Mobile_App/images/page165_full.png
+
+Sourcing Journey - Salaried
+Select type of collateral from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page166_full.png
+
+Sourcing Journey - Salaried
+Enter Pincode
+/media/Salaried_Sourcing_Mobile_App/images/page167_full.png
+
+Sourcing Journey - Salaried
+Enter Locality
+/media/Salaried_Sourcing_Mobile_App/images/page168_full.png
+
+Sourcing Journey - Salaried
+Enter Landmark
+/media/Salaried_Sourcing_Mobile_App/images/page169_full.png
+
+Sourcing Journey - Salaried
+Select type of
+property
+/media/Salaried_Sourcing_Mobile_App/images/page170_full.png
+
+Sourcing Journey - Salaried
+Select unit type from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page171_full.png
+
+Sourcing Journey - Salaried
+Enter complete address
+/media/Salaried_Sourcing_Mobile_App/images/page172_full.png
+
+Sourcing Journey - Salaried
+Select property transaction type from
+dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page173_full.png
+
+Sourcing Journey - Salaried
+Enter revenue record type and number
+/media/Salaried_Sourcing_Mobile_App/images/page174_full.png
+
+Sourcing Journey - Salaried
+Add details of reference 1 and reference 2
+/media/Salaried_Sourcing_Mobile_App/images/page175_full.png
+
+Sourcing Journey - Salaried
+Select reference’s relationship with the
+applicant
+/media/Salaried_Sourcing_Mobile_App/images/page176_full.png
+
+Sourcing Journey - Salaried
+Enter reference’s address details
+/media/Salaried_Sourcing_Mobile_App/images/page177_full.png
+
+Sourcing Journey - Salaried
+Click on Save and enter the details of
+Reference 2
+/media/Salaried_Sourcing_Mobile_App/images/page178_full.png
+
+Sourcing Journey - Salaried
+Once additional details are added and
+documents are uploaded and green tick
+comes, this tab gets activated
+/media/Salaried_Sourcing_Mobile_App/images/page179_full.png
+
+Sourcing Journey - Salaried
+Enter details as applicable
+/media/Salaried_Sourcing_Mobile_App/images/page180_full.png
+
+Sourcing Journey - Salaried
+Ensure that correct sourcing channel is
+selected and DSA and RP code is
+entered correctly. In future this will
+flow from SFDC
+/media/Salaried_Sourcing_Mobile_App/images/page181_full.png
+
+Sourcing Journey - Salaried
+Select sourcing channel from dropdown
+/media/Salaried_Sourcing_Mobile_App/images/page182_full.png
+
+Sourcing Journey - Salaried
+Enter DSA name. This needs to be captured
+correctly.
+/media/Salaried_Sourcing_Mobile_App/images/page183_full.png
+
+Sourcing Journey - Salaried
+Select DSA name
+/media/Salaried_Sourcing_Mobile_App/images/page184_full.png
+
+Sourcing Journey - Salaried
+Add BCM details as per your location
+/media/Salaried_Sourcing_Mobile_App/images/page185_full.png
+
+Sourcing Journey - Salaried
+Please ensure all details entered on this
+page is correct. Click on proceed
+/media/Salaried_Sourcing_Mobile_App/images/page186_full.png
+
+Sourcing Journey - Salaried
+This screen appears once case is
+submitted. Case once submitted shall be
+pushed to CPH Tray
+/media/Salaried_Sourcing_Mobile_App/images/page187_full.png
+
+Thank You
+/media/Salaried_Sourcing_Mobile_App/images/page188_full.png

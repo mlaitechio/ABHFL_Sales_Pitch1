@@ -1,0 +1,727 @@
+{
+  "file": "abhflfinverseall\\Ops Checklist - Jan'23 v1.0.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Deal ID"
+        },
+        {
+          "type": "text",
+          "text": "Loan amt Approved (Rs)"
+        },
+        {
+          "type": "text",
+          "text": "Applicant Name"
+        },
+        {
+          "type": "text",
+          "text": "Product"
+        },
+        {
+          "type": "text",
+          "text": "Co-applicant Name"
+        },
+        {
+          "type": "text",
+          "text": "Scheme"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Sub scheme"
+        },
+        {
+          "type": "text",
+          "text": "Document Name"
+        },
+        {
+          "type": "text",
+          "text": "Checkpoints"
+        },
+        {
+          "type": "text",
+          "text": "Guidelines"
+        },
+        {
+          "type": "text",
+          "text": "Operations"
+        },
+        {
+          "type": "text",
+          "text": "Manager"
+        },
+        {
+          "type": "text",
+          "text": "System generated"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Memo"
+        },
+        {
+          "type": "text",
+          "text": "(Physical copy not"
+        },
+        {
+          "type": "text",
+          "text": "required)"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Amount"
+        },
+        {
+          "type": "text",
+          "text": "DRF, SL"
+        },
+        {
+          "type": "text",
+          "text": "Fees Details (Cersai/Balance PF/IMGC charges) with Clearance"
+        },
+        {
+          "type": "text",
+          "text": "status / capitalization confirmation"
+        },
+        {
+          "type": "text",
+          "text": "SL, DRF"
+        },
+        {
+          "type": "text",
+          "text": "Mode of Disbursement (Cheques/DD/ Online Transfer)"
+        },
+        {
+          "type": "text",
+          "text": "Payment Favouring Details to be verified"
+        },
+        {
+          "type": "text",
+          "text": "DRF, Cancelled Cheque"
+        },
+        {
+          "type": "text",
+          "text": "Linked LAN (if any) other LAN to be verified"
+        },
+        {
+          "type": "text",
+          "text": "System, SL, FA"
+        },
+        {
+          "type": "text",
+          "text": "Payment in favour of DSRA (if applicable)"
+        },
+        {
+          "type": "text",
+          "text": "DRF, SL"
+        },
+        {
+          "type": "text",
+          "text": "Payment in favour of Insurance (if applicable)"
+        },
+        {
+          "type": "text",
+          "text": "DRF, SL"
+        },
+        {
+          "type": "text",
+          "text": "Payment in favour of NOI (if applicable)"
+        },
+        {
+          "type": "text",
+          "text": "DRF, SL"
+        },
+        {
+          "type": "text",
+          "text": "Accepted Sanction letter"
+        },
+        {
+          "type": "text",
+          "text": "(Physical copy of sanction"
+        },
+        {
+          "type": "text",
+          "text": "letter not required if it is"
+        },
+        {
+          "type": "text",
+          "text": "digitally signed)"
+        },
+        {
+          "type": "text",
+          "text": "Validity of SL within 60 days from the date of issuance of SL"
+        },
+        {
+          "type": "text",
+          "text": "Only system generated sanction"
+        },
+        {
+          "type": "text",
+          "text": "letter to be accepted"
+        },
+        {
+          "type": "text",
+          "text": "Duly signed by applicant/co-applicants and ABHFL authorized"
+        },
+        {
+          "type": "text",
+          "text": "signatory"
+        },
+        {
+          "type": "text",
+          "text": "Most Important Terms &"
+        },
+        {
+          "type": "text",
+          "text": "Conditions (MITC)"
+        },
+        {
+          "type": "text",
+          "text": "(Physical copy of MITC"
+        },
+        {
+          "type": "text",
+          "text": "not required if it is"
+        },
+        {
+          "type": "text",
+          "text": "digitally signed)"
+        },
+        {
+          "type": "text",
+          "text": "Duly signed by applicant/co-applicants and ABHFL authorized"
+        },
+        {
+          "type": "text",
+          "text": "signatory"
+        },
+        {
+          "type": "text",
+          "text": "Only system generated MITC to be"
+        },
+        {
+          "type": "text",
+          "text": "accepted"
+        },
+        {
+          "type": "text",
+          "text": "Loan/facility agreement"
+        },
+        {
+          "type": "text",
+          "text": "within 6 months of"
+        },
+        {
+          "type": "text",
+          "text": "franking and stamped as"
+        },
+        {
+          "type": "text",
+          "text": "per applicable Stamp Act"
+        },
+        {
+          "type": "text",
+          "text": "(Physical copy not"
+        },
+        {
+          "type": "text",
+          "text": "required if digitally"
+        },
+        {
+          "type": "text",
+          "text": "signed)"
+        },
+        {
+          "type": "text",
+          "text": "Check the availability and completeness of the Loan Agreement"
+        },
+        {
+          "type": "text",
+          "text": "with Schedule details filled & verified along with following checks:"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "DPN"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "Letter of continuity"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "End use letter (as per sanction letter/approval mail)"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "Vernacular undertaking (if applicable)"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "DRF"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "Letter confirming communication through emails"
+        },
+        {
+          "type": "text",
+          "text": "Check with System, SL"
+        },
+        {
+          "type": "text",
+          "text": "Only system generated facility"
+        },
+        {
+          "type": "text",
+          "text": "agreement to be accepted"
+        },
+        {
+          "type": "text",
+          "text": "Signed by Applicants/Co Applicants and ABHFL authorized"
+        },
+        {
+          "type": "text",
+          "text": "signatories"
+        },
+        {
+          "type": "text",
+          "text": "Date of facility agreement execution is on or after date of issuance"
+        },
+        {
+          "type": "text",
+          "text": "of sanction letter"
+        },
+        {
+          "type": "text",
+          "text": "Check with System, SL"
+        },
+        {
+          "type": "text",
+          "text": "Stamp paper issued in the name of borrowers or ABHFL"
+        },
+        {
+          "type": "text",
+          "text": "Stamp paper"
+        },
+        {
+          "type": "text",
+          "text": "Repayment Mandates"
+        },
+        {
+          "type": "text",
+          "text": "(Manual NACH is not"
+        },
+        {
+          "type": "text",
+          "text": "required if it is digitally"
+        },
+        {
+          "type": "text",
+          "text": "verified)"
+        },
+        {
+          "type": "text",
+          "text": "Scenario 1"
+        },
+        {
+          "type": "text",
+          "text": ":"
+        },
+        {
+          "type": "text",
+          "text": "ENACH is registered before disbursement"
+        },
+        {
+          "type": "text",
+          "text": "3 security PDC"
+        },
+        {
+          "type": "text",
+          "text": "Scenario 2:"
+        },
+        {
+          "type": "text",
+          "text": "ENACH is not registered before disbursement"
+        },
+        {
+          "type": "text",
+          "text": "4 Copies of NACH form i.e.,2 of IndusInd and 2 of tech Process"
+        },
+        {
+          "type": "text",
+          "text": "6 PDC (Post Dated Cheques) =1CANCELLED CHQ+1BP (Broken"
+        },
+        {
+          "type": "text",
+          "text": "period interest) CHQ+4PDC]and 1BP to be held back with BOMs"
+        },
+        {
+          "type": "text",
+          "text": "NACH mandates to be maximum of"
+        },
+        {
+          "type": "text",
+          "text": "loan amount or Rs. 1Cr.whichever is"
+        },
+        {
+          "type": "text",
+          "text": "Lower"
+        },
+        {
+          "type": "text",
+          "text": "Check whether Bank Name updated"
+        },
+        {
+          "type": "text",
+          "text": "in the NACH Live Bank list for"
+        },
+        {
+          "type": "text",
+          "text": "provided repayment NACH"
+        },
+        {
+          "type": "text",
+          "text": "("
+        },
+        {
+          "type": "text",
+          "text": "http://www.npci.irg.in/"
+        },
+        {
+          "type": "text",
+          "text": "clearing.aspx)"
+        },
+        {
+          "type": "text",
+          "text": "For Non-resident individuals:"
+        },
+        {
+          "type": "text",
+          "text": "DISBURSEMENT CHECKLIST"
+        },
+        {
+          "type": "text",
+          "text": "Version No: 1.0 dt Jan’23"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Circulation only"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Ops_Checklist_Jan_23_v1.0/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "Document Name"
+        },
+        {
+          "type": "text",
+          "text": "Checkpoints"
+        },
+        {
+          "type": "text",
+          "text": "Guidelines"
+        },
+        {
+          "type": "text",
+          "text": "Operations"
+        },
+        {
+          "type": "text",
+          "text": "Manager"
+        },
+        {
+          "type": "text",
+          "text": "While taking the NACH mandate, ensure that any payment made"
+        },
+        {
+          "type": "text",
+          "text": "by the borrower from outside India through normal banking"
+        },
+        {
+          "type": "text",
+          "text": "channels or out of funds in his Non-resident External"
+        },
+        {
+          "type": "text",
+          "text": "(NRE)/Foreign Currency Non-resident Non-repatriable"
+        },
+        {
+          "type": "text",
+          "text": "(NRNR)/Non-resident (NRO)/Non-Resident Special Rupee"
+        },
+        {
+          "type": "text",
+          "text": "(NRSR)account in India."
+        },
+        {
+          "type": "text",
+          "text": "Repayment is from bank account as mentioned in sanction letter"
+        },
+        {
+          "type": "text",
+          "text": "SL"
+        },
+        {
+          "type": "text",
+          "text": "Property Visit"
+        },
+        {
+          "type": "text",
+          "text": "Property visit report done by ABHFL employees"
+        },
+        {
+          "type": "text",
+          "text": "System"
+        },
+        {
+          "type": "text",
+          "text": "Safe Keeping Record"
+        },
+        {
+          "type": "text",
+          "text": "(SKR) (Physical copy of"
+        },
+        {
+          "type": "text",
+          "text": "SKR not required)"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "Availability of documents updated in system as per legal"
+        },
+        {
+          "type": "text",
+          "text": "report"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "Updation of OTC/PDD along with specific target dates as"
+        },
+        {
+          "type": "text",
+          "text": "per approval"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "Waiver from lawyer for any document, if any, mail to be"
+        },
+        {
+          "type": "text",
+          "text": "enclosed"
+        },
+        {
+          "type": "text",
+          "text": "Approval mail, Legal Report"
+        },
+        {
+          "type": "text",
+          "text": "Miscellaneous documents"
+        },
+        {
+          "type": "text",
+          "text": "Authorized signatories:"
+        },
+        {
+          "type": "text",
+          "text": "In partnership firm/ private limited company/HUF"
+        },
+        {
+          "type": "text",
+          "text": "Board resolution, Partnership"
+        },
+        {
+          "type": "text",
+          "text": "authority letter, HUF authority letter"
+        },
+        {
+          "type": "text",
+          "text": "Affidavit/ Undertaking"
+        },
+        {
+          "type": "text",
+          "text": "Check the availability of Franked MOE and DCCD in the states of"
+        },
+        {
+          "type": "text",
+          "text": "MH RJ and MP with following checks:"
+        },
+        {
+          "type": "text",
+          "text": "MOE – Maharashtra, Rajasthan, Madhya Pradesh"
+        },
+        {
+          "type": "text",
+          "text": "Only system generated documents to"
+        },
+        {
+          "type": "text",
+          "text": "be accepted"
+        },
+        {
+          "type": "text",
+          "text": "Affidavit cum undertaking (Only in Home loan cases)"
+        },
+        {
+          "type": "text",
+          "text": "Check the availability of notarized (if manually signed) and"
+        },
+        {
+          "type": "text",
+          "text": "stamped Affidavit cum Undertaking duly signed by all applicants"
+        },
+        {
+          "type": "text",
+          "text": "Only system generated documents to"
+        },
+        {
+          "type": "text",
+          "text": "be accepted"
+        },
+        {
+          "type": "text",
+          "text": "Annexure 2 for states in case property documents submitted"
+        },
+        {
+          "type": "text",
+          "text": "upfront"
+        },
+        {
+          "type": "text",
+          "text": "Franked Guarantee Deed (as per state) signed by the guarantor"
+        },
+        {
+          "type": "text",
+          "text": "SL"
+        },
+        {
+          "type": "text",
+          "text": "Seller BT declaration to be taken for Seller BT cases filled"
+        },
+        {
+          "type": "text",
+          "text": "An undertaking to be taken from the customer before"
+        },
+        {
+          "type": "text",
+          "text": "disbursement as per ABHFL format (in P+C cases)"
+        },
+        {
+          "type": "text",
+          "text": "PMAY declaration"
+        },
+        {
+          "type": "text",
+          "text": "LRD cases"
+        },
+        {
+          "type": "text",
+          "text": "Self-attested KYC of Lessee and OSV"
+        },
+        {
+          "type": "text",
+          "text": "Hypothecation deed"
+        },
+        {
+          "type": "text",
+          "text": "Consent letter from lessee"
+        },
+        {
+          "type": "text",
+          "text": "Tripartite Agreement"
+        },
+        {
+          "type": "text",
+          "text": "Signature"
+        },
+        {
+          "type": "text",
+          "text": "Operations Manager Name &"
+        },
+        {
+          "type": "text",
+          "text": "Employee ID"
+        },
+        {
+          "type": "text",
+          "text": "Date"
+        },
+        {
+          "type": "text",
+          "text": "*For Internal circulation only"
+        },
+        {
+          "type": "text",
+          "text": "Note:"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "Sign off can happen physical or email if respective authorities are not available"
+        },
+        {
+          "type": "text",
+          "text": "▪"
+        },
+        {
+          "type": "text",
+          "text": "Approval email to be documented along with checklist"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Ops_Checklist_Jan_23_v1.0/images/page2_full.png"
+        }
+      ]
+    }
+  ]
+}

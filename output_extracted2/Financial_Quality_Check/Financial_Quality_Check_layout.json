@@ -1,0 +1,504 @@
+{
+  "file": "abhflfinverseall\\Financial Quality Check.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "Finverse User Manual"
+        },
+        {
+          "type": "text",
+          "text": "– Module ‘Financial Quality Check’"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "Please enter FQC"
+        },
+        {
+          "type": "text",
+          "text": "login credentials"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here"
+        },
+        {
+          "type": "text",
+          "text": "to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "Case ain FQC queue shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select your case"
+        },
+        {
+          "type": "text",
+          "text": "to initiate  FQC"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once case is selected, you will be directed to this screen"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Update applicant type if"
+        },
+        {
+          "type": "text",
+          "text": "any changes needed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "Application status can be tracked here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to start"
+        },
+        {
+          "type": "text",
+          "text": "financial quality check"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details for financial quality check of applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Basic pay here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter house rent"
+        },
+        {
+          "type": "text",
+          "text": "allowance"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter educational"
+        },
+        {
+          "type": "text",
+          "text": "allowance"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page13_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter telephone"
+        },
+        {
+          "type": "text",
+          "text": "allowance"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page14_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details of"
+        },
+        {
+          "type": "text",
+          "text": "income from other"
+        },
+        {
+          "type": "text",
+          "text": "sources in latest year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page15_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details of income in"
+        },
+        {
+          "type": "text",
+          "text": "previous year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page16_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details of dividend"
+        },
+        {
+          "type": "text",
+          "text": "in latest year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page17_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details of dividend"
+        },
+        {
+          "type": "text",
+          "text": "in previous year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page18_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Review to"
+        },
+        {
+          "type": "text",
+          "text": "proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page19_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save to"
+        },
+        {
+          "type": "text",
+          "text": "proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page20_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details for financial quality check of co-applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page21_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Basic pay amount"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page22_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details of"
+        },
+        {
+          "type": "text",
+          "text": "income from other"
+        },
+        {
+          "type": "text",
+          "text": "sources in latest year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page23_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details of income"
+        },
+        {
+          "type": "text",
+          "text": "from other sources in"
+        },
+        {
+          "type": "text",
+          "text": "previous  year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page24_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Manual Bank details, “account no”, “Bank name”, “Account type and category” are auto populated"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page25_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Balance amount"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page26_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Balance amount"
+        },
+        {
+          "type": "text",
+          "text": "for remaining dates and"
+        },
+        {
+          "type": "text",
+          "text": "click on review"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page27_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page28_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to"
+        },
+        {
+          "type": "text",
+          "text": "submit to QC"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page29_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "items": [
+        {
+          "type": "text",
+          "text": "Case is now successfully moved to underwriting"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page30_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 31,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/Financial_Quality_Check/images/page31_full.png"
+        }
+      ]
+    }
+  ]
+}

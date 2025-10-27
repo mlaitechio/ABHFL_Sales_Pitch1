@@ -1,0 +1,216 @@
+{
+  "file": "abhflfinverseall\\Property Dedupe_Posidex.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Posidex – Property Dedupe"
+        },
+        {
+          "type": "text",
+          "text": "(Match Found Case)"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Existing Address in Posidex Data Base"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Underwriting Stage >>Property Details Screen>>Enter all the Property details same"
+        },
+        {
+          "type": "text",
+          "text": "as of data already Present in posidex Property"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Enter Contact Person Details >> click on Proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "After clicking on Proceed system will Display the Dedupe Results as Match Found"
+        },
+        {
+          "type": "text",
+          "text": "& Application details with same Property Address"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Click on Assign UPID system will display the Assigned Successfully Message"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Posidex – Property Dedupe"
+        },
+        {
+          "type": "text",
+          "text": "(No - Match Found Case)"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Existing Address in Posidex Data Base"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Floor no. & Unit no. Entered is different then the Existing Address in Posidex Data Base then"
+        },
+        {
+          "type": "text",
+          "text": "system will display the Dedupe result as  no Match found"
+        },
+        {
+          "type": "text",
+          "text": "Note : If any field entered is different then the Existing Property Address then system will"
+        },
+        {
+          "type": "text",
+          "text": "display the Dedupe result as  no Match found"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Dedupe result as No Match found"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Dedupe Results as No Match Found & click on Assign UPID System will display the Assigned"
+        },
+        {
+          "type": "text",
+          "text": "Successfully Message"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Property_Dedupe_Posidex/images/page11_full.png"
+        }
+      ]
+    }
+  ]
+}

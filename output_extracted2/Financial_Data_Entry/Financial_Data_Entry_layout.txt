@@ -1,0 +1,492 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual
+– Financial Data Entry
+/media/Financial_Data_Entry/images/page1_full.png
+
+Please enter
+“Financial Data
+Entry” credentials
+here
+/media/Financial_Data_Entry/images/page2_full.png
+
+Click Login to
+proceed
+/media/Financial_Data_Entry/images/page3_full.png
+
+Cases in Financial Data Entry queue shall reflect here
+/media/Financial_Data_Entry/images/page4_full.png
+
+Select the required case by
+clicking on Application No.
+/media/Financial_Data_Entry/images/page5_full.png
+
+Any change in Applicant
+Type can be done by
+clicking here
+/media/Financial_Data_Entry/images/page6_full.png
+
+We are entering details for
+the main Applicant
+/media/Financial_Data_Entry/images/page7_full.png
+
+Click on “Income Details” to
+add and update Income details
+/media/Financial_Data_Entry/images/page8_full.png
+
+We are adding details about
+the main applicant here
+/media/Financial_Data_Entry/images/page9_full.png
+
+Click to enter NIC code
+/media/Financial_Data_Entry/images/page10_full.png
+
+Enter “NIC code”
+/media/Financial_Data_Entry/images/page11_full.png
+
+Select the appropriate Industry
+and Sub-industry
+/media/Financial_Data_Entry/images/page12_full.png
+
+Click on Proceed
+/media/Financial_Data_Entry/images/page13_full.png
+
+NIC code will be
+displayed here
+/media/Financial_Data_Entry/images/page14_full.png
+
+Employer Industry Type and Sub Type will populate accordingly
+/media/Financial_Data_Entry/images/page15_full.png
+
+Choose “Employer Category”
+/media/Financial_Data_Entry/images/page16_full.png
+
+Enter “Month of
+Latest Salary Slip”
+/media/Financial_Data_Entry/images/page17_full.png
+
+Enter “No. of Salary
+Slips Taken”
+/media/Financial_Data_Entry/images/page18_full.png
+
+Enter “E-filing Date”
+/media/Financial_Data_Entry/images/page19_full.png
+
+Select appropriate option
+/media/Financial_Data_Entry/images/page20_full.png
+
+Here we shall add the Income details
+/media/Financial_Data_Entry/images/page21_full.png
+
+Select the “Nature of Income”
+from the dropdown
+/media/Financial_Data_Entry/images/page22_full.png
+
+Enter “Monthly Income”
+/media/Financial_Data_Entry/images/page23_full.png
+
+Eligibility shall be shown as per “Nature of Income”
+/media/Financial_Data_Entry/images/page24_full.png
+
+Eligibility shall be shown as per “Nature of Income”
+/media/Financial_Data_Entry/images/page25_full.png
+
+Other Income details can be filled here
+/media/Financial_Data_Entry/images/page26_full.png
+
+Select “Income Subtype” from the dropdown
+/media/Financial_Data_Entry/images/page27_full.png
+
+Enter Income received in
+the latest year
+/media/Financial_Data_Entry/images/page28_full.png
+
+Enter Income received in
+the Previous year
+/media/Financial_Data_Entry/images/page29_full.png
+
+Select the type of
+“Income Considered”
+from the dropdown
+/media/Financial_Data_Entry/images/page30_full.png
+
+Eligibility shall be shown as per “Nature of Income”
+/media/Financial_Data_Entry/images/page31_full.png
+
+Income summary based on details filled shall appear here
+/media/Financial_Data_Entry/images/page32_full.png
+
+Click on Save & Next
+/media/Financial_Data_Entry/images/page33_full.png
+
+Alert about request process shall appear here
+/media/Financial_Data_Entry/images/page34_full.png
+
+We are adding details about
+the Co-applicant here
+/media/Financial_Data_Entry/images/page35_full.png
+
+Enter “NIC code”
+/media/Financial_Data_Entry/images/page36_full.png
+
+Select the appropriate Industry
+and Sub-industry
+/media/Financial_Data_Entry/images/page37_full.png
+
+Click on Proceed
+/media/Financial_Data_Entry/images/page38_full.png
+
+NIC code will be
+displayed here
+/media/Financial_Data_Entry/images/page39_full.png
+
+Choose “Employer Category”
+/media/Financial_Data_Entry/images/page40_full.png
+
+Enter “Month of
+Latest Salary Slip”
+/media/Financial_Data_Entry/images/page41_full.png
+
+Enter “No. of Salary
+Slips Taken”
+/media/Financial_Data_Entry/images/page42_full.png
+
+Enter “E-filing Date”
+/media/Financial_Data_Entry/images/page43_full.png
+
+Select appropriate option
+/media/Financial_Data_Entry/images/page44_full.png
+
+Here we shall add the Income details
+/media/Financial_Data_Entry/images/page45_full.png
+
+Select the “Nature of Income”
+from the dropdown
+/media/Financial_Data_Entry/images/page46_full.png
+
+Select the “Nature of Income”
+from the dropdown
+/media/Financial_Data_Entry/images/page47_full.png
+
+Enter “Monthly Income”
+/media/Financial_Data_Entry/images/page48_full.png
+
+Other Income details can be filled here
+/media/Financial_Data_Entry/images/page49_full.png
+
+Select “Income Subtype” from the dropdown
+/media/Financial_Data_Entry/images/page50_full.png
+
+Enter Income received in
+the latest year
+/media/Financial_Data_Entry/images/page51_full.png
+
+Enter Income received in
+the Previous year
+/media/Financial_Data_Entry/images/page52_full.png
+
+Select the type of
+“Income Considered”
+from the dropdown
+/media/Financial_Data_Entry/images/page53_full.png
+
+Eligibility shall be shown as per “Nature of Income”
+/media/Financial_Data_Entry/images/page54_full.png
+
+Income summary based on details filled shall appear here
+/media/Financial_Data_Entry/images/page55_full.png
+
+Click on Save & Next
+/media/Financial_Data_Entry/images/page56_full.png
+
+Alert about request process shall appear here
+/media/Financial_Data_Entry/images/page57_full.png
+
+Once DDE of tab is completed. A green tick
+shall appear like this for each tab.
+/media/Financial_Data_Entry/images/page58_full.png
+
+Obligation details, if any, shall appear here
+/media/Financial_Data_Entry/images/page59_full.png
+
+Click on Save & Next
+/media/Financial_Data_Entry/images/page60_full.png
+
+Bureau can be re-
+triggered from here
+Select appropriate option
+/media/Financial_Data_Entry/images/page61_full.png
+
+Credit obligations details as per application details shall appear here
+More Obligations can
+be added from here
+/media/Financial_Data_Entry/images/page62_full.png
+
+Select “Type of Facility”
+from the dropdown
+/media/Financial_Data_Entry/images/page63_full.png
+
+Select “Financial Institution”
+related to the obligation
+from the dropdown
+/media/Financial_Data_Entry/images/page64_full.png
+
+Select “Loan open date”
+/media/Financial_Data_Entry/images/page65_full.png
+
+Enter the amount sanctioned for
+the obligation by the institution
+/media/Financial_Data_Entry/images/page66_full.png
+
+Enter the EMI
+/media/Financial_Data_Entry/images/page67_full.png
+
+Select appropriate option
+/media/Financial_Data_Entry/images/page68_full.png
+
+Enter the previous EMI payments details as applicable
+/media/Financial_Data_Entry/images/page69_full.png
+
+Click on “Save” to save
+the data entered
+/media/Financial_Data_Entry/images/page70_full.png
+
+Click on “Save & Next”
+/media/Financial_Data_Entry/images/page71_full.png
+
+Obligations added shall reflect here
+/media/Financial_Data_Entry/images/page72_full.png
+
+Click on “Save & Next”
+/media/Financial_Data_Entry/images/page73_full.png
+
+We shall be adding
+Obligation details of the
+Co-applicant now
+/media/Financial_Data_Entry/images/page74_full.png
+
+Credit obligations details as per application details shall appear here
+More Obligations can
+be added from here
+/media/Financial_Data_Entry/images/page75_full.png
+
+Select “Type of Facility”
+from the dropdown
+/media/Financial_Data_Entry/images/page76_full.png
+
+Select “Financial Institution” related to
+the obligation from the dropdown
+/media/Financial_Data_Entry/images/page77_full.png
+
+Select “Loan open date”
+/media/Financial_Data_Entry/images/page78_full.png
+
+Enter the amount sanctioned for
+the obligation by the institution
+/media/Financial_Data_Entry/images/page79_full.png
+
+Enter the EMI
+/media/Financial_Data_Entry/images/page80_full.png
+
+Select appropriate option
+/media/Financial_Data_Entry/images/page81_full.png
+
+Enter the previous EMI payments details as applicable
+/media/Financial_Data_Entry/images/page82_full.png
+
+Click on “Save” to save
+the data entered
+/media/Financial_Data_Entry/images/page83_full.png
+
+Click on “Save & Next”
+/media/Financial_Data_Entry/images/page84_full.png
+
+Obligations added shall reflect here
+/media/Financial_Data_Entry/images/page85_full.png
+
+Click on “Save & Next”
+/media/Financial_Data_Entry/images/page86_full.png
+
+Customer Wealth details shall reflect here
+/media/Financial_Data_Entry/images/page87_full.png
+
+More details about
+customer wealth can be
+added from here
+/media/Financial_Data_Entry/images/page88_full.png
+
+Choose if details are
+of applicant or Co-
+applicant
+/media/Financial_Data_Entry/images/page89_full.png
+
+Choose “asset type”
+/media/Financial_Data_Entry/images/page90_full.png
+
+Enter “Market Value”
+of the asset
+/media/Financial_Data_Entry/images/page91_full.png
+
+Choose relevant option
+/media/Financial_Data_Entry/images/page92_full.png
+
+Click on “Save” to
+save details
+/media/Financial_Data_Entry/images/page93_full.png
+
+Click on “Save & Next”
+/media/Financial_Data_Entry/images/page94_full.png
+
+Added details of customer wealth shall appear here
+/media/Financial_Data_Entry/images/page95_full.png
+
+Click on “Save & Next”
+/media/Financial_Data_Entry/images/page96_full.png
+
+Banking Details of the customer shall reflect here
+/media/Financial_Data_Entry/images/page97_full.png
+
+We are doing banking analysis
+of the main applicant
+/media/Financial_Data_Entry/images/page98_full.png
+
+Select “Bank Name”
+from the dropdown
+/media/Financial_Data_Entry/images/page99_full.png
+
+Select “Account Type”
+from the dropdown
+/media/Financial_Data_Entry/images/page100_full.png
+
+Enter “Account No.”
+/media/Financial_Data_Entry/images/page101_full.png
+
+Choose “Account Category”
+from the dropdown
+/media/Financial_Data_Entry/images/page102_full.png
+
+Enter the Bank
+Statement start date
+/media/Financial_Data_Entry/images/page103_full.png
+
+Enter the bank
+statement end date
+/media/Financial_Data_Entry/images/page104_full.png
+
+Enter the Vintage of the
+account in years and months
+/media/Financial_Data_Entry/images/page105_full.png
+
+Select appropriate option
+/media/Financial_Data_Entry/images/page106_full.png
+
+Banking details shall be captured here
+/media/Financial_Data_Entry/images/page107_full.png
+
+Enter the relevant amounts by
+clicking on the box
+/media/Financial_Data_Entry/images/page108_full.png
+
+Complete the required fields
+/media/Financial_Data_Entry/images/page109_full.png
+
+More details can be
+added from here
+/media/Financial_Data_Entry/images/page110_full.png
+
+Click on “Save & Next”
+/media/Financial_Data_Entry/images/page111_full.png
+
+Request processing details shall appear here
+/media/Financial_Data_Entry/images/page112_full.png
+
+We are now doing banking
+analysis of the Co-applicant
+/media/Financial_Data_Entry/images/page113_full.png
+
+Select “Bank Name”
+from the dropdown
+/media/Financial_Data_Entry/images/page114_full.png
+
+Select “Account Type”
+from the dropdown
+/media/Financial_Data_Entry/images/page115_full.png
+
+Enter “Account No.”
+/media/Financial_Data_Entry/images/page116_full.png
+
+Choose “Account Category”
+from the dropdown
+/media/Financial_Data_Entry/images/page117_full.png
+
+Enter the Bank
+Statement start date
+/media/Financial_Data_Entry/images/page118_full.png
+
+Enter the bank
+statement end date
+/media/Financial_Data_Entry/images/page119_full.png
+
+Enter the Vintage of the
+account in years and months
+/media/Financial_Data_Entry/images/page120_full.png
+
+Select appropriate option
+/media/Financial_Data_Entry/images/page121_full.png
+
+Enter the relevant amounts by
+clicking on the box
+/media/Financial_Data_Entry/images/page122_full.png
+
+Complete the required fields
+/media/Financial_Data_Entry/images/page123_full.png
+
+More details can be
+added from here
+/media/Financial_Data_Entry/images/page124_full.png
+
+Click on “Save & Next”
+/media/Financial_Data_Entry/images/page125_full.png
+
+All entered banking data shall appear here
+/media/Financial_Data_Entry/images/page126_full.png
+
+Adjusted ABB shall appear here
+/media/Financial_Data_Entry/images/page127_full.png
+
+Declared property city shall pe populated here
+/media/Financial_Data_Entry/images/page128_full.png
+
+Details of proposed loan shall appear here
+/media/Financial_Data_Entry/images/page129_full.png
+
+Eligibility Parameters and its details shall populate here
+/media/Financial_Data_Entry/images/page130_full.png
+
+Click on “Save &
+Proceed”
+/media/Financial_Data_Entry/images/page131_full.png
+
+If it is an BT loan, details regarding the same shall be displayed here
+/media/Financial_Data_Entry/images/page132_full.png
+
+Details regarding any “Existing Exposure” shall be displayed here
+/media/Financial_Data_Entry/images/page133_full.png
+
+Additional details regarding any
+exposure can be added here
+/media/Financial_Data_Entry/images/page134_full.png
+
+Click on “Save & Next”
+/media/Financial_Data_Entry/images/page135_full.png
+
+Return to “applicant
+summary” tab and click
+on “submit Data Entry
+/media/Financial_Data_Entry/images/page136_full.png
+
+The case will now be moved to
+“Financial quality check” queue
+FDE of Application is successfully complete
+/media/Financial_Data_Entry/images/page137_full.png
+
+/media/Financial_Data_Entry/images/page138_full.png

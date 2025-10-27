@@ -1,0 +1,425 @@
+Aditya Birla Housing Finance Limited
+User Manual -
+ABCapital Learning App
+APF Module – Legal & TSR Evaluation
+/media/APF_module_Legal_TSR_Evaluation/images/page1_full.png
+
+Company Name
+2
+Legal Evaluation
+/media/APF_module_Legal_TSR_Evaluation/images/page2_full.png
+
+Company Name
+3
+/media/APF_module_Legal_TSR_Evaluation/images/page3_full.png
+
+Enter Credentials
+Click Here
+/media/APF_module_Legal_TSR_Evaluation/images/page4_full.png
+
+Click Here
+/media/APF_module_Legal_TSR_Evaluation/images/page5_full.png
+
+All initiated cases will reflect here
+Click on Assign option to proceed ahead
+/media/APF_module_Legal_TSR_Evaluation/images/page6_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page7_full.png
+
+Select radio
+button
+/media/APF_module_Legal_TSR_Evaluation/images/page8_full.png
+
+Click here
+to Proceed
+ahead
+/media/APF_module_Legal_TSR_Evaluation/images/page9_full.png
+
+Click on Assigned tab
+/media/APF_module_Legal_TSR_Evaluation/images/page10_full.png
+
+Click on Application no. to proceed ahead
+/media/APF_module_Legal_TSR_Evaluation/images/page11_full.png
+
+Project address will
+reflect here
+Contact details of
+Employee will reflect here
+/media/APF_module_Legal_TSR_Evaluation/images/page12_full.png
+
+Click here
+to view the
+uploaded
+list of
+documents
+Click here
+to view the
+uploaded
+list of
+documents
+/media/APF_module_Legal_TSR_Evaluation/images/page13_full.png
+
+Click on Individual document list
+/media/APF_module_Legal_TSR_Evaluation/images/page14_full.png
+
+Click here to view document
+/media/APF_module_Legal_TSR_Evaluation/images/page15_full.png
+
+Uploaded document will reflect here
+/media/APF_module_Legal_TSR_Evaluation/images/page16_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page17_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page18_full.png
+
+Select appropriate radio button
+Enter Observations here
+/media/APF_module_Legal_TSR_Evaluation/images/page19_full.png
+
+Vendor has a choice to select radio button of ‘Fill in
+the details below’ or proceed ahead with ‘Upload
+report’ option
+/media/APF_module_Legal_TSR_Evaluation/images/page20_full.png
+
+Select appropriate options from drop down
+/media/APF_module_Legal_TSR_Evaluation/images/page21_full.png
+
+Enter SRO name here
+Enter details here if available
+/media/APF_module_Legal_TSR_Evaluation/images/page22_full.png
+
+Select option
+from drop down
+/media/APF_module_Legal_TSR_Evaluation/images/page23_full.png
+
+Enter Land owner/Developer name here
+/media/APF_module_Legal_TSR_Evaluation/images/page24_full.png
+
+Enter details here if available
+Click here to
+Edit address
+/media/APF_module_Legal_TSR_Evaluation/images/page25_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page26_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page27_full.png
+
+Select options from
+drop down
+/media/APF_module_Legal_TSR_Evaluation/images/page28_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page29_full.png
+
+Enter appropriate
+details here
+/media/APF_module_Legal_TSR_Evaluation/images/page30_full.png
+
+Enter Boundaries details
+/media/APF_module_Legal_TSR_Evaluation/images/page31_full.png
+
+Enter Current Title deeds details here
+/media/APF_module_Legal_TSR_Evaluation/images/page32_full.png
+
+Enter Prior title deeds details here
+/media/APF_module_Legal_TSR_Evaluation/images/page33_full.png
+
+Enter Permissions and approval details here
+/media/APF_module_Legal_TSR_Evaluation/images/page34_full.png
+
+Enter Any other details if available
+/media/APF_module_Legal_TSR_Evaluation/images/page35_full.png
+
+Enter details of all documents details here
+/media/APF_module_Legal_TSR_Evaluation/images/page36_full.png
+
+Enter appropriate details here
+/media/APF_module_Legal_TSR_Evaluation/images/page37_full.png
+
+Enter Complete Title flow here
+Click here to Submit the Report
+/media/APF_module_Legal_TSR_Evaluation/images/page38_full.png
+
+Once click on Submit system will show Submit Successfully message here
+/media/APF_module_Legal_TSR_Evaluation/images/page39_full.png
+
+Second option to complete legal evaluation after selecting Upload report
+Click here to Upload Legal report
+Click here to Upload Legal report
+/media/APF_module_Legal_TSR_Evaluation/images/page40_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page41_full.png
+
+Enter Developer/Land owner name here
+/media/APF_module_Legal_TSR_Evaluation/images/page42_full.png
+
+Enter SRO
+name here if
+applicable
+Enter Fee receipt no./Challan
+no. here if applicable
+Click here to Edit Address
+details
+/media/APF_module_Legal_TSR_Evaluation/images/page43_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page44_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page45_full.png
+
+Select Option
+from drop down
+/media/APF_module_Legal_TSR_Evaluation/images/page46_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page47_full.png
+
+Enter details here
+/media/APF_module_Legal_TSR_Evaluation/images/page48_full.png
+
+Enter list of documents here
+/media/APF_module_Legal_TSR_Evaluation/images/page49_full.png
+
+Enter complete details of documents here
+/media/APF_module_Legal_TSR_Evaluation/images/page50_full.png
+
+Enter list of
+documents here
+Click here to
+submit the report
+/media/APF_module_Legal_TSR_Evaluation/images/page51_full.png
+
+System will show
+Submit
+Successfully
+message
+/media/APF_module_Legal_TSR_Evaluation/images/page52_full.png
+
+Company Name
+53
+TSR Evaluation
+/media/APF_module_Legal_TSR_Evaluation/images/page53_full.png
+
+Company Name
+54
+/media/APF_module_Legal_TSR_Evaluation/images/page54_full.png
+
+Enter Credentials
+Click Here
+/media/APF_module_Legal_TSR_Evaluation/images/page55_full.png
+
+Click Here
+/media/APF_module_Legal_TSR_Evaluation/images/page56_full.png
+
+All initiated cases will reflect here
+Click on Assign option to proceed ahead
+/media/APF_module_Legal_TSR_Evaluation/images/page57_full.png
+
+Select radio
+button
+/media/APF_module_Legal_TSR_Evaluation/images/page58_full.png
+
+Click here
+to Proceed
+ahead
+/media/APF_module_Legal_TSR_Evaluation/images/page59_full.png
+
+Click on Assigned tab
+/media/APF_module_Legal_TSR_Evaluation/images/page60_full.png
+
+Click on Application no. to proceed ahead
+/media/APF_module_Legal_TSR_Evaluation/images/page61_full.png
+
+Project address will
+reflect here
+Contact details of
+Employee will reflect here
+Click here
+to view the
+uploaded
+list of
+documents
+/media/APF_module_Legal_TSR_Evaluation/images/page62_full.png
+
+Click on Individual document list
+and select on Uploaded docs to
+view the same
+/media/APF_module_Legal_TSR_Evaluation/images/page63_full.png
+
+Uploaded document will reflect here
+/media/APF_module_Legal_TSR_Evaluation/images/page64_full.png
+
+Select appropriate radio button
+Enter Observations here
+/media/APF_module_Legal_TSR_Evaluation/images/page65_full.png
+
+Vendor has a choice to select radio button of ‘Fill in
+the details below’ or proceed ahead with ‘Upload
+report’ option
+/media/APF_module_Legal_TSR_Evaluation/images/page66_full.png
+
+Select appropriate options from drop down
+/media/APF_module_Legal_TSR_Evaluation/images/page67_full.png
+
+Enter SRO name here
+Enter details here if available
+/media/APF_module_Legal_TSR_Evaluation/images/page68_full.png
+
+Select option
+from drop down
+/media/APF_module_Legal_TSR_Evaluation/images/page69_full.png
+
+Enter Land owner/Developer name here
+/media/APF_module_Legal_TSR_Evaluation/images/page70_full.png
+
+Enter details here if available
+Click here to
+Edit address
+/media/APF_module_Legal_TSR_Evaluation/images/page71_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page72_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page73_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page74_full.png
+
+Select options from
+drop down
+/media/APF_module_Legal_TSR_Evaluation/images/page75_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page76_full.png
+
+Enter appropriate
+details here
+/media/APF_module_Legal_TSR_Evaluation/images/page77_full.png
+
+Enter Boundaries details
+/media/APF_module_Legal_TSR_Evaluation/images/page78_full.png
+
+Enter Current Title deeds details here
+/media/APF_module_Legal_TSR_Evaluation/images/page79_full.png
+
+Enter Observations here
+/media/APF_module_Legal_TSR_Evaluation/images/page80_full.png
+
+Enter Entire Title here
+/media/APF_module_Legal_TSR_Evaluation/images/page81_full.png
+
+Enter Opinion here
+Click here to Submit the report
+/media/APF_module_Legal_TSR_Evaluation/images/page82_full.png
+
+Once click on Submit system will show Submit Successfully message here
+/media/APF_module_Legal_TSR_Evaluation/images/page83_full.png
+
+Second option to complete legal evaluation after selecting Upload report
+Click here to Upload Legal report
+/media/APF_module_Legal_TSR_Evaluation/images/page84_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page85_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page86_full.png
+
+Enter Developer/Land owner name here
+/media/APF_module_Legal_TSR_Evaluation/images/page87_full.png
+
+Enter SRO
+name here if
+applicable
+Enter Fee receipt no./Challan
+no. here if applicable
+Click here to Edit Address
+details
+/media/APF_module_Legal_TSR_Evaluation/images/page88_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page89_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page90_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page91_full.png
+
+Select Option
+from drop down
+/media/APF_module_Legal_TSR_Evaluation/images/page92_full.png
+
+Edit details here
+/media/APF_module_Legal_TSR_Evaluation/images/page93_full.png
+
+Enter details here
+/media/APF_module_Legal_TSR_Evaluation/images/page94_full.png
+
+Enter Opinion here
+Click here to Submit the report
+/media/APF_module_Legal_TSR_Evaluation/images/page95_full.png
+
+System will show Submit Successfully message once user Click on Submit
+/media/APF_module_Legal_TSR_Evaluation/images/page96_full.png
+
+Company Name
+97
+Query Creation
+/media/APF_module_Legal_TSR_Evaluation/images/page97_full.png
+
+Click on query tab to
+proceed ahead
+/media/APF_module_Legal_TSR_Evaluation/images/page98_full.png
+
+Click here
+to raise a
+New
+query
+/media/APF_module_Legal_TSR_Evaluation/images/page99_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page100_full.png
+
+Select Raise
+to Bank
+/media/APF_module_Legal_TSR_Evaluation/images/page101_full.png
+
+Select Option from
+drop down
+/media/APF_module_Legal_TSR_Evaluation/images/page102_full.png
+
+Tick User to
+whom query to
+be raised
+/media/APF_module_Legal_TSR_Evaluation/images/page103_full.png
+
+Enter Title of Query
+/media/APF_module_Legal_TSR_Evaluation/images/page104_full.png
+
+Enter description of
+query/message
+Click here to Send query
+to selected persons
+/media/APF_module_Legal_TSR_Evaluation/images/page105_full.png
+
+After query creation
+status will reflect
+here as Open
+/media/APF_module_Legal_TSR_Evaluation/images/page106_full.png
+
+Once query is closed then status will
+reflect here as closed, now click here
+to view closer comments
+/media/APF_module_Legal_TSR_Evaluation/images/page107_full.png
+
+Comments of employee and any
+attached docs will reflect here, now
+click on docs to view
+/media/APF_module_Legal_TSR_Evaluation/images/page108_full.png
+
+/media/APF_module_Legal_TSR_Evaluation/images/page109_full.png
+
+Select radio button of Additional
+Information if still query is
+unresolved and raised query again
+/media/APF_module_Legal_TSR_Evaluation/images/page110_full.png

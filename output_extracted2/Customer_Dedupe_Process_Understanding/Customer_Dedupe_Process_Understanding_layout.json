@@ -1,0 +1,1332 @@
+{
+  "file": "abhflfinverseall\\Customer Dedupe _Process Understanding.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Process Understanding of Customer"
+        },
+        {
+          "type": "text",
+          "text": "Dedupe"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "Process Understanding – Dedupe"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "Identifying similar records in a system"
+        },
+        {
+          "type": "text",
+          "text": "Process Understanding Dedupe"
+        },
+        {
+          "type": "text",
+          "text": "To find whether a new customer who has just joined the platform, is a repeat customer or not, we"
+        },
+        {
+          "type": "text",
+          "text": "match their data with the data of all the existing customers in the system — Like the name of the"
+        },
+        {
+          "type": "text",
+          "text": "new customer to the names of all the existing customers. Apart from just the name we also"
+        },
+        {
+          "type": "text",
+          "text": "consider matching their KYC data, contact, address, and some more information."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "The logic here cannot be limited to just a simple string match with case insensitivity."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "It should also do fuzzy string matches where entities that are not exactly equal but are very"
+        },
+        {
+          "type": "text",
+          "text": "much like each other are also considered the same."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "We have built a fuzzy match along with % assigned to get those results whose match score is"
+        },
+        {
+          "type": "text",
+          "text": "above a certain threshold (Attached excel & Scoring). We also realized that one fuzzy algorithm"
+        },
+        {
+          "type": "text",
+          "text": "does not give us the best match. So, we used multiple algorithms with a weighted mean based"
+        },
+        {
+          "type": "text",
+          "text": "on some confidence that we gave to every algorithm along with control test for such logic."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "Recommendation with Logic along with Weightages"
+        },
+        {
+          "type": "text",
+          "text": "Data deduplication is more than a space saving feature. It yields cost savings and efficiencies, in the long run, not to mention thwarting fraud risks significantly.  It also cuts down"
+        },
+        {
+          "type": "text",
+          "text": "compliance and regulatory risks. Though, the lack of standards for implementation and technology varies, making it tough so we have arrived with below scenarios and combination"
+        },
+        {
+          "type": "text",
+          "text": "for evaluating logic for Dedupe and UCIC checks."
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Customer de-dupe functionality is present on Mobile Sales application and Web application (Pre-deal and Deal Capture stage) while capturing customer details.Below are the"
+        },
+        {
+          "type": "text",
+          "text": "Parameters fields should be involved in de-dupe functionality."
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Voter ID"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Driving License"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Passport Number"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "PAN"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Email ID"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "First Name"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Last Name"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "DOB"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Phone Number"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Father/ Spouse Name"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "PAN: - 100%"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Voter ID/ Passport Number/Driving License: - 100%"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "DOB: - 100%"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Name: - (First + Last Name) 80%"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "As the customer onboards the application through any platform customer first check to done is “First name and Last Name”"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Basis to those further checks to be conducted."
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Mobile No: - 100%"
+        },
+        {
+          "type": "text",
+          "text": "o"
+        },
+        {
+          "type": "text",
+          "text": "Address :- 80%"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "NRI customer: Passport Mandatory- 100%"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "If any 3 or more than 3 parameters are matched out of 5 parameters above match, then the front-end screen should reflect a match. Score should be 250%."
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Similarly, UCIC (customer ID) too should be generated on the above logic at the back end."
+        },
+        {
+          "type": "text",
+          "text": "The above logic is been send and discussion would be done with Posidex team for any further changes in logic so that we can build a robust Dedupe & UCIC framework going forward."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "7 Rules to be followed for Match"
+        },
+        {
+          "type": "text",
+          "text": "found"
+        },
+        {
+          "type": "text",
+          "text": ":"
+        },
+        {
+          "type": "text",
+          "text": "1. Name+DOB+Address+City"
+        },
+        {
+          "type": "text",
+          "text": "2. Name+DOB+Address+Pincode"
+        },
+        {
+          "type": "text",
+          "text": "3. Name+Mobile"
+        },
+        {
+          "type": "text",
+          "text": "4. PAN"
+        },
+        {
+          "type": "text",
+          "text": "5. Passport"
+        },
+        {
+          "type": "text",
+          "text": "6. Voter Id"
+        },
+        {
+          "type": "text",
+          "text": "7. Driving Lic"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "22 Combinations to be"
+        },
+        {
+          "type": "text",
+          "text": "followed for Category of"
+        },
+        {
+          "type": "text",
+          "text": "Match Found in Posidex"
+        },
+        {
+          "type": "text",
+          "text": "(Dedupe) Integration"
+        },
+        {
+          "type": "text",
+          "text": "response"
+        },
+        {
+          "type": "text",
+          "text": "Posidex New Logic at Underwriting Stage."
+        },
+        {
+          "type": "text",
+          "text": "Sr. No"
+        },
+        {
+          "type": "text",
+          "text": "Combination"
+        },
+        {
+          "type": "text",
+          "text": "Score"
+        },
+        {
+          "type": "text",
+          "text": "Band"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "PMU"
+        },
+        {
+          "type": "text",
+          "text": "300"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "PMD"
+        },
+        {
+          "type": "text",
+          "text": "300"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "PMN"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "PMA"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "MUD"
+        },
+        {
+          "type": "text",
+          "text": "300"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "MUN"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "MUA"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "8"
+        },
+        {
+          "type": "text",
+          "text": "UDN"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "9"
+        },
+        {
+          "type": "text",
+          "text": "UDA"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "10"
+        },
+        {
+          "type": "text",
+          "text": "UDP"
+        },
+        {
+          "type": "text",
+          "text": "300"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "11"
+        },
+        {
+          "type": "text",
+          "text": "DNA"
+        },
+        {
+          "type": "text",
+          "text": "260"
+        },
+        {
+          "type": "text",
+          "text": "Average"
+        },
+        {
+          "type": "text",
+          "text": "12"
+        },
+        {
+          "type": "text",
+          "text": "DNP"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "13"
+        },
+        {
+          "type": "text",
+          "text": "DNM"
+        },
+        {
+          "type": "text",
+          "text": "300"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "14"
+        },
+        {
+          "type": "text",
+          "text": "DNU"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "15"
+        },
+        {
+          "type": "text",
+          "text": "NAP"
+        },
+        {
+          "type": "text",
+          "text": "260"
+        },
+        {
+          "type": "text",
+          "text": "Average"
+        },
+        {
+          "type": "text",
+          "text": "16"
+        },
+        {
+          "type": "text",
+          "text": "NAM"
+        },
+        {
+          "type": "text",
+          "text": "260"
+        },
+        {
+          "type": "text",
+          "text": "Average"
+        },
+        {
+          "type": "text",
+          "text": "17"
+        },
+        {
+          "type": "text",
+          "text": "NAU"
+        },
+        {
+          "type": "text",
+          "text": "260"
+        },
+        {
+          "type": "text",
+          "text": "Average"
+        },
+        {
+          "type": "text",
+          "text": "18"
+        },
+        {
+          "type": "text",
+          "text": "NAD"
+        },
+        {
+          "type": "text",
+          "text": "260"
+        },
+        {
+          "type": "text",
+          "text": "Average"
+        },
+        {
+          "type": "text",
+          "text": "19"
+        },
+        {
+          "type": "text",
+          "text": "APM"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "20"
+        },
+        {
+          "type": "text",
+          "text": "APU"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "21"
+        },
+        {
+          "type": "text",
+          "text": "APD"
+        },
+        {
+          "type": "text",
+          "text": "280"
+        },
+        {
+          "type": "text",
+          "text": "Good"
+        },
+        {
+          "type": "text",
+          "text": "22"
+        },
+        {
+          "type": "text",
+          "text": "APN"
+        },
+        {
+          "type": "text",
+          "text": "260"
+        },
+        {
+          "type": "text",
+          "text": "Average"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "Sr No"
+        },
+        {
+          "type": "text",
+          "text": "Particulars"
+        },
+        {
+          "type": "text",
+          "text": "Abbreviation"
+        },
+        {
+          "type": "text",
+          "text": "%"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "Pan"
+        },
+        {
+          "type": "text",
+          "text": "P"
+        },
+        {
+          "type": "text",
+          "text": "100"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "Mobile"
+        },
+        {
+          "type": "text",
+          "text": "M"
+        },
+        {
+          "type": "text",
+          "text": "100"
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "Unique Pin Code"
+        },
+        {
+          "type": "text",
+          "text": "U"
+        },
+        {
+          "type": "text",
+          "text": "100"
+        },
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "Voter ID/ Passport Number/Driving License"
+        },
+        {
+          "type": "text",
+          "text": "V"
+        },
+        {
+          "type": "text",
+          "text": "100"
+        },
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "DOB"
+        },
+        {
+          "type": "text",
+          "text": "D"
+        },
+        {
+          "type": "text",
+          "text": "100"
+        },
+        {
+          "type": "text",
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "Name"
+        },
+        {
+          "type": "text",
+          "text": "N"
+        },
+        {
+          "type": "text",
+          "text": "80"
+        },
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "Address"
+        },
+        {
+          "type": "text",
+          "text": "A"
+        },
+        {
+          "type": "text",
+          "text": "80"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "Rule 1 : Name+DOB+Address+City"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "Negative Scenarios of Rule 1"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in City"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in Address"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Negative Scenarios of Rule 1"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in DOB"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in Name"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "Rule 2 : Name+DOB+Address+Pincode"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "Negative Scenarios of Rule 2"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in Pincode"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in Address"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "Negative Scenarios of Rule 2"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in DOB"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in Name"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "Rule 3 : Name+Mobile"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "Negative Scenarios of Rule 3"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in Mobile No."
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Changes made in Name"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "No Match Found"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "Rule 4 : PAN"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Match Found on the Basis of PAN"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page13_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "items": [
+        {
+          "type": "text",
+          "text": "Rule 5 : Passport"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Match Found on the Basis of Passport"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page14_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "items": [
+        {
+          "type": "text",
+          "text": "Rule 6 : Voter Id"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Match Found on the Basis of Voter"
+        },
+        {
+          "type": "text",
+          "text": "Id"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page15_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "items": [
+        {
+          "type": "text",
+          "text": "Rule 7 : Driving License"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Match Found on the Basis of Driving License"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page16_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "items": [
+        {
+          "type": "text",
+          "text": "Assign CCID"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "Underwriter has to assign CCID if Match is found which is mandatory to Proceed the Application"
+        },
+        {
+          "type": "text",
+          "text": "from CAM Underwriting Stage for both Applicant and Co-Applicant."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page17_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "items": [
+        {
+          "type": "text",
+          "text": "Category to be displayed in Detailed Response on the Basis of Combinations"
+        },
+        {
+          "type": "text",
+          "text": "and Match Score for Each and Every Match Found"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page18_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "items": [
+        {
+          "type": "text",
+          "text": "19"
+        },
+        {
+          "type": "text",
+          "text": "Thank You"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Customer_Dedupe_Process_Understanding/images/page19_full.png"
+        }
+      ]
+    }
+  ]
+}

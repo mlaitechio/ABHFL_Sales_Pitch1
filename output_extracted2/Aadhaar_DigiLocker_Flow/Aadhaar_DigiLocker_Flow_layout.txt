@@ -1,0 +1,63 @@
+
+Sourcing stage>>>Additional Details Screen>Enter Mandatory Fields & Aadhar Number >Select Aadhar Verification
+Type(DigiLocker or O-KYC) >Click on “Send Verification link” for DigiLocker or Click on “Initiate” for O-KYC.
+/media/Aadhaar_DigiLocker_Flow/images/page1_full.png
+
+
+After
+Clicking on Send Verification Link system display “Confirmation Pop-Up Message” > Click on OK
+/media/Aadhaar_DigiLocker_Flow/images/page2_full.png
+
+
+After Clicking on OK in the FINVERSE system Pop-up message, Customer will receive
+the TML Link on Customer registered Email Id.
+
+By clicking on link customer can access the TML Portal
+/media/Aadhaar_DigiLocker_Flow/images/page3_full.png
+
+
+Enter Contact Number >Select Date of Birth/PAN >Enter Date of Birth/PAN > Click on Login
+/media/Aadhaar_DigiLocker_Flow/images/page4_full.png
+
+
+Enter OTP received on customer registered mobile number > Click On Submit.
+/media/Aadhaar_DigiLocker_Flow/images/page5_full.png
+
+
+“Select Application” Pop-Screen appears on the TML >Select the Application (E.g as shown in screenshot the
+Application number and Name) >Click on Proceed
+/media/Aadhaar_DigiLocker_Flow/images/page6_full.png
+
+
+Under the TML >Click On “TO DO” > under Pending tab Aadhar Verification appears > Click on “Initiate”
+/media/Aadhaar_DigiLocker_Flow/images/page7_full.png
+
+
+After Clicking on Initiate, System redirects to the DigiLocker >Enter Aadhar Number >Enter given Text/Captcha >
+Click on “Next”.
+/media/Aadhaar_DigiLocker_Flow/images/page8_full.png
+
+
+Enter OTP > Click on “Continue”(OTP will come on Aadhar linked/registered Mobile number)
+/media/Aadhaar_DigiLocker_Flow/images/page9_full.png
+
+
+Enter 6-digit DigiLocker Security PIN > Click on “Continue”.
+/media/Aadhaar_DigiLocker_Flow/images/page10_full.png
+
+
+Click on “Allow” (to proceed further)>>>If not > Click on “Deny”>>>If selected deny then it will redirect to the TML
+Portal.
+/media/Aadhaar_DigiLocker_Flow/images/page11_full.png
+
+
+After completion we can check in “To DO” under Completed Tab - Aadhaar verification display as completed with time
+and date.
+/media/Aadhaar_DigiLocker_Flow/images/page12_full.png
+
+
+After completion of DigiLocker Process Aadhar 1
+st
+8 digit reflects as Masked and Aadhar verification status as
+success.
+/media/Aadhaar_DigiLocker_Flow/images/page13_full.png

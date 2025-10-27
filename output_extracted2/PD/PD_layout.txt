@@ -1,0 +1,215 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual
+– Personal Discussion
+/media/PD/images/page1_full.png
+
+Company Name
+2
+Objectives
+At the end of this session, you will be able to:
+1. Learn how to complete Personal Discussion
+2. Login to https://finverselosuat.adityabirlacapital.com/login/ to Login
+/media/PD/images/page2_full.png
+
+Enter Username
+and Password
+/media/PD/images/page3_full.png
+
+Click Login
+/media/PD/images/page4_full.png
+
+Cases assigned to PD Vendor will
+reflect in “To be Assigned” tab
+/media/PD/images/page5_full.png
+
+PD Vendor can select
+multiple cases for
+assignment.
+/media/PD/images/page6_full.png
+
+PD Vendor can assign
+cases to their executive or
+to self by clicking the
+radio buttons.
+/media/PD/images/page7_full.png
+
+Click “Assign”
+to proceed
+/media/PD/images/page8_full.png
+
+Cases assigned will reflect
+under Assigned Tab
+/media/PD/images/page9_full.png
+
+Click on the Application Number to
+select case for evaluation
+/media/PD/images/page10_full.png
+
+Applicant Details Screen will
+open. Click on Personal
+Discussion tab to enter data
+/media/PD/images/page11_full.png
+
+User to fill in Applicant details in this tab
+/media/PD/images/page12_full.png
+
+Complete the
+Background,
+Family Details,
+and
+Previous work
+experience details
+based on personal
+discussion with
+customer
+/media/PD/images/page13_full.png
+
+Click “Save & Next” to proceed.
+/media/PD/images/page14_full.png
+
+Green Tick will appear after all details are
+entered and saved.
+/media/PD/images/page15_full.png
+
+User to input Collateral details in this tab
+/media/PD/images/page16_full.png
+
+Click “Save & Next” to proceed.
+/media/PD/images/page17_full.png
+
+Select appropriate “Declared
+Construction Status” from the
+dropdown
+/media/PD/images/page18_full.png
+
+Select appropriate “Proposed Property
+Occupancy” from the dropdown
+/media/PD/images/page19_full.png
+
+Select appropriate “Declared
+Property Transaction Type” from
+the dropdown
+/media/PD/images/page20_full.png
+
+Select appropriate “End Use of
+Funds” from the dropdown
+/media/PD/images/page21_full.png
+
+Add relevant remarks
+User to click on “Save” to
+save the data
+/media/PD/images/page22_full.png
+
+User to click on “Save & Next”
+to proceed
+/media/PD/images/page23_full.png
+
+Green Tick will appear after all
+details are entered and saved.
+/media/PD/images/page24_full.png
+
+Financial Details of the user to be added in this tab
+/media/PD/images/page25_full.png
+
+Select Income type from the dropdown
+/media/PD/images/page26_full.png
+
+Add Annual Income
+/media/PD/images/page27_full.png
+
+Click on “Add More” to add
+additional income details,
+if any.
+Add relevant remarks
+/media/PD/images/page28_full.png
+
+Click on “Save & Next” to proceed
+/media/PD/images/page29_full.png
+
+User to complete Obligation Details in this tab
+/media/PD/images/page30_full.png
+
+Click on the down arrow to fill in
+“Obligation Details”
+/media/PD/images/page31_full.png
+
+Click on “Save” to save the data
+/media/PD/images/page32_full.png
+
+Add relevant remarks
+Click on “Add More” to add
+additional obligation details,
+if any.
+/media/PD/images/page33_full.png
+
+User to click on “Save & Next” once
+Obligation details are completed
+/media/PD/images/page34_full.png
+
+User to add Banking Details in this tab
+/media/PD/images/page35_full.png
+
+Add relevant remarks
+/media/PD/images/page36_full.png
+
+User to click on “Save & Next” once
+Banking details are completed
+/media/PD/images/page37_full.png
+
+User to add Wealth Details in this tab
+/media/PD/images/page38_full.png
+
+Add relevant remarks
+Click on “Add More” to add
+additional Wealth details,
+if any.
+/media/PD/images/page39_full.png
+
+Click on “Save & Next” after Wealth
+details are completed
+/media/PD/images/page40_full.png
+
+User to complete Site Visit Details details in this tab
+/media/PD/images/page41_full.png
+
+Select applicable options from the radio buttons
+/media/PD/images/page42_full.png
+
+Add landmark
+/media/PD/images/page43_full.png
+
+Select appropriate
+“Recommendation” from the
+dropdown
+/media/PD/images/page44_full.png
+
+Add relevant remarks
+/media/PD/images/page45_full.png
+
+User to click on “Upload Documents” option
+to upload reports or photos related to case
+/media/PD/images/page46_full.png
+
+Select appropriate file to upload from the device
+/media/PD/images/page47_full.png
+
+User to select appropriate “Document
+Category” and “Document Name” from
+the dropdown and Click on “Save”
+/media/PD/images/page48_full.png
+
+Uploaded document will appear here
+/media/PD/images/page49_full.png
+
+User to click on “Locate me” option to
+capture location details.
+/media/PD/images/page50_full.png
+
+Uploaded document will appear here
+/media/PD/images/page51_full.png
+
+Click “Submit” to
+finish PD
+/media/PD/images/page52_full.png
+
+/media/PD/images/page53_full.png

@@ -1,0 +1,35 @@
+FINBOX Execution Steps :
+1.
+Upload the Bank Statement under any stage eg. Sourcing \DDE\ Financial Data Entry then
+Login with FDE User & Go to Documents Tab in left side menu.
+2.
+Go To >> Banking Analysis & Select radio button as “Finbox Integration (Upload) “
+/media/FINBOX_Module/images/page1_full.png
+
+3.
+Enter all the mandatory data according to uploaded Bank Statement
+
+Sample Bank Statement
+/media/FINBOX_Module/images/page2_full.png
+
+4.
+Post entering all mandatory Fileds Click on  “ Initiate Finbox” button.
+5.
+Post click on “Initiate Finbox “ below Pop-up message will display.
+6.
+Select the check box for Uploaded Bank Statement & then click on Submit Button.
+/media/FINBOX_Module/images/page3_full.png
+
+7.
+Post Submission of the case, FINBOX ID will get generate and status will be appeared as “In
+Progress” then click on “Fetch Reports” button
+8.
+Report will get fetch after clicking on “Fetch Report” Button and data will get auto fetch in
+financial table & Status will get changes to “Completed.”
+
+Also we can download the Perfios output file (.xls) for reference.
+/media/FINBOX_Module/images/page4_full.png
+
+
+Below is the Banking Perfios output data :
+/media/FINBOX_Module/images/page5_full.png

@@ -1,0 +1,1006 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual
+– Underwriting
+/media/Underwriting/images/page1_full.png
+
+Please enter
+“Underwritee”
+credentials
+here
+/media/Underwriting/images/page2_full.png
+
+Click Login
+/media/Underwriting/images/page3_full.png
+
+Details of all cases at various stages shall appear on the dashboard
+/media/Underwriting/images/page4_full.png
+
+Click “Sanction-
+In progress”
+/media/Underwriting/images/page5_full.png
+
+Click on the application
+number  of the case
+/media/Underwriting/images/page6_full.png
+
+Application Summary page shall open
+/media/Underwriting/images/page7_full.png
+
+Click here to enter
+basic details of
+applicant
+/media/Underwriting/images/page8_full.png
+
+Enter basic details of applicant on this screen
+/media/Underwriting/images/page9_full.png
+
+Enter PAN number
+of applicant
+/media/Underwriting/images/page10_full.png
+
+Name is auto
+populated based
+on PAN no.
+/media/Underwriting/images/page11_full.png
+
+Select profession
+from dropdown.
+/media/Underwriting/images/page12_full.png
+
+Enter membership
+number
+/media/Underwriting/images/page13_full.png
+
+Select type of entity
+from dropdown
+/media/Underwriting/images/page14_full.png
+
+Enter date of
+incorporation
+/media/Underwriting/images/page15_full.png
+
+Select nature of
+business from
+dropdown
+/media/Underwriting/images/page16_full.png
+
+Enter business
+vintage here
+/media/Underwriting/images/page17_full.png
+
+Select relevant
+caution profile option
+from radio button
+/media/Underwriting/images/page18_full.png
+
+Select property
+owner option
+/media/Underwriting/images/page19_full.png
+
+Enter work location details of applicant
+/media/Underwriting/images/page20_full.png
+
+Enter pincode and State,
+city and district is auto
+populated
+/media/Underwriting/images/page21_full.png
+
+Select locality
+from dropdown
+/media/Underwriting/images/page22_full.png
+
+Enter street and
+building name
+/media/Underwriting/images/page23_full.png
+
+Enter flat no
+/media/Underwriting/images/page24_full.png
+
+Communication details are auto populated
+/media/Underwriting/images/page25_full.png
+
+Select preferred
+language from dropdown
+/media/Underwriting/images/page26_full.png
+
+Select options for
+data sharing
+consent
+/media/Underwriting/images/page27_full.png
+
+User can also add
+phone/email id
+/media/Underwriting/images/page28_full.png
+
+Click on save to
+continue
+/media/Underwriting/images/page29_full.png
+
+Click on save &
+next to proceed
+/media/Underwriting/images/page30_full.png
+
+Successful message appears on the screen
+/media/Underwriting/images/page31_full.png
+
+Enter basic details of co-applicant here
+/media/Underwriting/images/page32_full.png
+
+Enter PAN no.
+of co-applicant
+/media/Underwriting/images/page33_full.png
+
+Select type of
+entity from
+dropdown
+/media/Underwriting/images/page34_full.png
+
+Enter date of
+incorporation
+/media/Underwriting/images/page35_full.png
+
+Select nature of
+business from
+dropdown
+/media/Underwriting/images/page36_full.png
+
+Select relevant
+option from
+radio buttons
+/media/Underwriting/images/page37_full.png
+
+Select relevant
+option from
+radio buttons
+/media/Underwriting/images/page38_full.png
+
+Enter work location of co-applicant
+/media/Underwriting/images/page39_full.png
+
+Enter office
+address pincode
+/media/Underwriting/images/page40_full.png
+
+“State”, ‘city” and “district “are auto populated after entering pincode
+/media/Underwriting/images/page41_full.png
+
+Select locality
+from dropdown
+/media/Underwriting/images/page42_full.png
+
+Enter Street and
+building number
+/media/Underwriting/images/page43_full.png
+
+Enter Flat/floor
+number
+/media/Underwriting/images/page44_full.png
+
+Customer communication details auto populate
+/media/Underwriting/images/page45_full.png
+
+Select
+communication
+type from
+dropdown
+/media/Underwriting/images/page46_full.png
+
+Select the option
+to provide consent
+for data sharing
+/media/Underwriting/images/page47_full.png
+
+More communication
+details can be added
+from here
+/media/Underwriting/images/page48_full.png
+
+Click on save to
+continue
+/media/Underwriting/images/page49_full.png
+
+Click on save &
+next to proceed
+/media/Underwriting/images/page50_full.png
+
+Successful message appears on the screen
+/media/Underwriting/images/page51_full.png
+
+Verify KYC details of applicant
+/media/Underwriting/images/page52_full.png
+
+Click on the
+dropdown to
+check details
+/media/Underwriting/images/page53_full.png
+
+Click on save
+to proceed
+/media/Underwriting/images/page54_full.png
+
+Verify KYC details of co-applicant
+/media/Underwriting/images/page55_full.png
+
+User can edit the KYC details here if any changes needed
+Click on the
+dropdown to
+check details
+/media/Underwriting/images/page56_full.png
+
+Click on save
+to proceed
+/media/Underwriting/images/page57_full.png
+
+Click on NIC Code
+/media/Underwriting/images/page58_full.png
+
+Type the industry name and
+choose the appropriate option
+/media/Underwriting/images/page59_full.png
+
+Click on
+“Proceed”
+/media/Underwriting/images/page60_full.png
+
+Relevant NIC Code
+will populate here
+/media/Underwriting/images/page61_full.png
+
+Choose
+appropriate
+option
+/media/Underwriting/images/page62_full.png
+
+Details of Income from business and
+profession shall be displayed here
+/media/Underwriting/images/page63_full.png
+
+Additional Income can be
+added or deleted from here
+/media/Underwriting/images/page64_full.png
+
+Choose “Income Sub Type”
+from the dropdown
+/media/Underwriting/images/page65_full.png
+
+Enter the amount
+/media/Underwriting/images/page66_full.png
+
+Enter amount for latest year
+/media/Underwriting/images/page67_full.png
+
+Enter amount for
+previous year
+/media/Underwriting/images/page68_full.png
+
+Choose for which year the income is
+considered from the dropdown
+/media/Underwriting/images/page69_full.png
+
+Eligibility shall be
+populated accordingly
+/media/Underwriting/images/page70_full.png
+
+Enter details of the Income tax paid by the applicant
+/media/Underwriting/images/page71_full.png
+
+Choose “Income Sub Type”
+from the dropdown
+/media/Underwriting/images/page72_full.png
+
+Enter the source
+/media/Underwriting/images/page73_full.png
+
+Enter amount for latest year
+/media/Underwriting/images/page74_full.png
+
+Enter amount for
+previous year
+/media/Underwriting/images/page75_full.png
+
+Choose for which year the income is
+considered from the dropdown
+/media/Underwriting/images/page76_full.png
+
+Eligibility shall be
+populated accordingly
+/media/Underwriting/images/page77_full.png
+
+More details can
+be added here
+/media/Underwriting/images/page78_full.png
+
+More incomes
+can be added
+here
+/media/Underwriting/images/page79_full.png
+
+Total of the Income
+details entered shall
+appear here
+/media/Underwriting/images/page80_full.png
+
+GPR details shall appear here and can be edited, as applicable
+/media/Underwriting/images/page81_full.png
+
+Click on “Save” to
+save the data
+/media/Underwriting/images/page82_full.png
+
+Click on “save & Next”
+/media/Underwriting/images/page83_full.png
+
+Request status shall be displayed here
+/media/Underwriting/images/page84_full.png
+
+Now we enter Income
+details of the co-applicant
+/media/Underwriting/images/page85_full.png
+
+Click on NIC Code
+/media/Underwriting/images/page86_full.png
+
+Type the industry name and
+choose the appropriate option
+/media/Underwriting/images/page87_full.png
+
+Click on
+“Proceed”
+/media/Underwriting/images/page88_full.png
+
+Relevant NIC Code
+will populate here
+/media/Underwriting/images/page89_full.png
+
+Choose
+appropriate
+option
+/media/Underwriting/images/page90_full.png
+
+Details of Income from business and profession shall be displayed here
+/media/Underwriting/images/page91_full.png
+
+Additional Income can be
+added or deleted from here
+/media/Underwriting/images/page92_full.png
+
+Choose “Income Sub Type”
+from the dropdown
+/media/Underwriting/images/page93_full.png
+
+Enter the source
+/media/Underwriting/images/page94_full.png
+
+Enter amount for latest year
+/media/Underwriting/images/page95_full.png
+
+Enter amount for
+previous year
+/media/Underwriting/images/page96_full.png
+
+Choose for which year the income is
+considered from the dropdown
+/media/Underwriting/images/page97_full.png
+
+Eligibility shall be
+populated accordingly
+/media/Underwriting/images/page98_full.png
+
+Choose “Income Sub Type”
+from the dropdown
+/media/Underwriting/images/page99_full.png
+
+Enter the source
+/media/Underwriting/images/page100_full.png
+
+Enter amount for latest year
+/media/Underwriting/images/page101_full.png
+
+Enter amount for
+previous year
+/media/Underwriting/images/page102_full.png
+
+Choose for which year the income is
+considered from the dropdown
+/media/Underwriting/images/page103_full.png
+
+Eligibility shall be
+populated accordingly
+/media/Underwriting/images/page104_full.png
+
+More details can
+be added here
+/media/Underwriting/images/page105_full.png
+
+More incomes
+can be added
+here
+/media/Underwriting/images/page106_full.png
+
+Total of the Income
+details entered shall
+appear here
+/media/Underwriting/images/page107_full.png
+
+Click on “Save” to
+save the data
+/media/Underwriting/images/page108_full.png
+
+Click on “Save & Next”
+/media/Underwriting/images/page109_full.png
+
+Request status shall be displayed here
+/media/Underwriting/images/page110_full.png
+
+This page displays the Additional Financial Details of the applicant, if any
+/media/Underwriting/images/page111_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page112_full.png
+
+Click to add “List
+of Signatories”
+/media/Underwriting/images/page113_full.png
+
+Once selected on “List of Signatories” the below mentioned fields will have to be entered
+/media/Underwriting/images/page114_full.png
+
+Save or Cancel as the case may be to
+move on to Open Charges section
+/media/Underwriting/images/page115_full.png
+
+Open Charges can be
+added by clicking on
+Add More Option
+Select
+appropriate
+option
+/media/Underwriting/images/page116_full.png
+
+Business reference data will be displayed here
+More data can
+be added from
+here
+/media/Underwriting/images/page117_full.png
+
+Click on “Save & Next”
+/media/Underwriting/images/page118_full.png
+
+Now we will enter the Additional Financial Details of the Co-applicant, if any
+/media/Underwriting/images/page119_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page120_full.png
+
+More data can
+be added from
+here
+/media/Underwriting/images/page121_full.png
+
+Business reference data will be displayed here
+More data can
+be added from
+here
+/media/Underwriting/images/page122_full.png
+
+Click on “Save & Next”
+/media/Underwriting/images/page123_full.png
+
+Ratio Analysis based on Profit and Loss shall be captured here
+We are doing it
+for the main
+applicant
+/media/Underwriting/images/page124_full.png
+
+Choose
+appropriate
+option
+/media/Underwriting/images/page125_full.png
+
+Ratio sheet can also be
+uploaded if available
+/media/Underwriting/images/page126_full.png
+
+Income details to
+be filled here
+/media/Underwriting/images/page127_full.png
+
+Enter Income as per Financials
+/media/Underwriting/images/page128_full.png
+
+Similarly enter Expense data
+/media/Underwriting/images/page129_full.png
+
+Enter the Liabilities as per Balance Sheet
+/media/Underwriting/images/page130_full.png
+
+Enter Assets details as per Balance Sheet
+/media/Underwriting/images/page131_full.png
+
+Financial ratios will be calculated accordingly
+/media/Underwriting/images/page132_full.png
+
+Cash Flow statement will be made accordingly
+/media/Underwriting/images/page133_full.png
+
+Once Cash Flow Statement is Saved, success message shall appear
+/media/Underwriting/images/page134_full.png
+
+Similarly a statement can be
+made for co-applicant
+/media/Underwriting/images/page135_full.png
+
+If not required, choose
+“Not required” here
+/media/Underwriting/images/page136_full.png
+
+Confirmation will be
+asked, choose “yes”
+/media/Underwriting/images/page137_full.png
+
+Click on “Save &Next”
+/media/Underwriting/images/page138_full.png
+
+A consolidated statement shall be displayed here
+/media/Underwriting/images/page139_full.png
+
+Click on “Save &Next”
+/media/Underwriting/images/page140_full.png
+
+Return back to the Application Summary page
+/media/Underwriting/images/page141_full.png
+
+Here we can see the stages of application and its progress
+/media/Underwriting/images/page142_full.png
+
+Application can be sent back to “Demog Data Entry” or “Financial Data Entry”, if required
+/media/Underwriting/images/page143_full.png
+
+Loan application can also be
+withdrawed by clicking here
+/media/Underwriting/images/page144_full.png
+
+Scroll down and Click on
+“Regulatory Details”
+/media/Underwriting/images/page145_full.png
+
+Regulatory details of the application shall be displayed here
+/media/Underwriting/images/page146_full.png
+
+Primary application details to be filled here
+/media/Underwriting/images/page147_full.png
+
+Select the “End usage of
+funds:” from the dropdown
+/media/Underwriting/images/page148_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page149_full.png
+
+Select “PSL Code”
+from the dropdown
+/media/Underwriting/images/page150_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page151_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page152_full.png
+
+Enter the number of
+residential properties
+owned including the
+applied loan
+/media/Underwriting/images/page153_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page154_full.png
+
+Select “Risk
+Category”
+from the
+dropdown
+/media/Underwriting/images/page155_full.png
+
+Relevant
+renewal date
+will be shown
+/media/Underwriting/images/page156_full.png
+
+Click on
+“Save” to save
+the data
+/media/Underwriting/images/page157_full.png
+
+Click on “Save
+& Next”
+/media/Underwriting/images/page158_full.png
+
+Request process status shall appear here
+/media/Underwriting/images/page159_full.png
+
+Scroll down and Click on
+“Underwriting Checklist”
+/media/Underwriting/images/page160_full.png
+
+Click Options from Radio Buttons as applicable
+/media/Underwriting/images/page161_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page162_full.png
+
+Complete the checklist
+/media/Underwriting/images/page163_full.png
+
+/media/Underwriting/images/page164_full.png
+
+Click on “save
+“ to save the
+checklist data
+/media/Underwriting/images/page165_full.png
+
+Click on “Save
+& Next”
+/media/Underwriting/images/page166_full.png
+
+Now we proceed to the CAM/underwriting summary,
+/media/Underwriting/images/page167_full.png
+
+Once clicked on CAM Summary, we are directed to this page. Loan application summary is displayed here
+/media/Underwriting/images/page168_full.png
+
+Applicant details summary shall be displayed here
+/media/Underwriting/images/page169_full.png
+
+Background details summary will be displayed here
+Primary application details summary will be displayed here
+/media/Underwriting/images/page170_full.png
+
+Exposure details summary will be displayed here
+Eligibility parameter details will be displayed here
+/media/Underwriting/images/page171_full.png
+
+Ratios summary will be displayed here
+/media/Underwriting/images/page172_full.png
+
+Salary Credit summary will be displayed here
+Asset details summary will be displayed here
+/media/Underwriting/images/page173_full.png
+
+Banking details summary will be displayed here
+/media/Underwriting/images/page174_full.png
+
+Property Verification details summary will be displayed here
+/media/Underwriting/images/page175_full.png
+
+Verification details summary will be displayed here
+/media/Underwriting/images/page176_full.png
+
+Non-Financial Attributes shall reflect here
+/media/Underwriting/images/page177_full.png
+
+System driven NFA to be triggered
+using “Re-trigger BRE” option
+/media/Underwriting/images/page178_full.png
+
+Once triggered, system driven NFA
+shall reflect here along with approval
+authority levels
+/media/Underwriting/images/page179_full.png
+
+Additional NFA, if any, can be entered
+manually by clicking “Add NFA”
+/media/Underwriting/images/page180_full.png
+
+NFA description to be entered here
+/media/Underwriting/images/page181_full.png
+
+Basis the description, list of NFA
+documents shall reflect here, choose
+the NFA description as applicable
+/media/Underwriting/images/page182_full.png
+
+Once reflected, relevant approving
+authority shall reflect here
+/media/Underwriting/images/page183_full.png
+
+Add relevant remarks, if any
+Click on “Save”
+/media/Underwriting/images/page184_full.png
+
+Once saved, all system driven NFAs and
+manually entered NFAs shall reflect here
+/media/Underwriting/images/page185_full.png
+
+Enter Mitigants, if any
+Click “Save Mitigants”
+/media/Underwriting/images/page186_full.png
+
+Sanction conditions shall be displayed here
+/media/Underwriting/images/page187_full.png
+
+Additional sanction conditions, if
+any, can be added from here
+/media/Underwriting/images/page188_full.png
+
+Approval Flow data shall be entered here
+/media/Underwriting/images/page189_full.png
+
+Choose the “type of authority” as applicable from the dropdown
+/media/Underwriting/images/page190_full.png
+
+Choose the relevant designation
+/media/Underwriting/images/page191_full.png
+
+Relevant approver shall populate
+/media/Underwriting/images/page192_full.png
+
+Choose the relevant
+“Recommender(s)” from
+the dropdown
+/media/Underwriting/images/page193_full.png
+
+Enter relevant remarks
+Approve
+/media/Underwriting/images/page194_full.png
+
+Click on “Approve” to push
+case ahead
+Approve
+/media/Underwriting/images/page195_full.png
+
+After CAM Summary, we shall now initiate verification checks
+/media/Underwriting/images/page196_full.png
+
+Scroll down on the applicant summary page
+to the “Verifications and Evaluations” section
+/media/Underwriting/images/page197_full.png
+
+We can see the list of verifications
+pending for the given application
+/media/Underwriting/images/page198_full.png
+
+Click on
+“Personal
+Discussion” to
+initiate
+/media/Underwriting/images/page199_full.png
+
+We shall be able to see the personal discussion details of the applicant and co-applicant on this page
+/media/Underwriting/images/page200_full.png
+
+Click on three
+dots to get
+options
+/media/Underwriting/images/page201_full.png
+
+Click on
+“Initiate”
+/media/Underwriting/images/page202_full.png
+
+List of agencies for personal discussion evaluation shall be displayed
+/media/Underwriting/images/page203_full.png
+
+Choose the agency as required
+/media/Underwriting/images/page204_full.png
+
+Click on “Assign”
+/media/Underwriting/images/page205_full.png
+
+Status of initiation shall be displayed here
+/media/Underwriting/images/page206_full.png
+
+Personal
+discussion can be
+waived, as per
+UW’s discretion
+/media/Underwriting/images/page207_full.png
+
+Add relevant
+remarks
+/media/Underwriting/images/page208_full.png
+
+Click on “Submit”
+/media/Underwriting/images/page209_full.png
+
+Status of initiation shall be displayed here
+/media/Underwriting/images/page210_full.png
+
+Status will
+change to
+“Initiated”
+/media/Underwriting/images/page211_full.png
+
+Click on “field
+investigation”
+to initiate
+/media/Underwriting/images/page212_full.png
+
+Field investigation details for residence, office, and other
+properties shall be displayed here
+/media/Underwriting/images/page213_full.png
+
+Click on three
+dots to get
+options
+/media/Underwriting/images/page214_full.png
+
+Click on
+“Initiate”
+/media/Underwriting/images/page215_full.png
+
+List of agencies for field investigation evaluation shall be displayed
+/media/Underwriting/images/page216_full.png
+
+Choose the agency as required
+/media/Underwriting/images/page217_full.png
+
+Click on “Assign”
+/media/Underwriting/images/page218_full.png
+
+Once initiated, details of the same shall appear here
+/media/Underwriting/images/page219_full.png
+
+Similarly, we can initiate/waive off field
+investigation, as per discretion
+/media/Underwriting/images/page220_full.png
+
+Similarly, Primary collateral property field investigation can be initiated or waived off
+/media/Underwriting/images/page221_full.png
+
+Status will
+change to
+“Initiated”
+/media/Underwriting/images/page222_full.png
+
+Click on
+“Technical
+Evaluation” to
+initiate
+/media/Underwriting/images/page223_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page224_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page225_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page226_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page227_full.png
+
+Enter “Pincode”
+/media/Underwriting/images/page228_full.png
+
+State, City, and District shall
+populate according to Pincode
+/media/Underwriting/images/page229_full.png
+
+Select “Locality”
+from the
+dropdown
+/media/Underwriting/images/page230_full.png
+
+Select “Landmark”
+from the dropdown
+/media/Underwriting/images/page231_full.png
+
+Select
+appropriate
+option
+/media/Underwriting/images/page232_full.png
+
+Select “Unit Type”
+from the dropdown
+/media/Underwriting/images/page233_full.png
+
+Enter the
+“Project/Society/Commercial
+/Industrial/Estate name
+/media/Underwriting/images/page234_full.png
+
+Enter the
+“Building/Wing
+Name”
+/media/Underwriting/images/page235_full.png
+
+Enter the “Floor no.”
+/media/Underwriting/images/page236_full.png
+
+Enter the “Unit No.”
+/media/Underwriting/images/page237_full.png
+
+Select “transaction type”
+from the dropdown
+/media/Underwriting/images/page238_full.png
+
+More property and
+its details can be
+added from here
+/media/Underwriting/images/page239_full.png
+
+More contacts can
+be added from here
+/media/Underwriting/images/page240_full.png
+
+Click on “Proceed”
+/media/Underwriting/images/page241_full.png
+
+Dedupe results of the property shall be displayed here
+/media/Underwriting/images/page242_full.png
+
+Dedupe results can be refreshed,
+redone, or given an UPID from here
+/media/Underwriting/images/page243_full.png
+
+Click on “Proceed”
+/media/Underwriting/images/page244_full.png
+
+Next, we click on Validation & Checks tab to
+initiate the checks
+/media/Underwriting/images/page245_full.png
+
+Click on three dots and “Initiate”
+/media/Underwriting/images/page246_full.png
+
+List of agencies for technical evaluation shall be displayed
+/media/Underwriting/images/page247_full.png
+
+Choose the agency
+as required
+/media/Underwriting/images/page248_full.png
+
+Status of initiation shall be displayed here
+/media/Underwriting/images/page249_full.png
+
+Similarly, to
+waive off, click
+on “Waive “
+/media/Underwriting/images/page250_full.png
+
+Add remarks
+/media/Underwriting/images/page251_full.png
+
+Statius will show
+“Waived Off”
+/media/Underwriting/images/page252_full.png
+
+Similarly, we can initiate/waive off
+Technical, Legal, TSR as per discretion
+/media/Underwriting/images/page253_full.png
+
+Status will change
+to “In progress”
+/media/Underwriting/images/page254_full.png
+
+Once all verifications are done, by
+respective agencies, the status
+will change to “Completed” Case
+will now move to Disbursal
+/media/Underwriting/images/page255_full.png
+
+/media/Underwriting/images/page256_full.png

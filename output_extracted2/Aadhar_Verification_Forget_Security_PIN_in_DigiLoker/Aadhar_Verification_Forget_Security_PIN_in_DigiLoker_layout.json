@@ -1,0 +1,216 @@
+{
+  "file": "abhflfinverseall\\Aadhar Verification(Forget Security PIN in DigiLoker).pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Aadhar Verification"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Application (Forget Security PIN in"
+        },
+        {
+          "type": "text",
+          "text": "DigiLoker)"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the customer Mobile Number,"
+        },
+        {
+          "type": "text",
+          "text": "DOB/PAN"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the OTP & Submit"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select To Do Option & Initiate Aadhar"
+        },
+        {
+          "type": "text",
+          "text": "Verification"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "DigiLocker Page Showed out"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Aadhar No. & Captcha then click next"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "Customer receives OTP from Aadhar Portal"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the Aadhar OTP then go over"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "Need to Enter Security Pin"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "If customer don’t know security pin, go with"
+        },
+        {
+          "type": "text",
+          "text": "forgot security pin"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "Page for forgot security pin here,"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "Should enter customer’s DOB as per Aadhar"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page13_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "items": [
+        {
+          "type": "text",
+          "text": "Create New Security Pin & Click  Continue"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page14_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "items": [
+        {
+          "type": "text",
+          "text": "Wait for 30 Secs. Then Allow"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page15_full.png"
+        }
+      ]
+    }
+  ]
+}

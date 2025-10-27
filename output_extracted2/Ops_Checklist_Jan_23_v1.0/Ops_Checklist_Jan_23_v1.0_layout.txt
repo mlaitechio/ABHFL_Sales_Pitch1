@@ -1,0 +1,179 @@
+Deal ID
+Loan amt Approved (Rs)
+Applicant Name
+Product
+Co-applicant Name
+Scheme
+Branch
+Sub scheme
+Document Name
+Checkpoints
+Guidelines
+Operations
+Manager
+System generated
+Disbursement Memo
+(Physical copy not
+required)
+Disbursement Amount
+DRF, SL
+Fees Details (Cersai/Balance PF/IMGC charges) with Clearance
+status / capitalization confirmation
+SL, DRF
+Mode of Disbursement (Cheques/DD/ Online Transfer)
+Payment Favouring Details to be verified
+DRF, Cancelled Cheque
+Linked LAN (if any) other LAN to be verified
+System, SL, FA
+Payment in favour of DSRA (if applicable)
+DRF, SL
+Payment in favour of Insurance (if applicable)
+DRF, SL
+Payment in favour of NOI (if applicable)
+DRF, SL
+Accepted Sanction letter
+(Physical copy of sanction
+letter not required if it is
+digitally signed)
+Validity of SL within 60 days from the date of issuance of SL
+Only system generated sanction
+letter to be accepted
+Duly signed by applicant/co-applicants and ABHFL authorized
+signatory
+Most Important Terms &
+Conditions (MITC)
+(Physical copy of MITC
+not required if it is
+digitally signed)
+Duly signed by applicant/co-applicants and ABHFL authorized
+signatory
+Only system generated MITC to be
+accepted
+Loan/facility agreement
+within 6 months of
+franking and stamped as
+per applicable Stamp Act
+(Physical copy not
+required if digitally
+signed)
+Check the availability and completeness of the Loan Agreement
+with Schedule details filled & verified along with following checks:
+▪
+DPN
+▪
+Letter of continuity
+▪
+End use letter (as per sanction letter/approval mail)
+▪
+Vernacular undertaking (if applicable)
+▪
+DRF
+▪
+Letter confirming communication through emails
+Check with System, SL
+Only system generated facility
+agreement to be accepted
+Signed by Applicants/Co Applicants and ABHFL authorized
+signatories
+Date of facility agreement execution is on or after date of issuance
+of sanction letter
+Check with System, SL
+Stamp paper issued in the name of borrowers or ABHFL
+Stamp paper
+Repayment Mandates
+(Manual NACH is not
+required if it is digitally
+verified)
+Scenario 1
+:
+ENACH is registered before disbursement
+3 security PDC
+Scenario 2:
+ENACH is not registered before disbursement
+4 Copies of NACH form i.e.,2 of IndusInd and 2 of tech Process
+6 PDC (Post Dated Cheques) =1CANCELLED CHQ+1BP (Broken
+period interest) CHQ+4PDC]and 1BP to be held back with BOMs
+NACH mandates to be maximum of
+loan amount or Rs. 1Cr.whichever is
+Lower
+Check whether Bank Name updated
+in the NACH Live Bank list for
+provided repayment NACH
+(
+http://www.npci.irg.in/
+clearing.aspx)
+For Non-resident individuals:
+DISBURSEMENT CHECKLIST
+Version No: 1.0 dt Jan’23
+For Internal Circulation only
+/media/Ops_Checklist_Jan_23_v1.0/images/page1_full.png
+
+Document Name
+Checkpoints
+Guidelines
+Operations
+Manager
+While taking the NACH mandate, ensure that any payment made
+by the borrower from outside India through normal banking
+channels or out of funds in his Non-resident External
+(NRE)/Foreign Currency Non-resident Non-repatriable
+(NRNR)/Non-resident (NRO)/Non-Resident Special Rupee
+(NRSR)account in India.
+Repayment is from bank account as mentioned in sanction letter
+SL
+Property Visit
+Property visit report done by ABHFL employees
+System
+Safe Keeping Record
+(SKR) (Physical copy of
+SKR not required)
+▪
+Availability of documents updated in system as per legal
+report
+▪
+Updation of OTC/PDD along with specific target dates as
+per approval
+▪
+Waiver from lawyer for any document, if any, mail to be
+enclosed
+Approval mail, Legal Report
+Miscellaneous documents
+Authorized signatories:
+In partnership firm/ private limited company/HUF
+Board resolution, Partnership
+authority letter, HUF authority letter
+Affidavit/ Undertaking
+Check the availability of Franked MOE and DCCD in the states of
+MH RJ and MP with following checks:
+MOE – Maharashtra, Rajasthan, Madhya Pradesh
+Only system generated documents to
+be accepted
+Affidavit cum undertaking (Only in Home loan cases)
+Check the availability of notarized (if manually signed) and
+stamped Affidavit cum Undertaking duly signed by all applicants
+Only system generated documents to
+be accepted
+Annexure 2 for states in case property documents submitted
+upfront
+Franked Guarantee Deed (as per state) signed by the guarantor
+SL
+Seller BT declaration to be taken for Seller BT cases filled
+An undertaking to be taken from the customer before
+disbursement as per ABHFL format (in P+C cases)
+PMAY declaration
+LRD cases
+Self-attested KYC of Lessee and OSV
+Hypothecation deed
+Consent letter from lessee
+Tripartite Agreement
+Signature
+Operations Manager Name &
+Employee ID
+Date
+*For Internal circulation only
+Note:
+▪
+Sign off can happen physical or email if respective authorities are not available
+▪
+Approval email to be documented along with checklist
+/media/Ops_Checklist_Jan_23_v1.0/images/page2_full.png

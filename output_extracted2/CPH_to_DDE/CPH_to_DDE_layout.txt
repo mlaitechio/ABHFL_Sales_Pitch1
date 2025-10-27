@@ -1,0 +1,63 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual
+– Module CPH to DDE
+/media/CPH_to_DDE/images/page1_full.png
+
+Enter CPH login
+credentials here
+/media/CPH_to_DDE/images/page2_full.png
+
+Click on login
+to proceed
+/media/CPH_to_DDE/images/page3_full.png
+
+Click on pre log in to find your case
+/media/CPH_to_DDE/images/page4_full.png
+
+Click on your case
+/media/CPH_to_DDE/images/page5_full.png
+
+Click here to view
+applicant details
+/media/CPH_to_DDE/images/page6_full.png
+
+Select customer
+segment from
+dropdown
+/media/CPH_to_DDE/images/page7_full.png
+
+Address details will auto
+populate , click on save
+and next to proceed
+/media/CPH_to_DDE/images/page8_full.png
+
+Select relevant option
+from radio button
+/media/CPH_to_DDE/images/page9_full.png
+
+Proceed with
+bureau check to
+proceed
+/media/CPH_to_DDE/images/page10_full.png
+
+Click on proceed
+after checking
+bureau check results
+/media/CPH_to_DDE/images/page11_full.png
+
+Enter sourcing details here
+/media/CPH_to_DDE/images/page12_full.png
+
+Select BCM name
+from dropdown
+/media/CPH_to_DDE/images/page13_full.png
+
+Click on save and
+next to proceed
+/media/CPH_to_DDE/images/page14_full.png
+
+Click on save and
+next to proceed
+/media/CPH_to_DDE/images/page15_full.png
+
+/media/CPH_to_DDE/images/page16_full.png

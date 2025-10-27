@@ -1,0 +1,81 @@
+Raise a Ticket?
+A new functionality added on Header of all screens in Finverse system where user can raise a
+ticket right away without changing the tab in case if user faces any error/issue.
+User needs to click on the Question mark icon which has 2 dropdown values and need to select
+the option
+“Raise a Ticket”
+as shown below.
+Post clicking on
+Raise a ticket
+option a new tab will be re-directed as shown below.
+/media/Raise_a_Ticket/images/page1_full.png
+
+User needs to click on “
+Finverse Application
+” as a Project, then respective fields from JIRA
+application will reflect as shown below.
+➢
+Raise the request on behalf of:
+-
+Name of user who is raising JIRA ticket will get auto populated
+➢
+Finverse Application Category:
+-
+User needs to mention the
+epic
+of LPP where user is facing issue
+[Note: Epic is referred as stages of LPP journey]
+➢
+Summary:
+-
+User needs to add a basic detail related to the issue
+➢
+Description:
+-
+User must write in detail what issue is being faced by him/her along with application
+details
+/media/Raise_a_Ticket/images/page2_full.png
+
+➢
+Attachment:
+-
+User must add screenshots where error occurred in the system for reference
+➢
+Send:
+-
+Post filling up all required details the user can send the JIRA ticket ahead for the
+resolution
+The concern person from Production Support team would do the needful and resolve the issue
+In case of any query/issue, Pls reach out to below SPOCS:
+Escalation matrix
+with Jira
+Finverse
+Name
+Email
+TAT with
+JIRA
+First level
+Nilesh Kadam
+Shruti Jadhav
+Vishal Singh
+ABHFL.LOSsupport@adityabirlacapital.com
+0-4 hours
+Second
+Level
+Ashutosh Tiwari
+ashutosh.tiwari@adityabirlacapital.com
+04-12 hours
+Third Level
+Sangeeta Mansabdar
+sangeeta.mansabdar@adityabirlacapital.com
+2
+nd
+Days
+Final
+Escalation
+Shellender Kumar
+shellender.kumar@adityabirlacapital.com
+3
+rd
+Days
+/media/Raise_a_Ticket/images/page3_full.png

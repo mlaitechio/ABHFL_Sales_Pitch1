@@ -1,0 +1,326 @@
+Process Understanding of Customer
+Dedupe
+/media/Customer_Dedupe_Process_Understanding/images/page1_full.png
+
+2
+Process Understanding – Dedupe
+Aditya Birla Housing Finance Limited
+Identifying similar records in a system
+Process Understanding Dedupe
+To find whether a new customer who has just joined the platform, is a repeat customer or not, we
+match their data with the data of all the existing customers in the system — Like the name of the
+new customer to the names of all the existing customers. Apart from just the name we also
+consider matching their KYC data, contact, address, and some more information.
+•
+The logic here cannot be limited to just a simple string match with case insensitivity.
+•
+It should also do fuzzy string matches where entities that are not exactly equal but are very
+much like each other are also considered the same.
+•
+We have built a fuzzy match along with % assigned to get those results whose match score is
+above a certain threshold (Attached excel & Scoring). We also realized that one fuzzy algorithm
+does not give us the best match. So, we used multiple algorithms with a weighted mean based
+on some confidence that we gave to every algorithm along with control test for such logic.
+/media/Customer_Dedupe_Process_Understanding/images/page2_full.png
+
+Aditya Birla Housing Finance Limited
+3
+Recommendation with Logic along with Weightages
+Data deduplication is more than a space saving feature. It yields cost savings and efficiencies, in the long run, not to mention thwarting fraud risks significantly.  It also cuts down
+compliance and regulatory risks. Though, the lack of standards for implementation and technology varies, making it tough so we have arrived with below scenarios and combination
+for evaluating logic for Dedupe and UCIC checks.
+
+Customer de-dupe functionality is present on Mobile Sales application and Web application (Pre-deal and Deal Capture stage) while capturing customer details.Below are the
+Parameters fields should be involved in de-dupe functionality.
+o
+Voter ID
+o
+Driving License
+o
+Passport Number
+o
+PAN
+o
+Email ID
+o
+First Name
+o
+Last Name
+o
+DOB
+o
+Phone Number
+o
+Father/ Spouse Name
+o
+PAN: - 100%
+o
+Voter ID/ Passport Number/Driving License: - 100%
+o
+DOB: - 100%
+o
+Name: - (First + Last Name) 80%
+
+As the customer onboards the application through any platform customer first check to done is “First name and Last Name”
+
+Basis to those further checks to be conducted.
+o
+Mobile No: - 100%
+o
+Address :- 80%
+
+NRI customer: Passport Mandatory- 100%
+
+If any 3 or more than 3 parameters are matched out of 5 parameters above match, then the front-end screen should reflect a match. Score should be 250%.
+
+Similarly, UCIC (customer ID) too should be generated on the above logic at the back end.
+The above logic is been send and discussion would be done with Posidex team for any further changes in logic so that we can build a robust Dedupe & UCIC framework going forward.
+/media/Customer_Dedupe_Process_Understanding/images/page3_full.png
+
+
+7 Rules to be followed for Match
+found
+:
+1. Name+DOB+Address+City
+2. Name+DOB+Address+Pincode
+3. Name+Mobile
+4. PAN
+5. Passport
+6. Voter Id
+7. Driving Lic
+
+22 Combinations to be
+followed for Category of
+Match Found in Posidex
+(Dedupe) Integration
+response
+Posidex New Logic at Underwriting Stage.
+Sr. No
+Combination
+Score
+Band
+1
+PMU
+300
+Good
+2
+PMD
+300
+Good
+3
+PMN
+280
+Good
+4
+PMA
+280
+Good
+5
+MUD
+300
+Good
+6
+MUN
+280
+Good
+7
+MUA
+280
+Good
+8
+UDN
+280
+Good
+9
+UDA
+280
+Good
+10
+UDP
+300
+Good
+11
+DNA
+260
+Average
+12
+DNP
+280
+Good
+13
+DNM
+300
+Good
+14
+DNU
+280
+Good
+15
+NAP
+260
+Average
+16
+NAM
+260
+Average
+17
+NAU
+260
+Average
+18
+NAD
+260
+Average
+19
+APM
+280
+Good
+20
+APU
+280
+Good
+21
+APD
+280
+Good
+22
+APN
+260
+Average
+Aditya Birla Housing Finance Limited
+Sr No
+Particulars
+Abbreviation
+%
+1
+Pan
+P
+100
+2
+Mobile
+M
+100
+3
+Unique Pin Code
+U
+100
+4
+Voter ID/ Passport Number/Driving License
+V
+100
+5
+DOB
+D
+100
+6
+Name
+N
+80
+7
+Address
+A
+80
+/media/Customer_Dedupe_Process_Understanding/images/page4_full.png
+
+Rule 1 : Name+DOB+Address+City
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page5_full.png
+
+Negative Scenarios of Rule 1
+
+Changes made in City
+
+Changes made in Address
+No Match Found
+No Match Found
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page6_full.png
+
+Negative Scenarios of Rule 1
+
+Changes made in DOB
+
+Changes made in Name
+No Match Found
+No Match Found
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page7_full.png
+
+Rule 2 : Name+DOB+Address+Pincode
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page8_full.png
+
+Negative Scenarios of Rule 2
+
+Changes made in Pincode
+
+Changes made in Address
+No Match Found
+No Match Found
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page9_full.png
+
+Negative Scenarios of Rule 2
+
+Changes made in DOB
+
+Changes made in Name
+No Match Found
+No Match Found
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page10_full.png
+
+Rule 3 : Name+Mobile
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page11_full.png
+
+Negative Scenarios of Rule 3
+
+Changes made in Mobile No.
+
+Changes made in Name
+No Match Found
+No Match Found
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page12_full.png
+
+Rule 4 : PAN
+
+Match Found on the Basis of PAN
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page13_full.png
+
+Rule 5 : Passport
+
+Match Found on the Basis of Passport
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page14_full.png
+
+Rule 6 : Voter Id
+
+Match Found on the Basis of Voter
+Id
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page15_full.png
+
+Rule 7 : Driving License
+
+Match Found on the Basis of Driving License
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page16_full.png
+
+Assign CCID
+Aditya Birla Housing Finance Limited
+Underwriter has to assign CCID if Match is found which is mandatory to Proceed the Application
+from CAM Underwriting Stage for both Applicant and Co-Applicant.
+/media/Customer_Dedupe_Process_Understanding/images/page17_full.png
+
+Category to be displayed in Detailed Response on the Basis of Combinations
+and Match Score for Each and Every Match Found
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page18_full.png
+
+19
+Thank You
+Aditya Birla Housing Finance Limited
+/media/Customer_Dedupe_Process_Understanding/images/page19_full.png

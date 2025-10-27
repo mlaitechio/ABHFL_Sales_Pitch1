@@ -1,0 +1,2002 @@
+Aditya Birla Housing Finance Limited
+User Manual -
+ABCapital Learning App
+Technical Evaluation – Internal Team
+/media/Technical_Evaluation_Internal_Team/images/page1_full.png
+
+Company Name
+2
+Technical Evaluation
+Complete Property
+Sale Comparison method
+/media/Technical_Evaluation_Internal_Team/images/page2_full.png
+
+Company Name
+3
+/media/Technical_Evaluation_Internal_Team/images/page3_full.png
+
+Company Name
+4
+Enter Credentials
+Click Here
+/media/Technical_Evaluation_Internal_Team/images/page4_full.png
+
+Company Name
+5
+Click on Assigned tab
+Technical Officer Dash Board
+/media/Technical_Evaluation_Internal_Team/images/page5_full.png
+
+Click on Assigned tab
+Technical Manager Dash Board
+/media/Technical_Evaluation_Internal_Team/images/page6_full.png
+
+Company Name
+7
+All Assigned cases will appear here
+/media/Technical_Evaluation_Internal_Team/images/page7_full.png
+
+Company Name
+8
+Scroll Right side for more details
+/media/Technical_Evaluation_Internal_Team/images/page8_full.png
+
+Company Name
+9
+User can deny assigned cases from this option
+/media/Technical_Evaluation_Internal_Team/images/page9_full.png
+
+Company Name
+10
+Click here to Proceed
+/media/Technical_Evaluation_Internal_Team/images/page10_full.png
+
+Company Name
+11
+Scroll Page down to
+check Property
+address
+Contact details of
+Customer and
+Employee
+/media/Technical_Evaluation_Internal_Team/images/page11_full.png
+
+Company Name
+12
+Click here to view Property
+documents
+Initiated Property Address
+/media/Technical_Evaluation_Internal_Team/images/page12_full.png
+
+/media/Technical_Evaluation_Internal_Team/images/page13_full.png
+
+Company Name
+14
+Click here to Proceed with
+Technical Evaluation
+/media/Technical_Evaluation_Internal_Team/images/page14_full.png
+
+Company Name
+15
+Main Technical evaluation entry screen having 9 tabs
+/media/Technical_Evaluation_Internal_Team/images/page15_full.png
+
+Company Name
+16
+Auto Populated details
+/media/Technical_Evaluation_Internal_Team/images/page16_full.png
+
+Company Name
+17
+/media/Technical_Evaluation_Internal_Team/images/page17_full.png
+
+Company Name
+18
+/media/Technical_Evaluation_Internal_Team/images/page18_full.png
+
+Company Name
+19
+Click here to Edit Property
+Address
+/media/Technical_Evaluation_Internal_Team/images/page19_full.png
+
+Company Name
+20
+Click here to Edit Pincode
+/media/Technical_Evaluation_Internal_Team/images/page20_full.png
+
+Company Name
+21
+Once different Pincode is
+entered above details will
+auto populate
+/media/Technical_Evaluation_Internal_Team/images/page21_full.png
+
+Company Name
+22
+Select Appropriate Radio Button
+Click on Select after selecting
+city radio button
+/media/Technical_Evaluation_Internal_Team/images/page22_full.png
+
+Company Name
+23
+After entering Pincode these details will auto populate
+/media/Technical_Evaluation_Internal_Team/images/page23_full.png
+
+Company Name
+24
+Select Option appearing
+after clicking on Taluka field
+/media/Technical_Evaluation_Internal_Team/images/page24_full.png
+
+Company Name
+25
+/media/Technical_Evaluation_Internal_Team/images/page25_full.png
+
+Company Name
+26
+Select Option appearing after clicking on Locality field, you can also enter the
+locality if same is not appearing in search
+/media/Technical_Evaluation_Internal_Team/images/page26_full.png
+
+Company Name
+27
+Enter Street/Road name & no. here
+/media/Technical_Evaluation_Internal_Team/images/page27_full.png
+
+Company Name
+28
+Select Option appearing after clicking on Landmark field, you can also enter the landmark if
+nothing is appearing in search
+/media/Technical_Evaluation_Internal_Team/images/page28_full.png
+
+Company Name
+29
+Enter Society name here
+/media/Technical_Evaluation_Internal_Team/images/page29_full.png
+
+Company Name
+30
+You can edit plot no. populating
+here
+/media/Technical_Evaluation_Internal_Team/images/page30_full.png
+
+Company Name
+31
+Select Appropriate Radio button
+/media/Technical_Evaluation_Internal_Team/images/page31_full.png
+
+Company Name
+32
+/media/Technical_Evaluation_Internal_Team/images/page32_full.png
+
+Company Name
+33
+/media/Technical_Evaluation_Internal_Team/images/page33_full.png
+
+Company Name
+34
+/media/Technical_Evaluation_Internal_Team/images/page34_full.png
+
+Company Name
+35
+Mention Survey/Khasra/Khata/Khataoni, etc no. here
+/media/Technical_Evaluation_Internal_Team/images/page35_full.png
+
+Company Name
+36
+Select appropriate Radio Button
+/media/Technical_Evaluation_Internal_Team/images/page36_full.png
+
+Company Name
+37
+/media/Technical_Evaluation_Internal_Team/images/page37_full.png
+
+Company Name
+38
+/media/Technical_Evaluation_Internal_Team/images/page38_full.png
+
+Company Name
+39
+/media/Technical_Evaluation_Internal_Team/images/page39_full.png
+
+Company Name
+40
+Select Options from search or enter
+details which are not appearing in
+search
+/media/Technical_Evaluation_Internal_Team/images/page40_full.png
+
+Company Name
+41
+/media/Technical_Evaluation_Internal_Team/images/page41_full.png
+
+Company Name
+42
+/media/Technical_Evaluation_Internal_Team/images/page42_full.png
+
+Company Name
+43
+/media/Technical_Evaluation_Internal_Team/images/page43_full.png
+
+Company Name
+44
+/media/Technical_Evaluation_Internal_Team/images/page44_full.png
+
+Company Name
+45
+Enter Plot Area here
+/media/Technical_Evaluation_Internal_Team/images/page45_full.png
+
+Company Name
+46
+Enter no. of Basement in Building (as 0,1,2,3…)
+/media/Technical_Evaluation_Internal_Team/images/page46_full.png
+
+Company Name
+47
+Enter no. of Parking levels in Building
+(as 0,1,2,3…)
+/media/Technical_Evaluation_Internal_Team/images/page47_full.png
+
+Company Name
+48
+Enter no. of Livable Floors here
+(as 1,2…13,14 ….)
+/media/Technical_Evaluation_Internal_Team/images/page48_full.png
+
+Company Name
+49
+Building Structure will appear here automatically basis of
+details mentioned in Basement, Parking and Livable Fields
+/media/Technical_Evaluation_Internal_Team/images/page49_full.png
+
+Company Name
+50
+Select Appropriate Radio button here
+/media/Technical_Evaluation_Internal_Team/images/page50_full.png
+
+Company Name
+51
+/media/Technical_Evaluation_Internal_Team/images/page51_full.png
+
+Company Name
+52
+/media/Technical_Evaluation_Internal_Team/images/page52_full.png
+
+Company Name
+53
+/media/Technical_Evaluation_Internal_Team/images/page53_full.png
+
+Company Name
+54
+Select Floors which to be considered for
+Valuation
+/media/Technical_Evaluation_Internal_Team/images/page54_full.png
+
+Company Name
+55
+/media/Technical_Evaluation_Internal_Team/images/page55_full.png
+
+Company Name
+56
+Select options from drop down
+/media/Technical_Evaluation_Internal_Team/images/page56_full.png
+
+Company Name
+57
+/media/Technical_Evaluation_Internal_Team/images/page57_full.png
+
+Company Name
+58
+Select appropriate Radio button option
+/media/Technical_Evaluation_Internal_Team/images/page58_full.png
+
+Company Name
+59
+/media/Technical_Evaluation_Internal_Team/images/page59_full.png
+
+Company Name
+60
+Upload Door photo with name plate here
+/media/Technical_Evaluation_Internal_Team/images/page60_full.png
+
+Company Name
+61
+Select appropriate Radio button option
+/media/Technical_Evaluation_Internal_Team/images/page61_full.png
+
+Company Name
+62
+These options will appear after selecting
+Single occupancy radio button
+/media/Technical_Evaluation_Internal_Team/images/page62_full.png
+
+Company Name
+63
+Select drop down option after selecting
+Single occupancy radio button
+/media/Technical_Evaluation_Internal_Team/images/page63_full.png
+
+Company Name
+64
+/media/Technical_Evaluation_Internal_Team/images/page64_full.png
+
+Company Name
+65
+/media/Technical_Evaluation_Internal_Team/images/page65_full.png
+
+Company Name
+66
+/media/Technical_Evaluation_Internal_Team/images/page66_full.png
+
+Company Name
+67
+If Self occupied option is selected by user
+then Applicant name will appear here for
+selection
+/media/Technical_Evaluation_Internal_Team/images/page67_full.png
+
+Company Name
+68
+/media/Technical_Evaluation_Internal_Team/images/page68_full.png
+
+Company Name
+69
+/media/Technical_Evaluation_Internal_Team/images/page69_full.png
+
+Company Name
+70
+/media/Technical_Evaluation_Internal_Team/images/page70_full.png
+
+Company Name
+71
+/media/Technical_Evaluation_Internal_Team/images/page71_full.png
+
+Company Name
+72
+Click on + icon for adding Accommodation
+type
+/media/Technical_Evaluation_Internal_Team/images/page72_full.png
+
+Company Name
+73
+Click on Add more to proceed
+/media/Technical_Evaluation_Internal_Team/images/page73_full.png
+
+Company Name
+74
+This screen will appear after click on Add more
+/media/Technical_Evaluation_Internal_Team/images/page74_full.png
+
+Company Name
+75
+Enter Unit no. here
+Select Appropriate radio button
+/media/Technical_Evaluation_Internal_Team/images/page75_full.png
+
+Company Name
+76
+These options will
+appear automatically
+after selecting radio
+button of Unit
+Configuration
+Click on Add more for adding more rows
+/media/Technical_Evaluation_Internal_Team/images/page76_full.png
+
+Company Name
+77
+Select appropriate
+options from drop
+down
+/media/Technical_Evaluation_Internal_Team/images/page77_full.png
+
+Company Name
+78
+/media/Technical_Evaluation_Internal_Team/images/page78_full.png
+
+Company Name
+79
+Enter no. of count here
+/media/Technical_Evaluation_Internal_Team/images/page79_full.png
+
+Company Name
+80
+Click on Add to update details
+/media/Technical_Evaluation_Internal_Team/images/page80_full.png
+
+Company Name
+81
+Click on + icon to add Accommodation type
+/media/Technical_Evaluation_Internal_Team/images/page81_full.png
+
+Company Name
+82
+Click on Add more to add details
+/media/Technical_Evaluation_Internal_Team/images/page82_full.png
+
+Company Name
+83
+You can mention Unit configuration other than from Radio Button
+/media/Technical_Evaluation_Internal_Team/images/page83_full.png
+
+Company Name
+84
+Select options
+from drop
+down
+/media/Technical_Evaluation_Internal_Team/images/page84_full.png
+
+Company Name
+85
+/media/Technical_Evaluation_Internal_Team/images/page85_full.png
+
+Company Name
+86
+Enter no. of count
+/media/Technical_Evaluation_Internal_Team/images/page86_full.png
+
+Company Name
+87
+/media/Technical_Evaluation_Internal_Team/images/page87_full.png
+
+Company Name
+88
+/media/Technical_Evaluation_Internal_Team/images/page88_full.png
+
+Company Name
+89
+/media/Technical_Evaluation_Internal_Team/images/page89_full.png
+
+Company Name
+90
+Click here to add
+details
+/media/Technical_Evaluation_Internal_Team/images/page90_full.png
+
+Company Name
+91
+/media/Technical_Evaluation_Internal_Team/images/page91_full.png
+
+Company Name
+92
+Select Appropriate Radio
+Button
+/media/Technical_Evaluation_Internal_Team/images/page92_full.png
+
+Company Name
+93
+/media/Technical_Evaluation_Internal_Team/images/page93_full.png
+
+Company Name
+94
+Once you Select Yes Radio Button of Area Calculator these options will
+appear
+Now Click on + Icon
+/media/Technical_Evaluation_Internal_Team/images/page94_full.png
+
+Company Name
+95
+Now Click on 3BHK
+/media/Technical_Evaluation_Internal_Team/images/page95_full.png
+
+Company Name
+96
+This Screen will appear after clicking on 3BHK
+/media/Technical_Evaluation_Internal_Team/images/page96_full.png
+
+Company Name
+97
+/media/Technical_Evaluation_Internal_Team/images/page97_full.png
+
+Company Name
+98
+Enter Length and width in Ft
+/media/Technical_Evaluation_Internal_Team/images/page98_full.png
+
+Company Name
+99
+/media/Technical_Evaluation_Internal_Team/images/page99_full.png
+
+Company Name
+100
+These Option will Auto populate once Length and width are entered
+/media/Technical_Evaluation_Internal_Team/images/page100_full.png
+
+Company Name
+101
+Edit Loading factor as per your location
+/media/Technical_Evaluation_Internal_Team/images/page101_full.png
+
+Company Name
+102
+Click on Add Area to add new Row
+/media/Technical_Evaluation_Internal_Team/images/page102_full.png
+
+Company Name
+103
+Enter details here of
+Area to be entered
+/media/Technical_Evaluation_Internal_Team/images/page103_full.png
+
+Company Name
+104
+Enter length and
+width
+/media/Technical_Evaluation_Internal_Team/images/page104_full.png
+
+Company Name
+105
+/media/Technical_Evaluation_Internal_Team/images/page105_full.png
+
+Company Name
+106
+/media/Technical_Evaluation_Internal_Team/images/page106_full.png
+
+Company Name
+107
+/media/Technical_Evaluation_Internal_Team/images/page107_full.png
+
+Company Name
+108
+You can delete row
+which was created
+from here
+/media/Technical_Evaluation_Internal_Team/images/page108_full.png
+
+Company Name
+109
+Enter All the details
+like wise enter in
+first row depending
+upon
+measurements on
+site
+/media/Technical_Evaluation_Internal_Team/images/page109_full.png
+
+Company Name
+110
+After entering all
+the details, Total
+Carpet and Saleable
+area will appear
+here for respective
+floor
+/media/Technical_Evaluation_Internal_Team/images/page110_full.png
+
+Company Name
+111
+After entering details on Ground
+Floor, now click on First floor to
+enter details
+/media/Technical_Evaluation_Internal_Team/images/page111_full.png
+
+Company Name
+112
+Enter details as per
+site measurement
+/media/Technical_Evaluation_Internal_Team/images/page112_full.png
+
+Company Name
+113
+After entering all
+the details, Total
+Carpet and Saleable
+area will appear
+here for respective
+floor
+/media/Technical_Evaluation_Internal_Team/images/page113_full.png
+
+Company Name
+114
+After entering all
+the details, Click
+here to Save the
+detail
+Society registration
+related docs Image
+can be uploaded
+here
+/media/Technical_Evaluation_Internal_Team/images/page114_full.png
+
+Company Name
+115
+After click of Save option, green tick will appear on Property details and message will appear as Data saved successfully
+/media/Technical_Evaluation_Internal_Team/images/page115_full.png
+
+Company Name
+116
+Click here to
+Proceed ahead
+/media/Technical_Evaluation_Internal_Team/images/page116_full.png
+
+Company Name
+117
+System will move to this tab after click on Save &
+Next option from Property details
+/media/Technical_Evaluation_Internal_Team/images/page117_full.png
+
+Company Name
+118
+Enter Age of Property here
+Enter Residual Age of Property here
+/media/Technical_Evaluation_Internal_Team/images/page118_full.png
+
+Company Name
+119
+/media/Technical_Evaluation_Internal_Team/images/page119_full.png
+
+Company Name
+120
+/media/Technical_Evaluation_Internal_Team/images/page120_full.png
+
+Company Name
+121
+/media/Technical_Evaluation_Internal_Team/images/page121_full.png
+
+Company Name
+122
+/media/Technical_Evaluation_Internal_Team/images/page122_full.png
+
+Company Name
+123
+Enter Boundaries details here
+/media/Technical_Evaluation_Internal_Team/images/page123_full.png
+
+Company Name
+124
+/media/Technical_Evaluation_Internal_Team/images/page124_full.png
+
+Company Name
+125
+/media/Technical_Evaluation_Internal_Team/images/page125_full.png
+
+Company Name
+126
+/media/Technical_Evaluation_Internal_Team/images/page126_full.png
+
+Company Name
+127
+/media/Technical_Evaluation_Internal_Team/images/page127_full.png
+
+Company Name
+128
+/media/Technical_Evaluation_Internal_Team/images/page128_full.png
+
+Company Name
+129
+/media/Technical_Evaluation_Internal_Team/images/page129_full.png
+
+Company Name
+130
+/media/Technical_Evaluation_Internal_Team/images/page130_full.png
+
+Company Name
+131
+/media/Technical_Evaluation_Internal_Team/images/page131_full.png
+
+Company Name
+132
+/media/Technical_Evaluation_Internal_Team/images/page132_full.png
+
+Company Name
+133
+/media/Technical_Evaluation_Internal_Team/images/page133_full.png
+
+Company Name
+134
+/media/Technical_Evaluation_Internal_Team/images/page134_full.png
+
+Company Name
+135
+/media/Technical_Evaluation_Internal_Team/images/page135_full.png
+
+Company Name
+136
+Upload Boundaries Pics here,
+click on Drag & Drop/Upload
+photo
+/media/Technical_Evaluation_Internal_Team/images/page136_full.png
+
+Company Name
+137
+Choose Pic to upload
+/media/Technical_Evaluation_Internal_Team/images/page137_full.png
+
+Company Name
+138
+Once Pic is uploaded a message will
+appear as ‘Image uploaded
+successfully’
+/media/Technical_Evaluation_Internal_Team/images/page138_full.png
+
+Company Name
+139
+Once Pic is uploaded a message will appear as ‘Image uploaded successfully’
+Once Pic is uploaded a message will appear as ‘Image uploaded successfully’
+/media/Technical_Evaluation_Internal_Team/images/page139_full.png
+
+Company Name
+140
+Choose Appropriate radio button here, once selected as Yes, upload screen
+will appear below
+Click here to upload Sketch of Irregular shape property with dimensions
+Click here to upload Sketch of Irregular shape property with dimensions
+/media/Technical_Evaluation_Internal_Team/images/page140_full.png
+
+Company Name
+141
+/media/Technical_Evaluation_Internal_Team/images/page141_full.png
+
+Company Name
+142
+/media/Technical_Evaluation_Internal_Team/images/page142_full.png
+
+Company Name
+143
+/media/Technical_Evaluation_Internal_Team/images/page143_full.png
+
+Company Name
+144
+Uploaded file will appear here
+/media/Technical_Evaluation_Internal_Team/images/page144_full.png
+
+Company Name
+145
+Choose appropriate radio
+button
+/media/Technical_Evaluation_Internal_Team/images/page145_full.png
+
+Company Name
+146
+Enter Remarks
+Click on Save After filling all the
+details
+/media/Technical_Evaluation_Internal_Team/images/page146_full.png
+
+Company Name
+147
+After click on Save message will
+appear as Data saved Successfully
+/media/Technical_Evaluation_Internal_Team/images/page147_full.png
+
+Company Name
+148
+Click on Save & Next to proceed
+further
+/media/Technical_Evaluation_Internal_Team/images/page148_full.png
+
+Company Name
+149
+After click on Save & Next System will proceeds
+to this Tab
+Enter details as applicable in these fields
+/media/Technical_Evaluation_Internal_Team/images/page149_full.png
+
+Company Name
+150
+/media/Technical_Evaluation_Internal_Team/images/page150_full.png
+
+Company Name
+151
+/media/Technical_Evaluation_Internal_Team/images/page151_full.png
+
+Company Name
+152
+/media/Technical_Evaluation_Internal_Team/images/page152_full.png
+
+Company Name
+153
+/media/Technical_Evaluation_Internal_Team/images/page153_full.png
+
+Company Name
+154
+/media/Technical_Evaluation_Internal_Team/images/page154_full.png
+
+Company Name
+155
+/media/Technical_Evaluation_Internal_Team/images/page155_full.png
+
+Company Name
+156
+/media/Technical_Evaluation_Internal_Team/images/page156_full.png
+
+Company Name
+157
+/media/Technical_Evaluation_Internal_Team/images/page157_full.png
+
+Company Name
+158
+/media/Technical_Evaluation_Internal_Team/images/page158_full.png
+
+Company Name
+159
+Enter if any other Amenities obsereved
+/media/Technical_Evaluation_Internal_Team/images/page159_full.png
+
+Company Name
+160
+Tick of the applicable fields
+/media/Technical_Evaluation_Internal_Team/images/page160_full.png
+
+Company Name
+161
+Mention the Amenities observed apart from
+mentioned in Project Amenities
+/media/Technical_Evaluation_Internal_Team/images/page161_full.png
+
+Company Name
+162
+/media/Technical_Evaluation_Internal_Team/images/page162_full.png
+
+Company Name
+163
+/media/Technical_Evaluation_Internal_Team/images/page163_full.png
+
+Company Name
+164
+/media/Technical_Evaluation_Internal_Team/images/page164_full.png
+
+Company Name
+165
+Tick the applicable options
+/media/Technical_Evaluation_Internal_Team/images/page165_full.png
+
+Company Name
+166
+Tick the applicable options
+/media/Technical_Evaluation_Internal_Team/images/page166_full.png
+
+Company Name
+167
+Tick the
+applicable
+options
+Tick the applicable options
+/media/Technical_Evaluation_Internal_Team/images/page167_full.png
+
+Company Name
+168
+Mention any other
+observation
+observed
+/media/Technical_Evaluation_Internal_Team/images/page168_full.png
+
+Company Name
+169
+/media/Technical_Evaluation_Internal_Team/images/page169_full.png
+
+Company Name
+170
+Click on Save option after entering all
+the details
+/media/Technical_Evaluation_Internal_Team/images/page170_full.png
+
+Company Name
+171
+/media/Technical_Evaluation_Internal_Team/images/page171_full.png
+
+Company Name
+172
+Click on Save option after entering all
+the details
+/media/Technical_Evaluation_Internal_Team/images/page172_full.png
+
+Company Name
+173
+System will Proceeds to Caution area tab after
+clicking on Save & Next in Amenities tab
+/media/Technical_Evaluation_Internal_Team/images/page173_full.png
+
+Company Name
+174
+Tick of the applicable fields, leave it Blank if nothing is applicable
+Click on Save Option
+/media/Technical_Evaluation_Internal_Team/images/page174_full.png
+
+Company Name
+175
+Click on Save & Next Option to
+Proceeds to next tab
+/media/Technical_Evaluation_Internal_Team/images/page175_full.png
+
+Company Name
+176
+System proceeds to Fair Market Valuation tab
+after clicking on Save & Next option in Caution
+area Tab
+/media/Technical_Evaluation_Internal_Team/images/page176_full.png
+
+Company Name
+177
+Select Appropriate Valuation Method from drop down
+1.
+For P+C and Construction case type select Self
+Construction
+2.
+For Rental valuation select Income Approach
+3.
+For Rest all case type select Sale Comparison
+/media/Technical_Evaluation_Internal_Team/images/page177_full.png
+
+Company Name
+178
+After Selecting Valuation Methodology as Sale Comparison this screen will appear
+Enter Land Rate here
+/media/Technical_Evaluation_Internal_Team/images/page178_full.png
+
+Company Name
+179
+Once Land rate is entered System will show value of Land here
+/media/Technical_Evaluation_Internal_Team/images/page179_full.png
+
+Company Name
+180
+Select Radio button on which valuation to be given, once selected
+below screen will appear
+User can Edit the showing Carpet and Saleable area on which Valuation to be given
+/media/Technical_Evaluation_Internal_Team/images/page180_full.png
+
+Company Name
+181
+User will have to enter applicable Rate here
+/media/Technical_Evaluation_Internal_Team/images/page181_full.png
+
+Company Name
+182
+System will show Amount after multiply Saleable area and Rate as Saleable area is selected
+System will show Total valuation of Land and Building here
+/media/Technical_Evaluation_Internal_Team/images/page182_full.png
+
+Company Name
+183
+Select applicable Radio button for appraising Govt. value
+Enter Area and Rate in applicable fields
+/media/Technical_Evaluation_Internal_Team/images/page183_full.png
+
+Company Name
+184
+This Field will auto populate from
+Construction area entered in Govt. rates
+/media/Technical_Evaluation_Internal_Team/images/page184_full.png
+
+Company Name
+185
+/media/Technical_Evaluation_Internal_Team/images/page185_full.png
+
+Company Name
+186
+Enter Govt. approved construction cost
+System will auto populate cost as per entered area and approved cost
+/media/Technical_Evaluation_Internal_Team/images/page186_full.png
+
+Company Name
+187
+System will show message as ‘Data saved Successfully
+once user click on Save option
+System will show message as ‘Data saved Successfully
+once user click on Save option
+/media/Technical_Evaluation_Internal_Team/images/page187_full.png
+
+Company Name
+188
+Click on Save & Next to Proceeds to next Tab
+/media/Technical_Evaluation_Internal_Team/images/page188_full.png
+
+Company Name
+189
+System proceeds to this tab after click on Save &
+Next option from Fair market value tab
+/media/Technical_Evaluation_Internal_Team/images/page189_full.png
+
+Company Name
+190
+Select type of structure from drop down
+This tab details will Auto-populate basis details mentioned in 1
+st
+tab of Project details
+/media/Technical_Evaluation_Internal_Team/images/page190_full.png
+
+Company Name
+191
+These fields will auto-populate once Complete property is selected in property details tab
+/media/Technical_Evaluation_Internal_Team/images/page191_full.png
+
+Company Name
+192
+These fields will auto-populate once Complete property is selected in property details tab
+Click on Save Option to save the details
+Click on Save Option to save the details
+/media/Technical_Evaluation_Internal_Team/images/page192_full.png
+
+Company Name
+193
+/media/Technical_Evaluation_Internal_Team/images/page193_full.png
+
+Company Name
+194
+Click on Save & Next option to proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page194_full.png
+
+Company Name
+195
+System will Proceed to this tab after clicking on
+Save & Next option in Construction progress
+details tab
+Enter appropriate numeric value in these fields
+/media/Technical_Evaluation_Internal_Team/images/page195_full.png
+
+Company Name
+196
+/media/Technical_Evaluation_Internal_Team/images/page196_full.png
+
+Company Name
+197
+/media/Technical_Evaluation_Internal_Team/images/page197_full.png
+
+Company Name
+198
+Enter Latitude and Longitude with 6 numbers after
+decimal here
+/media/Technical_Evaluation_Internal_Team/images/page198_full.png
+
+Company Name
+199
+/media/Technical_Evaluation_Internal_Team/images/page199_full.png
+
+Company Name
+200
+Google map will auto populate once Latitude and
+Longitude are entered in respective fields
+/media/Technical_Evaluation_Internal_Team/images/page200_full.png
+
+Company Name
+201
+User can change this Google map view into
+Satellite view
+/media/Technical_Evaluation_Internal_Team/images/page201_full.png
+
+Company Name
+202
+/media/Technical_Evaluation_Internal_Team/images/page202_full.png
+
+Company Name
+203
+/media/Technical_Evaluation_Internal_Team/images/page203_full.png
+
+Company Name
+204
+User can change this Satellite view
+into Landscape view from here
+Click on Save & Next option to Proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page204_full.png
+
+Company Name
+205
+System will Proceed to this tab after clicking on
+Save & Next option in Distance Range of the
+Project tab
+/media/Technical_Evaluation_Internal_Team/images/page205_full.png
+
+Company Name
+206
+Click on it to Upload Property Photographs, size of file should be less than 500 KB
+/media/Technical_Evaluation_Internal_Team/images/page206_full.png
+
+Company Name
+207
+Chose a File to upload and click on Open
+/media/Technical_Evaluation_Internal_Team/images/page207_full.png
+
+Company Name
+208
+System shows this message
+once Photos are Uploaded
+Scroll down to View uploaded Images
+/media/Technical_Evaluation_Internal_Team/images/page208_full.png
+
+Company Name
+209
+Uploaded Photographs will
+appear here after scroll
+down this Screen
+Edit Name of Photo from here
+/media/Technical_Evaluation_Internal_Team/images/page209_full.png
+
+Company Name
+210
+After Click on Edit Icon this
+Screen will Appear
+/media/Technical_Evaluation_Internal_Team/images/page210_full.png
+
+Company Name
+211
+Enter Name here
+Click on Update Option
+After editing the name
+/media/Technical_Evaluation_Internal_Team/images/page211_full.png
+
+Company Name
+212
+Edited name will appear here
+/media/Technical_Evaluation_Internal_Team/images/page212_full.png
+
+Company Name
+213
+Click on Save & Next option to Proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page213_full.png
+
+Company Name
+214
+System will Proceed to this tab after clicking on
+Save & Next option in Site Photographs tab
+Enter any deviations observed on site here
+/media/Technical_Evaluation_Internal_Team/images/page214_full.png
+
+Company Name
+215
+Enter General Observations here
+/media/Technical_Evaluation_Internal_Team/images/page215_full.png
+
+Company Name
+216
+Enter property dealer references here
+/media/Technical_Evaluation_Internal_Team/images/page216_full.png
+
+Company Name
+217
+/media/Technical_Evaluation_Internal_Team/images/page217_full.png
+
+Company Name
+218
+Select appropriate Radio button here
+/media/Technical_Evaluation_Internal_Team/images/page218_full.png
+
+Company Name
+219
+Enter Name of vetted Document here
+/media/Technical_Evaluation_Internal_Team/images/page219_full.png
+
+Company Name
+220
+Enter document reference no. here
+/media/Technical_Evaluation_Internal_Team/images/page220_full.png
+
+Company Name
+221
+Enter document issued date here
+/media/Technical_Evaluation_Internal_Team/images/page221_full.png
+
+Company Name
+222
+Enter document issued authority name here
+User can add more rows after clicking on Add more rows option
+in case of multiple documents vetted
+/media/Technical_Evaluation_Internal_Team/images/page222_full.png
+
+Company Name
+223
+/media/Technical_Evaluation_Internal_Team/images/page223_full.png
+
+Company Name
+224
+/media/Technical_Evaluation_Internal_Team/images/page224_full.png
+
+Company Name
+225
+Enter details in new added row
+/media/Technical_Evaluation_Internal_Team/images/page225_full.png
+
+Company Name
+226
+User can delete rows from here, click on this Icon
+/media/Technical_Evaluation_Internal_Team/images/page226_full.png
+
+Company Name
+227
+User can Edit name of Person met on site from here
+/media/Technical_Evaluation_Internal_Team/images/page227_full.png
+
+Company Name
+228
+/media/Technical_Evaluation_Internal_Team/images/page228_full.png
+
+Company Name
+229
+Select appropriate drop down option
+/media/Technical_Evaluation_Internal_Team/images/page229_full.png
+
+Company Name
+230
+User can Edit the contact no. of
+person met at site from here
+/media/Technical_Evaluation_Internal_Team/images/page230_full.png
+
+Company Name
+231
+/media/Technical_Evaluation_Internal_Team/images/page231_full.png
+
+Company Name
+232
+User can select no. of site visits for particular property from here
+/media/Technical_Evaluation_Internal_Team/images/page232_full.png
+
+Company Name
+233
+Edit date of site visits from here, select date from Calendar
+These details are Auto Populates from system
+/media/Technical_Evaluation_Internal_Team/images/page233_full.png
+
+Click of Save Option to Save enter details
+/media/Technical_Evaluation_Internal_Team/images/page234_full.png
+
+/media/Technical_Evaluation_Internal_Team/images/page235_full.png
+
+Click here to Preview report
+/media/Technical_Evaluation_Internal_Team/images/page236_full.png
+
+This Screen appears to Preview Entered
+details, Scroll down to view all details
+/media/Technical_Evaluation_Internal_Team/images/page237_full.png
+
+/media/Technical_Evaluation_Internal_Team/images/page238_full.png
+
+Click on Close Option after Preview the report
+/media/Technical_Evaluation_Internal_Team/images/page239_full.png
+
+Click on Submit Option to Submit the report
+/media/Technical_Evaluation_Internal_Team/images/page240_full.png
+
+Company Name
+241
+Click on Ok
+/media/Technical_Evaluation_Internal_Team/images/page241_full.png
+
+Company Name
+242
+Technical Evaluation
+Under-Construction Property
+Sale Comparison method
+/media/Technical_Evaluation_Internal_Team/images/page242_full.png
+
+Company Name
+243
+Enter All the details
+/media/Technical_Evaluation_Internal_Team/images/page243_full.png
+
+Company Name
+244
+Enter All the details in the Screen
+For Under Construction property
+Select ‘’Under construction ‘’
+option from drop down
+/media/Technical_Evaluation_Internal_Team/images/page244_full.png
+
+Company Name
+245
+If Property is measurable then
+select Yes and proceeds with the
+entry, If not then select No
+/media/Technical_Evaluation_Internal_Team/images/page245_full.png
+
+Company Name
+246
+Click on Save option to Save the
+details and Save & Next to
+proceed to Next tab
+/media/Technical_Evaluation_Internal_Team/images/page246_full.png
+
+Company Name
+247
+Enter All the details in the Screen
+/media/Technical_Evaluation_Internal_Team/images/page247_full.png
+
+Company Name
+248
+Click on Save option to Save
+the details and Save & Next
+to proceed to Next tab
+/media/Technical_Evaluation_Internal_Team/images/page248_full.png
+
+Company Name
+249
+Enter All the applicable details in the Screen
+/media/Technical_Evaluation_Internal_Team/images/page249_full.png
+
+Company Name
+250
+/media/Technical_Evaluation_Internal_Team/images/page250_full.png
+
+Company Name
+251
+/media/Technical_Evaluation_Internal_Team/images/page251_full.png
+
+Company Name
+252
+Click on Save option to Save
+the details and Save & Next
+to proceed to Next tab
+/media/Technical_Evaluation_Internal_Team/images/page252_full.png
+
+Company Name
+253
+Enter All the applicable details in the Screen, If noting is applicable then click on Save & Next Option
+/media/Technical_Evaluation_Internal_Team/images/page253_full.png
+
+Company Name
+254
+/media/Technical_Evaluation_Internal_Team/images/page254_full.png
+
+Company Name
+255
+Select Option of Sale
+Comparison from drop down
+/media/Technical_Evaluation_Internal_Team/images/page255_full.png
+
+Company Name
+256
+Enter Land Rates
+Select Saleable area from the drop down
+/media/Technical_Evaluation_Internal_Team/images/page256_full.png
+
+Enter Carpet area, Saleable area and applicable Rate of construction
+/media/Technical_Evaluation_Internal_Team/images/page257_full.png
+
+Company Name
+258
+/media/Technical_Evaluation_Internal_Team/images/page258_full.png
+
+Company Name
+259
+Select Applicable Building usage from radio button
+Enter all the Details
+/media/Technical_Evaluation_Internal_Team/images/page259_full.png
+
+Click on Save to Save the details and Save & Next to Proceed to Next tab
+/media/Technical_Evaluation_Internal_Team/images/page260_full.png
+
+Company Name
+261
+/media/Technical_Evaluation_Internal_Team/images/page261_full.png
+
+Company Name
+262
+Select Applicable Type of Structure
+Mention Completion % and Recommendation % of Amenities here
+/media/Technical_Evaluation_Internal_Team/images/page262_full.png
+
+Company Name
+263
+/media/Technical_Evaluation_Internal_Team/images/page263_full.png
+
+Company Name
+264
+Click on Stage Calculator
+/media/Technical_Evaluation_Internal_Team/images/page264_full.png
+
+Company Name
+265
+After clicking on Stage Calculator this screen will appear
+Enter the completion % here against
+each rows
+/media/Technical_Evaluation_Internal_Team/images/page265_full.png
+
+Company Name
+266
+Total will appear here
+/media/Technical_Evaluation_Internal_Team/images/page266_full.png
+
+Company Name
+267
+Close the
+window after
+entering all
+the details
+/media/Technical_Evaluation_Internal_Team/images/page267_full.png
+
+Company Name
+268
+Total % of completion and
+Recommendation  from calculator will
+appear here
+Recommended value will be the
+combination of land value and actual
+value as on date basis % Completion
+/media/Technical_Evaluation_Internal_Team/images/page268_full.png
+
+Company Name
+269
+Enter Remarks here
+Click on Save to Save the details and Save & Next to Proceed to Next tab
+Click on Save to Save the details and Save & Next to Proceed to Next tab
+/media/Technical_Evaluation_Internal_Team/images/page269_full.png
+
+Company Name
+270
+Enter All the details in the Screen fields
+/media/Technical_Evaluation_Internal_Team/images/page270_full.png
+
+Company Name
+271
+/media/Technical_Evaluation_Internal_Team/images/page271_full.png
+
+Company Name
+272
+Click on Save to Save the details and Save & Next to Proceed to Next tab
+Click on Save to Save the details and Save & Next to Proceed to Next tab
+/media/Technical_Evaluation_Internal_Team/images/page272_full.png
+
+Company Name
+273
+Upload Photographs here
+/media/Technical_Evaluation_Internal_Team/images/page273_full.png
+
+Company Name
+274
+/media/Technical_Evaluation_Internal_Team/images/page274_full.png
+
+Company Name
+275
+/media/Technical_Evaluation_Internal_Team/images/page275_full.png
+
+Company Name
+276
+Click on Save to Save the details
+and Save & Next to Proceed to
+Next tab
+/media/Technical_Evaluation_Internal_Team/images/page276_full.png
+
+Company Name
+277
+Enter the details in the Screen fields
+/media/Technical_Evaluation_Internal_Team/images/page277_full.png
+
+Company Name
+278
+/media/Technical_Evaluation_Internal_Team/images/page278_full.png
+
+Company Name
+279
+/media/Technical_Evaluation_Internal_Team/images/page279_full.png
+
+/media/Technical_Evaluation_Internal_Team/images/page280_full.png
+
+Company Name
+281
+/media/Technical_Evaluation_Internal_Team/images/page281_full.png
+
+Company Name
+282
+/media/Technical_Evaluation_Internal_Team/images/page282_full.png
+
+Company Name
+283
+Save the data
+from here
+Save the data
+from here
+/media/Technical_Evaluation_Internal_Team/images/page283_full.png
+
+Company Name
+284
+/media/Technical_Evaluation_Internal_Team/images/page284_full.png
+
+Company Name
+285
+Preview
+report from
+here
+/media/Technical_Evaluation_Internal_Team/images/page285_full.png
+
+/media/Technical_Evaluation_Internal_Team/images/page286_full.png
+
+Company Name
+287
+Submit the report
+from here
+/media/Technical_Evaluation_Internal_Team/images/page287_full.png
+
+Company Name
+288
+Click on Ok
+/media/Technical_Evaluation_Internal_Team/images/page288_full.png
+
+Company Name
+289
+Technical Evaluation
+P+C/Construction cases
+Self-construction method
+/media/Technical_Evaluation_Internal_Team/images/page289_full.png
+
+Company Name
+290
+Enter all the details in the Screen
+/media/Technical_Evaluation_Internal_Team/images/page290_full.png
+
+Company Name
+291
+/media/Technical_Evaluation_Internal_Team/images/page291_full.png
+
+Company Name
+292
+/media/Technical_Evaluation_Internal_Team/images/page292_full.png
+
+Company Name
+293
+/media/Technical_Evaluation_Internal_Team/images/page293_full.png
+
+Company Name
+294
+/media/Technical_Evaluation_Internal_Team/images/page294_full.png
+
+Company Name
+295
+/media/Technical_Evaluation_Internal_Team/images/page295_full.png
+
+Company Name
+296
+/media/Technical_Evaluation_Internal_Team/images/page296_full.png
+
+Company Name
+297
+Select Under Construction from the drop down
+/media/Technical_Evaluation_Internal_Team/images/page297_full.png
+
+Company Name
+298
+Select Floors
+/media/Technical_Evaluation_Internal_Team/images/page298_full.png
+
+Company Name
+299
+/media/Technical_Evaluation_Internal_Team/images/page299_full.png
+
+Company Name
+300
+/media/Technical_Evaluation_Internal_Team/images/page300_full.png
+
+Company Name
+301
+/media/Technical_Evaluation_Internal_Team/images/page301_full.png
+
+Company Name
+302
+/media/Technical_Evaluation_Internal_Team/images/page302_full.png
+
+Company Name
+303
+Select radio button as No
+After entering all the details click on Save & Next to proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page303_full.png
+
+Company Name
+304
+Enter all the details
+/media/Technical_Evaluation_Internal_Team/images/page304_full.png
+
+Company Name
+305
+/media/Technical_Evaluation_Internal_Team/images/page305_full.png
+
+Company Name
+306
+/media/Technical_Evaluation_Internal_Team/images/page306_full.png
+
+Company Name
+307
+/media/Technical_Evaluation_Internal_Team/images/page307_full.png
+
+Company Name
+308
+After entering all the details click on Save & Next to proceed to next tab
+After entering all the details click on Save & Next to proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page308_full.png
+
+Company Name
+309
+Enter all the applicable details
+/media/Technical_Evaluation_Internal_Team/images/page309_full.png
+
+Company Name
+310
+/media/Technical_Evaluation_Internal_Team/images/page310_full.png
+
+Company Name
+311
+After entering all the details click on Save & Next to proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page311_full.png
+
+Company Name
+312
+Enter all the applicable details if noting is applicable then proceed to next tab after clicking on Save & Next option
+/media/Technical_Evaluation_Internal_Team/images/page312_full.png
+
+Company Name
+313
+/media/Technical_Evaluation_Internal_Team/images/page313_full.png
+
+Company Name
+314
+Select Self construction from drop down
+/media/Technical_Evaluation_Internal_Team/images/page314_full.png
+
+Company Name
+315
+Enter Land rate here
+/media/Technical_Evaluation_Internal_Team/images/page315_full.png
+
+Company Name
+316
+Enter Approved construction cost here
+Enter Total construction area here
+/media/Technical_Evaluation_Internal_Team/images/page316_full.png
+
+Company Name
+317
+/media/Technical_Evaluation_Internal_Team/images/page317_full.png
+
+Company Name
+318
+/media/Technical_Evaluation_Internal_Team/images/page318_full.png
+
+Company Name
+319
+/media/Technical_Evaluation_Internal_Team/images/page319_full.png
+
+Company Name
+320
+After entering all the details Proceed to next tab after clicking on Save & Next option
+/media/Technical_Evaluation_Internal_Team/images/page320_full.png
+
+Company Name
+321
+Enter Amenities % Completion and % Recommendation here
+/media/Technical_Evaluation_Internal_Team/images/page321_full.png
+
+Click On Stage Calculator to enter current stage
+/media/Technical_Evaluation_Internal_Team/images/page322_full.png
+
+/media/Technical_Evaluation_Internal_Team/images/page323_full.png
+
+Enter Current applicable stage here
+/media/Technical_Evaluation_Internal_Team/images/page324_full.png
+
+/media/Technical_Evaluation_Internal_Team/images/page325_full.png
+
+Recommended value would reflect here
+combination of Land value plus current building
+structure value basis % Recommendation
+/media/Technical_Evaluation_Internal_Team/images/page326_full.png
+
+After entering all the details Proceed to next tab after clicking on Save & Next option
+/media/Technical_Evaluation_Internal_Team/images/page327_full.png
+
+Company Name
+328
+Enter All the details in Fields
+/media/Technical_Evaluation_Internal_Team/images/page328_full.png
+
+/media/Technical_Evaluation_Internal_Team/images/page329_full.png
+
+After entering all the details Proceed to next tab after clicking on Save & Next option
+/media/Technical_Evaluation_Internal_Team/images/page330_full.png
+
+Upload Property photos here
+/media/Technical_Evaluation_Internal_Team/images/page331_full.png
+
+Company Name
+332
+After entering all the details Proceed to next tab after clicking on Save & Next option
+/media/Technical_Evaluation_Internal_Team/images/page332_full.png
+
+Company Name
+333
+Enter all the applicable details
+/media/Technical_Evaluation_Internal_Team/images/page333_full.png
+
+Company Name
+334
+/media/Technical_Evaluation_Internal_Team/images/page334_full.png
+
+Company Name
+335
+/media/Technical_Evaluation_Internal_Team/images/page335_full.png
+
+Company Name
+336
+/media/Technical_Evaluation_Internal_Team/images/page336_full.png
+
+Company Name
+337
+After entering all the details click on Save to Save the details and Submit the report after click on Submit
+After entering all the details click on Save to Save the details and Submit the report after click on Submit
+/media/Technical_Evaluation_Internal_Team/images/page337_full.png
+
+Company Name
+338
+Click on Ok
+/media/Technical_Evaluation_Internal_Team/images/page338_full.png
+
+Company Name
+339
+Technical Evaluation – TO/TM
+Commercial properties
+Rental method
+/media/Technical_Evaluation_Internal_Team/images/page339_full.png
+
+Company Name
+340
+Enter All the details in the Screen
+/media/Technical_Evaluation_Internal_Team/images/page340_full.png
+
+Company Name
+341
+/media/Technical_Evaluation_Internal_Team/images/page341_full.png
+
+Company Name
+342
+/media/Technical_Evaluation_Internal_Team/images/page342_full.png
+
+Company Name
+343
+/media/Technical_Evaluation_Internal_Team/images/page343_full.png
+
+Company Name
+344
+/media/Technical_Evaluation_Internal_Team/images/page344_full.png
+
+Company Name
+345
+/media/Technical_Evaluation_Internal_Team/images/page345_full.png
+
+Company Name
+346
+/media/Technical_Evaluation_Internal_Team/images/page346_full.png
+
+Company Name
+347
+/media/Technical_Evaluation_Internal_Team/images/page347_full.png
+
+Company Name
+348
+Select Floor for Valuation
+/media/Technical_Evaluation_Internal_Team/images/page348_full.png
+
+Company Name
+349
+Select appropriate Radio button
+/media/Technical_Evaluation_Internal_Team/images/page349_full.png
+
+Company Name
+350
+/media/Technical_Evaluation_Internal_Team/images/page350_full.png
+
+Company Name
+351
+After Selecting date click
+on + Icon
+/media/Technical_Evaluation_Internal_Team/images/page351_full.png
+
+Company Name
+352
+Enter all details
+Click on Add after entering the details
+/media/Technical_Evaluation_Internal_Team/images/page352_full.png
+
+Company Name
+353
+Select Yes radio button
+Click on Hall after selected Yes radio button
+/media/Technical_Evaluation_Internal_Team/images/page353_full.png
+
+Company Name
+354
+Enter all details
+/media/Technical_Evaluation_Internal_Team/images/page354_full.png
+
+Company Name
+355
+All entering all the details click on Save and Save & Next to proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page355_full.png
+
+Company Name
+356
+Enter all details
+/media/Technical_Evaluation_Internal_Team/images/page356_full.png
+
+Company Name
+357
+/media/Technical_Evaluation_Internal_Team/images/page357_full.png
+
+Company Name
+358
+All entering all the details click on Save and Save & Next to proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page358_full.png
+
+Company Name
+359
+Enter all the applicable details
+/media/Technical_Evaluation_Internal_Team/images/page359_full.png
+
+Company Name
+360
+/media/Technical_Evaluation_Internal_Team/images/page360_full.png
+
+Company Name
+361
+/media/Technical_Evaluation_Internal_Team/images/page361_full.png
+
+Company Name
+362
+/media/Technical_Evaluation_Internal_Team/images/page362_full.png
+
+Company Name
+363
+All entering all the details click on Save and Save & Next to proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page363_full.png
+
+Company Name
+364
+Tick on applicable details and click on Save and Save & Next to proceed to next tab
+/media/Technical_Evaluation_Internal_Team/images/page364_full.png
+
+Company Name
+365
+Select Income approach from drop down
+/media/Technical_Evaluation_Internal_Team/images/page365_full.png
+
+Company Name
+366
+Select Valuation on Radio button as Unit number
+/media/Technical_Evaluation_Internal_Team/images/page366_full.png
+
+Company Name
+367
+User can edit mention area here
+User can edit mention area here
+/media/Technical_Evaluation_Internal_Team/images/page367_full.png
+
+Company Name
+368
+Enter per sqft monthly Rental here
+Monthly & Annual Rental auto
+populates here
+Enter per sqft monthly Rental here
+/media/Technical_Evaluation_Internal_Team/images/page368_full.png
+
+Company Name
+369
+Enter amount here
+Enter Interest % here
+/media/Technical_Evaluation_Internal_Team/images/page369_full.png
+
+Company Name
+370
+Enter % number here
+Enter Tax amount paid
+/media/Technical_Evaluation_Internal_Team/images/page370_full.png
+
+Company Name
+371
+/media/Technical_Evaluation_Internal_Team/images/page371_full.png
+
+Company Name
+372
+Enter % Capitalization rate here
+Enter % Capitalization rate here
+Click on Save to Save the details and Save & Next to Proceeds to next tab
+/media/Technical_Evaluation_Internal_Team/images/page372_full.png
+
+Company Name
+373
+/media/Technical_Evaluation_Internal_Team/images/page373_full.png
+
+Company Name
+374
+Being a Completed property Stage of Structure will reflect as 100%
+/media/Technical_Evaluation_Internal_Team/images/page374_full.png
+
+Company Name
+375
+Click on Save to Save the details and Save & Next to Proceeds to next tab
+/media/Technical_Evaluation_Internal_Team/images/page375_full.png
+
+Company Name
+376
+Enter All the details
+/media/Technical_Evaluation_Internal_Team/images/page376_full.png
+
+Company Name
+377
+Click on Save to Save the details and Save & Next to Proceeds to next tab
+/media/Technical_Evaluation_Internal_Team/images/page377_full.png
+
+Company Name
+378
+Upload the Property photographs here
+/media/Technical_Evaluation_Internal_Team/images/page378_full.png
+
+Company Name
+379
+Click on Save to Save the details and Save & Next to Proceeds to next tab
+/media/Technical_Evaluation_Internal_Team/images/page379_full.png
+
+Company Name
+380
+Enter all the details
+/media/Technical_Evaluation_Internal_Team/images/page380_full.png
+
+Company Name
+381
+/media/Technical_Evaluation_Internal_Team/images/page381_full.png
+
+Company Name
+382
+/media/Technical_Evaluation_Internal_Team/images/page382_full.png
+
+Company Name
+383
+/media/Technical_Evaluation_Internal_Team/images/page383_full.png
+
+Company Name
+384
+Save the details After entering all the details
+/media/Technical_Evaluation_Internal_Team/images/page384_full.png
+
+Company Name
+385
+/media/Technical_Evaluation_Internal_Team/images/page385_full.png
+
+Company Name
+386
+Click on Submit to Submit the report
+/media/Technical_Evaluation_Internal_Team/images/page386_full.png
+
+Company Name
+387
+Click on Ok
+/media/Technical_Evaluation_Internal_Team/images/page387_full.png
+
+Company Name
+388
+How to Raise a Query
+/media/Technical_Evaluation_Internal_Team/images/page388_full.png
+
+Click on
+Query
+/media/Technical_Evaluation_Internal_Team/images/page389_full.png
+
+Click on New Query Option
+/media/Technical_Evaluation_Internal_Team/images/page390_full.png
+
+After click on new Query
+this screen populates
+/media/Technical_Evaluation_Internal_Team/images/page391_full.png
+
+Sub Category as Raise to Bank
+/media/Technical_Evaluation_Internal_Team/images/page392_full.png
+
+Select Appropriate drop down
+/media/Technical_Evaluation_Internal_Team/images/page393_full.png
+
+Select User to raise a Query
+/media/Technical_Evaluation_Internal_Team/images/page394_full.png
+
+Enter Message
+After Entering the details click on Send to Submit the query
+/media/Technical_Evaluation_Internal_Team/images/page395_full.png
+
+Raised query will appear in
+same tab of Query
+/media/Technical_Evaluation_Internal_Team/images/page396_full.png
+
+Once query is resolved
+status will reflect as closed,
+click on it
+/media/Technical_Evaluation_Internal_Team/images/page397_full.png
+
+Comments of User will
+reflect here
+/media/Technical_Evaluation_Internal_Team/images/page398_full.png

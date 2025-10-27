@@ -1,0 +1,1935 @@
+{
+  "file": "abhflfinverseall\\Demog Data Entry.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "Finverse User Manual"
+        },
+        {
+          "type": "text",
+          "text": "- Demog Data Entry"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "Please enter"
+        },
+        {
+          "type": "text",
+          "text": "\"Demog Data"
+        },
+        {
+          "type": "text",
+          "text": "Entry\""
+        },
+        {
+          "type": "text",
+          "text": "credentials here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click Login to"
+        },
+        {
+          "type": "text",
+          "text": "proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "All cases in DDE shall appear here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select the required case by"
+        },
+        {
+          "type": "text",
+          "text": "clicking on Application No."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "Additional applicant if"
+        },
+        {
+          "type": "text",
+          "text": "any, can be added here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Any change in Applicant"
+        },
+        {
+          "type": "text",
+          "text": "Type can be done by"
+        },
+        {
+          "type": "text",
+          "text": "clicking here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "“Customer type”"
+        },
+        {
+          "type": "text",
+          "text": "can be changed by selecting options from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "“Applicant Type”"
+        },
+        {
+          "type": "text",
+          "text": "can be changed by selecting options from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "“Profile”"
+        },
+        {
+          "type": "text",
+          "text": "can be changed by selecting options from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "“Relationship”"
+        },
+        {
+          "type": "text",
+          "text": "can be changed by selecting options from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "Similarly, this can be done"
+        },
+        {
+          "type": "text",
+          "text": "for Co-Applicant too"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “save”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page13_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "items": [
+        {
+          "type": "text",
+          "text": "We are entering details for"
+        },
+        {
+          "type": "text",
+          "text": "the main Applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page14_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Basic Details” to"
+        },
+        {
+          "type": "text",
+          "text": "add and update basic details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page15_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Name” of the applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page16_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "items": [
+        {
+          "type": "text",
+          "text": "Details of the applicant"
+        },
+        {
+          "type": "text",
+          "text": "will auto-populate"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page17_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Service Segment”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page18_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "items": [
+        {
+          "type": "text",
+          "text": "Make changes in other"
+        },
+        {
+          "type": "text",
+          "text": "fields, if required"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page19_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select appropriate option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page20_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "items": [
+        {
+          "type": "text",
+          "text": "KYC Address Details shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page21_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "items": [
+        {
+          "type": "text",
+          "text": "Permanent residential address details shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page22_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “Locality” here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page23_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "items": [
+        {
+          "type": "text",
+          "text": "Work Location Details shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page24_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "items": [
+        {
+          "type": "text",
+          "text": "Verified Email ID shall appear here"
+        },
+        {
+          "type": "text",
+          "text": "Promotional Call options to be"
+        },
+        {
+          "type": "text",
+          "text": "selected as per customer preference"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page25_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add Phone/Email ID details, if required"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page26_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Save & Next"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page27_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "items": [
+        {
+          "type": "text",
+          "text": "We shall now update details"
+        },
+        {
+          "type": "text",
+          "text": "of the Co-Applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page28_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Aadhar No.”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page29_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Marital"
+        },
+        {
+          "type": "text",
+          "text": "Status” from the"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page30_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 31,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Father’s name”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page31_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 32,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Mother’s name”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page32_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 33,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page33_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 34,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Spouse’s name”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page34_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 35,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “service Segment”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page35_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 36,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “Category” from"
+        },
+        {
+          "type": "text",
+          "text": "the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page36_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 37,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Religion” from"
+        },
+        {
+          "type": "text",
+          "text": "the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page37_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 38,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Educational qualification”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page38_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 39,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page39_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 40,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page40_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 41,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Pincode”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page41_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 42,
+      "items": [
+        {
+          "type": "text",
+          "text": "State and City details will"
+        },
+        {
+          "type": "text",
+          "text": "auto populate"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page42_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 43,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose"
+        },
+        {
+          "type": "text",
+          "text": "“Locality” from"
+        },
+        {
+          "type": "text",
+          "text": "the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page43_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 44,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Street and"
+        },
+        {
+          "type": "text",
+          "text": "Building Name/No.”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page44_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 45,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter"
+        },
+        {
+          "type": "text",
+          "text": "“Flat/House/Plot"
+        },
+        {
+          "type": "text",
+          "text": "No. and Floor”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page45_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 46,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select if Permanent address is same"
+        },
+        {
+          "type": "text",
+          "text": "as above or enter details manually"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page46_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 47,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once check box is selected, details shall populate as above"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page47_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 48,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page48_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 49,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "“Preferred"
+        },
+        {
+          "type": "text",
+          "text": "Language” from"
+        },
+        {
+          "type": "text",
+          "text": "the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page49_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 50,
+      "items": [
+        {
+          "type": "text",
+          "text": "Promotional Calls options to"
+        },
+        {
+          "type": "text",
+          "text": "be selected as per customer"
+        },
+        {
+          "type": "text",
+          "text": "preference"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page50_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 51,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select address for"
+        },
+        {
+          "type": "text",
+          "text": "communication"
+        },
+        {
+          "type": "text",
+          "text": "purpose"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page51_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 52,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "options"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page52_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 53,
+      "items": [
+        {
+          "type": "text",
+          "text": "Additional"
+        },
+        {
+          "type": "text",
+          "text": "Phone/Email ID can be"
+        },
+        {
+          "type": "text",
+          "text": "added here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page53_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 54,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save & Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page54_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 55,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once DDE of a tab is completed, a green tick"
+        },
+        {
+          "type": "text",
+          "text": "shall appear like this for respective tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page55_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 56,
+      "items": [
+        {
+          "type": "text",
+          "text": "KYC details to be entered here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page56_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 57,
+      "items": [
+        {
+          "type": "text",
+          "text": "First, we add details of"
+        },
+        {
+          "type": "text",
+          "text": "the Applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page57_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 58,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “Identification Type”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page58_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 59,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Name”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page59_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 60,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Identification number”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page60_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 61,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select the “Issue Date”"
+        },
+        {
+          "type": "text",
+          "text": "of the Identity proof"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page61_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 62,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select the “Expiry Date” of"
+        },
+        {
+          "type": "text",
+          "text": "the Identity proof"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page62_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 63,
+      "items": [
+        {
+          "type": "text",
+          "text": "Since the proof of identity and"
+        },
+        {
+          "type": "text",
+          "text": "address is the same. Details shall"
+        },
+        {
+          "type": "text",
+          "text": "populate from above"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page63_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 64,
+      "items": [
+        {
+          "type": "text",
+          "text": "If both proof are same, details will auto populate"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page64_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 65,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “KYC OSV/IPV “ done"
+        },
+        {
+          "type": "text",
+          "text": "by from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page65_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 66,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Date”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page66_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 67,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Employee Code”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page67_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 68,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Employee name”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page68_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 69,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Designation”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page69_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 70,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Save”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page70_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 71,
+      "items": [
+        {
+          "type": "text",
+          "text": "Entered data shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page71_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 72,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Account Type” and"
+        },
+        {
+          "type": "text",
+          "text": "select respective"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page72_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 73,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Save & Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page73_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 74,
+      "items": [
+        {
+          "type": "text",
+          "text": "Now we add details of the"
+        },
+        {
+          "type": "text",
+          "text": "Co-Applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page74_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 75,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “Identification Type”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page75_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 76,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Name”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page76_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 77,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Identification number”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page77_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 78,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select the “Issue Date”"
+        },
+        {
+          "type": "text",
+          "text": "of the Identity proof"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page78_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 79,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select the “Expiry Date” of"
+        },
+        {
+          "type": "text",
+          "text": "the Identity proof"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page79_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 80,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “Identification Type”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page80_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 81,
+      "items": [
+        {
+          "type": "text",
+          "text": "If both proof are same, details will auto populate"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page81_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 82,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “KYC OSV/IPV “ done"
+        },
+        {
+          "type": "text",
+          "text": "by from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page82_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 83,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Date”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page83_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 84,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Employee Code”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page84_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 85,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Employee Name”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page85_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 86,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Designation”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page86_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 87,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Account Type” and"
+        },
+        {
+          "type": "text",
+          "text": "select respective"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page87_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 88,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save & Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page88_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 89,
+      "items": [
+        {
+          "type": "text",
+          "text": "Work details to be entered in this tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page89_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 90,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Total Work Experience”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page90_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 91,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Employer Type” from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page91_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 92,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Employer Name”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page92_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 93,
+      "items": [
+        {
+          "type": "text",
+          "text": "Employer Category will"
+        },
+        {
+          "type": "text",
+          "text": "populate accordingly"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page93_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 94,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Retirement Age”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page94_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 95,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Save & Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page95_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 96,
+      "items": [
+        {
+          "type": "text",
+          "text": "Product details details captured shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page96_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 97,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select option"
+        },
+        {
+          "type": "text",
+          "text": "from radio"
+        },
+        {
+          "type": "text",
+          "text": "buttons"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page97_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 98,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save"
+        },
+        {
+          "type": "text",
+          "text": "and next to"
+        },
+        {
+          "type": "text",
+          "text": "proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page98_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 99,
+      "items": [
+        {
+          "type": "text",
+          "text": "Property details captured shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page99_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 100,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select proposed"
+        },
+        {
+          "type": "text",
+          "text": "property occupancy"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page100_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 101,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter contact"
+        },
+        {
+          "type": "text",
+          "text": "person type"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page101_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 102,
+      "items": [
+        {
+          "type": "text",
+          "text": "Name and contact number is auto populated id ‘self’ is selected"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page102_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 103,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter 2"
+        },
+        {
+          "type": "text",
+          "text": "nd"
+        },
+        {
+          "type": "text",
+          "text": "contact number"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page103_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 104,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save and"
+        },
+        {
+          "type": "text",
+          "text": "next to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page104_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 105,
+      "items": [
+        {
+          "type": "text",
+          "text": "Loan details captured shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page105_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 106,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save and"
+        },
+        {
+          "type": "text",
+          "text": "next to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page106_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 107,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to add"
+        },
+        {
+          "type": "text",
+          "text": "charges if any"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page107_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 108,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to add fees"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page108_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 109,
+      "items": [
+        {
+          "type": "text",
+          "text": "Reference details captured shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page109_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 110,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter reference 2 details on this screen"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page110_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 111,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on upload files to"
+        },
+        {
+          "type": "text",
+          "text": "upload relevant documents"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page111_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 112,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select the file to upload"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page112_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 113,
+      "items": [
+        {
+          "type": "text",
+          "text": "Uploaded document shall appear here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page113_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 114,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter document category"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page114_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 115,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select document name"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page115_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 116,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page116_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 117,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to"
+        },
+        {
+          "type": "text",
+          "text": "submit data entry"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page117_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 118,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once all tabs are completed (Green ticks), case is ready for submission"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page118_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 119,
+      "items": [
+        {
+          "type": "text",
+          "text": "Case is now moved to Demog Quality Check"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page119_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 120,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on History tab to"
+        },
+        {
+          "type": "text",
+          "text": "check History of a case"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page120_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 121,
+      "items": [
+        {
+          "type": "text",
+          "text": "History of entire case can be viewed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page121_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 122,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Data_Entry/images/page122_full.png"
+        }
+      ]
+    }
+  ]
+}

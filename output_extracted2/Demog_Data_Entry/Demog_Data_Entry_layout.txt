@@ -1,0 +1,451 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual
+- Demog Data Entry
+/media/Demog_Data_Entry/images/page1_full.png
+
+Please enter
+"Demog Data
+Entry"
+credentials here
+/media/Demog_Data_Entry/images/page2_full.png
+
+Click Login to
+proceed
+/media/Demog_Data_Entry/images/page3_full.png
+
+All cases in DDE shall appear here
+/media/Demog_Data_Entry/images/page4_full.png
+
+Select the required case by
+clicking on Application No.
+/media/Demog_Data_Entry/images/page5_full.png
+
+Additional applicant if
+any, can be added here
+/media/Demog_Data_Entry/images/page6_full.png
+
+Any change in Applicant
+Type can be done by
+clicking here
+/media/Demog_Data_Entry/images/page7_full.png
+
+“Customer type”
+can be changed by selecting options from drop down
+/media/Demog_Data_Entry/images/page8_full.png
+
+“Applicant Type”
+can be changed by selecting options from drop down
+/media/Demog_Data_Entry/images/page9_full.png
+
+“Profile”
+can be changed by selecting options from drop down
+/media/Demog_Data_Entry/images/page10_full.png
+
+“Relationship”
+can be changed by selecting options from drop down
+/media/Demog_Data_Entry/images/page11_full.png
+
+Similarly, this can be done
+for Co-Applicant too
+/media/Demog_Data_Entry/images/page12_full.png
+
+Click on “save”
+/media/Demog_Data_Entry/images/page13_full.png
+
+We are entering details for
+the main Applicant
+/media/Demog_Data_Entry/images/page14_full.png
+
+Click on “Basic Details” to
+add and update basic details
+/media/Demog_Data_Entry/images/page15_full.png
+
+Enter “Name” of the applicant
+/media/Demog_Data_Entry/images/page16_full.png
+
+Details of the applicant
+will auto-populate
+/media/Demog_Data_Entry/images/page17_full.png
+
+Choose “Service Segment”
+/media/Demog_Data_Entry/images/page18_full.png
+
+Make changes in other
+fields, if required
+/media/Demog_Data_Entry/images/page19_full.png
+
+Select appropriate option
+/media/Demog_Data_Entry/images/page20_full.png
+
+KYC Address Details shall reflect here
+/media/Demog_Data_Entry/images/page21_full.png
+
+Permanent residential address details shall reflect here
+/media/Demog_Data_Entry/images/page22_full.png
+
+Select “Locality” here
+/media/Demog_Data_Entry/images/page23_full.png
+
+Work Location Details shall reflect here
+/media/Demog_Data_Entry/images/page24_full.png
+
+Verified Email ID shall appear here
+Promotional Call options to be
+selected as per customer preference
+/media/Demog_Data_Entry/images/page25_full.png
+
+Add Phone/Email ID details, if required
+/media/Demog_Data_Entry/images/page26_full.png
+
+Click on Save & Next
+/media/Demog_Data_Entry/images/page27_full.png
+
+We shall now update details
+of the Co-Applicant
+/media/Demog_Data_Entry/images/page28_full.png
+
+Enter “Aadhar No.”
+/media/Demog_Data_Entry/images/page29_full.png
+
+Choose “Marital
+Status” from the
+dropdown
+/media/Demog_Data_Entry/images/page30_full.png
+
+Enter “Father’s name”
+/media/Demog_Data_Entry/images/page31_full.png
+
+Enter “Mother’s name”
+/media/Demog_Data_Entry/images/page32_full.png
+
+/media/Demog_Data_Entry/images/page33_full.png
+
+Enter “Spouse’s name”
+/media/Demog_Data_Entry/images/page34_full.png
+
+Choose “service Segment”
+from the dropdown
+/media/Demog_Data_Entry/images/page35_full.png
+
+Select “Category” from
+the dropdown
+/media/Demog_Data_Entry/images/page36_full.png
+
+Choose “Religion” from
+the dropdown
+/media/Demog_Data_Entry/images/page37_full.png
+
+Choose “Educational qualification”
+from the dropdown
+/media/Demog_Data_Entry/images/page38_full.png
+
+Select
+appropriate
+option
+/media/Demog_Data_Entry/images/page39_full.png
+
+Select
+appropriate
+option
+/media/Demog_Data_Entry/images/page40_full.png
+
+Enter “Pincode”
+/media/Demog_Data_Entry/images/page41_full.png
+
+State and City details will
+auto populate
+/media/Demog_Data_Entry/images/page42_full.png
+
+Choose
+“Locality” from
+the dropdown
+/media/Demog_Data_Entry/images/page43_full.png
+
+Enter “Street and
+Building Name/No.”
+/media/Demog_Data_Entry/images/page44_full.png
+
+Enter
+“Flat/House/Plot
+No. and Floor”
+/media/Demog_Data_Entry/images/page45_full.png
+
+Select if Permanent address is same
+as above or enter details manually
+/media/Demog_Data_Entry/images/page46_full.png
+
+Once check box is selected, details shall populate as above
+/media/Demog_Data_Entry/images/page47_full.png
+
+Select
+appropriate
+option
+/media/Demog_Data_Entry/images/page48_full.png
+
+Select
+“Preferred
+Language” from
+the dropdown
+/media/Demog_Data_Entry/images/page49_full.png
+
+Promotional Calls options to
+be selected as per customer
+preference
+/media/Demog_Data_Entry/images/page50_full.png
+
+Select address for
+communication
+purpose
+/media/Demog_Data_Entry/images/page51_full.png
+
+Select
+appropriate
+options
+/media/Demog_Data_Entry/images/page52_full.png
+
+Additional
+Phone/Email ID can be
+added here
+/media/Demog_Data_Entry/images/page53_full.png
+
+Click on “Save & Next”
+/media/Demog_Data_Entry/images/page54_full.png
+
+Once DDE of a tab is completed, a green tick
+shall appear like this for respective tab
+/media/Demog_Data_Entry/images/page55_full.png
+
+KYC details to be entered here
+/media/Demog_Data_Entry/images/page56_full.png
+
+First, we add details of
+the Applicant
+/media/Demog_Data_Entry/images/page57_full.png
+
+Select “Identification Type”
+from the dropdown
+/media/Demog_Data_Entry/images/page58_full.png
+
+Enter “Name”
+/media/Demog_Data_Entry/images/page59_full.png
+
+Enter “Identification number”
+/media/Demog_Data_Entry/images/page60_full.png
+
+Select the “Issue Date”
+of the Identity proof
+/media/Demog_Data_Entry/images/page61_full.png
+
+Select the “Expiry Date” of
+the Identity proof
+/media/Demog_Data_Entry/images/page62_full.png
+
+Since the proof of identity and
+address is the same. Details shall
+populate from above
+/media/Demog_Data_Entry/images/page63_full.png
+
+If both proof are same, details will auto populate
+/media/Demog_Data_Entry/images/page64_full.png
+
+Choose “KYC OSV/IPV “ done
+by from the dropdown
+/media/Demog_Data_Entry/images/page65_full.png
+
+Choose “Date”
+/media/Demog_Data_Entry/images/page66_full.png
+
+Enter “Employee Code”
+/media/Demog_Data_Entry/images/page67_full.png
+
+Enter “Employee name”
+/media/Demog_Data_Entry/images/page68_full.png
+
+Enter “Designation”
+/media/Demog_Data_Entry/images/page69_full.png
+
+Click “Save”
+/media/Demog_Data_Entry/images/page70_full.png
+
+Entered data shall reflect here
+/media/Demog_Data_Entry/images/page71_full.png
+
+Click “Account Type” and
+select respective
+dropdown
+/media/Demog_Data_Entry/images/page72_full.png
+
+Click “Save & Next”
+/media/Demog_Data_Entry/images/page73_full.png
+
+Now we add details of the
+Co-Applicant
+/media/Demog_Data_Entry/images/page74_full.png
+
+Select “Identification Type”
+from the dropdown
+/media/Demog_Data_Entry/images/page75_full.png
+
+Enter “Name”
+/media/Demog_Data_Entry/images/page76_full.png
+
+Enter “Identification number”
+/media/Demog_Data_Entry/images/page77_full.png
+
+Select the “Issue Date”
+of the Identity proof
+/media/Demog_Data_Entry/images/page78_full.png
+
+Select the “Expiry Date” of
+the Identity proof
+/media/Demog_Data_Entry/images/page79_full.png
+
+Select “Identification Type”
+from the dropdown
+/media/Demog_Data_Entry/images/page80_full.png
+
+If both proof are same, details will auto populate
+/media/Demog_Data_Entry/images/page81_full.png
+
+Choose “KYC OSV/IPV “ done
+by from the dropdown
+/media/Demog_Data_Entry/images/page82_full.png
+
+Choose “Date”
+/media/Demog_Data_Entry/images/page83_full.png
+
+Enter “Employee Code”
+/media/Demog_Data_Entry/images/page84_full.png
+
+Enter “Employee Name”
+/media/Demog_Data_Entry/images/page85_full.png
+
+Enter “Designation”
+/media/Demog_Data_Entry/images/page86_full.png
+
+Click “Account Type” and
+select respective
+dropdown
+/media/Demog_Data_Entry/images/page87_full.png
+
+Click on “Save & Next”
+/media/Demog_Data_Entry/images/page88_full.png
+
+Work details to be entered in this tab
+/media/Demog_Data_Entry/images/page89_full.png
+
+Enter “Total Work Experience”
+/media/Demog_Data_Entry/images/page90_full.png
+
+Choose “Employer Type” from the dropdown
+/media/Demog_Data_Entry/images/page91_full.png
+
+Enter “Employer Name”
+/media/Demog_Data_Entry/images/page92_full.png
+
+Employer Category will
+populate accordingly
+/media/Demog_Data_Entry/images/page93_full.png
+
+Enter “Retirement Age”
+/media/Demog_Data_Entry/images/page94_full.png
+
+Click “Save & Next”
+/media/Demog_Data_Entry/images/page95_full.png
+
+Product details details captured shall reflect here
+/media/Demog_Data_Entry/images/page96_full.png
+
+Select option
+from radio
+buttons
+/media/Demog_Data_Entry/images/page97_full.png
+
+Click on save
+and next to
+proceed
+/media/Demog_Data_Entry/images/page98_full.png
+
+Property details captured shall reflect here
+/media/Demog_Data_Entry/images/page99_full.png
+
+Select proposed
+property occupancy
+from dropdown
+/media/Demog_Data_Entry/images/page100_full.png
+
+Enter contact
+person type
+/media/Demog_Data_Entry/images/page101_full.png
+
+Name and contact number is auto populated id ‘self’ is selected
+/media/Demog_Data_Entry/images/page102_full.png
+
+Enter 2
+nd
+contact number
+/media/Demog_Data_Entry/images/page103_full.png
+
+Click on save and
+next to proceed
+/media/Demog_Data_Entry/images/page104_full.png
+
+Loan details captured shall reflect here
+/media/Demog_Data_Entry/images/page105_full.png
+
+Click on save and
+next to proceed
+/media/Demog_Data_Entry/images/page106_full.png
+
+Click here to add
+charges if any
+/media/Demog_Data_Entry/images/page107_full.png
+
+Click here to add fees
+/media/Demog_Data_Entry/images/page108_full.png
+
+Reference details captured shall reflect here
+/media/Demog_Data_Entry/images/page109_full.png
+
+Enter reference 2 details on this screen
+/media/Demog_Data_Entry/images/page110_full.png
+
+Click on upload files to
+upload relevant documents
+/media/Demog_Data_Entry/images/page111_full.png
+
+Select the file to upload
+/media/Demog_Data_Entry/images/page112_full.png
+
+Uploaded document shall appear here
+/media/Demog_Data_Entry/images/page113_full.png
+
+Enter document category
+from dropdown
+/media/Demog_Data_Entry/images/page114_full.png
+
+Select document name
+from dropdown
+/media/Demog_Data_Entry/images/page115_full.png
+
+Click on save to proceed
+/media/Demog_Data_Entry/images/page116_full.png
+
+Click here to
+submit data entry
+/media/Demog_Data_Entry/images/page117_full.png
+
+Once all tabs are completed (Green ticks), case is ready for submission
+/media/Demog_Data_Entry/images/page118_full.png
+
+Case is now moved to Demog Quality Check
+/media/Demog_Data_Entry/images/page119_full.png
+
+Click on History tab to
+check History of a case
+/media/Demog_Data_Entry/images/page120_full.png
+
+History of entire case can be viewed here
+/media/Demog_Data_Entry/images/page121_full.png
+
+/media/Demog_Data_Entry/images/page122_full.png

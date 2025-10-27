@@ -1,0 +1,320 @@
+{
+  "file": "abhflfinverseall\\User Manual Sales Force Application.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "User manual of Sales Force Application"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "login:"
+        },
+        {
+          "type": "text",
+          "text": "User will use the below mention link to login in the application using the user AD ID"
+        },
+        {
+          "type": "text",
+          "text": "and password."
+        },
+        {
+          "type": "text",
+          "text": "Link:"
+        },
+        {
+          "type": "text",
+          "text": "https://adityabirlahousing.lightning.force.com/"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Home Dashboard"
+        },
+        {
+          "type": "text",
+          "text": ": On successful login user will be able to see the below mention dashboard"
+        },
+        {
+          "type": "text",
+          "text": "which provide the details status of application of Sales Force application."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Leads (New)"
+        },
+        {
+          "type": "text",
+          "text": ": User can click on Leads and then on “New” option. Once user click on “New”"
+        },
+        {
+          "type": "text",
+          "text": "then below mention screens will be visible."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "General Information: -"
+        },
+        {
+          "type": "text",
+          "text": "User needs to Fill the all General information mentioned in"
+        },
+        {
+          "type": "text",
+          "text": "the below form."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Once the “New lead” created successfully below pop-up message comes up with generated"
+        },
+        {
+          "type": "text",
+          "text": "SF id."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Unattended stage :-"
+        },
+        {
+          "type": "text",
+          "text": "After clicking on Finish Button below screen opens with Lead stage as"
+        },
+        {
+          "type": "text",
+          "text": "“unattende”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Edit Details :-"
+        },
+        {
+          "type": "text",
+          "text": "If user want to edit already filled Genral information user can click on “Edit"
+        },
+        {
+          "type": "text",
+          "text": "“button."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Additional Details :-"
+        },
+        {
+          "type": "text",
+          "text": "User need to click on Edit additional details and need to fill all the"
+        },
+        {
+          "type": "text",
+          "text": "necessary details in additional details."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Update Lead stage :-"
+        },
+        {
+          "type": "text",
+          "text": "To update the lead stage user need to click on ‘Update lead stage’ and"
+        },
+        {
+          "type": "text",
+          "text": "update the lead stage."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Follow Up :-"
+        },
+        {
+          "type": "text",
+          "text": "After entring all the mandatory details in additional details user need to update"
+        },
+        {
+          "type": "text",
+          "text": "lead stage to Follow Up"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Visit Shedule :-"
+        },
+        {
+          "type": "text",
+          "text": "Before qualifying lead user need to shedule visit."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Document Checklist :-"
+        },
+        {
+          "type": "text",
+          "text": "User need to check all the documents before qualifying lead."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Qualified: -"
+        },
+        {
+          "type": "text",
+          "text": "To send lead to next stage user need to update lead stage as Qualified hence"
+        },
+        {
+          "type": "text",
+          "text": "lead will be pushed to loan application"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Lead is reflected in Qualified stage"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/User_Manual_Sales_Force_Application/images/page11_full.png"
+        }
+      ]
+    }
+  ]
+}

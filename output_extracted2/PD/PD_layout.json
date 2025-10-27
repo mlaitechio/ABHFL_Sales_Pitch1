@@ -1,0 +1,922 @@
+{
+  "file": "abhflfinverseall\\PD.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "Finverse User Manual"
+        },
+        {
+          "type": "text",
+          "text": "– Personal Discussion"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "Company Name"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "Objectives"
+        },
+        {
+          "type": "text",
+          "text": "At the end of this session, you will be able to:"
+        },
+        {
+          "type": "text",
+          "text": "1. Learn how to complete Personal Discussion"
+        },
+        {
+          "type": "text",
+          "text": "2. Login to https://finverselosuat.adityabirlacapital.com/login/ to Login"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Username"
+        },
+        {
+          "type": "text",
+          "text": "and Password"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click Login"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "Cases assigned to PD Vendor will"
+        },
+        {
+          "type": "text",
+          "text": "reflect in “To be Assigned” tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "PD Vendor can select"
+        },
+        {
+          "type": "text",
+          "text": "multiple cases for"
+        },
+        {
+          "type": "text",
+          "text": "assignment."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "PD Vendor can assign"
+        },
+        {
+          "type": "text",
+          "text": "cases to their executive or"
+        },
+        {
+          "type": "text",
+          "text": "to self by clicking the"
+        },
+        {
+          "type": "text",
+          "text": "radio buttons."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Assign”"
+        },
+        {
+          "type": "text",
+          "text": "to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "Cases assigned will reflect"
+        },
+        {
+          "type": "text",
+          "text": "under Assigned Tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on the Application Number to"
+        },
+        {
+          "type": "text",
+          "text": "select case for evaluation"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "Applicant Details Screen will"
+        },
+        {
+          "type": "text",
+          "text": "open. Click on Personal"
+        },
+        {
+          "type": "text",
+          "text": "Discussion tab to enter data"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to fill in Applicant details in this tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "text",
+          "text": "Background,"
+        },
+        {
+          "type": "text",
+          "text": "Family Details,"
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "text",
+          "text": "Previous work"
+        },
+        {
+          "type": "text",
+          "text": "experience details"
+        },
+        {
+          "type": "text",
+          "text": "based on personal"
+        },
+        {
+          "type": "text",
+          "text": "discussion with"
+        },
+        {
+          "type": "text",
+          "text": "customer"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page13_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Save & Next” to proceed."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page14_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "items": [
+        {
+          "type": "text",
+          "text": "Green Tick will appear after all details are"
+        },
+        {
+          "type": "text",
+          "text": "entered and saved."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page15_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to input Collateral details in this tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page16_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Save & Next” to proceed."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page17_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select appropriate “Declared"
+        },
+        {
+          "type": "text",
+          "text": "Construction Status” from the"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page18_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select appropriate “Proposed Property"
+        },
+        {
+          "type": "text",
+          "text": "Occupancy” from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page19_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select appropriate “Declared"
+        },
+        {
+          "type": "text",
+          "text": "Property Transaction Type” from"
+        },
+        {
+          "type": "text",
+          "text": "the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page20_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select appropriate “End Use of"
+        },
+        {
+          "type": "text",
+          "text": "Funds” from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page21_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add relevant remarks"
+        },
+        {
+          "type": "text",
+          "text": "User to click on “Save” to"
+        },
+        {
+          "type": "text",
+          "text": "save the data"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page22_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to click on “Save & Next”"
+        },
+        {
+          "type": "text",
+          "text": "to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page23_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "items": [
+        {
+          "type": "text",
+          "text": "Green Tick will appear after all"
+        },
+        {
+          "type": "text",
+          "text": "details are entered and saved."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page24_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "items": [
+        {
+          "type": "text",
+          "text": "Financial Details of the user to be added in this tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page25_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Income type from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page26_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add Annual Income"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page27_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Add More” to add"
+        },
+        {
+          "type": "text",
+          "text": "additional income details,"
+        },
+        {
+          "type": "text",
+          "text": "if any."
+        },
+        {
+          "type": "text",
+          "text": "Add relevant remarks"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page28_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save & Next” to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page29_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to complete Obligation Details in this tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page30_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 31,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on the down arrow to fill in"
+        },
+        {
+          "type": "text",
+          "text": "“Obligation Details”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page31_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 32,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save” to save the data"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page32_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 33,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add relevant remarks"
+        },
+        {
+          "type": "text",
+          "text": "Click on “Add More” to add"
+        },
+        {
+          "type": "text",
+          "text": "additional obligation details,"
+        },
+        {
+          "type": "text",
+          "text": "if any."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page33_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 34,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to click on “Save & Next” once"
+        },
+        {
+          "type": "text",
+          "text": "Obligation details are completed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page34_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 35,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to add Banking Details in this tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page35_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 36,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add relevant remarks"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page36_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 37,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to click on “Save & Next” once"
+        },
+        {
+          "type": "text",
+          "text": "Banking details are completed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page37_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 38,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to add Wealth Details in this tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page38_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 39,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add relevant remarks"
+        },
+        {
+          "type": "text",
+          "text": "Click on “Add More” to add"
+        },
+        {
+          "type": "text",
+          "text": "additional Wealth details,"
+        },
+        {
+          "type": "text",
+          "text": "if any."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page39_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 40,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save & Next” after Wealth"
+        },
+        {
+          "type": "text",
+          "text": "details are completed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page40_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 41,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to complete Site Visit Details details in this tab"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page41_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 42,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select applicable options from the radio buttons"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page42_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 43,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add landmark"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page43_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 44,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select appropriate"
+        },
+        {
+          "type": "text",
+          "text": "“Recommendation” from the"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page44_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 45,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add relevant remarks"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page45_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 46,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to click on “Upload Documents” option"
+        },
+        {
+          "type": "text",
+          "text": "to upload reports or photos related to case"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page46_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 47,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select appropriate file to upload from the device"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page47_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 48,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to select appropriate “Document"
+        },
+        {
+          "type": "text",
+          "text": "Category” and “Document Name” from"
+        },
+        {
+          "type": "text",
+          "text": "the dropdown and Click on “Save”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page48_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 49,
+      "items": [
+        {
+          "type": "text",
+          "text": "Uploaded document will appear here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page49_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 50,
+      "items": [
+        {
+          "type": "text",
+          "text": "User to click on “Locate me” option to"
+        },
+        {
+          "type": "text",
+          "text": "capture location details."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page50_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 51,
+      "items": [
+        {
+          "type": "text",
+          "text": "Uploaded document will appear here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page51_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 52,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Submit” to"
+        },
+        {
+          "type": "text",
+          "text": "finish PD"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page52_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 53,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/PD/images/page53_full.png"
+        }
+      ]
+    }
+  ]
+}

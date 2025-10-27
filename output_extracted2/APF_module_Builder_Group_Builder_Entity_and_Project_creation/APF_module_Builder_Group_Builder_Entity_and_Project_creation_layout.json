@@ -1,0 +1,2516 @@
+{
+  "file": "abhflfinverseall\\APF module - Builder Group, Builder Entity and Project creation.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "User Manual -"
+        },
+        {
+          "type": "text",
+          "text": "ABCapital Learning App"
+        },
+        {
+          "type": "text",
+          "text": "APF Module – Creation of Builder group, Builder Entity and Add Project"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "Company Name"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "Builder Group Creation"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Company Name"
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "Company Name"
+        },
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "Enter Credentials"
+        },
+        {
+          "type": "text",
+          "text": "Click Here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "Company Name"
+        },
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "Click Here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once you place your Cursor over APF"
+        },
+        {
+          "type": "text",
+          "text": "following options will appear"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Builder Group"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Add Group"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add Builder Group Screen"
+        },
+        {
+          "type": "text",
+          "text": "Add Builder Group name here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add Pincode of group Registered"
+        },
+        {
+          "type": "text",
+          "text": "office"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "These details will auto"
+        },
+        {
+          "type": "text",
+          "text": "populates once Pincode is"
+        },
+        {
+          "type": "text",
+          "text": "entered"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options from"
+        },
+        {
+          "type": "text",
+          "text": "Search"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page13_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options from Search, If"
+        },
+        {
+          "type": "text",
+          "text": "applicable locality is not"
+        },
+        {
+          "type": "text",
+          "text": "appearing in search then user"
+        },
+        {
+          "type": "text",
+          "text": "can type the different locality"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page14_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter applicable"
+        },
+        {
+          "type": "text",
+          "text": "details here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page15_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter"
+        },
+        {
+          "type": "text",
+          "text": "Flat/House/Plot and"
+        },
+        {
+          "type": "text",
+          "text": "Floor no."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page16_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Landmark"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page17_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Email ID"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page18_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Website if available"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page19_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Calculate Builder"
+        },
+        {
+          "type": "text",
+          "text": "Score"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page20_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "items": [
+        {
+          "type": "text",
+          "text": "This Screen will appear after user click on Calculate Builder Score"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page21_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page22_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page23_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page24_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page25_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page26_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Add to add more rows"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page27_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page28_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page29_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page30_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 31,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page31_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 32,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page32_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 33,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page33_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 34,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page34_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 35,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page35_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 36,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page36_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 37,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page37_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 38,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page38_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 39,
+      "items": [
+        {
+          "type": "text",
+          "text": "If nothing is applicable, then"
+        },
+        {
+          "type": "text",
+          "text": "left field as blank"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page39_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 40,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page40_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 41,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Save to proceed ahead"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page41_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 42,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page42_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 43,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select applicable options from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page43_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 44,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Person name here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page44_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 45,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Contact no. of"
+        },
+        {
+          "type": "text",
+          "text": "Person here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page45_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 46,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select applicable Radio"
+        },
+        {
+          "type": "text",
+          "text": "button"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page46_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 47,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Pincode of Contact"
+        },
+        {
+          "type": "text",
+          "text": "person’s address"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page47_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 48,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page48_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 49,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select applicable"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page49_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 50,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Locality"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page50_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 51,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Applicable"
+        },
+        {
+          "type": "text",
+          "text": "details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page51_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 52,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Applicable"
+        },
+        {
+          "type": "text",
+          "text": "details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page52_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 53,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Landmark"
+        },
+        {
+          "type": "text",
+          "text": "Click on Save"
+        },
+        {
+          "type": "text",
+          "text": "after entering all"
+        },
+        {
+          "type": "text",
+          "text": "the details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page53_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 54,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page54_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 55,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Approver name"
+        },
+        {
+          "type": "text",
+          "text": "from Search box"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page55_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 56,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Save & Next after entering"
+        },
+        {
+          "type": "text",
+          "text": "all the details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page56_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 57,
+      "items": [
+        {
+          "type": "text",
+          "text": "Upload documents here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page57_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 58,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page58_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 59,
+      "items": [
+        {
+          "type": "text",
+          "text": "Upload documents appear here"
+        },
+        {
+          "type": "text",
+          "text": "Click on Submit Option after documents Upload"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page59_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 60,
+      "items": [
+        {
+          "type": "text",
+          "text": "System will generate request id and show approver’s name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page60_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 61,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Credentials"
+        },
+        {
+          "type": "text",
+          "text": "Click Here"
+        },
+        {
+          "type": "text",
+          "text": "Approver has to login to approve raised request"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page61_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 62,
+      "items": [
+        {
+          "type": "text",
+          "text": "Raised Builder group approval will reflect here, click on it"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page62_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 63,
+      "items": [
+        {
+          "type": "text",
+          "text": "This Screen will reflect"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page63_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 64,
+      "items": [
+        {
+          "type": "text",
+          "text": "User can edit Builder Score,"
+        },
+        {
+          "type": "text",
+          "text": "click here to edit"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page64_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 65,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page65_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 66,
+      "items": [
+        {
+          "type": "text",
+          "text": "Edit details which to be edit and scroll down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page66_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 67,
+      "items": [
+        {
+          "type": "text",
+          "text": "After editing the details click here to save the details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page67_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 68,
+      "items": [
+        {
+          "type": "text",
+          "text": "New Updated details will reflect here"
+        },
+        {
+          "type": "text",
+          "text": "After Clicking here Edit and delete options will"
+        },
+        {
+          "type": "text",
+          "text": "reflect, click on edit to edit the details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page68_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 69,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page69_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 70,
+      "items": [
+        {
+          "type": "text",
+          "text": "Edit the details and click on Save option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page70_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 71,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page71_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 72,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page72_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 73,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Remarks here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page73_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 74,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page74_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 75,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Approve to"
+        },
+        {
+          "type": "text",
+          "text": "Approve the same"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page75_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 76,
+      "items": [
+        {
+          "type": "text",
+          "text": "Request Approved Successfully message will reflect once"
+        },
+        {
+          "type": "text",
+          "text": "approver approve the request"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page76_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 77,
+      "items": [
+        {
+          "type": "text",
+          "text": "Company Name"
+        },
+        {
+          "type": "text",
+          "text": "77"
+        },
+        {
+          "type": "text",
+          "text": "Builder Entity Creation"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page77_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 78,
+      "items": [
+        {
+          "type": "text",
+          "text": "Company Name"
+        },
+        {
+          "type": "text",
+          "text": "78"
+        },
+        {
+          "type": "text",
+          "text": "Enter Credentials"
+        },
+        {
+          "type": "text",
+          "text": "Click Here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page78_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 79,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once you place your Cursor over APF"
+        },
+        {
+          "type": "text",
+          "text": "following options will appear"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page79_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 80,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Builder Entity"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page80_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 81,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Add Entity"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page81_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 82,
+      "items": [
+        {
+          "type": "text",
+          "text": "This Screen will reflect after you click on Add Entity"
+        },
+        {
+          "type": "text",
+          "text": "Enter PAN no."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page82_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 83,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Entity Name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page83_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 84,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter CIN/LLP ID"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page84_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 85,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter date here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page85_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 86,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter type of Entity"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page86_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 87,
+      "items": [
+        {
+          "type": "text",
+          "text": "Link Builder group which"
+        },
+        {
+          "type": "text",
+          "text": "was created from here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page87_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 88,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page88_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 89,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Pincode"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page89_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 90,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Taluka/Tehsil"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page90_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 91,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select or Enter Locality name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page91_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 92,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter applicable details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page92_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 93,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page93_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 94,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter applicable details"
+        },
+        {
+          "type": "text",
+          "text": "Enter Landmark"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page94_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 95,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Website"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page95_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 96,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select applicable radio button for"
+        },
+        {
+          "type": "text",
+          "text": "Special Mention Account"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page96_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 97,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select applicable option from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page97_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 98,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter name of person selected in Contact type"
+        },
+        {
+          "type": "text",
+          "text": "Enter PAN no. if available"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page98_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 99,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Contact no."
+        },
+        {
+          "type": "text",
+          "text": "Enter details if available"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page99_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 100,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Yes if address is"
+        },
+        {
+          "type": "text",
+          "text": "available or else select No"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page100_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 101,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Pincode"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page101_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 102,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select details from search"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page102_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 103,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Locality"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page103_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 104,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter applicable details"
+        },
+        {
+          "type": "text",
+          "text": "Click on Save after entering"
+        },
+        {
+          "type": "text",
+          "text": "details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page104_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 105,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Save after entering"
+        },
+        {
+          "type": "text",
+          "text": "details"
+        },
+        {
+          "type": "text",
+          "text": "Enter applicable details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page105_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 106,
+      "items": [
+        {
+          "type": "text",
+          "text": "Search Approver here and"
+        },
+        {
+          "type": "text",
+          "text": "select"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page106_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 107,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page107_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 108,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Save & Next to"
+        },
+        {
+          "type": "text",
+          "text": "Proceed ahead"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page108_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 109,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to Upload Entity related docs"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page109_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 110,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page110_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 111,
+      "items": [
+        {
+          "type": "text",
+          "text": "Uploaded documents will reflect here"
+        },
+        {
+          "type": "text",
+          "text": "Click on here to Submit"
+        },
+        {
+          "type": "text",
+          "text": "request for approval"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page111_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 112,
+      "items": [
+        {
+          "type": "text",
+          "text": "Request ID and approver name will reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page112_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 113,
+      "items": [
+        {
+          "type": "text",
+          "text": "Approver will have to login to approve request"
+        },
+        {
+          "type": "text",
+          "text": "Enter Credentials"
+        },
+        {
+          "type": "text",
+          "text": "Click Here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page113_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 114,
+      "items": [
+        {
+          "type": "text",
+          "text": "Pending request for approval will reflect here, click on it to Proceed ahead"
+        },
+        {
+          "type": "text",
+          "text": "Home Screen of Approver"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page114_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 115,
+      "items": [
+        {
+          "type": "text",
+          "text": "This Screen will appear, check all the details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page115_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 116,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Remarks here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page116_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 117,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Approve to"
+        },
+        {
+          "type": "text",
+          "text": "Approve request"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page117_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 118,
+      "items": [
+        {
+          "type": "text",
+          "text": "One request is approved, system"
+        },
+        {
+          "type": "text",
+          "text": "will reflect this message"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page118_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 119,
+      "items": [
+        {
+          "type": "text",
+          "text": "Company Name"
+        },
+        {
+          "type": "text",
+          "text": "119"
+        },
+        {
+          "type": "text",
+          "text": "Add Project"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page119_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 120,
+      "items": [
+        {
+          "type": "text",
+          "text": "Company Name"
+        },
+        {
+          "type": "text",
+          "text": "120"
+        },
+        {
+          "type": "text",
+          "text": "Enter Credentials"
+        },
+        {
+          "type": "text",
+          "text": "Click Here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page120_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 121,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once you place your Cursor over APF"
+        },
+        {
+          "type": "text",
+          "text": "following options will appear"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page121_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 122,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Projects"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page122_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 123,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Add Project"
+        },
+        {
+          "type": "text",
+          "text": "Click on Add Project"
+        },
+        {
+          "type": "text",
+          "text": "Click on Add Project"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page123_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 124,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page124_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 125,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Person name from search"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page125_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 126,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Person name from search"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page126_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 127,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page127_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 128,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Person name from search"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page128_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 129,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page129_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 130,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Project name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page130_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 131,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Property type"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page131_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 132,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter no. of Towers here , if"
+        },
+        {
+          "type": "text",
+          "text": "details are available"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page132_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 133,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Total no. of units here, if"
+        },
+        {
+          "type": "text",
+          "text": "details are available"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page133_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 134,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page134_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 135,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options from Drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page135_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 136,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page136_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 137,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Options from search or"
+        },
+        {
+          "type": "text",
+          "text": "Enter details if same is not"
+        },
+        {
+          "type": "text",
+          "text": "appearing in search"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page137_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 138,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select applicable radio button"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page138_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 139,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select appropriate radio button"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page139_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 140,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter RERA no. here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page140_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 141,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Pincode here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page141_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 142,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options from Search"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page142_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 143,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page143_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 144,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options from Search"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page144_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 145,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options from Search,"
+        },
+        {
+          "type": "text",
+          "text": "enter details if same is not"
+        },
+        {
+          "type": "text",
+          "text": "appearing in search"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page145_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 146,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page146_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 147,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Landmark"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page147_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 148,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Plot no. here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page148_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 149,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Survey/Khasra/Kila/Khatauni no. etc here"
+        },
+        {
+          "type": "text",
+          "text": "Click on Dedupe check after"
+        },
+        {
+          "type": "text",
+          "text": "entering all the details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page149_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 150,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter PAN no. of Entity to link with this Project"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page150_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 151,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Builder group to"
+        },
+        {
+          "type": "text",
+          "text": "link with this Project"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page151_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 152,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Name of Entity to link"
+        },
+        {
+          "type": "text",
+          "text": "with this Project"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page152_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 153,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Email ID of Project"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page153_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 154,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Add new to New"
+        },
+        {
+          "type": "text",
+          "text": "Contact details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page154_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 155,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page155_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 156,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Option from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page156_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 157,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter PAN details here if available"
+        },
+        {
+          "type": "text",
+          "text": "Enter Contact person name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page157_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 158,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Contact person no."
+        },
+        {
+          "type": "text",
+          "text": "Select Yes if address is"
+        },
+        {
+          "type": "text",
+          "text": "available or else No"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page158_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 159,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Submit"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page159_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 160,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Save & Next to"
+        },
+        {
+          "type": "text",
+          "text": "proceed ahead"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page160_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 161,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to Upload Docs"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page161_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 162,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page162_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 163,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page163_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 164,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page164_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 165,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Save"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page165_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 166,
+      "items": [
+        {
+          "type": "text",
+          "text": "Upload docs will reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page166_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 167,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to upload docs size more than 15 mb to 200 mb"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page167_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 168,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page168_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 169,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter page no. here for Indexing"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page169_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 170,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select option from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page170_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 171,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select option from drop down"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page171_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 172,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to Save the uploaded file"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page172_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 173,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page173_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 174,
+      "items": [
+        {
+          "type": "text",
+          "text": "All the uploaded documents"
+        },
+        {
+          "type": "text",
+          "text": "will appear here"
+        },
+        {
+          "type": "text",
+          "text": "Click on Submit option to"
+        },
+        {
+          "type": "text",
+          "text": "Proceed ahead"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page174_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 175,
+      "items": [
+        {
+          "type": "text",
+          "text": "APF request ID will reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page175_full.png"
+        }
+      ]
+    }
+  ]
+}

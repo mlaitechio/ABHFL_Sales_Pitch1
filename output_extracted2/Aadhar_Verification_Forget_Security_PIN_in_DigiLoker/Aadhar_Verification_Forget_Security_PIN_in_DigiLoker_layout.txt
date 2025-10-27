@@ -1,0 +1,48 @@
+Aadhar Verification
+Finverse Application (Forget Security PIN in
+DigiLoker)
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page1_full.png
+
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page2_full.png
+
+Enter the customer Mobile Number,
+DOB/PAN
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page3_full.png
+
+Enter the OTP & Submit
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page4_full.png
+
+Select To Do Option & Initiate Aadhar
+Verification
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page5_full.png
+
+DigiLocker Page Showed out
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page6_full.png
+
+Enter Aadhar No. & Captcha then click next
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page7_full.png
+
+Customer receives OTP from Aadhar Portal
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page8_full.png
+
+Enter the Aadhar OTP then go over
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page9_full.png
+
+Need to Enter Security Pin
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page10_full.png
+
+If customer don’t know security pin, go with
+forgot security pin
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page11_full.png
+
+Page for forgot security pin here,
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page12_full.png
+
+Should enter customer’s DOB as per Aadhar
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page13_full.png
+
+Create New Security Pin & Click  Continue
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page14_full.png
+
+Wait for 30 Secs. Then Allow
+/media/Aadhar_Verification_Forget_Security_PIN_in_DigiLoker/images/page15_full.png

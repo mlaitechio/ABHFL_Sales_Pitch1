@@ -1,0 +1,336 @@
+{
+  "file": "abhflfinverseall\\Raise a Ticket.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Raise a Ticket?"
+        },
+        {
+          "type": "text",
+          "text": "A new functionality added on Header of all screens in Finverse system where user can raise a"
+        },
+        {
+          "type": "text",
+          "text": "ticket right away without changing the tab in case if user faces any error/issue."
+        },
+        {
+          "type": "text",
+          "text": "User needs to click on the Question mark icon which has 2 dropdown values and need to select"
+        },
+        {
+          "type": "text",
+          "text": "the option"
+        },
+        {
+          "type": "text",
+          "text": "“Raise a Ticket”"
+        },
+        {
+          "type": "text",
+          "text": "as shown below."
+        },
+        {
+          "type": "text",
+          "text": "Post clicking on"
+        },
+        {
+          "type": "text",
+          "text": "Raise a ticket"
+        },
+        {
+          "type": "text",
+          "text": "option a new tab will be re-directed as shown below."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Raise_a_Ticket/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "User needs to click on “"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Application"
+        },
+        {
+          "type": "text",
+          "text": "” as a Project, then respective fields from JIRA"
+        },
+        {
+          "type": "text",
+          "text": "application will reflect as shown below."
+        },
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Raise the request on behalf of:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Name of user who is raising JIRA ticket will get auto populated"
+        },
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Application Category:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "User needs to mention the"
+        },
+        {
+          "type": "text",
+          "text": "epic"
+        },
+        {
+          "type": "text",
+          "text": "of LPP where user is facing issue"
+        },
+        {
+          "type": "text",
+          "text": "[Note: Epic is referred as stages of LPP journey]"
+        },
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Summary:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "User needs to add a basic detail related to the issue"
+        },
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Description:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "User must write in detail what issue is being faced by him/her along with application"
+        },
+        {
+          "type": "text",
+          "text": "details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Raise_a_Ticket/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Attachment:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "User must add screenshots where error occurred in the system for reference"
+        },
+        {
+          "type": "text",
+          "text": "➢"
+        },
+        {
+          "type": "text",
+          "text": "Send:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Post filling up all required details the user can send the JIRA ticket ahead for the"
+        },
+        {
+          "type": "text",
+          "text": "resolution"
+        },
+        {
+          "type": "text",
+          "text": "The concern person from Production Support team would do the needful and resolve the issue"
+        },
+        {
+          "type": "text",
+          "text": "In case of any query/issue, Pls reach out to below SPOCS:"
+        },
+        {
+          "type": "text",
+          "text": "Escalation matrix"
+        },
+        {
+          "type": "text",
+          "text": "with Jira"
+        },
+        {
+          "type": "text",
+          "text": "Finverse"
+        },
+        {
+          "type": "text",
+          "text": "Name"
+        },
+        {
+          "type": "text",
+          "text": "Email"
+        },
+        {
+          "type": "text",
+          "text": "TAT with"
+        },
+        {
+          "type": "text",
+          "text": "JIRA"
+        },
+        {
+          "type": "text",
+          "text": "First level"
+        },
+        {
+          "type": "text",
+          "text": "Nilesh Kadam"
+        },
+        {
+          "type": "text",
+          "text": "Shruti Jadhav"
+        },
+        {
+          "type": "text",
+          "text": "Vishal Singh"
+        },
+        {
+          "type": "text",
+          "text": "ABHFL.LOSsupport@adityabirlacapital.com"
+        },
+        {
+          "type": "text",
+          "text": "0-4 hours"
+        },
+        {
+          "type": "text",
+          "text": "Second"
+        },
+        {
+          "type": "text",
+          "text": "Level"
+        },
+        {
+          "type": "text",
+          "text": "Ashutosh Tiwari"
+        },
+        {
+          "type": "text",
+          "text": "ashutosh.tiwari@adityabirlacapital.com"
+        },
+        {
+          "type": "text",
+          "text": "04-12 hours"
+        },
+        {
+          "type": "text",
+          "text": "Third Level"
+        },
+        {
+          "type": "text",
+          "text": "Sangeeta Mansabdar"
+        },
+        {
+          "type": "text",
+          "text": "sangeeta.mansabdar@adityabirlacapital.com"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "nd"
+        },
+        {
+          "type": "text",
+          "text": "Days"
+        },
+        {
+          "type": "text",
+          "text": "Final"
+        },
+        {
+          "type": "text",
+          "text": "Escalation"
+        },
+        {
+          "type": "text",
+          "text": "Shellender Kumar"
+        },
+        {
+          "type": "text",
+          "text": "shellender.kumar@adityabirlacapital.com"
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "rd"
+        },
+        {
+          "type": "text",
+          "text": "Days"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Raise_a_Ticket/images/page3_full.png"
+        }
+      ]
+    }
+  ]
+}

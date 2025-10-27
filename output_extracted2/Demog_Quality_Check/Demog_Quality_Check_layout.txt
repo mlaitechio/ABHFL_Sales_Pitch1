@@ -1,0 +1,202 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual
+Module - ‘Demogs Quality Check’
+/media/Demog_Quality_Check/images/page1_full.png
+
+Please enter
+Demog Quality
+Checkers
+credentials here
+/media/Demog_Quality_Check/images/page2_full.png
+
+Click Login to
+proceed
+/media/Demog_Quality_Check/images/page3_full.png
+
+Case for DQC
+shall reflect here
+/media/Demog_Quality_Check/images/page4_full.png
+
+User can track application status here
+/media/Demog_Quality_Check/images/page5_full.png
+
+Click on Demog Quality Check to initiate QC
+/media/Demog_Quality_Check/images/page6_full.png
+
+Enter applicant’s details for Demog quality check
+/media/Demog_Quality_Check/images/page7_full.png
+
+Select Yes to start DQC
+/media/Demog_Quality_Check/images/page8_full.png
+
+Enter mobile number
+/media/Demog_Quality_Check/images/page9_full.png
+
+Select address type
+/media/Demog_Quality_Check/images/page10_full.png
+
+Enter Date of birth
+/media/Demog_Quality_Check/images/page11_full.png
+
+Select gender from
+dropdown
+/media/Demog_Quality_Check/images/page12_full.png
+
+Select marital status
+from dropdown
+/media/Demog_Quality_Check/images/page13_full.png
+
+Select category
+from dropdown
+/media/Demog_Quality_Check/images/page14_full.png
+
+Choose option
+from radio
+buttons
+/media/Demog_Quality_Check/images/page15_full.png
+
+Enter
+correct
+father’s name
+/media/Demog_Quality_Check/images/page16_full.png
+
+Enter
+correct
+mother’s  name
+/media/Demog_Quality_Check/images/page17_full.png
+
+Select
+qualification
+from dropdown
+/media/Demog_Quality_Check/images/page18_full.png
+
+Enter correct
+flat/house no
+/media/Demog_Quality_Check/images/page19_full.png
+
+Select account
+type from
+dropdown
+/media/Demog_Quality_Check/images/page20_full.png
+
+Select relevant
+option from
+dropdown
+/media/Demog_Quality_Check/images/page21_full.png
+
+Enter KYC details for review
+/media/Demog_Quality_Check/images/page22_full.png
+
+Enter proof of
+identity details
+/media/Demog_Quality_Check/images/page23_full.png
+
+Enter proof of
+current address
+/media/Demog_Quality_Check/images/page24_full.png
+
+Enter requested
+loan amount
+/media/Demog_Quality_Check/images/page25_full.png
+
+Enter requested
+tenure
+/media/Demog_Quality_Check/images/page26_full.png
+
+Click ‘review’ to
+proceed with
+correct details
+/media/Demog_Quality_Check/images/page27_full.png
+
+Once application is Reviewed and if details are incorrect, system will show an error as Data Mismatch
+/media/Demog_Quality_Check/images/page28_full.png
+
+Please enter correct data to proceed
+/media/Demog_Quality_Check/images/page29_full.png
+
+Click on ‘Accept QC’
+to proceed furthur
+/media/Demog_Quality_Check/images/page30_full.png
+
+Click on save
+to proceed
+/media/Demog_Quality_Check/images/page31_full.png
+
+Enter details of co-applicant
+/media/Demog_Quality_Check/images/page32_full.png
+
+Select Yes to start DQC
+/media/Demog_Quality_Check/images/page33_full.png
+
+Enter mobile
+number
+/media/Demog_Quality_Check/images/page34_full.png
+
+Enter Address type
+from dropdown
+/media/Demog_Quality_Check/images/page35_full.png
+
+Select marital status
+from dropdown
+/media/Demog_Quality_Check/images/page36_full.png
+
+Select nationality
+from dropdown
+/media/Demog_Quality_Check/images/page37_full.png
+
+Select category
+from dropdown
+/media/Demog_Quality_Check/images/page38_full.png
+
+Choose option from
+radio button
+/media/Demog_Quality_Check/images/page39_full.png
+
+Enter father’s name
+/media/Demog_Quality_Check/images/page40_full.png
+
+Enter mother’s name
+/media/Demog_Quality_Check/images/page41_full.png
+
+Select qualification
+from dropdown
+/media/Demog_Quality_Check/images/page42_full.png
+
+Enter flat no. of
+co-applicant
+/media/Demog_Quality_Check/images/page43_full.png
+
+Select account type
+from dropdown
+/media/Demog_Quality_Check/images/page44_full.png
+
+Enter spouse name
+/media/Demog_Quality_Check/images/page45_full.png
+
+Select communication address
+/media/Demog_Quality_Check/images/page46_full.png
+
+Enter proof of identity
+/media/Demog_Quality_Check/images/page47_full.png
+
+Enter proof of
+current address
+/media/Demog_Quality_Check/images/page48_full.png
+
+Click on review
+to proceed
+/media/Demog_Quality_Check/images/page49_full.png
+
+Click on Accept QC
+data to proceed
+/media/Demog_Quality_Check/images/page50_full.png
+
+Click on Submit
+QC to send case
+to FDE
+/media/Demog_Quality_Check/images/page51_full.png
+
+Case is now successfully moved to Financial Data Entry
+/media/Demog_Quality_Check/images/page52_full.png
+
+/media/Demog_Quality_Check/images/page53_full.png

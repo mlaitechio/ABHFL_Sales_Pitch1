@@ -1,0 +1,5059 @@
+{
+  "file": "abhflfinverseall\\Finverse_Disbursement_Process.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 1 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "Procedure"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "Reviewed By"
+        },
+        {
+          "type": "text",
+          "text": "Designation"
+        },
+        {
+          "type": "text",
+          "text": "Date"
+        },
+        {
+          "type": "text",
+          "text": "Signature"
+        },
+        {
+          "type": "text",
+          "text": "Authorized By"
+        },
+        {
+          "type": "text",
+          "text": "Designation"
+        },
+        {
+          "type": "text",
+          "text": "Date"
+        },
+        {
+          "type": "text",
+          "text": "Signature"
+        },
+        {
+          "type": "text",
+          "text": "Mohua Chowdhury"
+        },
+        {
+          "type": "text",
+          "text": "Head – Operations & Process"
+        },
+        {
+          "type": "text",
+          "text": "Excellence"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 2 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "Document Revision History"
+        },
+        {
+          "type": "text",
+          "text": "Confidentiality / Disclaimer"
+        },
+        {
+          "type": "text",
+          "text": "The data in this procedure contains confidential or proprietary information of Aditya Birla Housing"
+        },
+        {
+          "type": "text",
+          "text": "Finance Limited, herein referred to as ABHFL, the disclosure of which would provide a competitive"
+        },
+        {
+          "type": "text",
+          "text": "advantage to others. No part of this publication may be reproduced, transmitted or translated in any"
+        },
+        {
+          "type": "text",
+          "text": "form or by any means, electronic, manual, mechanical, optical or otherwise, without the prior"
+        },
+        {
+          "type": "text",
+          "text": "written permission of ABHFL. If you are not authorized to have access to this document or have"
+        },
+        {
+          "type": "text",
+          "text": "received it by mistake, or by deliberation through unauthorized sources, please return it immediately"
+        },
+        {
+          "type": "text",
+          "text": "or inform us at the address given below to arrange for its collection."
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited,"
+        },
+        {
+          "type": "text",
+          "text": "15th Floor, R-Tech Park,"
+        },
+        {
+          "type": "text",
+          "text": "Nirlon Complex, Off Western Express Highway"
+        },
+        {
+          "type": "text",
+          "text": "Goregaon (East)"
+        },
+        {
+          "type": "text",
+          "text": "Mumbai-400063"
+        },
+        {
+          "type": "text",
+          "text": "Version"
+        },
+        {
+          "type": "text",
+          "text": "Description"
+        },
+        {
+          "type": "text",
+          "text": "Date"
+        },
+        {
+          "type": "text",
+          "text": "Author"
+        },
+        {
+          "type": "text",
+          "text": "1.0"
+        },
+        {
+          "type": "text",
+          "text": "Original Document"
+        },
+        {
+          "type": "text",
+          "text": "12th July 2023"
+        },
+        {
+          "type": "text",
+          "text": "Operations & Process"
+        },
+        {
+          "type": "text",
+          "text": "Excellence"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 3 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "Table of Contents"
+        },
+        {
+          "type": "text",
+          "text": "TABLE OF CONTENTS"
+        },
+        {
+          "type": "text",
+          "text": "................................................................................................................. 3"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "OVERVIEW"
+        },
+        {
+          "type": "text",
+          "text": "............................................................................................................................ 4"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "PROCESS OBJECTIVES"
+        },
+        {
+          "type": "text",
+          "text": "....................................................................................................... 4"
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "SCOPE"
+        },
+        {
+          "type": "text",
+          "text": "................................................................................................................................... 4"
+        },
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "RESOURCE REQUIREMENTS"
+        },
+        {
+          "type": "text",
+          "text": "............................................................................................... 4"
+        },
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "TRAINING REQUIREMENTS"
+        },
+        {
+          "type": "text",
+          "text": "................................................................................................. 5"
+        },
+        {
+          "type": "text",
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "KEY ACTIVITY"
+        },
+        {
+          "type": "text",
+          "text": "....................................................................................................................... 5"
+        },
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "PROCESS FLOW CHART"
+        },
+        {
+          "type": "text",
+          "text": ".................................................................................................... 11"
+        },
+        {
+          "type": "text",
+          "text": "8"
+        },
+        {
+          "type": "text",
+          "text": "SLA AND ESCALATION MATRIX - TBU"
+        },
+        {
+          "type": "text",
+          "text": "............................................................................. 12"
+        },
+        {
+          "type": "text",
+          "text": "9"
+        },
+        {
+          "type": "text",
+          "text": "ABBREVIATIONS"
+        },
+        {
+          "type": "text",
+          "text": "................................................................................................................ 13"
+        },
+        {
+          "type": "text",
+          "text": "10"
+        },
+        {
+          "type": "text",
+          "text": "APPENDIX"
+        },
+        {
+          "type": "text",
+          "text": "........................................................................................................................... 14"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 4 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "Overview"
+        },
+        {
+          "type": "text",
+          "text": "This procedure covers the detailed steps involved in the loan application journey from the lead stage in"
+        },
+        {
+          "type": "text",
+          "text": "Finverse from LPP to LMS and the disbursement."
+        },
+        {
+          "type": "text",
+          "text": "The operations are responsible for handling the end-to-end service delivery for all ABHFL products offered"
+        },
+        {
+          "type": "text",
+          "text": "to customers. In provisioning the service delivery, the Operations activities commence from the time"
+        },
+        {
+          "type": "text",
+          "text": "when Disbursement and Collateral documents have been received from the Credit Team and conclude"
+        },
+        {
+          "type": "text",
+          "text": "when the loan matures, and all Collateral documents have been handed back to the Customer."
+        },
+        {
+          "type": "text",
+          "text": "In the Customer’s Home Loan Lifecycle, the disbursement process affects the transfer or disbursal of funds"
+        },
+        {
+          "type": "text",
+          "text": "to the customer and the generation of the Loan Account Number with ABHFL.  The purpose of this"
+        },
+        {
+          "type": "text",
+          "text": "procedure is to provide an overview and document the process to be followed for the Disbursement"
+        },
+        {
+          "type": "text",
+          "text": "Process."
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "Process Objectives"
+        },
+        {
+          "type": "text",
+          "text": "The objective of this process is to ensure:"
+        },
+        {
+          "type": "text",
+          "text": "a."
+        },
+        {
+          "type": "text",
+          "text": "Capture the end-to-end journey of the lead in Finverse from LPP to LMS"
+        },
+        {
+          "type": "text",
+          "text": "b."
+        },
+        {
+          "type": "text",
+          "text": "Adequate Quality Checks (QC) are undertaken by Branch Credit and Branch Operation before"
+        },
+        {
+          "type": "text",
+          "text": "disbursal.s"
+        },
+        {
+          "type": "text",
+          "text": "c."
+        },
+        {
+          "type": "text",
+          "text": "Discrepancies if any are resolved with Credit and Sales."
+        },
+        {
+          "type": "text",
+          "text": "d."
+        },
+        {
+          "type": "text",
+          "text": "Requisite authorizations are in place for each mode of payment for each disbursal."
+        },
+        {
+          "type": "text",
+          "text": "e."
+        },
+        {
+          "type": "text",
+          "text": "Core System Disbursement Section is updated for each mode of payment."
+        },
+        {
+          "type": "text",
+          "text": "f."
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Cheques / DD are handed over within the specified TAT to Customer / Authorized"
+        },
+        {
+          "type": "text",
+          "text": "Person"
+        },
+        {
+          "type": "text",
+          "text": "g."
+        },
+        {
+          "type": "text",
+          "text": "Acknowledgement is taken from Customer / Authorized Person"
+        },
+        {
+          "type": "text",
+          "text": "h."
+        },
+        {
+          "type": "text",
+          "text": "The cheque Inventory Register is duly updated."
+        },
+        {
+          "type": "text",
+          "text": "i."
+        },
+        {
+          "type": "text",
+          "text": "Loan Account Number is generated, the disbursed case moves to LMS, and the Interest of the"
+        },
+        {
+          "type": "text",
+          "text": "customer commences."
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "Scope"
+        },
+        {
+          "type": "text",
+          "text": "This procedure is primarily applicable to all ABHFL Customer Accounts where loans have been disbursed."
+        },
+        {
+          "type": "text",
+          "text": "Various systems used respectively in the Disbursement Process include:"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Core System is used by Branch Operations Team, to verify and validate the details with the submitted"
+        },
+        {
+          "type": "text",
+          "text": "Sanction File, Disbursement Docket and Collateral Documents and updating the Disbursement Module"
+        },
+        {
+          "type": "text",
+          "text": "with the relevant data points of the customer pertaining to the loan disbursement."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Bank Portal is used for transaction authorization and monitoring Cheques Issued, Cancelled, Wasted"
+        },
+        {
+          "type": "text",
+          "text": "and Cleared."
+        },
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "Resource Requirements"
+        },
+        {
+          "type": "text",
+          "text": "Sub-Process"
+        },
+        {
+          "type": "text",
+          "text": "Resources Needed"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement"
+        },
+        {
+          "type": "text",
+          "text": "Process"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Access to the Core system"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Access to the Bank Portal"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Login access to NACH registration"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 5 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "Training Requirements"
+        },
+        {
+          "type": "text",
+          "text": "Stakeholder"
+        },
+        {
+          "type": "text",
+          "text": "Training Needed"
+        },
+        {
+          "type": "text",
+          "text": "Branch Operation"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "ABHFL Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Core System User Manual"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Online NACH activation and"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Cheque inventory handling"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Finverse User Manual"
+        },
+        {
+          "type": "text",
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "Key Activity"
+        },
+        {
+          "type": "text",
+          "text": "Sr."
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Activity"
+        },
+        {
+          "type": "text",
+          "text": "Key Input"
+        },
+        {
+          "type": "text",
+          "text": "Key Output"
+        },
+        {
+          "type": "text",
+          "text": "RACI"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "Lead creation in Salesforce:"
+        },
+        {
+          "type": "text",
+          "text": "The sales team created a lead by capturing the"
+        },
+        {
+          "type": "text",
+          "text": "applicant’s details in the lead creation module."
+        },
+        {
+          "type": "text",
+          "text": "After the creation of the lead, the applicant details"
+        },
+        {
+          "type": "text",
+          "text": "(KYC details, KYC documents, Basic details, Property"
+        },
+        {
+          "type": "text",
+          "text": "details & documents) are passed on to Finverse."
+        },
+        {
+          "type": "text",
+          "text": "Lead details"
+        },
+        {
+          "type": "text",
+          "text": "Lead"
+        },
+        {
+          "type": "text",
+          "text": "generated &"
+        },
+        {
+          "type": "text",
+          "text": "Details"
+        },
+        {
+          "type": "text",
+          "text": "shared with"
+        },
+        {
+          "type": "text",
+          "text": "Finverse"
+        },
+        {
+          "type": "text",
+          "text": "R, A – Sales"
+        },
+        {
+          "type": "text",
+          "text": "Team"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "The Application id/lead id is created in the Finverse"
+        },
+        {
+          "type": "text",
+          "text": "system and the application id is assigned to the CPA"
+        },
+        {
+          "type": "text",
+          "text": "team for Demographic Details Entry."
+        },
+        {
+          "type": "text",
+          "text": "Lead details"
+        },
+        {
+          "type": "text",
+          "text": "Application"
+        },
+        {
+          "type": "text",
+          "text": "id is created"
+        },
+        {
+          "type": "text",
+          "text": "in Finverse"
+        },
+        {
+          "type": "text",
+          "text": "& assigned"
+        },
+        {
+          "type": "text",
+          "text": "to CPA"
+        },
+        {
+          "type": "text",
+          "text": "R, A –"
+        },
+        {
+          "type": "text",
+          "text": "System"
+        },
+        {
+          "type": "text",
+          "text": "I – CPA"
+        },
+        {
+          "type": "text",
+          "text": "Team,"
+        },
+        {
+          "type": "text",
+          "text": "Sales Team"
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "The CPA team to do a QC check on the data received"
+        },
+        {
+          "type": "text",
+          "text": "in the application id. Queries if any to be raised to"
+        },
+        {
+          "type": "text",
+          "text": "the Sales team. Post successful submission the"
+        },
+        {
+          "type": "text",
+          "text": "application is moved to the Financial Details Entry"
+        },
+        {
+          "type": "text",
+          "text": "stage"
+        },
+        {
+          "type": "text",
+          "text": "Login details"
+        },
+        {
+          "type": "text",
+          "text": "from Sales"
+        },
+        {
+          "type": "text",
+          "text": "Login details"
+        },
+        {
+          "type": "text",
+          "text": "post QC"
+        },
+        {
+          "type": "text",
+          "text": "R, A –"
+        },
+        {
+          "type": "text",
+          "text": "Credit"
+        },
+        {
+          "type": "text",
+          "text": "Team,"
+        },
+        {
+          "type": "text",
+          "text": "I – Sales"
+        },
+        {
+          "type": "text",
+          "text": "Team"
+        },
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "The CPA team captures the financial details of the"
+        },
+        {
+          "type": "text",
+          "text": "applicant along with the property/collateral"
+        },
+        {
+          "type": "text",
+          "text": "documents collected from the customer. The"
+        },
+        {
+          "type": "text",
+          "text": "application is then assigned to the Sr. CPA for the"
+        },
+        {
+          "type": "text",
+          "text": "approval."
+        },
+        {
+          "type": "text",
+          "text": "Financial"
+        },
+        {
+          "type": "text",
+          "text": "details &"
+        },
+        {
+          "type": "text",
+          "text": "Property"
+        },
+        {
+          "type": "text",
+          "text": "documents"
+        },
+        {
+          "type": "text",
+          "text": "Financial"
+        },
+        {
+          "type": "text",
+          "text": "details &"
+        },
+        {
+          "type": "text",
+          "text": "Property"
+        },
+        {
+          "type": "text",
+          "text": "documents"
+        },
+        {
+          "type": "text",
+          "text": "captured in"
+        },
+        {
+          "type": "text",
+          "text": "Finverse"
+        },
+        {
+          "type": "text",
+          "text": "R, A –"
+        },
+        {
+          "type": "text",
+          "text": "Credit"
+        },
+        {
+          "type": "text",
+          "text": "Team,"
+        },
+        {
+          "type": "text",
+          "text": "I – Sales"
+        },
+        {
+          "type": "text",
+          "text": "Team"
+        },
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "The credit manager to do the underwriting of the"
+        },
+        {
+          "type": "text",
+          "text": "application & decides on the loan application."
+        },
+        {
+          "type": "text",
+          "text": "The Credit manager to ensure all the application"
+        },
+        {
+          "type": "text",
+          "text": "details (legal, technical, FI report & PD report) are in"
+        },
+        {
+          "type": "text",
+          "text": "order."
+        },
+        {
+          "type": "text",
+          "text": "Financial"
+        },
+        {
+          "type": "text",
+          "text": "details &"
+        },
+        {
+          "type": "text",
+          "text": "Property"
+        },
+        {
+          "type": "text",
+          "text": "documents"
+        },
+        {
+          "type": "text",
+          "text": "captured in"
+        },
+        {
+          "type": "text",
+          "text": "Finverse"
+        },
+        {
+          "type": "text",
+          "text": "Underwritin"
+        },
+        {
+          "type": "text",
+          "text": "g and"
+        },
+        {
+          "type": "text",
+          "text": "Sanction"
+        },
+        {
+          "type": "text",
+          "text": "decision"
+        },
+        {
+          "type": "text",
+          "text": "R, A –"
+        },
+        {
+          "type": "text",
+          "text": "Credit"
+        },
+        {
+          "type": "text",
+          "text": "Team,"
+        },
+        {
+          "type": "text",
+          "text": "I – Sales"
+        },
+        {
+          "type": "text",
+          "text": "Team"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 6 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "Sr."
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Activity"
+        },
+        {
+          "type": "text",
+          "text": "Key Input"
+        },
+        {
+          "type": "text",
+          "text": "Key Output"
+        },
+        {
+          "type": "text",
+          "text": "RACI"
+        },
+        {
+          "type": "text",
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "Post Sanction of the loan, the below mentioned"
+        },
+        {
+          "type": "text",
+          "text": "stages/forms will be updated by the CPA team."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Information Gathering Form"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Customer Worklist"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Docket"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Memo"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "POP/OTC sheet"
+        },
+        {
+          "type": "text",
+          "text": "The credit manager will author the stage basis"
+        },
+        {
+          "type": "text",
+          "text": "successful review of the details submitted by CPA"
+        },
+        {
+          "type": "text",
+          "text": "Sanction of"
+        },
+        {
+          "type": "text",
+          "text": "the application"
+        },
+        {
+          "type": "text",
+          "text": "Loan"
+        },
+        {
+          "type": "text",
+          "text": "Application"
+        },
+        {
+          "type": "text",
+          "text": "details"
+        },
+        {
+          "type": "text",
+          "text": "update by"
+        },
+        {
+          "type": "text",
+          "text": "Credit team"
+        },
+        {
+          "type": "text",
+          "text": "R, A –"
+        },
+        {
+          "type": "text",
+          "text": "Credit"
+        },
+        {
+          "type": "text",
+          "text": "I – Sales"
+        },
+        {
+          "type": "text",
+          "text": "Team,"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "Branch Operations  to execute NDC & DI checklist for"
+        },
+        {
+          "type": "text",
+          "text": "the details of the applicant. Discrepancies if any, will"
+        },
+        {
+          "type": "text",
+          "text": "be raised to the Credit team."
+        },
+        {
+          "type": "text",
+          "text": "Sanction of"
+        },
+        {
+          "type": "text",
+          "text": "the application"
+        },
+        {
+          "type": "text",
+          "text": "NDC & DI"
+        },
+        {
+          "type": "text",
+          "text": "form"
+        },
+        {
+          "type": "text",
+          "text": "successfully"
+        },
+        {
+          "type": "text",
+          "text": "updated"
+        },
+        {
+          "type": "text",
+          "text": "R, A –"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "I – Credit"
+        },
+        {
+          "type": "text",
+          "text": "Team,"
+        },
+        {
+          "type": "text",
+          "text": "Sales"
+        },
+        {
+          "type": "text",
+          "text": "Team"
+        },
+        {
+          "type": "text",
+          "text": "8"
+        },
+        {
+          "type": "text",
+          "text": "The loan details are pushed to LMS (A3S) from"
+        },
+        {
+          "type": "text",
+          "text": "Finverse for completion of disbursement activities."
+        },
+        {
+          "type": "text",
+          "text": "NDC & DI form"
+        },
+        {
+          "type": "text",
+          "text": "details"
+        },
+        {
+          "type": "text",
+          "text": "Loan"
+        },
+        {
+          "type": "text",
+          "text": "account"
+        },
+        {
+          "type": "text",
+          "text": "number"
+        },
+        {
+          "type": "text",
+          "text": "generation"
+        },
+        {
+          "type": "text",
+          "text": "R, A –"
+        },
+        {
+          "type": "text",
+          "text": "System"
+        },
+        {
+          "type": "text",
+          "text": "I – Credit,"
+        },
+        {
+          "type": "text",
+          "text": "Sales &"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "9"
+        },
+        {
+          "type": "text",
+          "text": "Check done by Branch Operation:"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Processing Fee to be referred as per"
+        },
+        {
+          "type": "text",
+          "text": "Sanction letter and if any deviation is found"
+        },
+        {
+          "type": "text",
+          "text": "in the amount, then approval as per matrix"
+        },
+        {
+          "type": "text",
+          "text": "will be required. (IMD Fee status should be"
+        },
+        {
+          "type": "text",
+          "text": "cleared before QC. If it is not cleared, an"
+        },
+        {
+          "type": "text",
+          "text": "exception will be"
+        },
+        {
+          "type": "text",
+          "text": "raised to the Credit & Sales"
+        },
+        {
+          "type": "text",
+          "text": "via Mail.  OTC approval is not accepted for"
+        },
+        {
+          "type": "text",
+          "text": "IMD Fee)"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "If any discrepancy is found in the Loan File,"
+        },
+        {
+          "type": "text",
+          "text": "then the same is escalated to the Credit and"
+        },
+        {
+          "type": "text",
+          "text": "Sales and Branch Operation should wait for"
+        },
+        {
+          "type": "text",
+          "text": "the Query Resolution. In case of any"
+        },
+        {
+          "type": "text",
+          "text": "discrepancy found in the Core System then"
+        },
+        {
+          "type": "text",
+          "text": "the Core System queue needs to be moved"
+        },
+        {
+          "type": "text",
+          "text": "back to Credit/ Sales"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "If there is no discrepancy, then Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation to proceeds with the details"
+        },
+        {
+          "type": "text",
+          "text": "available in the Core system. This includes"
+        },
+        {
+          "type": "text",
+          "text": "verification of the disbursement details in"
+        },
+        {
+          "type": "text",
+          "text": "the Core System"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Branch Operation to check the NACH"
+        },
+        {
+          "type": "text",
+          "text": "registration status of the customer before"
+        },
+        {
+          "type": "text",
+          "text": "proceeding with disbursement. If eNACH is"
+        },
+        {
+          "type": "text",
+          "text": "Operations"
+        },
+        {
+          "type": "text",
+          "text": "Checklist"
+        },
+        {
+          "type": "text",
+          "text": "Review the"
+        },
+        {
+          "type": "text",
+          "text": "Sanction"
+        },
+        {
+          "type": "text",
+          "text": "application"
+        },
+        {
+          "type": "text",
+          "text": "file."
+        },
+        {
+          "type": "text",
+          "text": "Discrepanc"
+        },
+        {
+          "type": "text",
+          "text": "y if any"
+        },
+        {
+          "type": "text",
+          "text": "informed to"
+        },
+        {
+          "type": "text",
+          "text": "Credit and"
+        },
+        {
+          "type": "text",
+          "text": "Sales"
+        },
+        {
+          "type": "text",
+          "text": "For Clear"
+        },
+        {
+          "type": "text",
+          "text": "case,"
+        },
+        {
+          "type": "text",
+          "text": "Payment"
+        },
+        {
+          "type": "text",
+          "text": "maker"
+        },
+        {
+          "type": "text",
+          "text": "R,"
+        },
+        {
+          "type": "text",
+          "text": "A=Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "I=Credit"
+        },
+        {
+          "type": "text",
+          "text": "Manager/S"
+        },
+        {
+          "type": "text",
+          "text": "ales team"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 7 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "Sr."
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Activity"
+        },
+        {
+          "type": "text",
+          "text": "Key Input"
+        },
+        {
+          "type": "text",
+          "text": "Key Output"
+        },
+        {
+          "type": "text",
+          "text": "RACI"
+        },
+        {
+          "type": "text",
+          "text": "not registered, a manual NACH request to be"
+        },
+        {
+          "type": "text",
+          "text": "raised and uploaded in Nscan as per the"
+        },
+        {
+          "type": "text",
+          "text": "NACH registration process"
+        },
+        {
+          "type": "text",
+          "text": "9"
+        },
+        {
+          "type": "text",
+          "text": "The loan agreement is generated from the Finverse"
+        },
+        {
+          "type": "text",
+          "text": "system after the completion of the Sanction of the"
+        },
+        {
+          "type": "text",
+          "text": "loan.  The DM & the documents will be generated"
+        },
+        {
+          "type": "text",
+          "text": "post-DM approval by the CPA/Credit team."
+        },
+        {
+          "type": "text",
+          "text": "The following documents are provided by the"
+        },
+        {
+          "type": "text",
+          "text": "Credit/CPA Team to Branch Operation:"
+        },
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "text",
+          "text": "Facility Agreement"
+        },
+        {
+          "type": "text",
+          "text": "2."
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Memo"
+        },
+        {
+          "type": "text",
+          "text": "3."
+        },
+        {
+          "type": "text",
+          "text": "POP sheet report"
+        },
+        {
+          "type": "text",
+          "text": "4."
+        },
+        {
+          "type": "text",
+          "text": "Property Documents"
+        },
+        {
+          "type": "text",
+          "text": "5."
+        },
+        {
+          "type": "text",
+          "text": "Sanction Letter"
+        },
+        {
+          "type": "text",
+          "text": "6."
+        },
+        {
+          "type": "text",
+          "text": "DRF (Disbursal Request Form)"
+        },
+        {
+          "type": "text",
+          "text": "7."
+        },
+        {
+          "type": "text",
+          "text": "Repayment mandates- NACH Mandates and"
+        },
+        {
+          "type": "text",
+          "text": "PDCs"
+        },
+        {
+          "type": "text",
+          "text": "8."
+        },
+        {
+          "type": "text",
+          "text": "Legal & title search report"
+        },
+        {
+          "type": "text",
+          "text": "9."
+        },
+        {
+          "type": "text",
+          "text": "Fair Practice Code"
+        },
+        {
+          "type": "text",
+          "text": "10."
+        },
+        {
+          "type": "text",
+          "text": "NHB refinance declaration"
+        },
+        {
+          "type": "text",
+          "text": "11."
+        },
+        {
+          "type": "text",
+          "text": "Case-specific documents, if any"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Branch Operations will initiate the payment"
+        },
+        {
+          "type": "text",
+          "text": "maker in the core system and share the"
+        },
+        {
+          "type": "text",
+          "text": "Sanction Letter, DM (Disbursement Memo),"
+        },
+        {
+          "type": "text",
+          "text": "POP sheet and DRF (Disbursement Request"
+        },
+        {
+          "type": "text",
+          "text": "Form), beneficiary proof, payment memo"
+        },
+        {
+          "type": "text",
+          "text": "report from the Core system and send the"
+        },
+        {
+          "type": "text",
+          "text": "scanned images to the Authorizer Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operations for"
+        },
+        {
+          "type": "text",
+          "text": "payment author in Core"
+        },
+        {
+          "type": "text",
+          "text": "system."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Payment Authorizer verifies  details entered"
+        },
+        {
+          "type": "text",
+          "text": "by Maker with the shared documents."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "If any discrepancy is found in the system,"
+        },
+        {
+          "type": "text",
+          "text": "then the same is referred to the Maker and"
+        },
+        {
+          "type": "text",
+          "text": "Checker-Branch Operations should wait for"
+        },
+        {
+          "type": "text",
+          "text": "the Query Resolution."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "If no discrepancy is found, the authorizer to"
+        },
+        {
+          "type": "text",
+          "text": "complete the Payment author in the Core"
+        },
+        {
+          "type": "text",
+          "text": "system."
+        },
+        {
+          "type": "text",
+          "text": "Payment"
+        },
+        {
+          "type": "text",
+          "text": "maker"
+        },
+        {
+          "type": "text",
+          "text": "Case"
+        },
+        {
+          "type": "text",
+          "text": "authorized"
+        },
+        {
+          "type": "text",
+          "text": "by Maker"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation in"
+        },
+        {
+          "type": "text",
+          "text": "Core System"
+        },
+        {
+          "type": "text",
+          "text": "Payment"
+        },
+        {
+          "type": "text",
+          "text": "Author"
+        },
+        {
+          "type": "text",
+          "text": "R, A-"
+        },
+        {
+          "type": "text",
+          "text": "Maker and"
+        },
+        {
+          "type": "text",
+          "text": "author"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation,"
+        },
+        {
+          "type": "text",
+          "text": "I-Credit"
+        },
+        {
+          "type": "text",
+          "text": "manager"
+        },
+        {
+          "type": "text",
+          "text": "10"
+        },
+        {
+          "type": "text",
+          "text": "Post completion of Payment author in Core System,"
+        },
+        {
+          "type": "text",
+          "text": "the authorizer confirms the same to Maker."
+        },
+        {
+          "type": "text",
+          "text": "Case"
+        },
+        {
+          "type": "text",
+          "text": "authorized by"
+        },
+        {
+          "type": "text",
+          "text": "authorizer"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation in"
+        },
+        {
+          "type": "text",
+          "text": "E-Mail"
+        },
+        {
+          "type": "text",
+          "text": "Confirmatio"
+        },
+        {
+          "type": "text",
+          "text": "n to the"
+        },
+        {
+          "type": "text",
+          "text": "Maker-"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "R, A-"
+        },
+        {
+          "type": "text",
+          "text": "Authorizer"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 8 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "Sr."
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Activity"
+        },
+        {
+          "type": "text",
+          "text": "Key Input"
+        },
+        {
+          "type": "text",
+          "text": "Key Output"
+        },
+        {
+          "type": "text",
+          "text": "RACI"
+        },
+        {
+          "type": "text",
+          "text": "Core System"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "C-Credit"
+        },
+        {
+          "type": "text",
+          "text": "Manager"
+        },
+        {
+          "type": "text",
+          "text": "I- Maker"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "11"
+        },
+        {
+          "type": "text",
+          "text": "Beneficiary and Transaction Authorization"
+        },
+        {
+          "type": "text",
+          "text": "After receiving the payment authorization from the"
+        },
+        {
+          "type": "text",
+          "text": "Authorizer, Maker-Branch Operations will proceed"
+        },
+        {
+          "type": "text",
+          "text": "with Transaction Authorization based on the  Mode"
+        },
+        {
+          "type": "text",
+          "text": "of payment as per Approval Matrix."
+        },
+        {
+          "type": "text",
+          "text": "Mode of Payment: Electronic (IFT/NEFT/RTGS)"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "If the Mode of payment is Electronic,  then Branch"
+        },
+        {
+          "type": "text",
+          "text": "Ops does the DI (Disbursement initiation) maker in"
+        },
+        {
+          "type": "text",
+          "text": "the Core system and sends the case to  DI Author."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Authorizer user will then do the DI author and"
+        },
+        {
+          "type": "text",
+          "text": "confirm back to Maker Branch Ops for the same."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Post which Maker Branch Ops user will mark the"
+        },
+        {
+          "type": "text",
+          "text": "sent to the customer for that particular"
+        },
+        {
+          "type": "text",
+          "text": "transaction (electronic transfer)."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Branch Ops will send the case for authorization to"
+        },
+        {
+          "type": "text",
+          "text": "the approved Bank portal authorizers (as per"
+        },
+        {
+          "type": "text",
+          "text": "board resolution) of respective Zones."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Bank portal Authorizer shall verify the payment"
+        },
+        {
+          "type": "text",
+          "text": "details from the scanned documents (scanned"
+        },
+        {
+          "type": "text",
+          "text": "Customer Cheque Copy/ Demand Letter / DM,"
+        },
+        {
+          "type": "text",
+          "text": "DRF, SL, beneficiary proof and payment memo"
+        },
+        {
+          "type": "text",
+          "text": "from Core System). Discrepancies if any shall be"
+        },
+        {
+          "type": "text",
+          "text": "shared with Branch Ops for resolution and post"
+        },
+        {
+          "type": "text",
+          "text": "which Bank portal authorizer will authorize the"
+        },
+        {
+          "type": "text",
+          "text": "payment details in the bank portal."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Post Authorization in bank portal UTR Number is"
+        },
+        {
+          "type": "text",
+          "text": "updated in the core system."
+        },
+        {
+          "type": "text",
+          "text": "E-Mail"
+        },
+        {
+          "type": "text",
+          "text": "Confirmation"
+        },
+        {
+          "type": "text",
+          "text": "to the Maker-"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "Transaction"
+        },
+        {
+          "type": "text",
+          "text": "Authorizatio"
+        },
+        {
+          "type": "text",
+          "text": "n initiated"
+        },
+        {
+          "type": "text",
+          "text": "for"
+        },
+        {
+          "type": "text",
+          "text": "respective"
+        },
+        {
+          "type": "text",
+          "text": "Mode of"
+        },
+        {
+          "type": "text",
+          "text": "Payment"
+        },
+        {
+          "type": "text",
+          "text": "R, A-Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "C-"
+        },
+        {
+          "type": "text",
+          "text": "Authorizers"
+        },
+        {
+          "type": "text",
+          "text": "as per"
+        },
+        {
+          "type": "text",
+          "text": "Approval"
+        },
+        {
+          "type": "text",
+          "text": "Matrix"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 9 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "Sr."
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Activity"
+        },
+        {
+          "type": "text",
+          "text": "Key Input"
+        },
+        {
+          "type": "text",
+          "text": "Key Output"
+        },
+        {
+          "type": "text",
+          "text": "RACI"
+        },
+        {
+          "type": "text",
+          "text": "12"
+        },
+        {
+          "type": "text",
+          "text": "Mode of Payment: Demand Draft"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "At the payment maker stage, the maker Branch"
+        },
+        {
+          "type": "text",
+          "text": "Ops selects the payment mode as DD and"
+        },
+        {
+          "type": "text",
+          "text": "forwards it to Authorizer."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Authorizer Branch Ops to Verify and authorize"
+        },
+        {
+          "type": "text",
+          "text": "beneficiary and payment details in the core"
+        },
+        {
+          "type": "text",
+          "text": "system."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Branch Operation to prepare a DD Request Letter"
+        },
+        {
+          "type": "text",
+          "text": "(refer to the Scanned copy in annexure)"
+        },
+        {
+          "type": "text",
+          "text": "on the"
+        },
+        {
+          "type": "text",
+          "text": "Letter Head of ABHFL."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Send it to the Authorizers (Scanned Copy) via E-"
+        },
+        {
+          "type": "text",
+          "text": "Mail"
+        },
+        {
+          "type": "text",
+          "text": "(Refer to the Approval matrix in the"
+        },
+        {
+          "type": "text",
+          "text": "annexure)"
+        },
+        {
+          "type": "text",
+          "text": "."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Signatories to verify the request letter and send"
+        },
+        {
+          "type": "text",
+          "text": "the Signed scanned copy to Branch Ops."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Branch Ops to send scanned and attested DD"
+        },
+        {
+          "type": "text",
+          "text": "request letter to the authorized person to"
+        },
+        {
+          "type": "text",
+          "text": "forward to  Bank for printing"
+        },
+        {
+          "type": "text",
+          "text": "."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Post DD is printed the Nominated Person (written"
+        },
+        {
+          "type": "text",
+          "text": "in the DD request letter) goes to Bank for the"
+        },
+        {
+          "type": "text",
+          "text": "collection of DD."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Post receiving the DD, Branch Ops to complete"
+        },
+        {
+          "type": "text",
+          "text": "the DI maker and get the DI author done by the"
+        },
+        {
+          "type": "text",
+          "text": "authorizer, post which Branch Ops will mark"
+        },
+        {
+          "type": "text",
+          "text": "Sent to customer and update the DD Number in"
+        },
+        {
+          "type": "text",
+          "text": "the Cheque status update."
+        },
+        {
+          "type": "text",
+          "text": "13"
+        },
+        {
+          "type": "text",
+          "text": "Mode of Payment: Cheque"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "At the Payment maker stage, Branch Ops"
+        },
+        {
+          "type": "text",
+          "text": "selects the payment mode as Cheque and"
+        },
+        {
+          "type": "text",
+          "text": "forwards it to the authorizer."
+        },
+        {
+          "type": "text",
+          "text": "Authorizer to verify and authorize"
+        },
+        {
+          "type": "text",
+          "text": "beneficiary & payment details in the Core"
+        },
+        {
+          "type": "text",
+          "text": "system and informs Branch Ops through"
+        },
+        {
+          "type": "text",
+          "text": "Email."
+        },
+        {
+          "type": "text",
+          "text": "E-Mail"
+        },
+        {
+          "type": "text",
+          "text": "Confirmation"
+        },
+        {
+          "type": "text",
+          "text": "to the DU-"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "Cheque is"
+        },
+        {
+          "type": "text",
+          "text": "handed"
+        },
+        {
+          "type": "text",
+          "text": "over to the"
+        },
+        {
+          "type": "text",
+          "text": "Customer"
+        },
+        {
+          "type": "text",
+          "text": "with"
+        },
+        {
+          "type": "text",
+          "text": "acknowledg"
+        },
+        {
+          "type": "text",
+          "text": "ement."
+        },
+        {
+          "type": "text",
+          "text": "R, A-Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "C-"
+        },
+        {
+          "type": "text",
+          "text": "Authorizers"
+        },
+        {
+          "type": "text",
+          "text": "as per"
+        },
+        {
+          "type": "text",
+          "text": "Approval"
+        },
+        {
+          "type": "text",
+          "text": "Matrix"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 10 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "Sr."
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Activity"
+        },
+        {
+          "type": "text",
+          "text": "Key Input"
+        },
+        {
+          "type": "text",
+          "text": "Key Output"
+        },
+        {
+          "type": "text",
+          "text": "RACI"
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Simultaneously Branch Ops sends an email"
+        },
+        {
+          "type": "text",
+          "text": "to the Bank portal Authorizers (as per board"
+        },
+        {
+          "type": "text",
+          "text": "resolution) of the payment file to authorize"
+        },
+        {
+          "type": "text",
+          "text": "the payment in the bank portal."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Post receiving the mail, Authorizers"
+        },
+        {
+          "type": "text",
+          "text": "authorize the payment file in his/her queue"
+        },
+        {
+          "type": "text",
+          "text": "after verifying the details of the loan from"
+        },
+        {
+          "type": "text",
+          "text": "the scanned Customer Cheque Copy/"
+        },
+        {
+          "type": "text",
+          "text": "Demand Letter / DM, DRF, SL. Discrepancies"
+        },
+        {
+          "type": "text",
+          "text": "if any shall be shared with Branch Ops for"
+        },
+        {
+          "type": "text",
+          "text": "resolution."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Post which payment moves to the Bank"
+        },
+        {
+          "type": "text",
+          "text": "portal (IndusInd Bank Portal for Cheque"
+        },
+        {
+          "type": "text",
+          "text": "printing) and Cheque is printed by the local"
+        },
+        {
+          "type": "text",
+          "text": "Branch Ops. Branch Ops to reconcile all"
+        },
+        {
+          "type": "text",
+          "text": "cheques in the Bank portal on the same day."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Branch Ops to enter the details of printed"
+        },
+        {
+          "type": "text",
+          "text": "Cheques in the Manual Cheque Inventory"
+        },
+        {
+          "type": "text",
+          "text": "Register and cheque handover register post-"
+        },
+        {
+          "type": "text",
+          "text": "cheque printing."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Cheque detail get captured in Core System"
+        },
+        {
+          "type": "text",
+          "text": "by EOD."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Branch Ops to hand over the Cheque as per"
+        },
+        {
+          "type": "text",
+          "text": "annexure and ensure acknowledgement is"
+        },
+        {
+          "type": "text",
+          "text": "received."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Post receipt of acknowledgement from the"
+        },
+        {
+          "type": "text",
+          "text": "customer, Branch Ops does DI maker in core"
+        },
+        {
+          "type": "text",
+          "text": "system and uploads acknowledgement scan"
+        },
+        {
+          "type": "text",
+          "text": "image in the core system, informs DI"
+        },
+        {
+          "type": "text",
+          "text": "authorizer."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "DI Authorizer authorizes DI post-checking of"
+        },
+        {
+          "type": "text",
+          "text": "acknowledgement and informs maker. In"
+        },
+        {
+          "type": "text",
+          "text": "case of any discrepancy inform Branch Ops"
+        },
+        {
+          "type": "text",
+          "text": "and wait for query resolution."
+        },
+        {
+          "type": "text",
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "text": "Branch Ops does the Sent to Customer in core"
+        },
+        {
+          "type": "text",
+          "text": "system post verifying or entering cheque"
+        },
+        {
+          "type": "text",
+          "text": "number in core system Cheque Status Update"
+        },
+        {
+          "type": "text",
+          "text": "Screen."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 11 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "Process Flow Chart"
+        },
+        {
+          "type": "text",
+          "text": "7.1"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Process: Verification"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Application Process"
+        },
+        {
+          "type": "text",
+          "text": "Sales Team"
+        },
+        {
+          "type": "text",
+          "text": "Credit Team"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service"
+        },
+        {
+          "type": "text",
+          "text": "Start"
+        },
+        {
+          "type": "text",
+          "text": "Applicant details"
+        },
+        {
+          "type": "text",
+          "text": "captured in"
+        },
+        {
+          "type": "text",
+          "text": "Salesforce"
+        },
+        {
+          "type": "text",
+          "text": "Applicant is"
+        },
+        {
+          "type": "text",
+          "text": "Interested"
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "Applicant details are"
+        },
+        {
+          "type": "text",
+          "text": "captured in"
+        },
+        {
+          "type": "text",
+          "text": "Salesforce"
+        },
+        {
+          "type": "text",
+          "text": "Application"
+        },
+        {
+          "type": "text",
+          "text": "Applicant"
+        },
+        {
+          "type": "text",
+          "text": "details passed"
+        },
+        {
+          "type": "text",
+          "text": "on to Finverse"
+        },
+        {
+          "type": "text",
+          "text": "CPA does QC on the"
+        },
+        {
+          "type": "text",
+          "text": "input data received"
+        },
+        {
+          "type": "text",
+          "text": "through an"
+        },
+        {
+          "type": "text",
+          "text": "Application id in"
+        },
+        {
+          "type": "text",
+          "text": "Finverse"
+        },
+        {
+          "type": "text",
+          "text": "Discrepancy"
+        },
+        {
+          "type": "text",
+          "text": "observed?"
+        },
+        {
+          "type": "text",
+          "text": "Raised to Sales"
+        },
+        {
+          "type": "text",
+          "text": "for inputs &"
+        },
+        {
+          "type": "text",
+          "text": "details"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "Sr. CPA to author"
+        },
+        {
+          "type": "text",
+          "text": "the Demographic"
+        },
+        {
+          "type": "text",
+          "text": "data entry"
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "CPA team to check"
+        },
+        {
+          "type": "text",
+          "text": "the financial details"
+        },
+        {
+          "type": "text",
+          "text": "of the applicant"
+        },
+        {
+          "type": "text",
+          "text": "Discrepancy"
+        },
+        {
+          "type": "text",
+          "text": "observed?"
+        },
+        {
+          "type": "text",
+          "text": "Raised to"
+        },
+        {
+          "type": "text",
+          "text": "Sales/Credit"
+        },
+        {
+          "type": "text",
+          "text": "for inputs &"
+        },
+        {
+          "type": "text",
+          "text": "details"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "Sr. CPA to author"
+        },
+        {
+          "type": "text",
+          "text": "the financial details"
+        },
+        {
+          "type": "text",
+          "text": "entry of the"
+        },
+        {
+          "type": "text",
+          "text": "applicant"
+        },
+        {
+          "type": "text",
+          "text": "Underwriting of the"
+        },
+        {
+          "type": "text",
+          "text": "loan"
+        },
+        {
+          "type": "text",
+          "text": "Sanction of the"
+        },
+        {
+          "type": "text",
+          "text": "loan?"
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Operations"
+        },
+        {
+          "type": "text",
+          "text": "Checklist to be"
+        },
+        {
+          "type": "text",
+          "text": "referred"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "Operations"
+        },
+        {
+          "type": "text",
+          "text": "Checklist"
+        },
+        {
+          "type": "text",
+          "text": "Discrepancy"
+        },
+        {
+          "type": "text",
+          "text": "identified?"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Payment maker to"
+        },
+        {
+          "type": "text",
+          "text": "be prepared"
+        },
+        {
+          "type": "text",
+          "text": "NACH updated,"
+        },
+        {
+          "type": "text",
+          "text": "Stamp duty"
+        },
+        {
+          "type": "text",
+          "text": "collected  &"
+        },
+        {
+          "type": "text",
+          "text": "Agreement"
+        },
+        {
+          "type": "text",
+          "text": "signed by all"
+        },
+        {
+          "type": "text",
+          "text": "participants?"
+        },
+        {
+          "type": "text",
+          "text": "Manual NACH"
+        },
+        {
+          "type": "text",
+          "text": "to be"
+        },
+        {
+          "type": "text",
+          "text": "processed by"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "Payment maker to be"
+        },
+        {
+          "type": "text",
+          "text": "updated by the Branch"
+        },
+        {
+          "type": "text",
+          "text": "Service basis"
+        },
+        {
+          "type": "text",
+          "text": "confirmation from"
+        },
+        {
+          "type": "text",
+          "text": "sales for mode of"
+        },
+        {
+          "type": "text",
+          "text": "payment"
+        },
+        {
+          "type": "text",
+          "text": "Sales to get"
+        },
+        {
+          "type": "text",
+          "text": "the manual"
+        },
+        {
+          "type": "text",
+          "text": "NACH updated"
+        },
+        {
+          "type": "text",
+          "text": "& agreement"
+        },
+        {
+          "type": "text",
+          "text": "signed"
+        },
+        {
+          "type": "text",
+          "text": "Mode of payment"
+        },
+        {
+          "type": "text",
+          "text": "basis confirmation"
+        },
+        {
+          "type": "text",
+          "text": "from Sales Team"
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "DD"
+        },
+        {
+          "type": "text",
+          "text": "Demand Draft:"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service to make"
+        },
+        {
+          "type": "text",
+          "text": "payment maker and send"
+        },
+        {
+          "type": "text",
+          "text": "the same to authorizer for"
+        },
+        {
+          "type": "text",
+          "text": "authentication"
+        },
+        {
+          "type": "text",
+          "text": "Authorizer authorizes the"
+        },
+        {
+          "type": "text",
+          "text": "payment for DD and"
+        },
+        {
+          "type": "text",
+          "text": "confirms to the maker"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service to prepare a"
+        },
+        {
+          "type": "text",
+          "text": "DD instruction letter on"
+        },
+        {
+          "type": "text",
+          "text": "ABHFL letter head and send"
+        },
+        {
+          "type": "text",
+          "text": "the same as email to"
+        },
+        {
+          "type": "text",
+          "text": "authorized signatories"
+        },
+        {
+          "type": "text",
+          "text": "Signatories to verify the"
+        },
+        {
+          "type": "text",
+          "text": "request letter from favoring"
+        },
+        {
+          "type": "text",
+          "text": "details and send the scan"
+        },
+        {
+          "type": "text",
+          "text": "copy to Branch Service"
+        },
+        {
+          "type": "text",
+          "text": "Discrepancy"
+        },
+        {
+          "type": "text",
+          "text": "found"
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "B"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "DD instrument"
+        },
+        {
+          "type": "text",
+          "text": "letter to be"
+        },
+        {
+          "type": "text",
+          "text": "prepared again by"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service and"
+        },
+        {
+          "type": "text",
+          "text": "send for attestion"
+        },
+        {
+          "type": "text",
+          "text": "IFT/RTGS/NEFT/Cheque"
+        },
+        {
+          "type": "text",
+          "text": "IFT/RTGS/NEFT"
+        },
+        {
+          "type": "text",
+          "text": "Branch service to make"
+        },
+        {
+          "type": "text",
+          "text": "the payment maker"
+        },
+        {
+          "type": "text",
+          "text": "and DI maker and send"
+        },
+        {
+          "type": "text",
+          "text": "for authorization"
+        },
+        {
+          "type": "text",
+          "text": "Prior approval for"
+        },
+        {
+          "type": "text",
+          "text": "IFT/RTGS/NEFT/"
+        },
+        {
+          "type": "text",
+          "text": "DD"
+        },
+        {
+          "type": "text",
+          "text": "Discrepancy"
+        },
+        {
+          "type": "text",
+          "text": "found in"
+        },
+        {
+          "type": "text",
+          "text": "Payment maker/"
+        },
+        {
+          "type": "text",
+          "text": "DI maker"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "IFT/NEFT/RTGS"
+        },
+        {
+          "type": "text",
+          "text": "payment and/or DI"
+        },
+        {
+          "type": "text",
+          "text": "is cancelled &"
+        },
+        {
+          "type": "text",
+          "text": "revised entry is"
+        },
+        {
+          "type": "text",
+          "text": "made"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "Cheque"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service to"
+        },
+        {
+          "type": "text",
+          "text": "cancel the entry &"
+        },
+        {
+          "type": "text",
+          "text": "revised entry to be"
+        },
+        {
+          "type": "text",
+          "text": "made"
+        },
+        {
+          "type": "text",
+          "text": "Cheque"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service to"
+        },
+        {
+          "type": "text",
+          "text": "make payment"
+        },
+        {
+          "type": "text",
+          "text": "maker and send the"
+        },
+        {
+          "type": "text",
+          "text": "same to authorizer"
+        },
+        {
+          "type": "text",
+          "text": "for authentication"
+        },
+        {
+          "type": "text",
+          "text": "Authorizer authorizes"
+        },
+        {
+          "type": "text",
+          "text": "payment for cheque"
+        },
+        {
+          "type": "text",
+          "text": "and payment + DI for"
+        },
+        {
+          "type": "text",
+          "text": "EFT in core system and"
+        },
+        {
+          "type": "text",
+          "text": "confirms to maker in"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service"
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Post authorization, Branch"
+        },
+        {
+          "type": "text",
+          "text": "Service maker marks Send to"
+        },
+        {
+          "type": "text",
+          "text": "the Customer (STC) for NEFT"
+        },
+        {
+          "type": "text",
+          "text": "cases only and then puts"
+        },
+        {
+          "type": "text",
+          "text": "mail to connect online"
+        },
+        {
+          "type": "text",
+          "text": "authorizers and provide"
+        },
+        {
+          "type": "text",
+          "text": "supporting documents"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "st"
+        },
+        {
+          "type": "text",
+          "text": "authorizer to"
+        },
+        {
+          "type": "text",
+          "text": "verify payment"
+        },
+        {
+          "type": "text",
+          "text": "details from the"
+        },
+        {
+          "type": "text",
+          "text": "scanned docs and"
+        },
+        {
+          "type": "text",
+          "text": "authorize"
+        },
+        {
+          "type": "text",
+          "text": "Discrepancy"
+        },
+        {
+          "type": "text",
+          "text": "found"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "Discrepancies"
+        },
+        {
+          "type": "text",
+          "text": "shared with Branch"
+        },
+        {
+          "type": "text",
+          "text": "Service for"
+        },
+        {
+          "type": "text",
+          "text": "resolution. Post"
+        },
+        {
+          "type": "text",
+          "text": "resolution, COL shall"
+        },
+        {
+          "type": "text",
+          "text": "authorize"
+        },
+        {
+          "type": "text",
+          "text": "End"
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "nd"
+        },
+        {
+          "type": "text",
+          "text": "Authorizer"
+        },
+        {
+          "type": "text",
+          "text": "authorizes the"
+        },
+        {
+          "type": "text",
+          "text": "transaction"
+        },
+        {
+          "type": "text",
+          "text": "Discrepancy"
+        },
+        {
+          "type": "text",
+          "text": "found"
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "A"
+        },
+        {
+          "type": "text",
+          "text": "Discrepancies"
+        },
+        {
+          "type": "text",
+          "text": "shared with Branch"
+        },
+        {
+          "type": "text",
+          "text": "Service for"
+        },
+        {
+          "type": "text",
+          "text": "resolution. Post"
+        },
+        {
+          "type": "text",
+          "text": "resolution, COL shall"
+        },
+        {
+          "type": "text",
+          "text": "authorize"
+        },
+        {
+          "type": "text",
+          "text": "Yes"
+        },
+        {
+          "type": "text",
+          "text": "End"
+        },
+        {
+          "type": "text",
+          "text": "7.2"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Process: Payout"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 12 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Process:Payout"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service"
+        },
+        {
+          "type": "text",
+          "text": "A"
+        },
+        {
+          "type": "text",
+          "text": "Cheque"
+        },
+        {
+          "type": "text",
+          "text": "Confirmation mail sent to Branch"
+        },
+        {
+          "type": "text",
+          "text": "Service."
+        },
+        {
+          "type": "text",
+          "text": "Post Authorization, transaction"
+        },
+        {
+          "type": "text",
+          "text": "flows into bank portal for cheque"
+        },
+        {
+          "type": "text",
+          "text": "printing."
+        },
+        {
+          "type": "text",
+          "text": "Branch Service needs to allocate"
+        },
+        {
+          "type": "text",
+          "text": "inventory on the bank portal"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service needs to take"
+        },
+        {
+          "type": "text",
+          "text": "out the print of cheque from"
+        },
+        {
+          "type": "text",
+          "text": "PACE portal."
+        },
+        {
+          "type": "text",
+          "text": "Post printing the cheque,"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service will click on"
+        },
+        {
+          "type": "text",
+          "text": "Recon of cheque in Bank"
+        },
+        {
+          "type": "text",
+          "text": "portal."
+        },
+        {
+          "type": "text",
+          "text": "Branch Service to enter"
+        },
+        {
+          "type": "text",
+          "text": "details of printed cheque in"
+        },
+        {
+          "type": "text",
+          "text": "manual cheque inventory"
+        },
+        {
+          "type": "text",
+          "text": "register before handing over"
+        },
+        {
+          "type": "text",
+          "text": "the cheque as per SOP and"
+        },
+        {
+          "type": "text",
+          "text": "ensure acknowledgement is"
+        },
+        {
+          "type": "text",
+          "text": "received.."
+        },
+        {
+          "type": "text",
+          "text": "Post receipt of"
+        },
+        {
+          "type": "text",
+          "text": "acknowledgement,"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service"
+        },
+        {
+          "type": "text",
+          "text": "makes the DI maker"
+        },
+        {
+          "type": "text",
+          "text": "and forward to"
+        },
+        {
+          "type": "text",
+          "text": "AOM/ROM/SBranch"
+        },
+        {
+          "type": "text",
+          "text": "Service for"
+        },
+        {
+          "type": "text",
+          "text": "authorization."
+        },
+        {
+          "type": "text",
+          "text": "Authorizer"
+        },
+        {
+          "type": "text",
+          "text": "authorizes the"
+        },
+        {
+          "type": "text",
+          "text": "DI and informs"
+        },
+        {
+          "type": "text",
+          "text": "the Branch"
+        },
+        {
+          "type": "text",
+          "text": "Service."
+        },
+        {
+          "type": "text",
+          "text": "Branch Service"
+        },
+        {
+          "type": "text",
+          "text": "marks Send to"
+        },
+        {
+          "type": "text",
+          "text": "Customer(STC) in"
+        },
+        {
+          "type": "text",
+          "text": "core system post"
+        },
+        {
+          "type": "text",
+          "text": "checking or"
+        },
+        {
+          "type": "text",
+          "text": "entering the"
+        },
+        {
+          "type": "text",
+          "text": "cheque details."
+        },
+        {
+          "type": "text",
+          "text": "Loan is then"
+        },
+        {
+          "type": "text",
+          "text": "booked in system."
+        },
+        {
+          "type": "text",
+          "text": "END"
+        },
+        {
+          "type": "text",
+          "text": "IFT/NEFT/RTGS"
+        },
+        {
+          "type": "text",
+          "text": "Post authorization the UTR"
+        },
+        {
+          "type": "text",
+          "text": "No. gets auto updated in"
+        },
+        {
+          "type": "text",
+          "text": "system in case payment is"
+        },
+        {
+          "type": "text",
+          "text": "processed before bank cut-"
+        },
+        {
+          "type": "text",
+          "text": "off time."
+        },
+        {
+          "type": "text",
+          "text": "B"
+        },
+        {
+          "type": "text",
+          "text": "Demand Draft"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service to send the"
+        },
+        {
+          "type": "text",
+          "text": "scanned and attested DD"
+        },
+        {
+          "type": "text",
+          "text": "request letter to the"
+        },
+        {
+          "type": "text",
+          "text": "authorized person who will"
+        },
+        {
+          "type": "text",
+          "text": "send that DD request letter"
+        },
+        {
+          "type": "text",
+          "text": "from the authorized ID to"
+        },
+        {
+          "type": "text",
+          "text": "IndusInd Bank for printing"
+        },
+        {
+          "type": "text",
+          "text": "DD"
+        },
+        {
+          "type": "text",
+          "text": "Post Receipt of"
+        },
+        {
+          "type": "text",
+          "text": "DD Branch"
+        },
+        {
+          "type": "text",
+          "text": "Service to make"
+        },
+        {
+          "type": "text",
+          "text": "DI Maker"
+        },
+        {
+          "type": "text",
+          "text": "Authorizer will"
+        },
+        {
+          "type": "text",
+          "text": "then authorize DI"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service"
+        },
+        {
+          "type": "text",
+          "text": "marks Send to"
+        },
+        {
+          "type": "text",
+          "text": "Customer(STC)"
+        },
+        {
+          "type": "text",
+          "text": "with DD number."
+        },
+        {
+          "type": "text",
+          "text": "Loan is then"
+        },
+        {
+          "type": "text",
+          "text": "booked in system"
+        },
+        {
+          "type": "text",
+          "text": "In case it is processed post"
+        },
+        {
+          "type": "text",
+          "text": "bank cut-off time, recon team"
+        },
+        {
+          "type": "text",
+          "text": "checks the UTR details from"
+        },
+        {
+          "type": "text",
+          "text": "bank statement and updates"
+        },
+        {
+          "type": "text",
+          "text": "in core system."
+        },
+        {
+          "type": "text",
+          "text": "IndusInd bank prepares"
+        },
+        {
+          "type": "text",
+          "text": "DD which is To be"
+        },
+        {
+          "type": "text",
+          "text": "collected by authorised"
+        },
+        {
+          "type": "text",
+          "text": "personnel and handed"
+        },
+        {
+          "type": "text",
+          "text": "over to respective"
+        },
+        {
+          "type": "text",
+          "text": "Branch Service"
+        },
+        {
+          "type": "text",
+          "text": "8"
+        },
+        {
+          "type": "text",
+          "text": "SLA and Escalation Matrix - TBU"
+        },
+        {
+          "type": "text",
+          "text": "Sr."
+        },
+        {
+          "type": "text",
+          "text": "No"
+        },
+        {
+          "type": "text",
+          "text": "Activity"
+        },
+        {
+          "type": "text",
+          "text": "SLA"
+        },
+        {
+          "type": "text",
+          "text": "Responsibility"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "st"
+        },
+        {
+          "type": "text",
+          "text": "Escalation"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "nd"
+        },
+        {
+          "type": "text",
+          "text": "Escalation"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "Loan"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement"
+        },
+        {
+          "type": "text",
+          "text": "marked in Core"
+        },
+        {
+          "type": "text",
+          "text": "System"
+        },
+        {
+          "type": "text",
+          "text": "T"
+        },
+        {
+          "type": "text",
+          "text": "T= Date of receipt of"
+        },
+        {
+          "type": "text",
+          "text": "acknowledgement from"
+        },
+        {
+          "type": "text",
+          "text": "Customer/Builder/BT"
+        },
+        {
+          "type": "text",
+          "text": "Bank (Refer to UDD"
+        },
+        {
+          "type": "text",
+          "text": "process for details)"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "AOM/ ROM"
+        },
+        {
+          "type": "text",
+          "text": "Head –"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Ops"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "FTR Files Received"
+        },
+        {
+          "type": "text",
+          "text": "(Before 6 pm)"
+        },
+        {
+          "type": "text",
+          "text": "T"
+        },
+        {
+          "type": "text",
+          "text": "T=Date of receipt of File"
+        },
+        {
+          "type": "text",
+          "text": "Docket and Collateral at"
+        },
+        {
+          "type": "text",
+          "text": "Operations"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "AOM/ ROM"
+        },
+        {
+          "type": "text",
+          "text": "Head –"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Ops"
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "FTR Files Received"
+        },
+        {
+          "type": "text",
+          "text": "(After 6 PM)"
+        },
+        {
+          "type": "text",
+          "text": "T+1"
+        },
+        {
+          "type": "text",
+          "text": "T= Date of Receipt of File"
+        },
+        {
+          "type": "text",
+          "text": "Docket and Collateral at"
+        },
+        {
+          "type": "text",
+          "text": "Operations"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation"
+        },
+        {
+          "type": "text",
+          "text": "AOM/ ROM"
+        },
+        {
+          "type": "text",
+          "text": "Head –"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Ops"
+        },
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "DD Request"
+        },
+        {
+          "type": "text",
+          "text": "Same Day"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation, CPU"
+        },
+        {
+          "type": "text",
+          "text": "AOM/ ROM"
+        },
+        {
+          "type": "text",
+          "text": "Head –"
+        },
+        {
+          "type": "text",
+          "text": "Branch"
+        },
+        {
+          "type": "text",
+          "text": "Ops"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 13 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "breviations"
+        },
+        {
+          "type": "text",
+          "text": "Abbreviation"
+        },
+        {
+          "type": "text",
+          "text": "Meaning"
+        },
+        {
+          "type": "text",
+          "text": "ABHFL"
+        },
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "AOM"
+        },
+        {
+          "type": "text",
+          "text": "Area Operations Manager"
+        },
+        {
+          "type": "text",
+          "text": "CAM"
+        },
+        {
+          "type": "text",
+          "text": "Credit Appraisal Memo"
+        },
+        {
+          "type": "text",
+          "text": "CERSAI"
+        },
+        {
+          "type": "text",
+          "text": "Central Registry of Securitization Asset Reconstruction and Security Interest of"
+        },
+        {
+          "type": "text",
+          "text": "India"
+        },
+        {
+          "type": "text",
+          "text": "COI"
+        },
+        {
+          "type": "text",
+          "text": "Connect Online Portal IndusInd"
+        },
+        {
+          "type": "text",
+          "text": "CPU"
+        },
+        {
+          "type": "text",
+          "text": "Central Processing Unit"
+        },
+        {
+          "type": "text",
+          "text": "DD"
+        },
+        {
+          "type": "text",
+          "text": "Demand Draft"
+        },
+        {
+          "type": "text",
+          "text": "DM"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement Memo"
+        },
+        {
+          "type": "text",
+          "text": "DRF"
+        },
+        {
+          "type": "text",
+          "text": "Disbursal Request Form"
+        },
+        {
+          "type": "text",
+          "text": "FRFC"
+        },
+        {
+          "type": "text",
+          "text": "Fire resistant Filing Cabinet"
+        },
+        {
+          "type": "text",
+          "text": "FTNR"
+        },
+        {
+          "type": "text",
+          "text": "First Time Not Right"
+        },
+        {
+          "type": "text",
+          "text": "FTR"
+        },
+        {
+          "type": "text",
+          "text": "First Time Right"
+        },
+        {
+          "type": "text",
+          "text": "HOO"
+        },
+        {
+          "type": "text",
+          "text": "Head of Operations"
+        },
+        {
+          "type": "text",
+          "text": "IFT"
+        },
+        {
+          "type": "text",
+          "text": "Internal Fund Transfer"
+        },
+        {
+          "type": "text",
+          "text": "LAN"
+        },
+        {
+          "type": "text",
+          "text": "Loan Account Number"
+        },
+        {
+          "type": "text",
+          "text": "LMS"
+        },
+        {
+          "type": "text",
+          "text": "Loan Management System"
+        },
+        {
+          "type": "text",
+          "text": "LOD"
+        },
+        {
+          "type": "text",
+          "text": "List of Documents"
+        },
+        {
+          "type": "text",
+          "text": "LOS"
+        },
+        {
+          "type": "text",
+          "text": "Loan Origination System"
+        },
+        {
+          "type": "text",
+          "text": "LPP"
+        },
+        {
+          "type": "text",
+          "text": "Loan Processing Platform"
+        },
+        {
+          "type": "text",
+          "text": "NACH"
+        },
+        {
+          "type": "text",
+          "text": "National Automated Clearing House"
+        },
+        {
+          "type": "text",
+          "text": "NDC"
+        },
+        {
+          "type": "text",
+          "text": "Non-Discrepancy Check"
+        },
+        {
+          "type": "text",
+          "text": "NEFT"
+        },
+        {
+          "type": "text",
+          "text": "National Electronic Fund Transfer"
+        },
+        {
+          "type": "text",
+          "text": "PDD"
+        },
+        {
+          "type": "text",
+          "text": "Post Disbursal Documents"
+        },
+        {
+          "type": "text",
+          "text": "POP"
+        },
+        {
+          "type": "text",
+          "text": "Pre OTC PDD"
+        },
+        {
+          "type": "text",
+          "text": "QC"
+        },
+        {
+          "type": "text",
+          "text": "Quality Checks"
+        },
+        {
+          "type": "text",
+          "text": "RACI"
+        },
+        {
+          "type": "text",
+          "text": "Responsible, Accountable, Consulted, Informed"
+        },
+        {
+          "type": "text",
+          "text": "ROM"
+        },
+        {
+          "type": "text",
+          "text": "Regional Operations Manager"
+        },
+        {
+          "type": "text",
+          "text": "RTGS"
+        },
+        {
+          "type": "text",
+          "text": "Real Time Gross Settlement"
+        },
+        {
+          "type": "text",
+          "text": "SL"
+        },
+        {
+          "type": "text",
+          "text": "Sanction Letter"
+        },
+        {
+          "type": "text",
+          "text": "UTR"
+        },
+        {
+          "type": "text",
+          "text": "Unique Transaction Reference"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page13_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "items": [
+        {
+          "type": "text",
+          "text": "Quality System Documentation"
+        },
+        {
+          "type": "text",
+          "text": "HFC-OP-PD-XX"
+        },
+        {
+          "type": "text",
+          "text": "Document Version: XX"
+        },
+        {
+          "type": "text",
+          "text": "Release Date:"
+        },
+        {
+          "type": "text",
+          "text": "XX XXX XXXX"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Loan Disbursement Process"
+        },
+        {
+          "type": "text",
+          "text": "Page 14 of 14"
+        },
+        {
+          "type": "text",
+          "text": "©2023 Aditya Birla Housing Finance Limited                                    All rights reserved"
+        },
+        {
+          "type": "text",
+          "text": "For Internal Use Only"
+        },
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "Appendix"
+        },
+        {
+          "type": "text",
+          "text": "Sr. No."
+        },
+        {
+          "type": "text",
+          "text": "Document Name"
+        },
+        {
+          "type": "text",
+          "text": "Reference Document"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "Disbursement flow PPT (slide 105"
+        },
+        {
+          "type": "text",
+          "text": "onwards for Operations)"
+        },
+        {
+          "type": "text",
+          "text": "DISB PPT.pptx"
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "Insurance PF Capitalized Favoring"
+        },
+        {
+          "type": "text",
+          "text": "Insurance_PF_Capit"
+        },
+        {
+          "type": "text",
+          "text": "alized_Favouring_De"
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "Data movement from LOS to LMS Deal"
+        },
+        {
+          "type": "text",
+          "text": "& Loan level checklist for Branch"
+        },
+        {
+          "type": "text",
+          "text": "Operation (to be checked in A3S)"
+        },
+        {
+          "type": "text",
+          "text": "Customer and Deal"
+        },
+        {
+          "type": "text",
+          "text": "Data.xlsx"
+        },
+        {
+          "type": "text",
+          "text": "LOAN Data.xlsx"
+        },
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "Branch Operation Disbursement"
+        },
+        {
+          "type": "text",
+          "text": "checklist"
+        },
+        {
+          "type": "text",
+          "text": "Ops Checklist -"
+        },
+        {
+          "type": "text",
+          "text": "Jan'23 v1.0.pdf"
+        },
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "LMS Push Process"
+        },
+        {
+          "type": "text",
+          "text": "LMS Push"
+        },
+        {
+          "type": "text",
+          "text": "Process.pptx"
+        },
+        {
+          "type": "text",
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "CHEQUE HANDOVER PROCESS"
+        },
+        {
+          "type": "text",
+          "text": "CHEQUE"
+        },
+        {
+          "type": "text",
+          "text": "HANDOVER PROCES"
+        },
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Checklist for Branch Operation"
+        },
+        {
+          "type": "text",
+          "text": "(to be checked NDC & DI stage in"
+        },
+        {
+          "type": "text",
+          "text": "Finverse)"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Checklist"
+        },
+        {
+          "type": "text",
+          "text": "for Branch Operatio"
+        },
+        {
+          "type": "text",
+          "text": "-----------------------------------------End of Document-----------------------------------------"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Finverse_Disbursement_Process/images/page14_full.png"
+        }
+      ]
+    }
+  ]
+}

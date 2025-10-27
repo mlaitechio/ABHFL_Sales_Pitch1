@@ -1,0 +1,118 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual
+– Legal Evaluation
+/media/Legal/images/page1_full.png
+
+Please enter “Legal
+evaluation vendors”
+credentials here
+/media/Legal/images/page2_full.png
+
+Click Login
+/media/Legal/images/page3_full.png
+
+Details of all cases at various stages shall appear on the dashboard
+/media/Legal/images/page4_full.png
+
+Click “To be
+Assigned” tab
+/media/Legal/images/page5_full.png
+
+Click on the “assign”
+of the case
+/media/Legal/images/page6_full.png
+
+Case can be assigned
+to self or agent
+/media/Legal/images/page7_full.png
+
+Click to assign
+/media/Legal/images/page8_full.png
+
+Click on assigned cases
+/media/Legal/images/page9_full.png
+
+Click on the application number  of the case
+/media/Legal/images/page10_full.png
+
+Click on the application
+summary to view
+application details
+/media/Legal/images/page11_full.png
+
+Click on the Legal
+evaluation
+/media/Legal/images/page12_full.png
+
+Choose
+appropriate
+option
+/media/Legal/images/page13_full.png
+
+Enter observations
+/media/Legal/images/page14_full.png
+
+Choose
+appropriate
+option
+/media/Legal/images/page15_full.png
+
+Type of
+transaction can
+be chosen from
+the dropdown
+/media/Legal/images/page16_full.png
+
+More sellers can
+be added from
+here
+/media/Legal/images/page17_full.png
+
+Enter property
+owner name
+/media/Legal/images/page18_full.png
+
+Enter the “Revenue Record Type and number” in this field
+Property address details shall be entered here
+/media/Legal/images/page19_full.png
+
+Legal address details should be entered here
+/media/Legal/images/page20_full.png
+
+Documents required for creation of security shall be entered on this page
+/media/Legal/images/page21_full.png
+
+Enter Current title deeds details here
+/media/Legal/images/page22_full.png
+
+Enter Prior title deeds details here
+Enter Permissions and Approvals details here
+/media/Legal/images/page23_full.png
+
+Enter Other remarks, if any, enter here
+Perused documents details shall reflect here
+/media/Legal/images/page24_full.png
+
+Title flow remarks shall reflect here
+/media/Legal/images/page25_full.png
+
+Click on “Save” to
+save the data
+/media/Legal/images/page26_full.png
+
+Click on “Submit”
+/media/Legal/images/page27_full.png
+
+Once submitted. Case status shall now appear as verified. As legal evaluation is now complete.
+/media/Legal/images/page28_full.png
+
+Additionally Queries
+related to case can
+checked on this tab
+/media/Legal/images/page29_full.png
+
+And History shall appear in this tab
+/media/Legal/images/page30_full.png
+
+Thank you
+/media/Legal/images/page31_full.png

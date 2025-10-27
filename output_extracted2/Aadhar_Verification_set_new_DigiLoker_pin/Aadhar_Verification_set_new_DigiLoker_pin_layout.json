@@ -1,0 +1,173 @@
+{
+  "file": "abhflfinverseall\\Aadhar Verification(set new DigiLoker pin).pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Aadhar Verification"
+        },
+        {
+          "type": "text",
+          "text": "Finverse Application (Set new DigiLocker"
+        },
+        {
+          "type": "text",
+          "text": "security PIN)"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the customer Mobile Number,"
+        },
+        {
+          "type": "text",
+          "text": "DOB/PAN"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the OTP & Submit"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select To Do Option & Initiate Aadhar"
+        },
+        {
+          "type": "text",
+          "text": "Verification"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "DigiLocker Page Showed out"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Aadhar No. & Captcha then click next"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "Customer receives OTP from Aadhar Portal"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the Aadhar OTP then go over"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "Set customer DigiLocker security PIN"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "Create New Security Pin & Click  Continue"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "Wait for 30 Secs. Then Allow"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhar_Verification_set_new_DigiLoker_pin/images/page12_full.png"
+        }
+      ]
+    }
+  ]
+}

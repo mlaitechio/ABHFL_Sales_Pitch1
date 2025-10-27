@@ -1,0 +1,94 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual
+– Title Search Report
+/media/Title_Search_Report/images/page1_full.png
+
+Please enter “Title
+search report
+vendors” credentials
+here
+/media/Title_Search_Report/images/page2_full.png
+
+Click Login
+/media/Title_Search_Report/images/page3_full.png
+
+Details of all cases at various stages shall appear on the dashboard
+/media/Title_Search_Report/images/page4_full.png
+
+Click “To be
+assigned”
+/media/Title_Search_Report/images/page5_full.png
+
+Click on the “assign”
+of the case
+/media/Title_Search_Report/images/page6_full.png
+
+Case can be assigned
+to self or agent
+/media/Title_Search_Report/images/page7_full.png
+
+Click to assign
+/media/Title_Search_Report/images/page8_full.png
+
+Click on assigned cases
+/media/Title_Search_Report/images/page9_full.png
+
+Click on the application
+number  of the case
+/media/Title_Search_Report/images/page10_full.png
+
+Application Summary page shall open
+/media/Title_Search_Report/images/page11_full.png
+
+Click on “Legal
+Evaluation”
+/media/Title_Search_Report/images/page12_full.png
+
+Choose
+appropriate
+option
+/media/Title_Search_Report/images/page13_full.png
+
+Enter observations
+/media/Title_Search_Report/images/page14_full.png
+
+Choose
+appropriate
+option
+/media/Title_Search_Report/images/page15_full.png
+
+Property address details shall display here
+/media/Title_Search_Report/images/page16_full.png
+
+Legal address details can be entered here
+/media/Title_Search_Report/images/page17_full.png
+
+Transactions recorded details should be entered here
+/media/Title_Search_Report/images/page18_full.png
+
+Observation remarks to be added here
+Title flow remarks to be added here
+/media/Title_Search_Report/images/page19_full.png
+
+Opinion remarks to be added here
+/media/Title_Search_Report/images/page20_full.png
+
+Click on “Save” to
+save the data
+/media/Title_Search_Report/images/page21_full.png
+
+Click on “Submit”
+/media/Title_Search_Report/images/page22_full.png
+
+Once submitted, case status shall change to Verified as Title Search Verification is now complete
+/media/Title_Search_Report/images/page23_full.png
+
+Additionally, Queries
+related to case can
+checked on this tab
+/media/Title_Search_Report/images/page24_full.png
+
+Also, History of said case can be seen here
+/media/Title_Search_Report/images/page25_full.png
+
+/media/Title_Search_Report/images/page26_full.png

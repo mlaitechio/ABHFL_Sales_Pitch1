@@ -1,0 +1,223 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual –
+Pricing Journey.
+/media/Finverse_Pricing_Journey_User_Manual/images/page1_full.png
+
+Company Name
+2
+Login to - ​https://finverselos.adityabirlacapital.com/login/
+This training module covers the “Pricing Journey”.
+Steps as below:
+1.Log-in with your User ID and Password.
+2. Home page.
+3. Search case in Pipeline.
+4. Select case.
+5. Go to Pricing Module.
+6. Loan Details
+7. Proposal
+8. Approval
+9. Pricing Request.
+10. Go to Home and Refresh.
+11. Go to Pricing Request and there you can see Pricing
+initiated.
+.
+/media/Finverse_Pricing_Journey_User_Manual/images/page2_full.png
+
+Company Name
+3
+Enter your Log-in
+credentials here.
+/media/Finverse_Pricing_Journey_User_Manual/images/page3_full.png
+
+Company Name
+4
+In this Screen User  come to
+Home screen.
+/media/Finverse_Pricing_Journey_User_Manual/images/page4_full.png
+
+Company Name
+5
+Click  on Pipeline
+/media/Finverse_Pricing_Journey_User_Manual/images/page5_full.png
+
+Company Name
+6
+Click  on
+Underwriting in
+progress.
+/media/Finverse_Pricing_Journey_User_Manual/images/page6_full.png
+
+Company Name
+7
+After click on Underwriting in
+progress – cases w
+Select case..
+/media/Finverse_Pricing_Journey_User_Manual/images/page7_full.png
+
+Company Name
+8
+In this screen ,Case has been
+selected
+/media/Finverse_Pricing_Journey_User_Manual/images/page8_full.png
+
+Company Name
+9
+Click on Pricing
+screen.
+Select Pricing.
+Only Sales users will have access to edit
+details in pricing tab and others uses
+such as Underwriting/ops users will not
+/media/Finverse_Pricing_Journey_User_Manual/images/page9_full.png
+
+Company Name
+10
+Click on loan details.
+Pricing tab will become  active post
+Financial data entry stage and will remain
+active till DM Approval stage
+/media/Finverse_Pricing_Journey_User_Manual/images/page10_full.png
+
+Company Name
+11
+Click on dropdown and
+select valid option
+/media/Finverse_Pricing_Journey_User_Manual/images/page11_full.png
+
+Company Name
+12
+Select valid
+option
+/media/Finverse_Pricing_Journey_User_Manual/images/page12_full.png
+
+Company Name
+13
+Click on dropdown and
+select valid option
+/media/Finverse_Pricing_Journey_User_Manual/images/page13_full.png
+
+Company Name
+14
+Click on
+dropdown and
+select valid
+option
+/media/Finverse_Pricing_Journey_User_Manual/images/page14_full.png
+
+Company Name
+15
+Click on save and next to
+proceed
+Only RM and above will have
+access to raise a pricing request
+/media/Finverse_Pricing_Journey_User_Manual/images/page15_full.png
+
+Company Name
+16
+After save and next, screen will
+come to proposal.
+/media/Finverse_Pricing_Journey_User_Manual/images/page16_full.png
+
+Company Name
+17
+Enter Proposal rate.
+/media/Finverse_Pricing_Journey_User_Manual/images/page17_full.png
+
+Company Name
+18
+Enter Proposed rate.
+/media/Finverse_Pricing_Journey_User_Manual/images/page18_full.png
+
+Company Name
+19
+Enter RAAC rate.
+/media/Finverse_Pricing_Journey_User_Manual/images/page19_full.png
+
+Company Name
+20
+Upload Supporting
+document “if any”
+/media/Finverse_Pricing_Journey_User_Manual/images/page20_full.png
+
+Company Name
+21
+Enter comment.
+Enter Save & Next
+/media/Finverse_Pricing_Journey_User_Manual/images/page21_full.png
+
+Company Name
+22
+After, save and next, screen will
+come to approval.
+/media/Finverse_Pricing_Journey_User_Manual/images/page22_full.png
+
+Company Name
+23
+Click on Add
+/media/Finverse_Pricing_Journey_User_Manual/images/page23_full.png
+
+Company Name
+24
+Click name and search
+/media/Finverse_Pricing_Journey_User_Manual/images/page24_full.png
+
+Company Name
+25
+Search Approver
+/media/Finverse_Pricing_Journey_User_Manual/images/page25_full.png
+
+Company Name
+26
+Select BH.
+/media/Finverse_Pricing_Journey_User_Manual/images/page26_full.png
+
+Company Name
+27
+Approver added.
+Click on Submit
+Approving authority would be Circle Head or
+Business head depending on the difference
+in ROI and fees (norms specified in policy)
+/media/Finverse_Pricing_Journey_User_Manual/images/page27_full.png
+
+Company Name
+28
+Click on “YES”
+/media/Finverse_Pricing_Journey_User_Manual/images/page28_full.png
+
+Company Name
+29
+Click on close
+/media/Finverse_Pricing_Journey_User_Manual/images/page29_full.png
+
+Company Name
+30
+Click on drop down
+/media/Finverse_Pricing_Journey_User_Manual/images/page30_full.png
+
+Company Name
+31
+Pricing request initiated.
+Pricing request can be re-initiated in case
+of any changes, using the Re-initiate
+action button
+/media/Finverse_Pricing_Journey_User_Manual/images/page31_full.png
+
+Company Name
+32
+Go to home click on Pricing in
+progress.
+/media/Finverse_Pricing_Journey_User_Manual/images/page32_full.png
+
+Company Name
+33
+Once you select pricing in
+progress. Here you can see
+Case details which are
+initiated for pricing.
+/media/Finverse_Pricing_Journey_User_Manual/images/page33_full.png
+
+Company Name
+34
+Happy Learning
+/media/Finverse_Pricing_Journey_User_Manual/images/page34_full.png

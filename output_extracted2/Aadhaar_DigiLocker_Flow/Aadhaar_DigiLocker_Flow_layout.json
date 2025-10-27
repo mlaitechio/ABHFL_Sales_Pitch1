@@ -1,0 +1,274 @@
+{
+  "file": "abhflfinverseall\\Aadhaar_DigiLocker_Flow.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Sourcing stage>>>Additional Details Screen>Enter Mandatory Fields & Aadhar Number >Select Aadhar Verification"
+        },
+        {
+          "type": "text",
+          "text": "Type(DigiLocker or O-KYC) >Click on “Send Verification link” for DigiLocker or Click on “Initiate” for O-KYC."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "After"
+        },
+        {
+          "type": "text",
+          "text": "Clicking on Send Verification Link system display “Confirmation Pop-Up Message” > Click on OK"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "After Clicking on OK in the FINVERSE system Pop-up message, Customer will receive"
+        },
+        {
+          "type": "text",
+          "text": "the TML Link on Customer registered Email Id."
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "By clicking on link customer can access the TML Portal"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Enter Contact Number >Select Date of Birth/PAN >Enter Date of Birth/PAN > Click on Login"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Enter OTP received on customer registered mobile number > Click On Submit."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "“Select Application” Pop-Screen appears on the TML >Select the Application (E.g as shown in screenshot the"
+        },
+        {
+          "type": "text",
+          "text": "Application number and Name) >Click on Proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Under the TML >Click On “TO DO” > under Pending tab Aadhar Verification appears > Click on “Initiate”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "After Clicking on Initiate, System redirects to the DigiLocker >Enter Aadhar Number >Enter given Text/Captcha >"
+        },
+        {
+          "type": "text",
+          "text": "Click on “Next”."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Enter OTP > Click on “Continue”(OTP will come on Aadhar linked/registered Mobile number)"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Enter 6-digit DigiLocker Security PIN > Click on “Continue”."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Click on “Allow” (to proceed further)>>>If not > Click on “Deny”>>>If selected deny then it will redirect to the TML"
+        },
+        {
+          "type": "text",
+          "text": "Portal."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "After completion we can check in “To DO” under Completed Tab - Aadhaar verification display as completed with time"
+        },
+        {
+          "type": "text",
+          "text": "and date."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "After completion of DigiLocker Process Aadhar 1"
+        },
+        {
+          "type": "text",
+          "text": "st"
+        },
+        {
+          "type": "text",
+          "text": "8 digit reflects as Masked and Aadhar verification status as"
+        },
+        {
+          "type": "text",
+          "text": "success."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Aadhaar_DigiLocker_Flow/images/page13_full.png"
+        }
+      ]
+    }
+  ]
+}

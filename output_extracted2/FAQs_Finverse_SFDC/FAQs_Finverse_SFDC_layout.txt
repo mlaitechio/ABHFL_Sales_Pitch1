@@ -1,0 +1,365 @@
+New CRM | SFDC | FAQs
+Login Module:
+1.
+How can I login into my CRM?
+Ans.
+To access your CRM, follow the below steps:
+-
+Go to finverse.adityabirlacapital.com and select ABHFL on the landing page.
+-
+Enter your HF ID and code sent on your mobile number.
+-
+Now, you can see two applications hosted on the screen and you can click on Leads to access
+CRM and click on onboarding to access LOS application.
+-
+Once you click on leads, directly you will be able to access CRM. No need to login again.
+Lead Module:
+1.
+How can I create lead in the CRM?
+Ans.
+To create a new lead, follow the below steps:
+-
+Go to Lead module, click on “New” button on top right.
+-
+Fill the basic lead details in QDE form (QDE – Quick Data Entry)
+-
+Select the source and sub source, click on next.
+-
+Select RP/DSA code in case of distributor lead and click on “Save”.
+2.
+Do I need to create multiple CRM Lead IDs for top up for the same customer?
+Ans
+. If Lead has not been onboarded yet in LOS, another product can be added in the same deal during
+onboarding journey in LOS.
+3.
+Can I create 2 leads with same mobile number?
+Ans.
+If loan is not disbursed yet for a customer, another lead cannot be created with same mobile and
+same product.
+4.
+What source/sub source should I select to create a lead from RP/DSA?
+Ans.
+You need to select the following sourcing details to create a lead from RP/DSA
+Source Type
+External
+Source - Sub Source
+Distributor – RP (In case of RP Lead)
+Source - Sub Source
+Distributor – DSA (In case of DSA Lead)
+Channel Partner Code
+Search RP/DSA with name or code
+5.
+What source/sub source should I select to create a lead from Direct source?
+Ans.
+You need to select the following sourcing details to create a lead from Direct source:
+Source Type
+Internal
+Source - Sub Source
+Self Sourced – Open Market
+/media/FAQs_Finverse_SFDC/images/page1_full.png
+
+6.
+What source/sub source should I select to create a lead from alternate channel? E.g. Ruloans, magic bricks
+Ans.
+You need to select the following sourcing details to create a lead from RP/DSA
+Source Type
+External
+Source - Sub Source
+Alternate – RP (In case of RP Lead)
+Source - Sub Source
+Alternate – DSA (In case of DSA Lead)
+Channel Partner Code
+Search RP/DSA with name or code
+7.
+What source/sub source should I select to create a lead from Corp DSA? E.g. Andromeda, RKPL
+Ans.
+You need to select the following sourcing details to create a lead from Corp DSA
+Source Type
+External
+Source - Sub Source
+Distributor – Corp DSA)
+Channel Partner Code
+Search Corp DSA with name or code
+8.
+What if I have selected incorrect source while creating lead?
+Ans.
+If lead is not qualified yet, you can change the source and sub source, post lead qualification, sales
+governance approval will be required to change the source sub source.
+9.
+As a manger, how can I create a lead and assign it to one of my team members.
+Ans.
+To create a new lead from desktop, follow the below steps:
+-
+Go to Lead module, click on “New” button on top right.
+-
+Fill the basic lead details in QDE form (QDE – Quick Data Entry)
+-
+Select the source and sub source, click on next.
+-
+Select RP/DSA code in case of distributor lead and click on “Save”.
+-
+Once the lead is created, lead profile will be opened, click on “change lead owner” button on the
+top and search your team member’s name using HF ID or name and assign the lead to them.
+-
+Selected team member will get notified for lead assignment via Email, SMS, WhatsApp, and App
+notification.
+10.
+Can I directly qualify the lead just after creating the lead?
+Ans.
+No, Post lead creation it is mandatory to follow up with the customer over call or visit.
+11.
+Can I disqualify the lead if customer is not interested or not contactable?
+Ans.
+Yes, Post follow up you can disqualify the lead by selecting proper reason and sub reason from the
+drop-down list.
+12.
+Can I reopen disqualified lead?
+Ans.
+No, once lead is disqualified you cannot re open the lead, but you can create a new lead using the
+same details.
+13.
+How do I check if my lead has been successfully qualified to LOS for onboarding?
+Ans.
+Once you qualify the lead, you can see integration status in lead profile, if integration status is
+"success" that means lead has successfully moved to LOS and you can onboard the customer in LOS.
+14.
+What if lead integration status is showing "Failure"?
+Ans.
+You take a screenshot of the integration status and response and raise an IT ticket.
+15.
+Can I raise an IT ticket from the CRM itself?
+Ans.
+Yes, you can click on "Menu" option and raise an IT ticket from the "Tickets" option using your
+employee details and the screenshot for reference.
+/media/FAQs_Finverse_SFDC/images/page2_full.png
+
+16.
+As a manger, how can I create a lead and assign it to one of my team members.
+Ans.
+To create a new lead, follow the below steps:
+-
+Go to Lead module, click on “New” button on top right.
+-
+Fill the basic lead details in QDE form (QDE – Quick Data Entry)
+-
+Select the source and sub source, click on next.
+-
+Select RP/DSA code in case of distributor lead and click on “Save”.
+-
+Once the lead is created, lead profile will be opened, click on “change lead owner” button on the
+top and search your team member’s name using HF ID or name and assign the lead to them.
+-
+Selected team member will get notified for lead assignment via Email, SMS, WhatsApp, and App
+notification.
+17.
+Can I check deal status of my lead in the CRM?
+Ans
+. Yes, you can see the real time LOS status of your onboarded lead in the CRM itself by following the
+below steps:
+-
+Go to the “Lead” Module and Click on “All”
+-
+Open the lead for which you want to see the status from the lead list view.
+-
+You can see the current stage highlighted in blue in the middle of the screen.
+-
+For further details, click on “LOS Status”, here you can see the details like Sanction Date and time,
+sanction reject and reason, disbursed status, disbursed time and date, tranche details etc.
+Activity Module:
+1.
+How can I schedule a visit with a prospect customer lead Id?
+Ans.
+There are 2 ways you can schedule a visit with the prospect customer:
+- You can see the "More" button on top right of the lead profile --> In the list you can see "schedule a visit"
+option
+- You can go to the activity module and click on "All visits" and then you can see "New Visit" button on top left
+2.
+How do I create a distributor visit for file sourcing?
+Ans.
+To schedule a distributor visit, you need to follow below steps:
+-
+Go to the activity module and click on all activities.
+-
+Then click on “New Activity” button on top left of your mobile screen.
+-
+Select “visit” from Action Type dropdown then select “Distributor existing” from type dropdown.
+-
+Then select your purpose of visit from the dropdown.
+-
+Then search the distributor you want to schedule a visit with
+-
+Select Start and end date and time.
+-
+Search for the location of visit
+-
+Briefly describe the purpose of visit and click on save.
+-
+Now you can see this visit in your CRM calendar.
+3.
+As a manager, how can I create a visit and assign it to one of my team members?
+Ans.
+To schedule a distributor/prospect/builder visit from your desktop, you need to follow below steps:
+-
+Go to Activity Module, click on “New activity” on top right.
+-
+Select “visit” from Action Type dropdown then select “Distributor existing” from type dropdown.
+-
+Then select your purpose of visit from the dropdown.
+-
+Then search your team member in assign to field using HF id or their name.
+-
+Then search the distributor/Lead/APF builder you want to schedule a visit with
+-
+Select Start and end date and time.
+-
+Search for the location of visit
+/media/FAQs_Finverse_SFDC/images/page3_full.png
+
+-
+Briefly describe the purpose of visit and click on save.
+-
+Now they can see this visit in their CRM calendar, they will also get a notification via email.
+You can also schedule a visit via mobile application using the steps mentioned in the above FAQ.
+4.
+Will the CRM remind me about my visit?
+Ans.
+Yes, CRM will remind you a day before your visit via SMS, WhatsApp, Email and App notification. CRM
+will also send a visit reminder email to the prospect customer/distributor/builder.
+5.
+How can I mark my visit as completed?
+Ans.
+To complete a visit, follow the below steps:
+-
+Go to Activity Module, select your visit that you want to mark complete
+.
+-
+Click on “check in” button on the top center of the screen once you are at the visit location.
+-
+Once your visit is over, click on “check out” button on the top and capture the selfie for your visit
+and click on next to complete the visit.
+6.
+How can I reschedule my visit?
+Ans.
+To complete a visit, follow the below steps:
+-
+Go to Activity Module, select your visit that you want to reschedule
+.
+-
+Click on “reschedule” button on the top left of the screen.
+-
+Change the start and end date/time to the rescheduled date and time of the visit.
+-
+Change the location if required and click save.
+7.
+Can I cancel my visit?
+Ans.
+Yes, you can cancel your visit by clicking on “cancel visit” on the top right of the visit profile.
+-
+Go to Activity Module, select your visit that you want to cancel
+.
+-
+Click on “cancel” button on the top right of the screen.
+-
+Select the reason for cancellation and click save.
+8.
+As a team huddle SPOC, how can I schedule a team huddle?
+Ans.
+To schedule a team huddle, you need to follow below steps:
+-
+Go to the activity module and click on all activities.
+-
+Then click on “New Activity” button on top left of your mobile screen.
+-
+Select “Event” from Action Type dropdown then select “Branch activity” from type dropdown.
+-
+Select “Team Huddle” from event type dropdown.
+-
+Then select your branch in Branch field.
+-
+Select Start and end date and time.
+-
+Search for the location of visit
+-
+Briefly describe the agenda of team huddle and click on save.
+-
+Now you can see this team huddle in your CRM calendar.
+9.
+Where can I see my upcoming visits and pending tasks?
+Ans.
+You can scroll your home page to see your upcoming visits with Start date and time and upcoming
+tasks with due date. You can navigate to any visit and task by simply clicking on it.
+Dashboard Module:
+1.
+Where can I see my MTD total disbursement in the CRM?
+Ans.
+To see your disbursement amount, click on Dashboard Module
+-
+Select “Leads” dashboard from the list.
+/media/FAQs_Finverse_SFDC/images/page4_full.png
+
+-
+Here you can see your disbursement amount for the month in Crs.
+2.
+Where can I see my MTD total disbursed files in the CRM?
+Ans.
+To see your disbursement amount, click on Dashboard Module
+-
+Select “Leads” dashboard from the list.
+-
+Here you can see your total disbursed files for the month in Crs under “New Customer” header.
+3.
+As a manager where can I see total MTD disbursed files and disbursed amount by my team?
+Ans.
+To see total MTD disbursement amount and files by your team, click on Dashboard Module
+-
+Select “Leads” dashboard from the list.
+-
+Here you can see your total disbursed files and disbursement amount for the month in Crs.
+-
+You can also access these data cards on your “Home” page your CRM on desktop.
+4.
+As a manager where can I see overall status of leads created by my team?
+Ans.
+To see status of overall lead funnel created by your team, click on Dashboard Module
+-
+Select “Leads” dashboard from the list.
+-
+Refer to the Lead funnel chart for overall lead status.
+-
+Hover over the different colors to see the exact count of a particular lead stage and its
+percentage contribution in total leads.
+-
+You can also access this lead funnel chart on your “Home” page your CRM on desktop.
+5.
+Where can I see my overall lead TAT?
+Ans.
+To see status of overall lead TAT, click on Dashboard Module
+-
+Select “Leads” dashboard from the list.
+-
+Scroll to “TAT (Overall)” data card which shows overall Avg TAT of the leads created by you.
+-
+“Overall” TAT covers time taken from Lead creation to Lead Disbursed/Disqualified/Rejected.
+6.
+As a manager where can I see overall lead TAT for the leads created by my team?
+Ans.
+To see status of overall lead TAT, click on Dashboard Module
+-
+Select “Leads” dashboard from the list.
+-
+Scroll to “TAT (Overall)” data card which shows overall Avg TAT of the leads created by you and
+your team.
+-
+“Overall TAT” covers time taken from Lead creation to Lead Disbursed/Disqualified/Rejected.
+7.
+Where can I see my product wise disbursement?
+Ans.
+To see status of overall lead TAT, click on Dashboard Module
+-
+Select “Leads” dashboard from the list.
+-
+Scroll to “Product Split” chart which shows product split of total disbursement.
+-
+You can hover over different colors in the chart to see the exact contribution of a product in crs
+and percentage contribution of a product in total disbursement.
+/media/FAQs_Finverse_SFDC/images/page5_full.png

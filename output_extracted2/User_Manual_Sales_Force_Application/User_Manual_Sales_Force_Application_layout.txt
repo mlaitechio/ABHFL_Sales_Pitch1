@@ -1,0 +1,75 @@
+User manual of Sales Force Application
+•
+login:
+User will use the below mention link to login in the application using the user AD ID
+and password.
+Link:
+https://adityabirlahousing.lightning.force.com/
+•
+Home Dashboard
+: On successful login user will be able to see the below mention dashboard
+which provide the details status of application of Sales Force application.
+•
+Leads (New)
+: User can click on Leads and then on “New” option. Once user click on “New”
+then below mention screens will be visible.
+/media/User_Manual_Sales_Force_Application/images/page1_full.png
+
+•
+General Information: -
+User needs to Fill the all General information mentioned in
+the below form.
+/media/User_Manual_Sales_Force_Application/images/page2_full.png
+
+•
+Once the “New lead” created successfully below pop-up message comes up with generated
+SF id.
+•
+Unattended stage :-
+After clicking on Finish Button below screen opens with Lead stage as
+“unattende”
+/media/User_Manual_Sales_Force_Application/images/page3_full.png
+
+•
+Edit Details :-
+If user want to edit already filled Genral information user can click on “Edit
+“button.
+/media/User_Manual_Sales_Force_Application/images/page4_full.png
+
+•
+Additional Details :-
+User need to click on Edit additional details and need to fill all the
+necessary details in additional details.
+/media/User_Manual_Sales_Force_Application/images/page5_full.png
+
+•
+Update Lead stage :-
+To update the lead stage user need to click on ‘Update lead stage’ and
+update the lead stage.
+/media/User_Manual_Sales_Force_Application/images/page6_full.png
+
+•
+Follow Up :-
+After entring all the mandatory details in additional details user need to update
+lead stage to Follow Up
+/media/User_Manual_Sales_Force_Application/images/page7_full.png
+
+•
+Visit Shedule :-
+Before qualifying lead user need to shedule visit.
+/media/User_Manual_Sales_Force_Application/images/page8_full.png
+
+•
+Document Checklist :-
+User need to check all the documents before qualifying lead.
+•
+Qualified: -
+To send lead to next stage user need to update lead stage as Qualified hence
+lead will be pushed to loan application
+/media/User_Manual_Sales_Force_Application/images/page9_full.png
+
+•
+Lead is reflected in Qualified stage
+/media/User_Manual_Sales_Force_Application/images/page10_full.png
+
+/media/User_Manual_Sales_Force_Application/images/page11_full.png

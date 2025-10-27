@@ -1,0 +1,4289 @@
+{
+  "file": "abhflfinverseall\\Underwriting.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "Finverse User Manual"
+        },
+        {
+          "type": "text",
+          "text": "– Underwriting"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "Please enter"
+        },
+        {
+          "type": "text",
+          "text": "“Underwritee”"
+        },
+        {
+          "type": "text",
+          "text": "credentials"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click Login"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "Details of all cases at various stages shall appear on the dashboard"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click “Sanction-"
+        },
+        {
+          "type": "text",
+          "text": "In progress”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on the application"
+        },
+        {
+          "type": "text",
+          "text": "number  of the case"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Application Summary page shall open"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click here to enter"
+        },
+        {
+          "type": "text",
+          "text": "basic details of"
+        },
+        {
+          "type": "text",
+          "text": "applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter basic details of applicant on this screen"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter PAN number"
+        },
+        {
+          "type": "text",
+          "text": "of applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "Name is auto"
+        },
+        {
+          "type": "text",
+          "text": "populated based"
+        },
+        {
+          "type": "text",
+          "text": "on PAN no."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select profession"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter membership"
+        },
+        {
+          "type": "text",
+          "text": "number"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page13_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select type of entity"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page14_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter date of"
+        },
+        {
+          "type": "text",
+          "text": "incorporation"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page15_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select nature of"
+        },
+        {
+          "type": "text",
+          "text": "business from"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page16_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter business"
+        },
+        {
+          "type": "text",
+          "text": "vintage here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page17_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select relevant"
+        },
+        {
+          "type": "text",
+          "text": "caution profile option"
+        },
+        {
+          "type": "text",
+          "text": "from radio button"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page18_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select property"
+        },
+        {
+          "type": "text",
+          "text": "owner option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page19_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter work location details of applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page20_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter pincode and State,"
+        },
+        {
+          "type": "text",
+          "text": "city and district is auto"
+        },
+        {
+          "type": "text",
+          "text": "populated"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page21_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select locality"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page22_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter street and"
+        },
+        {
+          "type": "text",
+          "text": "building name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page23_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter flat no"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page24_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "items": [
+        {
+          "type": "text",
+          "text": "Communication details are auto populated"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page25_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select preferred"
+        },
+        {
+          "type": "text",
+          "text": "language from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page26_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select options for"
+        },
+        {
+          "type": "text",
+          "text": "data sharing"
+        },
+        {
+          "type": "text",
+          "text": "consent"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page27_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "items": [
+        {
+          "type": "text",
+          "text": "User can also add"
+        },
+        {
+          "type": "text",
+          "text": "phone/email id"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page28_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save to"
+        },
+        {
+          "type": "text",
+          "text": "continue"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page29_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save &"
+        },
+        {
+          "type": "text",
+          "text": "next to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page30_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 31,
+      "items": [
+        {
+          "type": "text",
+          "text": "Successful message appears on the screen"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page31_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 32,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter basic details of co-applicant here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page32_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 33,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter PAN no."
+        },
+        {
+          "type": "text",
+          "text": "of co-applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page33_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 34,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select type of"
+        },
+        {
+          "type": "text",
+          "text": "entity from"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page34_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 35,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter date of"
+        },
+        {
+          "type": "text",
+          "text": "incorporation"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page35_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 36,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select nature of"
+        },
+        {
+          "type": "text",
+          "text": "business from"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page36_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 37,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select relevant"
+        },
+        {
+          "type": "text",
+          "text": "option from"
+        },
+        {
+          "type": "text",
+          "text": "radio buttons"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page37_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 38,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select relevant"
+        },
+        {
+          "type": "text",
+          "text": "option from"
+        },
+        {
+          "type": "text",
+          "text": "radio buttons"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page38_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 39,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter work location of co-applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page39_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 40,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter office"
+        },
+        {
+          "type": "text",
+          "text": "address pincode"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page40_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 41,
+      "items": [
+        {
+          "type": "text",
+          "text": "“State”, ‘city” and “district “are auto populated after entering pincode"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page41_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 42,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select locality"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page42_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 43,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Street and"
+        },
+        {
+          "type": "text",
+          "text": "building number"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page43_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 44,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Flat/floor"
+        },
+        {
+          "type": "text",
+          "text": "number"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page44_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 45,
+      "items": [
+        {
+          "type": "text",
+          "text": "Customer communication details auto populate"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page45_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 46,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "communication"
+        },
+        {
+          "type": "text",
+          "text": "type from"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page46_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 47,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select the option"
+        },
+        {
+          "type": "text",
+          "text": "to provide consent"
+        },
+        {
+          "type": "text",
+          "text": "for data sharing"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page47_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 48,
+      "items": [
+        {
+          "type": "text",
+          "text": "More communication"
+        },
+        {
+          "type": "text",
+          "text": "details can be added"
+        },
+        {
+          "type": "text",
+          "text": "from here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page48_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 49,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save to"
+        },
+        {
+          "type": "text",
+          "text": "continue"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page49_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 50,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save &"
+        },
+        {
+          "type": "text",
+          "text": "next to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page50_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 51,
+      "items": [
+        {
+          "type": "text",
+          "text": "Successful message appears on the screen"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page51_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 52,
+      "items": [
+        {
+          "type": "text",
+          "text": "Verify KYC details of applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page52_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 53,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on the"
+        },
+        {
+          "type": "text",
+          "text": "dropdown to"
+        },
+        {
+          "type": "text",
+          "text": "check details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page53_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 54,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save"
+        },
+        {
+          "type": "text",
+          "text": "to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page54_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 55,
+      "items": [
+        {
+          "type": "text",
+          "text": "Verify KYC details of co-applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page55_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 56,
+      "items": [
+        {
+          "type": "text",
+          "text": "User can edit the KYC details here if any changes needed"
+        },
+        {
+          "type": "text",
+          "text": "Click on the"
+        },
+        {
+          "type": "text",
+          "text": "dropdown to"
+        },
+        {
+          "type": "text",
+          "text": "check details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page56_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 57,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save"
+        },
+        {
+          "type": "text",
+          "text": "to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page57_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 58,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on NIC Code"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page58_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 59,
+      "items": [
+        {
+          "type": "text",
+          "text": "Type the industry name and"
+        },
+        {
+          "type": "text",
+          "text": "choose the appropriate option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page59_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 60,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "“Proceed”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page60_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 61,
+      "items": [
+        {
+          "type": "text",
+          "text": "Relevant NIC Code"
+        },
+        {
+          "type": "text",
+          "text": "will populate here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page61_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 62,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page62_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 63,
+      "items": [
+        {
+          "type": "text",
+          "text": "Details of Income from business and"
+        },
+        {
+          "type": "text",
+          "text": "profession shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page63_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 64,
+      "items": [
+        {
+          "type": "text",
+          "text": "Additional Income can be"
+        },
+        {
+          "type": "text",
+          "text": "added or deleted from here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page64_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 65,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Income Sub Type”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page65_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 66,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the amount"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page66_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 67,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter amount for latest year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page67_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 68,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter amount for"
+        },
+        {
+          "type": "text",
+          "text": "previous year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page68_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 69,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose for which year the income is"
+        },
+        {
+          "type": "text",
+          "text": "considered from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page69_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 70,
+      "items": [
+        {
+          "type": "text",
+          "text": "Eligibility shall be"
+        },
+        {
+          "type": "text",
+          "text": "populated accordingly"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page70_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 71,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details of the Income tax paid by the applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page71_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 72,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Income Sub Type”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page72_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 73,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the source"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page73_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 74,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter amount for latest year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page74_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 75,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter amount for"
+        },
+        {
+          "type": "text",
+          "text": "previous year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page75_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 76,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose for which year the income is"
+        },
+        {
+          "type": "text",
+          "text": "considered from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page76_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 77,
+      "items": [
+        {
+          "type": "text",
+          "text": "Eligibility shall be"
+        },
+        {
+          "type": "text",
+          "text": "populated accordingly"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page77_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 78,
+      "items": [
+        {
+          "type": "text",
+          "text": "More details can"
+        },
+        {
+          "type": "text",
+          "text": "be added here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page78_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 79,
+      "items": [
+        {
+          "type": "text",
+          "text": "More incomes"
+        },
+        {
+          "type": "text",
+          "text": "can be added"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page79_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 80,
+      "items": [
+        {
+          "type": "text",
+          "text": "Total of the Income"
+        },
+        {
+          "type": "text",
+          "text": "details entered shall"
+        },
+        {
+          "type": "text",
+          "text": "appear here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page80_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 81,
+      "items": [
+        {
+          "type": "text",
+          "text": "GPR details shall appear here and can be edited, as applicable"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page81_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 82,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save” to"
+        },
+        {
+          "type": "text",
+          "text": "save the data"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page82_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 83,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “save & Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page83_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 84,
+      "items": [
+        {
+          "type": "text",
+          "text": "Request status shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page84_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 85,
+      "items": [
+        {
+          "type": "text",
+          "text": "Now we enter Income"
+        },
+        {
+          "type": "text",
+          "text": "details of the co-applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page85_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 86,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on NIC Code"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page86_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 87,
+      "items": [
+        {
+          "type": "text",
+          "text": "Type the industry name and"
+        },
+        {
+          "type": "text",
+          "text": "choose the appropriate option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page87_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 88,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "“Proceed”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page88_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 89,
+      "items": [
+        {
+          "type": "text",
+          "text": "Relevant NIC Code"
+        },
+        {
+          "type": "text",
+          "text": "will populate here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page89_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 90,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page90_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 91,
+      "items": [
+        {
+          "type": "text",
+          "text": "Details of Income from business and profession shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page91_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 92,
+      "items": [
+        {
+          "type": "text",
+          "text": "Additional Income can be"
+        },
+        {
+          "type": "text",
+          "text": "added or deleted from here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page92_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 93,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Income Sub Type”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page93_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 94,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the source"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page94_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 95,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter amount for latest year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page95_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 96,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter amount for"
+        },
+        {
+          "type": "text",
+          "text": "previous year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page96_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 97,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose for which year the income is"
+        },
+        {
+          "type": "text",
+          "text": "considered from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page97_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 98,
+      "items": [
+        {
+          "type": "text",
+          "text": "Eligibility shall be"
+        },
+        {
+          "type": "text",
+          "text": "populated accordingly"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page98_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 99,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose “Income Sub Type”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page99_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 100,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the source"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page100_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 101,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter amount for latest year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page101_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 102,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter amount for"
+        },
+        {
+          "type": "text",
+          "text": "previous year"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page102_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 103,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose for which year the income is"
+        },
+        {
+          "type": "text",
+          "text": "considered from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page103_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 104,
+      "items": [
+        {
+          "type": "text",
+          "text": "Eligibility shall be"
+        },
+        {
+          "type": "text",
+          "text": "populated accordingly"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page104_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 105,
+      "items": [
+        {
+          "type": "text",
+          "text": "More details can"
+        },
+        {
+          "type": "text",
+          "text": "be added here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page105_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 106,
+      "items": [
+        {
+          "type": "text",
+          "text": "More incomes"
+        },
+        {
+          "type": "text",
+          "text": "can be added"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page106_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 107,
+      "items": [
+        {
+          "type": "text",
+          "text": "Total of the Income"
+        },
+        {
+          "type": "text",
+          "text": "details entered shall"
+        },
+        {
+          "type": "text",
+          "text": "appear here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page107_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 108,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save” to"
+        },
+        {
+          "type": "text",
+          "text": "save the data"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page108_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 109,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save & Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page109_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 110,
+      "items": [
+        {
+          "type": "text",
+          "text": "Request status shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page110_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 111,
+      "items": [
+        {
+          "type": "text",
+          "text": "This page displays the Additional Financial Details of the applicant, if any"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page111_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 112,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page112_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 113,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click to add “List"
+        },
+        {
+          "type": "text",
+          "text": "of Signatories”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page113_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 114,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once selected on “List of Signatories” the below mentioned fields will have to be entered"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page114_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 115,
+      "items": [
+        {
+          "type": "text",
+          "text": "Save or Cancel as the case may be to"
+        },
+        {
+          "type": "text",
+          "text": "move on to Open Charges section"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page115_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 116,
+      "items": [
+        {
+          "type": "text",
+          "text": "Open Charges can be"
+        },
+        {
+          "type": "text",
+          "text": "added by clicking on"
+        },
+        {
+          "type": "text",
+          "text": "Add More Option"
+        },
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page116_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 117,
+      "items": [
+        {
+          "type": "text",
+          "text": "Business reference data will be displayed here"
+        },
+        {
+          "type": "text",
+          "text": "More data can"
+        },
+        {
+          "type": "text",
+          "text": "be added from"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page117_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 118,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save & Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page118_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 119,
+      "items": [
+        {
+          "type": "text",
+          "text": "Now we will enter the Additional Financial Details of the Co-applicant, if any"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page119_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 120,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page120_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 121,
+      "items": [
+        {
+          "type": "text",
+          "text": "More data can"
+        },
+        {
+          "type": "text",
+          "text": "be added from"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page121_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 122,
+      "items": [
+        {
+          "type": "text",
+          "text": "Business reference data will be displayed here"
+        },
+        {
+          "type": "text",
+          "text": "More data can"
+        },
+        {
+          "type": "text",
+          "text": "be added from"
+        },
+        {
+          "type": "text",
+          "text": "here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page122_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 123,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save & Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page123_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 124,
+      "items": [
+        {
+          "type": "text",
+          "text": "Ratio Analysis based on Profit and Loss shall be captured here"
+        },
+        {
+          "type": "text",
+          "text": "We are doing it"
+        },
+        {
+          "type": "text",
+          "text": "for the main"
+        },
+        {
+          "type": "text",
+          "text": "applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page124_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 125,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page125_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 126,
+      "items": [
+        {
+          "type": "text",
+          "text": "Ratio sheet can also be"
+        },
+        {
+          "type": "text",
+          "text": "uploaded if available"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page126_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 127,
+      "items": [
+        {
+          "type": "text",
+          "text": "Income details to"
+        },
+        {
+          "type": "text",
+          "text": "be filled here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page127_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 128,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Income as per Financials"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page128_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 129,
+      "items": [
+        {
+          "type": "text",
+          "text": "Similarly enter Expense data"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page129_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 130,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the Liabilities as per Balance Sheet"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page130_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 131,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Assets details as per Balance Sheet"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page131_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 132,
+      "items": [
+        {
+          "type": "text",
+          "text": "Financial ratios will be calculated accordingly"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page132_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 133,
+      "items": [
+        {
+          "type": "text",
+          "text": "Cash Flow statement will be made accordingly"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page133_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 134,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once Cash Flow Statement is Saved, success message shall appear"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page134_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 135,
+      "items": [
+        {
+          "type": "text",
+          "text": "Similarly a statement can be"
+        },
+        {
+          "type": "text",
+          "text": "made for co-applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page135_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 136,
+      "items": [
+        {
+          "type": "text",
+          "text": "If not required, choose"
+        },
+        {
+          "type": "text",
+          "text": "“Not required” here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page136_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 137,
+      "items": [
+        {
+          "type": "text",
+          "text": "Confirmation will be"
+        },
+        {
+          "type": "text",
+          "text": "asked, choose “yes”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page137_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 138,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save &Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page138_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 139,
+      "items": [
+        {
+          "type": "text",
+          "text": "A consolidated statement shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page139_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 140,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save &Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page140_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 141,
+      "items": [
+        {
+          "type": "text",
+          "text": "Return back to the Application Summary page"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page141_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 142,
+      "items": [
+        {
+          "type": "text",
+          "text": "Here we can see the stages of application and its progress"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page142_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 143,
+      "items": [
+        {
+          "type": "text",
+          "text": "Application can be sent back to “Demog Data Entry” or “Financial Data Entry”, if required"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page143_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 144,
+      "items": [
+        {
+          "type": "text",
+          "text": "Loan application can also be"
+        },
+        {
+          "type": "text",
+          "text": "withdrawed by clicking here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page144_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 145,
+      "items": [
+        {
+          "type": "text",
+          "text": "Scroll down and Click on"
+        },
+        {
+          "type": "text",
+          "text": "“Regulatory Details”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page145_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 146,
+      "items": [
+        {
+          "type": "text",
+          "text": "Regulatory details of the application shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page146_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 147,
+      "items": [
+        {
+          "type": "text",
+          "text": "Primary application details to be filled here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page147_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 148,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select the “End usage of"
+        },
+        {
+          "type": "text",
+          "text": "funds:” from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page148_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 149,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page149_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 150,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “PSL Code”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page150_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 151,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page151_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 152,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page152_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 153,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the number of"
+        },
+        {
+          "type": "text",
+          "text": "residential properties"
+        },
+        {
+          "type": "text",
+          "text": "owned including the"
+        },
+        {
+          "type": "text",
+          "text": "applied loan"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page153_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 154,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page154_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 155,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “Risk"
+        },
+        {
+          "type": "text",
+          "text": "Category”"
+        },
+        {
+          "type": "text",
+          "text": "from the"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page155_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 156,
+      "items": [
+        {
+          "type": "text",
+          "text": "Relevant"
+        },
+        {
+          "type": "text",
+          "text": "renewal date"
+        },
+        {
+          "type": "text",
+          "text": "will be shown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page156_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 157,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "“Save” to save"
+        },
+        {
+          "type": "text",
+          "text": "the data"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page157_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 158,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save"
+        },
+        {
+          "type": "text",
+          "text": "& Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page158_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 159,
+      "items": [
+        {
+          "type": "text",
+          "text": "Request process status shall appear here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page159_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 160,
+      "items": [
+        {
+          "type": "text",
+          "text": "Scroll down and Click on"
+        },
+        {
+          "type": "text",
+          "text": "“Underwriting Checklist”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page160_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 161,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click Options from Radio Buttons as applicable"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page161_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 162,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page162_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 163,
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the checklist"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page163_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 164,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page164_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 165,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “save"
+        },
+        {
+          "type": "text",
+          "text": "“ to save the"
+        },
+        {
+          "type": "text",
+          "text": "checklist data"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page165_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 166,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Save"
+        },
+        {
+          "type": "text",
+          "text": "& Next”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page166_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 167,
+      "items": [
+        {
+          "type": "text",
+          "text": "Now we proceed to the CAM/underwriting summary,"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page167_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 168,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once clicked on CAM Summary, we are directed to this page. Loan application summary is displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page168_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 169,
+      "items": [
+        {
+          "type": "text",
+          "text": "Applicant details summary shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page169_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 170,
+      "items": [
+        {
+          "type": "text",
+          "text": "Background details summary will be displayed here"
+        },
+        {
+          "type": "text",
+          "text": "Primary application details summary will be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page170_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 171,
+      "items": [
+        {
+          "type": "text",
+          "text": "Exposure details summary will be displayed here"
+        },
+        {
+          "type": "text",
+          "text": "Eligibility parameter details will be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page171_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 172,
+      "items": [
+        {
+          "type": "text",
+          "text": "Ratios summary will be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page172_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 173,
+      "items": [
+        {
+          "type": "text",
+          "text": "Salary Credit summary will be displayed here"
+        },
+        {
+          "type": "text",
+          "text": "Asset details summary will be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page173_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 174,
+      "items": [
+        {
+          "type": "text",
+          "text": "Banking details summary will be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page174_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 175,
+      "items": [
+        {
+          "type": "text",
+          "text": "Property Verification details summary will be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page175_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 176,
+      "items": [
+        {
+          "type": "text",
+          "text": "Verification details summary will be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page176_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 177,
+      "items": [
+        {
+          "type": "text",
+          "text": "Non-Financial Attributes shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page177_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 178,
+      "items": [
+        {
+          "type": "text",
+          "text": "System driven NFA to be triggered"
+        },
+        {
+          "type": "text",
+          "text": "using “Re-trigger BRE” option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page178_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 179,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once triggered, system driven NFA"
+        },
+        {
+          "type": "text",
+          "text": "shall reflect here along with approval"
+        },
+        {
+          "type": "text",
+          "text": "authority levels"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page179_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 180,
+      "items": [
+        {
+          "type": "text",
+          "text": "Additional NFA, if any, can be entered"
+        },
+        {
+          "type": "text",
+          "text": "manually by clicking “Add NFA”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page180_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 181,
+      "items": [
+        {
+          "type": "text",
+          "text": "NFA description to be entered here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page181_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 182,
+      "items": [
+        {
+          "type": "text",
+          "text": "Basis the description, list of NFA"
+        },
+        {
+          "type": "text",
+          "text": "documents shall reflect here, choose"
+        },
+        {
+          "type": "text",
+          "text": "the NFA description as applicable"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page182_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 183,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once reflected, relevant approving"
+        },
+        {
+          "type": "text",
+          "text": "authority shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page183_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 184,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add relevant remarks, if any"
+        },
+        {
+          "type": "text",
+          "text": "Click on “Save”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page184_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 185,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once saved, all system driven NFAs and"
+        },
+        {
+          "type": "text",
+          "text": "manually entered NFAs shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page185_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 186,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Mitigants, if any"
+        },
+        {
+          "type": "text",
+          "text": "Click “Save Mitigants”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page186_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 187,
+      "items": [
+        {
+          "type": "text",
+          "text": "Sanction conditions shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page187_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 188,
+      "items": [
+        {
+          "type": "text",
+          "text": "Additional sanction conditions, if"
+        },
+        {
+          "type": "text",
+          "text": "any, can be added from here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page188_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 189,
+      "items": [
+        {
+          "type": "text",
+          "text": "Approval Flow data shall be entered here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page189_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 190,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose the “type of authority” as applicable from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page190_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 191,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose the relevant designation"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page191_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 192,
+      "items": [
+        {
+          "type": "text",
+          "text": "Relevant approver shall populate"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page192_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 193,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose the relevant"
+        },
+        {
+          "type": "text",
+          "text": "“Recommender(s)” from"
+        },
+        {
+          "type": "text",
+          "text": "the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page193_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 194,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter relevant remarks"
+        },
+        {
+          "type": "text",
+          "text": "Approve"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page194_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 195,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Approve” to push"
+        },
+        {
+          "type": "text",
+          "text": "case ahead"
+        },
+        {
+          "type": "text",
+          "text": "Approve"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page195_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 196,
+      "items": [
+        {
+          "type": "text",
+          "text": "After CAM Summary, we shall now initiate verification checks"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page196_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 197,
+      "items": [
+        {
+          "type": "text",
+          "text": "Scroll down on the applicant summary page"
+        },
+        {
+          "type": "text",
+          "text": "to the “Verifications and Evaluations” section"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page197_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 198,
+      "items": [
+        {
+          "type": "text",
+          "text": "We can see the list of verifications"
+        },
+        {
+          "type": "text",
+          "text": "pending for the given application"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page198_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 199,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "“Personal"
+        },
+        {
+          "type": "text",
+          "text": "Discussion” to"
+        },
+        {
+          "type": "text",
+          "text": "initiate"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page199_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 200,
+      "items": [
+        {
+          "type": "text",
+          "text": "We shall be able to see the personal discussion details of the applicant and co-applicant on this page"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page200_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 201,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on three"
+        },
+        {
+          "type": "text",
+          "text": "dots to get"
+        },
+        {
+          "type": "text",
+          "text": "options"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page201_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 202,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "“Initiate”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page202_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 203,
+      "items": [
+        {
+          "type": "text",
+          "text": "List of agencies for personal discussion evaluation shall be displayed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page203_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 204,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose the agency as required"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page204_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 205,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Assign”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page205_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 206,
+      "items": [
+        {
+          "type": "text",
+          "text": "Status of initiation shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page206_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 207,
+      "items": [
+        {
+          "type": "text",
+          "text": "Personal"
+        },
+        {
+          "type": "text",
+          "text": "discussion can be"
+        },
+        {
+          "type": "text",
+          "text": "waived, as per"
+        },
+        {
+          "type": "text",
+          "text": "UW’s discretion"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page207_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 208,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add relevant"
+        },
+        {
+          "type": "text",
+          "text": "remarks"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page208_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 209,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Submit”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page209_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 210,
+      "items": [
+        {
+          "type": "text",
+          "text": "Status of initiation shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page210_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 211,
+      "items": [
+        {
+          "type": "text",
+          "text": "Status will"
+        },
+        {
+          "type": "text",
+          "text": "change to"
+        },
+        {
+          "type": "text",
+          "text": "“Initiated”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page211_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 212,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “field"
+        },
+        {
+          "type": "text",
+          "text": "investigation”"
+        },
+        {
+          "type": "text",
+          "text": "to initiate"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page212_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 213,
+      "items": [
+        {
+          "type": "text",
+          "text": "Field investigation details for residence, office, and other"
+        },
+        {
+          "type": "text",
+          "text": "properties shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page213_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 214,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on three"
+        },
+        {
+          "type": "text",
+          "text": "dots to get"
+        },
+        {
+          "type": "text",
+          "text": "options"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page214_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 215,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "“Initiate”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page215_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 216,
+      "items": [
+        {
+          "type": "text",
+          "text": "List of agencies for field investigation evaluation shall be displayed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page216_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 217,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose the agency as required"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page217_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 218,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Assign”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page218_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 219,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once initiated, details of the same shall appear here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page219_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 220,
+      "items": [
+        {
+          "type": "text",
+          "text": "Similarly, we can initiate/waive off field"
+        },
+        {
+          "type": "text",
+          "text": "investigation, as per discretion"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page220_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 221,
+      "items": [
+        {
+          "type": "text",
+          "text": "Similarly, Primary collateral property field investigation can be initiated or waived off"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page221_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 222,
+      "items": [
+        {
+          "type": "text",
+          "text": "Status will"
+        },
+        {
+          "type": "text",
+          "text": "change to"
+        },
+        {
+          "type": "text",
+          "text": "“Initiated”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page222_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 223,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "“Technical"
+        },
+        {
+          "type": "text",
+          "text": "Evaluation” to"
+        },
+        {
+          "type": "text",
+          "text": "initiate"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page223_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 224,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page224_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 225,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page225_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 226,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page226_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 227,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page227_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 228,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter “Pincode”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page228_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 229,
+      "items": [
+        {
+          "type": "text",
+          "text": "State, City, and District shall"
+        },
+        {
+          "type": "text",
+          "text": "populate according to Pincode"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page229_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 230,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “Locality”"
+        },
+        {
+          "type": "text",
+          "text": "from the"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page230_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 231,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “Landmark”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page231_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 232,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page232_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 233,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “Unit Type”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page233_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 234,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the"
+        },
+        {
+          "type": "text",
+          "text": "“Project/Society/Commercial"
+        },
+        {
+          "type": "text",
+          "text": "/Industrial/Estate name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page234_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 235,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the"
+        },
+        {
+          "type": "text",
+          "text": "“Building/Wing"
+        },
+        {
+          "type": "text",
+          "text": "Name”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page235_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 236,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the “Floor no.”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page236_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 237,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter the “Unit No.”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page237_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 238,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select “transaction type”"
+        },
+        {
+          "type": "text",
+          "text": "from the dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page238_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 239,
+      "items": [
+        {
+          "type": "text",
+          "text": "More property and"
+        },
+        {
+          "type": "text",
+          "text": "its details can be"
+        },
+        {
+          "type": "text",
+          "text": "added from here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page239_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 240,
+      "items": [
+        {
+          "type": "text",
+          "text": "More contacts can"
+        },
+        {
+          "type": "text",
+          "text": "be added from here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page240_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 241,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Proceed”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page241_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 242,
+      "items": [
+        {
+          "type": "text",
+          "text": "Dedupe results of the property shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page242_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 243,
+      "items": [
+        {
+          "type": "text",
+          "text": "Dedupe results can be refreshed,"
+        },
+        {
+          "type": "text",
+          "text": "redone, or given an UPID from here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page243_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 244,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on “Proceed”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page244_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 245,
+      "items": [
+        {
+          "type": "text",
+          "text": "Next, we click on Validation & Checks tab to"
+        },
+        {
+          "type": "text",
+          "text": "initiate the checks"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page245_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 246,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on three dots and “Initiate”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page246_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 247,
+      "items": [
+        {
+          "type": "text",
+          "text": "List of agencies for technical evaluation shall be displayed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page247_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 248,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose the agency"
+        },
+        {
+          "type": "text",
+          "text": "as required"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page248_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 249,
+      "items": [
+        {
+          "type": "text",
+          "text": "Status of initiation shall be displayed here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page249_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 250,
+      "items": [
+        {
+          "type": "text",
+          "text": "Similarly, to"
+        },
+        {
+          "type": "text",
+          "text": "waive off, click"
+        },
+        {
+          "type": "text",
+          "text": "on “Waive “"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page250_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 251,
+      "items": [
+        {
+          "type": "text",
+          "text": "Add remarks"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page251_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 252,
+      "items": [
+        {
+          "type": "text",
+          "text": "Statius will show"
+        },
+        {
+          "type": "text",
+          "text": "“Waived Off”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page252_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 253,
+      "items": [
+        {
+          "type": "text",
+          "text": "Similarly, we can initiate/waive off"
+        },
+        {
+          "type": "text",
+          "text": "Technical, Legal, TSR as per discretion"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page253_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 254,
+      "items": [
+        {
+          "type": "text",
+          "text": "Status will change"
+        },
+        {
+          "type": "text",
+          "text": "to “In progress”"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page254_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 255,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once all verifications are done, by"
+        },
+        {
+          "type": "text",
+          "text": "respective agencies, the status"
+        },
+        {
+          "type": "text",
+          "text": "will change to “Completed” Case"
+        },
+        {
+          "type": "text",
+          "text": "will now move to Disbursal"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page255_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 256,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/Underwriting/images/page256_full.png"
+        }
+      ]
+    }
+  ]
+}

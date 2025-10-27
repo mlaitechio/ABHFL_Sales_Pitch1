@@ -1,0 +1,230 @@
+Sign in.Create.
+Update.
+ALL AT ONE PLACE!!
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page1_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+INTEGRATED SOLUTION FOR YOUR
+ALL BUSINESS ACTIVITIES
+H E R E I S Y O U R
+ONE STOP
+SOLUTION
+Nurture Your
+Potential
+and Your
+Planet
+Log In To ABHFL Finverse
+Sign In
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page2_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+Key Features
+Overview
+TM
+Lead
+Management
+Real Time
+Dashboard
+Customer &
+Distributor Onboarding
+Integrated
+Verifications
+Seamless Query
+Module
+Application
+Tracking
+IT Support
+Desk
+APF Module
+Assisted / DIY
+customer
+Journeys
+Microservice
+Based
+Architecture
+95+ APIs
+Cloud based
+Infrastructure
+Vi
+TM
+TM
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page3_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+PLATFORMS
+I t  i s
+L I V E
+T h i s  i s  a l s o
+L I V E
+*
+*
+Finverse App
+: Access through iOS mobile browser
+Finverse - SalesForce
+:
+LIVE
+in Apple Store
+Finverse - LPP/LOS
+: WIP, accessible through iOS
+browser but not for onboarding
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page4_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+FIRST
+STEP
+A P P A C C E S S & I N S TA L L AT I O N S
+1.
+Install Finverse LPP/LOS through APK file
+2.
+Access Finverse App (SuperApp) via mobile web browser
+3.
+Install & Setup SalesForce app through Finverse Super App
+How
+to access?
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page5_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+S I G N I N P R O C E S S
+Go to
+finverse.adityabirlacapital.com
+USERNAME :
+HF123456
+or
+your org. email ID
+PASSWORD:
+Just enter OTP received via SMS
+on your org. registered mobile number
+How
+it
+works?
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page6_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+Finverse SuperApp
+Home Page
+Finverse SuperApp
+CRM & LOS access
+points
+Finverse – SalesForce
+Redirects for App
+Installation 1/2
+Finverse – SalesForce
+Redirects for App
+Installation 2/2
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page7_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+Finverse – SalesForce APK
+for Android (For iOS it
+redirects to Apple Store
+Finverse – SalesForce
+OPEN once installed & Tap
+on Agree
+Finverse – SalesForce
+Tap on right corner to setup
+ABHFL account
+Finverse – SalesForce
+Tap on Change Server and
+Add below URL and Name
+URL:
+https://adityabirlahousing.my.salesforce.com (Host in iOS)
+Name:
+ABHFL (Label in iOS)
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page8_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+Finverse – SalesForce
+Tap on Add Connection
+URL:
+https://adityabirlahousing.my.salesforce.com (Host in iOS)
+Name:
+ABHFL (Label in iOS)
+Finverse – SalesForce
+Add Label/Name and Host/URL in
+respective fields & Apply
+Finverse – SalesForce
+Setting up ABHFL Account
+Finverse – SalesForce
+Tap on Continue
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page9_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+Finverse – SalesForce
+Redirects to Home Page. Tap on
+Continue to enable home page
+Finverse – SalesForce
+Tap on Leads to Access
+Lead Section
+Finverse – SalesForce
+Tap on All to see all leads
+Finverse – SalesForce
+“All Lead View”
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page10_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+ADD
+(
++
+)
+LEAD
+How to add lead?
+Enter all basic
+details with
+source
+tagging and
+save it
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page11_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+Once added, go to lead profile page and update
+PNI status.
+ADD
+(
++
+)
+LEAD
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page12_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+•
+Nurture your lead by updating stages to follow up
+•
+Tap on Document Check list and tick mark the received documents
+ADD
+(
++
+)
+LEAD
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page13_full.png
+
+ABHFL FINVERSE   |    YOUR ONE STOP SOLUTION
+•
+Once ready for qualification, tap on Update Lead Stage and Qualify it to move to LPP/LOS
+•
+Open Finverse LPP/LOS app and use lead mobile number to proceed for further customer onboarding
+•
+Move back to All lead list view to see if in case lead flow to LOS/LPP has failed, Check integration status
+(Success/Failure). Connect with Support Team in case of any Failure status
+ADD
+(
++
+)
+LEAD
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page14_full.png
+
+Coming Soon
+Sales
+Planning
+Activity
+Planning
+Distributor
+Onboarding
+--------
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page15_full.png
+
+thanK yoU
+See you soon..
+For any further help, reach
+out to ABHFL FINVERSE
+helpdesk
+/media/Finverse_SFDC_Module_Phase1_v1_0523/images/page16_full.png

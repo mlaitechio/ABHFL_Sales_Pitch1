@@ -1,0 +1,1474 @@
+{
+  "file": "abhflfinverseall\\FAQs - Finverse & SFDC.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "New CRM | SFDC | FAQs"
+        },
+        {
+          "type": "text",
+          "text": "Login Module:"
+        },
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "text",
+          "text": "How can I login into my CRM?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To access your CRM, follow the below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to finverse.adityabirlacapital.com and select ABHFL on the landing page."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Enter your HF ID and code sent on your mobile number."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Now, you can see two applications hosted on the screen and you can click on Leads to access"
+        },
+        {
+          "type": "text",
+          "text": "CRM and click on onboarding to access LOS application."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Once you click on leads, directly you will be able to access CRM. No need to login again."
+        },
+        {
+          "type": "text",
+          "text": "Lead Module:"
+        },
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "text",
+          "text": "How can I create lead in the CRM?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To create a new lead, follow the below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to Lead module, click on “New” button on top right."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Fill the basic lead details in QDE form (QDE – Quick Data Entry)"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select the source and sub source, click on next."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select RP/DSA code in case of distributor lead and click on “Save”."
+        },
+        {
+          "type": "text",
+          "text": "2."
+        },
+        {
+          "type": "text",
+          "text": "Do I need to create multiple CRM Lead IDs for top up for the same customer?"
+        },
+        {
+          "type": "text",
+          "text": "Ans"
+        },
+        {
+          "type": "text",
+          "text": ". If Lead has not been onboarded yet in LOS, another product can be added in the same deal during"
+        },
+        {
+          "type": "text",
+          "text": "onboarding journey in LOS."
+        },
+        {
+          "type": "text",
+          "text": "3."
+        },
+        {
+          "type": "text",
+          "text": "Can I create 2 leads with same mobile number?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "If loan is not disbursed yet for a customer, another lead cannot be created with same mobile and"
+        },
+        {
+          "type": "text",
+          "text": "same product."
+        },
+        {
+          "type": "text",
+          "text": "4."
+        },
+        {
+          "type": "text",
+          "text": "What source/sub source should I select to create a lead from RP/DSA?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "You need to select the following sourcing details to create a lead from RP/DSA"
+        },
+        {
+          "type": "text",
+          "text": "Source Type"
+        },
+        {
+          "type": "text",
+          "text": "External"
+        },
+        {
+          "type": "text",
+          "text": "Source - Sub Source"
+        },
+        {
+          "type": "text",
+          "text": "Distributor – RP (In case of RP Lead)"
+        },
+        {
+          "type": "text",
+          "text": "Source - Sub Source"
+        },
+        {
+          "type": "text",
+          "text": "Distributor – DSA (In case of DSA Lead)"
+        },
+        {
+          "type": "text",
+          "text": "Channel Partner Code"
+        },
+        {
+          "type": "text",
+          "text": "Search RP/DSA with name or code"
+        },
+        {
+          "type": "text",
+          "text": "5."
+        },
+        {
+          "type": "text",
+          "text": "What source/sub source should I select to create a lead from Direct source?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "You need to select the following sourcing details to create a lead from Direct source:"
+        },
+        {
+          "type": "text",
+          "text": "Source Type"
+        },
+        {
+          "type": "text",
+          "text": "Internal"
+        },
+        {
+          "type": "text",
+          "text": "Source - Sub Source"
+        },
+        {
+          "type": "text",
+          "text": "Self Sourced – Open Market"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FAQs_Finverse_SFDC/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "6."
+        },
+        {
+          "type": "text",
+          "text": "What source/sub source should I select to create a lead from alternate channel? E.g. Ruloans, magic bricks"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "You need to select the following sourcing details to create a lead from RP/DSA"
+        },
+        {
+          "type": "text",
+          "text": "Source Type"
+        },
+        {
+          "type": "text",
+          "text": "External"
+        },
+        {
+          "type": "text",
+          "text": "Source - Sub Source"
+        },
+        {
+          "type": "text",
+          "text": "Alternate – RP (In case of RP Lead)"
+        },
+        {
+          "type": "text",
+          "text": "Source - Sub Source"
+        },
+        {
+          "type": "text",
+          "text": "Alternate – DSA (In case of DSA Lead)"
+        },
+        {
+          "type": "text",
+          "text": "Channel Partner Code"
+        },
+        {
+          "type": "text",
+          "text": "Search RP/DSA with name or code"
+        },
+        {
+          "type": "text",
+          "text": "7."
+        },
+        {
+          "type": "text",
+          "text": "What source/sub source should I select to create a lead from Corp DSA? E.g. Andromeda, RKPL"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "You need to select the following sourcing details to create a lead from Corp DSA"
+        },
+        {
+          "type": "text",
+          "text": "Source Type"
+        },
+        {
+          "type": "text",
+          "text": "External"
+        },
+        {
+          "type": "text",
+          "text": "Source - Sub Source"
+        },
+        {
+          "type": "text",
+          "text": "Distributor – Corp DSA)"
+        },
+        {
+          "type": "text",
+          "text": "Channel Partner Code"
+        },
+        {
+          "type": "text",
+          "text": "Search Corp DSA with name or code"
+        },
+        {
+          "type": "text",
+          "text": "8."
+        },
+        {
+          "type": "text",
+          "text": "What if I have selected incorrect source while creating lead?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "If lead is not qualified yet, you can change the source and sub source, post lead qualification, sales"
+        },
+        {
+          "type": "text",
+          "text": "governance approval will be required to change the source sub source."
+        },
+        {
+          "type": "text",
+          "text": "9."
+        },
+        {
+          "type": "text",
+          "text": "As a manger, how can I create a lead and assign it to one of my team members."
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To create a new lead from desktop, follow the below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to Lead module, click on “New” button on top right."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Fill the basic lead details in QDE form (QDE – Quick Data Entry)"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select the source and sub source, click on next."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select RP/DSA code in case of distributor lead and click on “Save”."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Once the lead is created, lead profile will be opened, click on “change lead owner” button on the"
+        },
+        {
+          "type": "text",
+          "text": "top and search your team member’s name using HF ID or name and assign the lead to them."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Selected team member will get notified for lead assignment via Email, SMS, WhatsApp, and App"
+        },
+        {
+          "type": "text",
+          "text": "notification."
+        },
+        {
+          "type": "text",
+          "text": "10."
+        },
+        {
+          "type": "text",
+          "text": "Can I directly qualify the lead just after creating the lead?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "No, Post lead creation it is mandatory to follow up with the customer over call or visit."
+        },
+        {
+          "type": "text",
+          "text": "11."
+        },
+        {
+          "type": "text",
+          "text": "Can I disqualify the lead if customer is not interested or not contactable?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "Yes, Post follow up you can disqualify the lead by selecting proper reason and sub reason from the"
+        },
+        {
+          "type": "text",
+          "text": "drop-down list."
+        },
+        {
+          "type": "text",
+          "text": "12."
+        },
+        {
+          "type": "text",
+          "text": "Can I reopen disqualified lead?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "No, once lead is disqualified you cannot re open the lead, but you can create a new lead using the"
+        },
+        {
+          "type": "text",
+          "text": "same details."
+        },
+        {
+          "type": "text",
+          "text": "13."
+        },
+        {
+          "type": "text",
+          "text": "How do I check if my lead has been successfully qualified to LOS for onboarding?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "Once you qualify the lead, you can see integration status in lead profile, if integration status is"
+        },
+        {
+          "type": "text",
+          "text": "\"success\" that means lead has successfully moved to LOS and you can onboard the customer in LOS."
+        },
+        {
+          "type": "text",
+          "text": "14."
+        },
+        {
+          "type": "text",
+          "text": "What if lead integration status is showing \"Failure\"?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "You take a screenshot of the integration status and response and raise an IT ticket."
+        },
+        {
+          "type": "text",
+          "text": "15."
+        },
+        {
+          "type": "text",
+          "text": "Can I raise an IT ticket from the CRM itself?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "Yes, you can click on \"Menu\" option and raise an IT ticket from the \"Tickets\" option using your"
+        },
+        {
+          "type": "text",
+          "text": "employee details and the screenshot for reference."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FAQs_Finverse_SFDC/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "16."
+        },
+        {
+          "type": "text",
+          "text": "As a manger, how can I create a lead and assign it to one of my team members."
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To create a new lead, follow the below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to Lead module, click on “New” button on top right."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Fill the basic lead details in QDE form (QDE – Quick Data Entry)"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select the source and sub source, click on next."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select RP/DSA code in case of distributor lead and click on “Save”."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Once the lead is created, lead profile will be opened, click on “change lead owner” button on the"
+        },
+        {
+          "type": "text",
+          "text": "top and search your team member’s name using HF ID or name and assign the lead to them."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Selected team member will get notified for lead assignment via Email, SMS, WhatsApp, and App"
+        },
+        {
+          "type": "text",
+          "text": "notification."
+        },
+        {
+          "type": "text",
+          "text": "17."
+        },
+        {
+          "type": "text",
+          "text": "Can I check deal status of my lead in the CRM?"
+        },
+        {
+          "type": "text",
+          "text": "Ans"
+        },
+        {
+          "type": "text",
+          "text": ". Yes, you can see the real time LOS status of your onboarded lead in the CRM itself by following the"
+        },
+        {
+          "type": "text",
+          "text": "below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to the “Lead” Module and Click on “All”"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Open the lead for which you want to see the status from the lead list view."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "You can see the current stage highlighted in blue in the middle of the screen."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "For further details, click on “LOS Status”, here you can see the details like Sanction Date and time,"
+        },
+        {
+          "type": "text",
+          "text": "sanction reject and reason, disbursed status, disbursed time and date, tranche details etc."
+        },
+        {
+          "type": "text",
+          "text": "Activity Module:"
+        },
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "text",
+          "text": "How can I schedule a visit with a prospect customer lead Id?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "There are 2 ways you can schedule a visit with the prospect customer:"
+        },
+        {
+          "type": "text",
+          "text": "- You can see the \"More\" button on top right of the lead profile --> In the list you can see \"schedule a visit\""
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "text",
+          "text": "- You can go to the activity module and click on \"All visits\" and then you can see \"New Visit\" button on top left"
+        },
+        {
+          "type": "text",
+          "text": "2."
+        },
+        {
+          "type": "text",
+          "text": "How do I create a distributor visit for file sourcing?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To schedule a distributor visit, you need to follow below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to the activity module and click on all activities."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Then click on “New Activity” button on top left of your mobile screen."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “visit” from Action Type dropdown then select “Distributor existing” from type dropdown."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Then select your purpose of visit from the dropdown."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Then search the distributor you want to schedule a visit with"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select Start and end date and time."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Search for the location of visit"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Briefly describe the purpose of visit and click on save."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Now you can see this visit in your CRM calendar."
+        },
+        {
+          "type": "text",
+          "text": "3."
+        },
+        {
+          "type": "text",
+          "text": "As a manager, how can I create a visit and assign it to one of my team members?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To schedule a distributor/prospect/builder visit from your desktop, you need to follow below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to Activity Module, click on “New activity” on top right."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “visit” from Action Type dropdown then select “Distributor existing” from type dropdown."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Then select your purpose of visit from the dropdown."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Then search your team member in assign to field using HF id or their name."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Then search the distributor/Lead/APF builder you want to schedule a visit with"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select Start and end date and time."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Search for the location of visit"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FAQs_Finverse_SFDC/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Briefly describe the purpose of visit and click on save."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Now they can see this visit in their CRM calendar, they will also get a notification via email."
+        },
+        {
+          "type": "text",
+          "text": "You can also schedule a visit via mobile application using the steps mentioned in the above FAQ."
+        },
+        {
+          "type": "text",
+          "text": "4."
+        },
+        {
+          "type": "text",
+          "text": "Will the CRM remind me about my visit?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "Yes, CRM will remind you a day before your visit via SMS, WhatsApp, Email and App notification. CRM"
+        },
+        {
+          "type": "text",
+          "text": "will also send a visit reminder email to the prospect customer/distributor/builder."
+        },
+        {
+          "type": "text",
+          "text": "5."
+        },
+        {
+          "type": "text",
+          "text": "How can I mark my visit as completed?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To complete a visit, follow the below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to Activity Module, select your visit that you want to mark complete"
+        },
+        {
+          "type": "text",
+          "text": "."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Click on “check in” button on the top center of the screen once you are at the visit location."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Once your visit is over, click on “check out” button on the top and capture the selfie for your visit"
+        },
+        {
+          "type": "text",
+          "text": "and click on next to complete the visit."
+        },
+        {
+          "type": "text",
+          "text": "6."
+        },
+        {
+          "type": "text",
+          "text": "How can I reschedule my visit?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To complete a visit, follow the below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to Activity Module, select your visit that you want to reschedule"
+        },
+        {
+          "type": "text",
+          "text": "."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Click on “reschedule” button on the top left of the screen."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Change the start and end date/time to the rescheduled date and time of the visit."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Change the location if required and click save."
+        },
+        {
+          "type": "text",
+          "text": "7."
+        },
+        {
+          "type": "text",
+          "text": "Can I cancel my visit?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "Yes, you can cancel your visit by clicking on “cancel visit” on the top right of the visit profile."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to Activity Module, select your visit that you want to cancel"
+        },
+        {
+          "type": "text",
+          "text": "."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Click on “cancel” button on the top right of the screen."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select the reason for cancellation and click save."
+        },
+        {
+          "type": "text",
+          "text": "8."
+        },
+        {
+          "type": "text",
+          "text": "As a team huddle SPOC, how can I schedule a team huddle?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To schedule a team huddle, you need to follow below steps:"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Go to the activity module and click on all activities."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Then click on “New Activity” button on top left of your mobile screen."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “Event” from Action Type dropdown then select “Branch activity” from type dropdown."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “Team Huddle” from event type dropdown."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Then select your branch in Branch field."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select Start and end date and time."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Search for the location of visit"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Briefly describe the agenda of team huddle and click on save."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Now you can see this team huddle in your CRM calendar."
+        },
+        {
+          "type": "text",
+          "text": "9."
+        },
+        {
+          "type": "text",
+          "text": "Where can I see my upcoming visits and pending tasks?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "You can scroll your home page to see your upcoming visits with Start date and time and upcoming"
+        },
+        {
+          "type": "text",
+          "text": "tasks with due date. You can navigate to any visit and task by simply clicking on it."
+        },
+        {
+          "type": "text",
+          "text": "Dashboard Module:"
+        },
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "text",
+          "text": "Where can I see my MTD total disbursement in the CRM?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To see your disbursement amount, click on Dashboard Module"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “Leads” dashboard from the list."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FAQs_Finverse_SFDC/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Here you can see your disbursement amount for the month in Crs."
+        },
+        {
+          "type": "text",
+          "text": "2."
+        },
+        {
+          "type": "text",
+          "text": "Where can I see my MTD total disbursed files in the CRM?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To see your disbursement amount, click on Dashboard Module"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “Leads” dashboard from the list."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Here you can see your total disbursed files for the month in Crs under “New Customer” header."
+        },
+        {
+          "type": "text",
+          "text": "3."
+        },
+        {
+          "type": "text",
+          "text": "As a manager where can I see total MTD disbursed files and disbursed amount by my team?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To see total MTD disbursement amount and files by your team, click on Dashboard Module"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “Leads” dashboard from the list."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Here you can see your total disbursed files and disbursement amount for the month in Crs."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "You can also access these data cards on your “Home” page your CRM on desktop."
+        },
+        {
+          "type": "text",
+          "text": "4."
+        },
+        {
+          "type": "text",
+          "text": "As a manager where can I see overall status of leads created by my team?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To see status of overall lead funnel created by your team, click on Dashboard Module"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “Leads” dashboard from the list."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Refer to the Lead funnel chart for overall lead status."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Hover over the different colors to see the exact count of a particular lead stage and its"
+        },
+        {
+          "type": "text",
+          "text": "percentage contribution in total leads."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "You can also access this lead funnel chart on your “Home” page your CRM on desktop."
+        },
+        {
+          "type": "text",
+          "text": "5."
+        },
+        {
+          "type": "text",
+          "text": "Where can I see my overall lead TAT?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To see status of overall lead TAT, click on Dashboard Module"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “Leads” dashboard from the list."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Scroll to “TAT (Overall)” data card which shows overall Avg TAT of the leads created by you."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "“Overall” TAT covers time taken from Lead creation to Lead Disbursed/Disqualified/Rejected."
+        },
+        {
+          "type": "text",
+          "text": "6."
+        },
+        {
+          "type": "text",
+          "text": "As a manager where can I see overall lead TAT for the leads created by my team?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To see status of overall lead TAT, click on Dashboard Module"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “Leads” dashboard from the list."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Scroll to “TAT (Overall)” data card which shows overall Avg TAT of the leads created by you and"
+        },
+        {
+          "type": "text",
+          "text": "your team."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "“Overall TAT” covers time taken from Lead creation to Lead Disbursed/Disqualified/Rejected."
+        },
+        {
+          "type": "text",
+          "text": "7."
+        },
+        {
+          "type": "text",
+          "text": "Where can I see my product wise disbursement?"
+        },
+        {
+          "type": "text",
+          "text": "Ans."
+        },
+        {
+          "type": "text",
+          "text": "To see status of overall lead TAT, click on Dashboard Module"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Select “Leads” dashboard from the list."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Scroll to “Product Split” chart which shows product split of total disbursement."
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "You can hover over different colors in the chart to see the exact contribution of a product in crs"
+        },
+        {
+          "type": "text",
+          "text": "and percentage contribution of a product in total disbursement."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FAQs_Finverse_SFDC/images/page5_full.png"
+        }
+      ]
+    }
+  ]
+}

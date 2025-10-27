@@ -1,0 +1,870 @@
+{
+  "file": "abhflfinverseall\\Demog Quality Check.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Aditya Birla Housing Finance Limited"
+        },
+        {
+          "type": "text",
+          "text": "Finverse User Manual"
+        },
+        {
+          "type": "text",
+          "text": "Module - ‘Demogs Quality Check’"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "Please enter"
+        },
+        {
+          "type": "text",
+          "text": "Demog Quality"
+        },
+        {
+          "type": "text",
+          "text": "Checkers"
+        },
+        {
+          "type": "text",
+          "text": "credentials here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click Login to"
+        },
+        {
+          "type": "text",
+          "text": "proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "Case for DQC"
+        },
+        {
+          "type": "text",
+          "text": "shall reflect here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "User can track application status here"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page5_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Demog Quality Check to initiate QC"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page6_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter applicant’s details for Demog quality check"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page7_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Yes to start DQC"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page8_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter mobile number"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page9_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select address type"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page10_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Date of birth"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page11_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select gender from"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page12_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select marital status"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page13_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select category"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page14_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose option"
+        },
+        {
+          "type": "text",
+          "text": "from radio"
+        },
+        {
+          "type": "text",
+          "text": "buttons"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page15_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter"
+        },
+        {
+          "type": "text",
+          "text": "correct"
+        },
+        {
+          "type": "text",
+          "text": "father’s name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page16_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter"
+        },
+        {
+          "type": "text",
+          "text": "correct"
+        },
+        {
+          "type": "text",
+          "text": "mother’s  name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page17_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select"
+        },
+        {
+          "type": "text",
+          "text": "qualification"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page18_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter correct"
+        },
+        {
+          "type": "text",
+          "text": "flat/house no"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page19_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select account"
+        },
+        {
+          "type": "text",
+          "text": "type from"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page20_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select relevant"
+        },
+        {
+          "type": "text",
+          "text": "option from"
+        },
+        {
+          "type": "text",
+          "text": "dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page21_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter KYC details for review"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page22_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter proof of"
+        },
+        {
+          "type": "text",
+          "text": "identity details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page23_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter proof of"
+        },
+        {
+          "type": "text",
+          "text": "current address"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page24_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter requested"
+        },
+        {
+          "type": "text",
+          "text": "loan amount"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page25_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter requested"
+        },
+        {
+          "type": "text",
+          "text": "tenure"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page26_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click ‘review’ to"
+        },
+        {
+          "type": "text",
+          "text": "proceed with"
+        },
+        {
+          "type": "text",
+          "text": "correct details"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page27_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "items": [
+        {
+          "type": "text",
+          "text": "Once application is Reviewed and if details are incorrect, system will show an error as Data Mismatch"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page28_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "items": [
+        {
+          "type": "text",
+          "text": "Please enter correct data to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page29_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on ‘Accept QC’"
+        },
+        {
+          "type": "text",
+          "text": "to proceed furthur"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page30_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 31,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on save"
+        },
+        {
+          "type": "text",
+          "text": "to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page31_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 32,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter details of co-applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page32_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 33,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select Yes to start DQC"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page33_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 34,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter mobile"
+        },
+        {
+          "type": "text",
+          "text": "number"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page34_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 35,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter Address type"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page35_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 36,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select marital status"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page36_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 37,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select nationality"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page37_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 38,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select category"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page38_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 39,
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose option from"
+        },
+        {
+          "type": "text",
+          "text": "radio button"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page39_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 40,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter father’s name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page40_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 41,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter mother’s name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page41_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 42,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select qualification"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page42_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 43,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter flat no. of"
+        },
+        {
+          "type": "text",
+          "text": "co-applicant"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page43_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 44,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select account type"
+        },
+        {
+          "type": "text",
+          "text": "from dropdown"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page44_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 45,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter spouse name"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page45_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 46,
+      "items": [
+        {
+          "type": "text",
+          "text": "Select communication address"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page46_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 47,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter proof of identity"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page47_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 48,
+      "items": [
+        {
+          "type": "text",
+          "text": "Enter proof of"
+        },
+        {
+          "type": "text",
+          "text": "current address"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page48_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 49,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on review"
+        },
+        {
+          "type": "text",
+          "text": "to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page49_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 50,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Accept QC"
+        },
+        {
+          "type": "text",
+          "text": "data to proceed"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page50_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 51,
+      "items": [
+        {
+          "type": "text",
+          "text": "Click on Submit"
+        },
+        {
+          "type": "text",
+          "text": "QC to send case"
+        },
+        {
+          "type": "text",
+          "text": "to FDE"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page51_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 52,
+      "items": [
+        {
+          "type": "text",
+          "text": "Case is now successfully moved to Financial Data Entry"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page52_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 53,
+      "items": [
+        {
+          "type": "page_image",
+          "file": "/media/Demog_Quality_Check/images/page53_full.png"
+        }
+      ]
+    }
+  ]
+}

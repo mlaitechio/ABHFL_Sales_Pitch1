@@ -1,0 +1,116 @@
+Aditya Birla Housing Finance Limited
+Finverse User Manual
+– Module ‘Financial Quality Check’
+/media/Financial_Quality_Check/images/page1_full.png
+
+Please enter FQC
+login credentials
+here
+/media/Financial_Quality_Check/images/page2_full.png
+
+Click here
+to proceed
+/media/Financial_Quality_Check/images/page3_full.png
+
+Case ain FQC queue shall reflect here
+/media/Financial_Quality_Check/images/page4_full.png
+
+Select your case
+to initiate  FQC
+/media/Financial_Quality_Check/images/page5_full.png
+
+Once case is selected, you will be directed to this screen
+/media/Financial_Quality_Check/images/page6_full.png
+
+Click on Update applicant type if
+any changes needed
+/media/Financial_Quality_Check/images/page7_full.png
+
+Application status can be tracked here
+/media/Financial_Quality_Check/images/page8_full.png
+
+Click here to start
+financial quality check
+/media/Financial_Quality_Check/images/page9_full.png
+
+Enter details for financial quality check of applicant
+/media/Financial_Quality_Check/images/page10_full.png
+
+Enter Basic pay here
+/media/Financial_Quality_Check/images/page11_full.png
+
+Enter house rent
+allowance
+/media/Financial_Quality_Check/images/page12_full.png
+
+Enter educational
+allowance
+/media/Financial_Quality_Check/images/page13_full.png
+
+Enter telephone
+allowance
+/media/Financial_Quality_Check/images/page14_full.png
+
+Enter details of
+income from other
+sources in latest year
+/media/Financial_Quality_Check/images/page15_full.png
+
+Enter details of income in
+previous year
+/media/Financial_Quality_Check/images/page16_full.png
+
+Enter details of dividend
+in latest year
+/media/Financial_Quality_Check/images/page17_full.png
+
+Enter details of dividend
+in previous year
+/media/Financial_Quality_Check/images/page18_full.png
+
+Click on Review to
+proceed
+/media/Financial_Quality_Check/images/page19_full.png
+
+Click on save to
+proceed
+/media/Financial_Quality_Check/images/page20_full.png
+
+Enter details for financial quality check of co-applicant
+/media/Financial_Quality_Check/images/page21_full.png
+
+Enter Basic pay amount
+/media/Financial_Quality_Check/images/page22_full.png
+
+Enter details of
+income from other
+sources in latest year
+/media/Financial_Quality_Check/images/page23_full.png
+
+Enter details of income
+from other sources in
+previous  year
+/media/Financial_Quality_Check/images/page24_full.png
+
+Enter Manual Bank details, “account no”, “Bank name”, “Account type and category” are auto populated
+/media/Financial_Quality_Check/images/page25_full.png
+
+Enter Balance amount
+/media/Financial_Quality_Check/images/page26_full.png
+
+Enter Balance amount
+for remaining dates and
+click on review
+/media/Financial_Quality_Check/images/page27_full.png
+
+Click on save to proceed
+/media/Financial_Quality_Check/images/page28_full.png
+
+Click here to
+submit to QC
+/media/Financial_Quality_Check/images/page29_full.png
+
+Case is now successfully moved to underwriting
+/media/Financial_Quality_Check/images/page30_full.png
+
+/media/Financial_Quality_Check/images/page31_full.png

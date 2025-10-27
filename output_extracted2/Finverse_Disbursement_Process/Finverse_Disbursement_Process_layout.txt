@@ -1,0 +1,1259 @@
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 1 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+Procedure
+Finverse Loan Disbursement
+Aditya Birla Housing Finance Limited
+Reviewed By
+Designation
+Date
+Signature
+Authorized By
+Designation
+Date
+Signature
+Mohua Chowdhury
+Head – Operations & Process
+Excellence
+/media/Finverse_Disbursement_Process/images/page1_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 2 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+Document Revision History
+Confidentiality / Disclaimer
+The data in this procedure contains confidential or proprietary information of Aditya Birla Housing
+Finance Limited, herein referred to as ABHFL, the disclosure of which would provide a competitive
+advantage to others. No part of this publication may be reproduced, transmitted or translated in any
+form or by any means, electronic, manual, mechanical, optical or otherwise, without the prior
+written permission of ABHFL. If you are not authorized to have access to this document or have
+received it by mistake, or by deliberation through unauthorized sources, please return it immediately
+or inform us at the address given below to arrange for its collection.
+Aditya Birla Housing Finance Limited,
+15th Floor, R-Tech Park,
+Nirlon Complex, Off Western Express Highway
+Goregaon (East)
+Mumbai-400063
+Version
+Description
+Date
+Author
+1.0
+Original Document
+12th July 2023
+Operations & Process
+Excellence
+/media/Finverse_Disbursement_Process/images/page2_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 3 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+Table of Contents
+TABLE OF CONTENTS
+................................................................................................................. 3
+1
+OVERVIEW
+............................................................................................................................ 4
+2
+PROCESS OBJECTIVES
+....................................................................................................... 4
+3
+SCOPE
+................................................................................................................................... 4
+4
+RESOURCE REQUIREMENTS
+............................................................................................... 4
+5
+TRAINING REQUIREMENTS
+................................................................................................. 5
+6
+KEY ACTIVITY
+....................................................................................................................... 5
+7
+PROCESS FLOW CHART
+.................................................................................................... 11
+8
+SLA AND ESCALATION MATRIX - TBU
+............................................................................. 12
+9
+ABBREVIATIONS
+................................................................................................................ 13
+10
+APPENDIX
+........................................................................................................................... 14
+/media/Finverse_Disbursement_Process/images/page3_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 4 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+1
+Overview
+This procedure covers the detailed steps involved in the loan application journey from the lead stage in
+Finverse from LPP to LMS and the disbursement.
+The operations are responsible for handling the end-to-end service delivery for all ABHFL products offered
+to customers. In provisioning the service delivery, the Operations activities commence from the time
+when Disbursement and Collateral documents have been received from the Credit Team and conclude
+when the loan matures, and all Collateral documents have been handed back to the Customer.
+In the Customer’s Home Loan Lifecycle, the disbursement process affects the transfer or disbursal of funds
+to the customer and the generation of the Loan Account Number with ABHFL.  The purpose of this
+procedure is to provide an overview and document the process to be followed for the Disbursement
+Process.
+2
+Process Objectives
+The objective of this process is to ensure:
+a.
+Capture the end-to-end journey of the lead in Finverse from LPP to LMS
+b.
+Adequate Quality Checks (QC) are undertaken by Branch Credit and Branch Operation before
+disbursal.s
+c.
+Discrepancies if any are resolved with Credit and Sales.
+d.
+Requisite authorizations are in place for each mode of payment for each disbursal.
+e.
+Core System Disbursement Section is updated for each mode of payment.
+f.
+Disbursement Cheques / DD are handed over within the specified TAT to Customer / Authorized
+Person
+g.
+Acknowledgement is taken from Customer / Authorized Person
+h.
+The cheque Inventory Register is duly updated.
+i.
+Loan Account Number is generated, the disbursed case moves to LMS, and the Interest of the
+customer commences.
+3
+Scope
+This procedure is primarily applicable to all ABHFL Customer Accounts where loans have been disbursed.
+Various systems used respectively in the Disbursement Process include:
+•
+Core System is used by Branch Operations Team, to verify and validate the details with the submitted
+Sanction File, Disbursement Docket and Collateral Documents and updating the Disbursement Module
+with the relevant data points of the customer pertaining to the loan disbursement.
+•
+Bank Portal is used for transaction authorization and monitoring Cheques Issued, Cancelled, Wasted
+and Cleared.
+4
+Resource Requirements
+Sub-Process
+Resources Needed
+Disbursement
+Process
+•
+Access to the Core system
+•
+Access to the Bank Portal
+•
+Login access to NACH registration
+/media/Finverse_Disbursement_Process/images/page4_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 5 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+5
+Training Requirements
+Stakeholder
+Training Needed
+Branch Operation
+•
+ABHFL Disbursement Process
+•
+Core System User Manual
+•
+Online NACH activation and
+•
+Cheque inventory handling
+•
+Finverse User Manual
+6
+Key Activity
+Sr.
+No
+Activity
+Key Input
+Key Output
+RACI
+1
+Lead creation in Salesforce:
+The sales team created a lead by capturing the
+applicant’s details in the lead creation module.
+After the creation of the lead, the applicant details
+(KYC details, KYC documents, Basic details, Property
+details & documents) are passed on to Finverse.
+Lead details
+Lead
+generated &
+Details
+shared with
+Finverse
+R, A – Sales
+Team
+2
+The Application id/lead id is created in the Finverse
+system and the application id is assigned to the CPA
+team for Demographic Details Entry.
+Lead details
+Application
+id is created
+in Finverse
+& assigned
+to CPA
+R, A –
+System
+I – CPA
+Team,
+Sales Team
+3
+The CPA team to do a QC check on the data received
+in the application id. Queries if any to be raised to
+the Sales team. Post successful submission the
+application is moved to the Financial Details Entry
+stage
+Login details
+from Sales
+Login details
+post QC
+R, A –
+Credit
+Team,
+I – Sales
+Team
+4
+The CPA team captures the financial details of the
+applicant along with the property/collateral
+documents collected from the customer. The
+application is then assigned to the Sr. CPA for the
+approval.
+Financial
+details &
+Property
+documents
+Financial
+details &
+Property
+documents
+captured in
+Finverse
+R, A –
+Credit
+Team,
+I – Sales
+Team
+5
+The credit manager to do the underwriting of the
+application & decides on the loan application.
+The Credit manager to ensure all the application
+details (legal, technical, FI report & PD report) are in
+order.
+Financial
+details &
+Property
+documents
+captured in
+Finverse
+Underwritin
+g and
+Sanction
+decision
+R, A –
+Credit
+Team,
+I – Sales
+Team
+/media/Finverse_Disbursement_Process/images/page5_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 6 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+Sr.
+No
+Activity
+Key Input
+Key Output
+RACI
+6
+Post Sanction of the loan, the below mentioned
+stages/forms will be updated by the CPA team.
+•
+Information Gathering Form
+•
+Customer Worklist
+•
+Disbursement Docket
+•
+Disbursement Memo
+•
+POP/OTC sheet
+The credit manager will author the stage basis
+successful review of the details submitted by CPA
+Sanction of
+the application
+Loan
+Application
+details
+update by
+Credit team
+R, A –
+Credit
+I – Sales
+Team,
+Branch
+Operation
+7
+Branch Operations  to execute NDC & DI checklist for
+the details of the applicant. Discrepancies if any, will
+be raised to the Credit team.
+Sanction of
+the application
+NDC & DI
+form
+successfully
+updated
+R, A –
+Branch
+Operation
+I – Credit
+Team,
+Sales
+Team
+8
+The loan details are pushed to LMS (A3S) from
+Finverse for completion of disbursement activities.
+NDC & DI form
+details
+Loan
+account
+number
+generation
+R, A –
+System
+I – Credit,
+Sales &
+Branch
+Operation
+9
+Check done by Branch Operation:
+•
+Processing Fee to be referred as per
+Sanction letter and if any deviation is found
+in the amount, then approval as per matrix
+will be required. (IMD Fee status should be
+cleared before QC. If it is not cleared, an
+exception will be
+raised to the Credit & Sales
+via Mail.  OTC approval is not accepted for
+IMD Fee)
+•
+If any discrepancy is found in the Loan File,
+then the same is escalated to the Credit and
+Sales and Branch Operation should wait for
+the Query Resolution. In case of any
+discrepancy found in the Core System then
+the Core System queue needs to be moved
+back to Credit/ Sales
+•
+If there is no discrepancy, then Branch
+Operation to proceeds with the details
+available in the Core system. This includes
+verification of the disbursement details in
+the Core System
+•
+Branch Operation to check the NACH
+registration status of the customer before
+proceeding with disbursement. If eNACH is
+Operations
+Checklist
+Review the
+Sanction
+application
+file.
+Discrepanc
+y if any
+informed to
+Credit and
+Sales
+For Clear
+case,
+Payment
+maker
+R,
+A=Branch
+Operation
+I=Credit
+Manager/S
+ales team
+/media/Finverse_Disbursement_Process/images/page6_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 7 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+Sr.
+No
+Activity
+Key Input
+Key Output
+RACI
+not registered, a manual NACH request to be
+raised and uploaded in Nscan as per the
+NACH registration process
+9
+The loan agreement is generated from the Finverse
+system after the completion of the Sanction of the
+loan.  The DM & the documents will be generated
+post-DM approval by the CPA/Credit team.
+The following documents are provided by the
+Credit/CPA Team to Branch Operation:
+1.
+Facility Agreement
+2.
+Disbursement Memo
+3.
+POP sheet report
+4.
+Property Documents
+5.
+Sanction Letter
+6.
+DRF (Disbursal Request Form)
+7.
+Repayment mandates- NACH Mandates and
+PDCs
+8.
+Legal & title search report
+9.
+Fair Practice Code
+10.
+NHB refinance declaration
+11.
+Case-specific documents, if any
+•
+Branch Operations will initiate the payment
+maker in the core system and share the
+Sanction Letter, DM (Disbursement Memo),
+POP sheet and DRF (Disbursement Request
+Form), beneficiary proof, payment memo
+report from the Core system and send the
+scanned images to the Authorizer Branch
+Operations for
+payment author in Core
+system.
+•
+Payment Authorizer verifies  details entered
+by Maker with the shared documents.
+•
+If any discrepancy is found in the system,
+then the same is referred to the Maker and
+Checker-Branch Operations should wait for
+the Query Resolution.
+•
+If no discrepancy is found, the authorizer to
+complete the Payment author in the Core
+system.
+Payment
+maker
+Case
+authorized
+by Maker
+Branch
+Operation in
+Core System
+Payment
+Author
+R, A-
+Maker and
+author
+Branch
+Operation,
+I-Credit
+manager
+10
+Post completion of Payment author in Core System,
+the authorizer confirms the same to Maker.
+Case
+authorized by
+authorizer
+Branch
+Operation in
+E-Mail
+Confirmatio
+n to the
+Maker-
+Branch
+R, A-
+Authorizer
+Branch
+Operation
+/media/Finverse_Disbursement_Process/images/page7_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 8 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+Sr.
+No
+Activity
+Key Input
+Key Output
+RACI
+Core System
+Operation
+C-Credit
+Manager
+I- Maker
+Branch
+Operation
+11
+Beneficiary and Transaction Authorization
+After receiving the payment authorization from the
+Authorizer, Maker-Branch Operations will proceed
+with Transaction Authorization based on the  Mode
+of payment as per Approval Matrix.
+Mode of Payment: Electronic (IFT/NEFT/RTGS)
+•
+If the Mode of payment is Electronic,  then Branch
+Ops does the DI (Disbursement initiation) maker in
+the Core system and sends the case to  DI Author.
+•
+Authorizer user will then do the DI author and
+confirm back to Maker Branch Ops for the same.
+•
+Post which Maker Branch Ops user will mark the
+sent to the customer for that particular
+transaction (electronic transfer).
+•
+Branch Ops will send the case for authorization to
+the approved Bank portal authorizers (as per
+board resolution) of respective Zones.
+•
+Bank portal Authorizer shall verify the payment
+details from the scanned documents (scanned
+Customer Cheque Copy/ Demand Letter / DM,
+DRF, SL, beneficiary proof and payment memo
+from Core System). Discrepancies if any shall be
+shared with Branch Ops for resolution and post
+which Bank portal authorizer will authorize the
+payment details in the bank portal.
+•
+Post Authorization in bank portal UTR Number is
+updated in the core system.
+E-Mail
+Confirmation
+to the Maker-
+Branch
+Operation
+Transaction
+Authorizatio
+n initiated
+for
+respective
+Mode of
+Payment
+R, A-Branch
+Operation
+C-
+Authorizers
+as per
+Approval
+Matrix
+/media/Finverse_Disbursement_Process/images/page8_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 9 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+Sr.
+No
+Activity
+Key Input
+Key Output
+RACI
+12
+Mode of Payment: Demand Draft
+•
+At the payment maker stage, the maker Branch
+Ops selects the payment mode as DD and
+forwards it to Authorizer.
+•
+Authorizer Branch Ops to Verify and authorize
+beneficiary and payment details in the core
+system.
+•
+Branch Operation to prepare a DD Request Letter
+(refer to the Scanned copy in annexure)
+on the
+Letter Head of ABHFL.
+•
+Send it to the Authorizers (Scanned Copy) via E-
+Mail
+(Refer to the Approval matrix in the
+annexure)
+.
+•
+Signatories to verify the request letter and send
+the Signed scanned copy to Branch Ops.
+•
+Branch Ops to send scanned and attested DD
+request letter to the authorized person to
+forward to  Bank for printing
+.
+•
+Post DD is printed the Nominated Person (written
+in the DD request letter) goes to Bank for the
+collection of DD.
+•
+Post receiving the DD, Branch Ops to complete
+the DI maker and get the DI author done by the
+authorizer, post which Branch Ops will mark
+Sent to customer and update the DD Number in
+the Cheque status update.
+13
+Mode of Payment: Cheque
+•
+At the Payment maker stage, Branch Ops
+selects the payment mode as Cheque and
+forwards it to the authorizer.
+Authorizer to verify and authorize
+beneficiary & payment details in the Core
+system and informs Branch Ops through
+Email.
+E-Mail
+Confirmation
+to the DU-
+Branch
+Operation
+Cheque is
+handed
+over to the
+Customer
+with
+acknowledg
+ement.
+R, A-Branch
+Operation
+C-
+Authorizers
+as per
+Approval
+Matrix
+/media/Finverse_Disbursement_Process/images/page9_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 10 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+Sr.
+No
+Activity
+Key Input
+Key Output
+RACI
+•
+Simultaneously Branch Ops sends an email
+to the Bank portal Authorizers (as per board
+resolution) of the payment file to authorize
+the payment in the bank portal.
+•
+Post receiving the mail, Authorizers
+authorize the payment file in his/her queue
+after verifying the details of the loan from
+the scanned Customer Cheque Copy/
+Demand Letter / DM, DRF, SL. Discrepancies
+if any shall be shared with Branch Ops for
+resolution.
+•
+Post which payment moves to the Bank
+portal (IndusInd Bank Portal for Cheque
+printing) and Cheque is printed by the local
+Branch Ops. Branch Ops to reconcile all
+cheques in the Bank portal on the same day.
+•
+Branch Ops to enter the details of printed
+Cheques in the Manual Cheque Inventory
+Register and cheque handover register post-
+cheque printing.
+•
+Cheque detail get captured in Core System
+by EOD.
+•
+Branch Ops to hand over the Cheque as per
+annexure and ensure acknowledgement is
+received.
+•
+Post receipt of acknowledgement from the
+customer, Branch Ops does DI maker in core
+system and uploads acknowledgement scan
+image in the core system, informs DI
+authorizer.
+•
+DI Authorizer authorizes DI post-checking of
+acknowledgement and informs maker. In
+case of any discrepancy inform Branch Ops
+and wait for query resolution.
+•
+Branch Ops does the Sent to Customer in core
+system post verifying or entering cheque
+number in core system Cheque Status Update
+Screen.
+/media/Finverse_Disbursement_Process/images/page10_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 11 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+7
+Process Flow Chart
+7.1
+Disbursement Process: Verification
+Finverse Loan Application Process
+Sales Team
+Credit Team
+Branch Service
+Start
+Applicant details
+captured in
+Salesforce
+Applicant is
+Interested
+No
+Yes
+Applicant details are
+captured in
+Salesforce
+Application
+Applicant
+details passed
+on to Finverse
+CPA does QC on the
+input data received
+through an
+Application id in
+Finverse
+Discrepancy
+observed?
+Raised to Sales
+for inputs &
+details
+Yes
+Sr. CPA to author
+the Demographic
+data entry
+No
+CPA team to check
+the financial details
+of the applicant
+Discrepancy
+observed?
+Raised to
+Sales/Credit
+for inputs &
+details
+Yes
+Sr. CPA to author
+the financial details
+entry of the
+applicant
+Underwriting of the
+loan
+Sanction of the
+loan?
+No
+Operations
+Checklist to be
+referred
+Yes
+Operations
+Checklist
+Discrepancy
+identified?
+Yes
+No
+Payment maker to
+be prepared
+NACH updated,
+Stamp duty
+collected  &
+Agreement
+signed by all
+participants?
+Manual NACH
+to be
+processed by
+Branch Service
+Yes
+Payment maker to be
+updated by the Branch
+Service basis
+confirmation from
+sales for mode of
+payment
+Sales to get
+the manual
+NACH updated
+& agreement
+signed
+Mode of payment
+basis confirmation
+from Sales Team
+No
+DD
+Demand Draft:
+Branch Service to make
+payment maker and send
+the same to authorizer for
+authentication
+Authorizer authorizes the
+payment for DD and
+confirms to the maker
+Branch Service to prepare a
+DD instruction letter on
+ABHFL letter head and send
+the same as email to
+authorized signatories
+Signatories to verify the
+request letter from favoring
+details and send the scan
+copy to Branch Service
+Discrepancy
+found
+No
+B
+Yes
+DD instrument
+letter to be
+prepared again by
+Branch Service and
+send for attestion
+IFT/RTGS/NEFT/Cheque
+IFT/RTGS/NEFT
+Branch service to make
+the payment maker
+and DI maker and send
+for authorization
+Prior approval for
+IFT/RTGS/NEFT/
+DD
+Discrepancy
+found in
+Payment maker/
+DI maker
+Yes
+IFT/NEFT/RTGS
+payment and/or DI
+is cancelled &
+revised entry is
+made
+Yes
+Cheque
+Branch Service to
+cancel the entry &
+revised entry to be
+made
+Cheque
+Branch Service to
+make payment
+maker and send the
+same to authorizer
+for authentication
+Authorizer authorizes
+payment for cheque
+and payment + DI for
+EFT in core system and
+confirms to maker in
+Branch Service
+No
+Post authorization, Branch
+Service maker marks Send to
+the Customer (STC) for NEFT
+cases only and then puts
+mail to connect online
+authorizers and provide
+supporting documents
+1
+st
+authorizer to
+verify payment
+details from the
+scanned docs and
+authorize
+Discrepancy
+found
+Yes
+Discrepancies
+shared with Branch
+Service for
+resolution. Post
+resolution, COL shall
+authorize
+End
+No
+2
+nd
+Authorizer
+authorizes the
+transaction
+Discrepancy
+found
+No
+A
+Discrepancies
+shared with Branch
+Service for
+resolution. Post
+resolution, COL shall
+authorize
+Yes
+End
+7.2
+Disbursement Process: Payout
+/media/Finverse_Disbursement_Process/images/page11_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 12 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+Disbursement Process:Payout
+Branch Service
+A
+Cheque
+Confirmation mail sent to Branch
+Service.
+Post Authorization, transaction
+flows into bank portal for cheque
+printing.
+Branch Service needs to allocate
+inventory on the bank portal
+Branch Service needs to take
+out the print of cheque from
+PACE portal.
+Post printing the cheque,
+Branch Service will click on
+Recon of cheque in Bank
+portal.
+Branch Service to enter
+details of printed cheque in
+manual cheque inventory
+register before handing over
+the cheque as per SOP and
+ensure acknowledgement is
+received..
+Post receipt of
+acknowledgement,
+Branch Service
+makes the DI maker
+and forward to
+AOM/ROM/SBranch
+Service for
+authorization.
+Authorizer
+authorizes the
+DI and informs
+the Branch
+Service.
+Branch Service
+marks Send to
+Customer(STC) in
+core system post
+checking or
+entering the
+cheque details.
+Loan is then
+booked in system.
+END
+IFT/NEFT/RTGS
+Post authorization the UTR
+No. gets auto updated in
+system in case payment is
+processed before bank cut-
+off time.
+B
+Demand Draft
+Branch Service to send the
+scanned and attested DD
+request letter to the
+authorized person who will
+send that DD request letter
+from the authorized ID to
+IndusInd Bank for printing
+DD
+Post Receipt of
+DD Branch
+Service to make
+DI Maker
+Authorizer will
+then authorize DI
+Branch Service
+marks Send to
+Customer(STC)
+with DD number.
+Loan is then
+booked in system
+In case it is processed post
+bank cut-off time, recon team
+checks the UTR details from
+bank statement and updates
+in core system.
+IndusInd bank prepares
+DD which is To be
+collected by authorised
+personnel and handed
+over to respective
+Branch Service
+8
+SLA and Escalation Matrix - TBU
+Sr.
+No
+Activity
+SLA
+Responsibility
+1
+st
+Escalation
+2
+nd
+Escalation
+1
+Loan
+Disbursement
+marked in Core
+System
+T
+T= Date of receipt of
+acknowledgement from
+Customer/Builder/BT
+Bank (Refer to UDD
+process for details)
+Branch
+Operation
+AOM/ ROM
+Head –
+Branch
+Ops
+2
+FTR Files Received
+(Before 6 pm)
+T
+T=Date of receipt of File
+Docket and Collateral at
+Operations
+Branch
+Operation
+AOM/ ROM
+Head –
+Branch
+Ops
+3
+FTR Files Received
+(After 6 PM)
+T+1
+T= Date of Receipt of File
+Docket and Collateral at
+Operations
+Branch
+Operation
+AOM/ ROM
+Head –
+Branch
+Ops
+4
+DD Request
+Same Day
+Branch
+Operation, CPU
+AOM/ ROM
+Head –
+Branch
+Ops
+/media/Finverse_Disbursement_Process/images/page12_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 13 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+breviations
+Abbreviation
+Meaning
+ABHFL
+Aditya Birla Housing Finance Limited
+AOM
+Area Operations Manager
+CAM
+Credit Appraisal Memo
+CERSAI
+Central Registry of Securitization Asset Reconstruction and Security Interest of
+India
+COI
+Connect Online Portal IndusInd
+CPU
+Central Processing Unit
+DD
+Demand Draft
+DM
+Disbursement Memo
+DRF
+Disbursal Request Form
+FRFC
+Fire resistant Filing Cabinet
+FTNR
+First Time Not Right
+FTR
+First Time Right
+HOO
+Head of Operations
+IFT
+Internal Fund Transfer
+LAN
+Loan Account Number
+LMS
+Loan Management System
+LOD
+List of Documents
+LOS
+Loan Origination System
+LPP
+Loan Processing Platform
+NACH
+National Automated Clearing House
+NDC
+Non-Discrepancy Check
+NEFT
+National Electronic Fund Transfer
+PDD
+Post Disbursal Documents
+POP
+Pre OTC PDD
+QC
+Quality Checks
+RACI
+Responsible, Accountable, Consulted, Informed
+ROM
+Regional Operations Manager
+RTGS
+Real Time Gross Settlement
+SL
+Sanction Letter
+UTR
+Unique Transaction Reference
+/media/Finverse_Disbursement_Process/images/page13_full.png
+
+Quality System Documentation
+HFC-OP-PD-XX
+Document Version: XX
+Release Date:
+XX XXX XXXX
+Finverse Loan Disbursement Process
+Page 14 of 14
+©2023 Aditya Birla Housing Finance Limited                                    All rights reserved
+For Internal Use Only
+7
+Appendix
+Sr. No.
+Document Name
+Reference Document
+1
+Disbursement flow PPT (slide 105
+onwards for Operations)
+DISB PPT.pptx
+2
+Insurance PF Capitalized Favoring
+Insurance_PF_Capit
+alized_Favouring_De
+3
+Data movement from LOS to LMS Deal
+& Loan level checklist for Branch
+Operation (to be checked in A3S)
+Customer and Deal
+Data.xlsx
+LOAN Data.xlsx
+4
+Branch Operation Disbursement
+checklist
+Ops Checklist -
+Jan'23 v1.0.pdf
+5
+LMS Push Process
+LMS Push
+Process.pptx
+6
+CHEQUE HANDOVER PROCESS
+CHEQUE
+HANDOVER PROCES
+7
+Finverse Checklist for Branch Operation
+(to be checked NDC & DI stage in
+Finverse)
+Finverse Checklist
+for Branch Operatio
+-----------------------------------------End of Document-----------------------------------------
+/media/Finverse_Disbursement_Process/images/page14_full.png

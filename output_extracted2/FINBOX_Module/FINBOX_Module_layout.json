@@ -1,0 +1,154 @@
+{
+  "file": "abhflfinverseall\\FINBOX_Module.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "FINBOX Execution Steps :"
+        },
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "text",
+          "text": "Upload the Bank Statement under any stage eg. Sourcing \\DDE\\ Financial Data Entry then"
+        },
+        {
+          "type": "text",
+          "text": "Login with FDE User & Go to Documents Tab in left side menu."
+        },
+        {
+          "type": "text",
+          "text": "2."
+        },
+        {
+          "type": "text",
+          "text": "Go To >> Banking Analysis & Select radio button as “Finbox Integration (Upload) “"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FINBOX_Module/images/page1_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "3."
+        },
+        {
+          "type": "text",
+          "text": "Enter all the mandatory data according to uploaded Bank Statement"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Sample Bank Statement"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FINBOX_Module/images/page2_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "4."
+        },
+        {
+          "type": "text",
+          "text": "Post entering all mandatory Fileds Click on  “ Initiate Finbox” button."
+        },
+        {
+          "type": "text",
+          "text": "5."
+        },
+        {
+          "type": "text",
+          "text": "Post click on “Initiate Finbox “ below Pop-up message will display."
+        },
+        {
+          "type": "text",
+          "text": "6."
+        },
+        {
+          "type": "text",
+          "text": "Select the check box for Uploaded Bank Statement & then click on Submit Button."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FINBOX_Module/images/page3_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "7."
+        },
+        {
+          "type": "text",
+          "text": "Post Submission of the case, FINBOX ID will get generate and status will be appeared as “In"
+        },
+        {
+          "type": "text",
+          "text": "Progress” then click on “Fetch Reports” button"
+        },
+        {
+          "type": "text",
+          "text": "8."
+        },
+        {
+          "type": "text",
+          "text": "Report will get fetch after clicking on “Fetch Report” Button and data will get auto fetch in"
+        },
+        {
+          "type": "text",
+          "text": "financial table & Status will get changes to “Completed.”"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Also we can download the Perfios output file (.xls) for reference."
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FINBOX_Module/images/page4_full.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Below is the Banking Perfios output data :"
+        },
+        {
+          "type": "page_image",
+          "file": "/media/FINBOX_Module/images/page5_full.png"
+        }
+      ]
+    }
+  ]
+}
