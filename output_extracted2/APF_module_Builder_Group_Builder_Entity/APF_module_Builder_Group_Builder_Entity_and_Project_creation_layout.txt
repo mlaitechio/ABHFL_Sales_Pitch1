@@ -2,582 +2,582 @@ Aditya Birla Housing Finance Limited
 User Manual -
 ABCapital Learning App
 APF Module – Creation of Builder group, Builder Entity and Add Project
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page1_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page1_full.png
 
 Company Name
 2
 Builder Group Creation
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page2_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page2_full.png
 
 Company Name
 3
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page3_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page3_full.png
 
 Company Name
 4
 Enter Credentials
 Click Here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page4_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page4_full.png
 
 Company Name
 5
 Click Here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page5_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page5_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page6_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page6_full.png
 
 Once you place your Cursor over APF
 following options will appear
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page7_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page7_full.png
 
 Click on Builder Group
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page8_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page8_full.png
 
 Click on Add Group
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page9_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page9_full.png
 
 Add Builder Group Screen
 Add Builder Group name here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page10_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page10_full.png
 
 Add Pincode of group Registered
 office
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page11_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page11_full.png
 
 These details will auto
 populates once Pincode is
 entered
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page12_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page12_full.png
 
 Select options from
 Search
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page13_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page13_full.png
 
 Select options from Search, If
 applicable locality is not
 appearing in search then user
 can type the different locality
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page14_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page14_full.png
 
 Enter applicable
 details here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page15_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page15_full.png
 
 Enter
 Flat/House/Plot and
 Floor no.
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page16_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page16_full.png
 
 Enter Landmark
 here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page17_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page17_full.png
 
 Enter Email ID
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page18_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page18_full.png
 
 Enter Website if available
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page19_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page19_full.png
 
 Click on Calculate Builder
 Score
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page20_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page20_full.png
 
 This Screen will appear after user click on Calculate Builder Score
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page21_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page21_full.png
 
 Select options from drop down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page22_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page22_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page23_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page23_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page24_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page24_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page25_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page25_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page26_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page26_full.png
 
 Click on Add to add more rows
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page27_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page27_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page28_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page28_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page29_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page29_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page30_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page30_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page31_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page31_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page32_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page32_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page33_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page33_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page34_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page34_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page35_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page35_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page36_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page36_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page37_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page37_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page38_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page38_full.png
 
 If nothing is applicable, then
 left field as blank
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page39_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page39_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page40_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page40_full.png
 
 Click on Save to proceed ahead
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page41_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page41_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page42_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page42_full.png
 
 Select applicable options from drop down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page43_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page43_full.png
 
 Enter Person name here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page44_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page44_full.png
 
 Enter Contact no. of
 Person here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page45_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page45_full.png
 
 Select applicable Radio
 button
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page46_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page46_full.png
 
 Enter Pincode of Contact
 person’s address
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page47_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page47_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page48_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page48_full.png
 
 Select applicable
 option
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page49_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page49_full.png
 
 Select Locality
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page50_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page50_full.png
 
 Enter Applicable
 details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page51_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page51_full.png
 
 Enter Applicable
 details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page52_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page52_full.png
 
 Enter Landmark
 Click on Save
 after entering all
 the details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page53_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page53_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page54_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page54_full.png
 
 Select Approver name
 from Search box
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page55_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page55_full.png
 
 Click on Save & Next after entering
 all the details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page56_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page56_full.png
 
 Upload documents here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page57_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page57_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page58_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page58_full.png
 
 Upload documents appear here
 Click on Submit Option after documents Upload
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page59_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page59_full.png
 
 System will generate request id and show approver’s name
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page60_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page60_full.png
 
 Enter Credentials
 Click Here
 Approver has to login to approve raised request
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page61_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page61_full.png
 
 Raised Builder group approval will reflect here, click on it
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page62_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page62_full.png
 
 This Screen will reflect
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page63_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page63_full.png
 
 User can edit Builder Score,
 click here to edit
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page64_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page64_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page65_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page65_full.png
 
 Edit details which to be edit and scroll down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page66_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page66_full.png
 
 After editing the details click here to save the details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page67_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page67_full.png
 
 New Updated details will reflect here
 After Clicking here Edit and delete options will
 reflect, click on edit to edit the details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page68_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page68_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page69_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page69_full.png
 
 Edit the details and click on Save option
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page70_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page70_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page71_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page71_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page72_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page72_full.png
 
 Enter Remarks here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page73_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page73_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page74_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page74_full.png
 
 Click on Approve to
 Approve the same
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page75_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page75_full.png
 
 Request Approved Successfully message will reflect once
 approver approve the request
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page76_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page76_full.png
 
 Company Name
 77
 Builder Entity Creation
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page77_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page77_full.png
 
 Company Name
 78
 Enter Credentials
 Click Here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page78_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page78_full.png
 
 Once you place your Cursor over APF
 following options will appear
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page79_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page79_full.png
 
 Click on Builder Entity
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page80_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page80_full.png
 
 Click on Add Entity
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page81_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page81_full.png
 
 This Screen will reflect after you click on Add Entity
 Enter PAN no.
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page82_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page82_full.png
 
 Enter Entity Name
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page83_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page83_full.png
 
 Enter CIN/LLP ID
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page84_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page84_full.png
 
 Enter date here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page85_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page85_full.png
 
 Enter type of Entity
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page86_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page86_full.png
 
 Link Builder group which
 was created from here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page87_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page87_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page88_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page88_full.png
 
 Enter Pincode
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page89_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page89_full.png
 
 Select Taluka/Tehsil
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page90_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page90_full.png
 
 Select or Enter Locality name
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page91_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page91_full.png
 
 Enter applicable details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page92_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page92_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page93_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page93_full.png
 
 Enter applicable details
 Enter Landmark
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page94_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page94_full.png
 
 Enter Website
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page95_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page95_full.png
 
 Select applicable radio button for
 Special Mention Account
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page96_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page96_full.png
 
 Select applicable option from drop down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page97_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page97_full.png
 
 Enter name of person selected in Contact type
 Enter PAN no. if available
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page98_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page98_full.png
 
 Enter Contact no.
 Enter details if available
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page99_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page99_full.png
 
 Select Yes if address is
 available or else select No
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page100_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page100_full.png
 
 Enter Pincode
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page101_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page101_full.png
 
 Select details from search
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page102_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page102_full.png
 
 Enter Locality
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page103_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page103_full.png
 
 Enter applicable details
 Click on Save after entering
 details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page104_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page104_full.png
 
 Click on Save after entering
 details
 Enter applicable details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page105_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page105_full.png
 
 Search Approver here and
 select
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page106_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page106_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page107_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page107_full.png
 
 Click on Save & Next to
 Proceed ahead
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page108_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page108_full.png
 
 Click here to Upload Entity related docs
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page109_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page109_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page110_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page110_full.png
 
 Uploaded documents will reflect here
 Click on here to Submit
 request for approval
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page111_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page111_full.png
 
 Request ID and approver name will reflect here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page112_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page112_full.png
 
 Approver will have to login to approve request
 Enter Credentials
 Click Here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page113_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page113_full.png
 
 Pending request for approval will reflect here, click on it to Proceed ahead
 Home Screen of Approver
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page114_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page114_full.png
 
 This Screen will appear, check all the details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page115_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page115_full.png
 
 Enter Remarks here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page116_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page116_full.png
 
 Click on Approve to
 Approve request
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page117_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page117_full.png
 
 One request is approved, system
 will reflect this message
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page118_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page118_full.png
 
 Company Name
 119
 Add Project
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page119_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page119_full.png
 
 Company Name
 120
 Enter Credentials
 Click Here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page120_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page120_full.png
 
 Once you place your Cursor over APF
 following options will appear
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page121_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page121_full.png
 
 Click on Projects
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page122_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page122_full.png
 
 Click on Add Project
 Click on Add Project
 Click on Add Project
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page123_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page123_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page124_full.png
-
-Select Person name from search
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page125_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page124_full.png
 
 Select Person name from search
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page126_full.png
-
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page127_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page125_full.png
 
 Select Person name from search
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page128_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page126_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page129_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page127_full.png
+
+Select Person name from search
+/media/APF_module_Builder_Group_Builder_Entity/images/page128_full.png
+
+/media/APF_module_Builder_Group_Builder_Entity/images/page129_full.png
 
 Enter Project name
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page130_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page130_full.png
 
 Select Property type
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page131_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page131_full.png
 
 Enter no. of Towers here , if
 details are available
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page132_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page132_full.png
 
 Enter Total no. of units here, if
 details are available
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page133_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page133_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page134_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page134_full.png
 
 Select options from Drop down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page135_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page135_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page136_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page136_full.png
 
 Select Options from search or
 Enter details if same is not
 appearing in search
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page137_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page137_full.png
 
 Select applicable radio button
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page138_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page138_full.png
 
 Select appropriate radio button
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page139_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page139_full.png
 
 Enter RERA no. here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page140_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page140_full.png
 
 Enter Pincode here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page141_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page141_full.png
 
 Select options from Search
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page142_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page142_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page143_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page143_full.png
 
 Select options from Search
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page144_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page144_full.png
 
 Select options from Search,
 enter details if same is not
 appearing in search
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page145_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page145_full.png
 
 Enter details
 here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page146_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page146_full.png
 
 Enter Landmark
 here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page147_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page147_full.png
 
 Enter Plot no. here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page148_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page148_full.png
 
 Enter Survey/Khasra/Kila/Khatauni no. etc here
 Click on Dedupe check after
 entering all the details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page149_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page149_full.png
 
 Enter PAN no. of Entity to link with this Project
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page150_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page150_full.png
 
 Enter Builder group to
 link with this Project
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page151_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page151_full.png
 
 Select Name of Entity to link
 with this Project
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page152_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page152_full.png
 
 Enter Email ID of Project
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page153_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page153_full.png
 
 Click on Add new to New
 Contact details
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page154_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page154_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page155_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page155_full.png
 
 Select Option from drop down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page156_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page156_full.png
 
 Enter PAN details here if available
 Enter Contact person name
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page157_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page157_full.png
 
 Enter Contact person no.
 Select Yes if address is
 available or else No
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page158_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page158_full.png
 
 Click on Submit
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page159_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page159_full.png
 
 Click on Save & Next to
 proceed ahead
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page160_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page160_full.png
 
 Click here to Upload Docs
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page161_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page161_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page162_full.png
-
-Select options from drop down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page163_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page162_full.png
 
 Select options from drop down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page164_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page163_full.png
+
+Select options from drop down
+/media/APF_module_Builder_Group_Builder_Entity/images/page164_full.png
 
 Click on Save
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page165_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page165_full.png
 
 Upload docs will reflect here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page166_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page166_full.png
 
 Click here to upload docs size more than 15 mb to 200 mb
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page167_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page167_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page168_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page168_full.png
 
 Enter page no. here for Indexing
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page169_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page169_full.png
 
 Select option from drop down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page170_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page170_full.png
 
 Select option from drop down
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page171_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page171_full.png
 
 Click here to Save the uploaded file
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page172_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page172_full.png
 
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page173_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page173_full.png
 
 All the uploaded documents
 will appear here
 Click on Submit option to
 Proceed ahead
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page174_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page174_full.png
 
 APF request ID will reflect here
-/media/APF_module_Builder_Group_Builder_Entity_and_Project_creation/images/page175_full.png
+/media/APF_module_Builder_Group_Builder_Entity/images/page175_full.png
