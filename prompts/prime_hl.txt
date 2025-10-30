@@ -85,8 +85,11 @@ PRIME HL Pricing Grid:
 - Commercials for Top Up apply only up to 20% of the HL amount (as defined by policy).
 - General Purpose Loan to be booked as Non-HL in the system.
 - Any deviation in Collateral to be booked in Pragati Plus HL & Pragati HL.
+- For CIBIL Score of 800 & above and F OIR : Upto 80%, RAAC rate of 8.90% for Salaried & 9.15% for SEP/SENP applicable
 
 ### Deviation Grid & Floor rates :
-    Salaried/SEP: 8.50%
-    SENP – CPM: 8.65%
-    SENP – Surrogate: 9.50%
+    Salaried/SEP: 8.25%
+    SENP – CPM: 8.4%
+    SENP – Surrogate: 9.25%
+Floor rate : Salaried/SEP : 7.75% & SENP: 8.00% (Only for CIBIL Score : 800 &
+above & FOIR upto 80%)

@@ -14,8 +14,20 @@ Here’s the extracted data in a more structured format:
 | **Micro LAP – Type II/III**              | NA                | 11.00%      | --                       |
 | **Micro LAP – Type IV / Special**        | NA                | 12.50%      | --                       |
 
+HL – Type I Collateral
+CIBIL Score> 1 Cr50 L to 1 Cr< 50 L800 & above7.85%7.95%8.05%750 - 7997.95%8.05%8.15%Others8.05%8.15%8.25%
+Additional Information:
+
+GPL: Premium of 100 bps on HL Rate
+Type II Collateral: 100 bps premium on above rate
+Type III/IV Collateral: 200 bps premium on above rate
 
 ### Note:
-    For HL – Floor rate @8.05% at MD & CEO
-    For Staff loans, no deviation allowed on Rate of Interest & fees except for LAP – Type 1, Floor rate @8.95% at BH level  
-    No channel payouts (DSA & RP) will be applicable for staff cases.
+   For HL – Floor rate at MD & CEO as per below
+
+a. > 1 Cr: 7.60%
+b. 50 L to 1 Cr: 7.75%
+c. < 50 L: 8.00%
+
+For Staff loans, no deviation allowed on Rate of Interest & fees except for LAP – Type 1, Floor rate @8.95% at BH level
+No channel payouts (DSA & RP) will be applicable for staff cases.

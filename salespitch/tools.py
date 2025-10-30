@@ -177,13 +177,20 @@ def create_output_extract_tools(base_dir="output_extracted2"):
         def make_tool_function(layout_path):
             def tool_func():
                 with open(layout_path, "r", encoding="utf-8") as f:
-                    return f.read() + "\n" + """MANDATORY INSTRUCTION (DO NOT IGNORE):
+                    return f.read() + "\n" + """MANDATORY INSTRUCTION (DO NOT IGNORE) :
+Image Path is MANDATORY for ALL responses
 For every single step, you must include an image line immediately after the step description
 Do not prepend sandbox:/ or modify the path in any way.
 Use the Markdown format like this:
 ![Alt Text])(image_path start with media/...)
 
-If the provided path already includes media/..., use it exactly, even if the model normally tries to add a prefix. Never skip an image; if a step has no path, output an explicit error message."""
+If the provided path already includes media/..., use it exactly, even if the model normally tries to add a prefix. Never skip an image; if a step has no path, output an explicit error message.
+Exception:
+- ONLY if the user explicitly asks you NOT to provide image paths, then skip image paths
+- Otherwise, image paths are ALWAYS mandatory regardless of whether the user mentions them or not
+
+Rule: Image paths = MANDATORY by default for all queries. Exception only if user specifically requests no images.
+"""
             return tool_func
 
         func = make_tool_function(layout_file)

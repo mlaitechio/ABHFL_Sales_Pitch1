@@ -97,13 +97,15 @@ Table 1: Micro LAP - Detailed Norms
 
 ---
 
-| **Collateral Type** | **Cat A+**  | **Cat A**     | **Others**  |
+| **Collateral Type** | **Cat A+/A**  | **Cat B**     | **CAT C/D**  |
 | ------------------- | ----------- | ------------- | ----------- |
 | **Type II**         | INR 75 Lacs | INR 50 Lacs\* | INR 30 Lacs |
 | **Type III**        | INR 50 Lacs | INR 50 Lacs   | INR 30 Lacs |
 | **Type IV**         | INR 30 Lacs | INR 30 Lacs   | INR 20 Lacs |
 
 *For Jaipur, Coimbatore, Indore, Chandigarh – INR 75 Lacs
+For Surat – Limits of CAT B to be applicable only for
+Micro LAP
 
 Not : You must clarify collateral type and Income Programs before providing answer related any pricing query
 ### Table 3: Micro LAP - Pricing Grid
