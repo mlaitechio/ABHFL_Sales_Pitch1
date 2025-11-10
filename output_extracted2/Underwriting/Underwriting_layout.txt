@@ -1,1006 +1,966 @@
-Aditya Birla Housing Finance Limited
-Finverse User Manual
-– Underwriting
-/media/Underwriting/images/page1_full.png
+SOP on Underwriting Modules
 
-Please enter
-“Underwritee”
-credentials
-here
-/media/Underwriting/images/page2_full.png
+System Booking - Products /Eligibility Programs
+Table A : Below Products/Eligibility Program to be booked in Finverse
+Product/Eligibility
+Program/Segment
+Loan
+Amount
+System Product
+Code
+Scheme & Sub
+scheme
+Prime HL
+Any Loan
+Amount
+HL_Prime
+All schemes
+Pragati HL
+As per Limits
+HL_AHF
+All schemes
+Pragati Plus HL
+As per Limits
+HL_Plus
+All Schemes
+Pragati Aashiyana HL
+(Segment 1)
+As per Limits
+HL_Informal
+All schemes
+Pragati Aashiyana HL
+(Segment 2)
+Upto 15
+Lakhs
+HL_Informal
+All Schemes
+Khushi HL
+Upto 20
+Lakhs
+HL_Informal
+Home Purchase &
+Construction
+LAP (Prime)
+>50 Lakhs
+LAP_Prime
+All schemes
+LAP (Affordable)
+<50 lakhs
+LAP_Affordable
+All schemes
+Micro LAP (Segment 1)
+Upto 75
+lakhs
+LAP_Informal
+All schemes
+Micro CF
+Any amount
+Micro_CF (Tenure
+: 7 yrs)
+CPP
+Any amount
+LAP_Prime/HE/
+CPP
+LAP_Informal
+GPL
+Upto 50
+lakhs
+HL_Prime /
+HL_AHF
+General Purpose Loan
+Step up Home loans
+Any amount
+HL_Prime / HL
+New-Step up
+Step down loans
+Any amount
+HL_Prime / HL
+New – Step down, BT-
+Step down
+Extended Tenure
+Any amount
+HL_Prime / HL
+Extended Tenure
+Average banking program
+(ABB)
+As per Limits
+Respective
+products
+Low LTV
+As per Limits
+Respective
+Products
+Gross Turnover Program
+As per Limits
+Respective
+Products
+Green & Express BT
+Program
+As per Limits
+Respective
+Products
+Mortgage Takeover
+Method in
+As per Limits
+Compute Eligibility tab
 
-Click Login
-/media/Underwriting/images/page3_full.png
+- Table B : Only below Product/Programs to be booked in A3S
+Product/Eligibilit
+y Program
+Loan
+Amount/Descrip
+tion
+System Product Code
+Scheme & Sub
+scheme
+LRD
+Any amount
+LRD
+All schemes
+Micro CF
+Any amount
+Micro_CF (Tenure : 5 yrs with 1
+yr
+Principal Morat
+)
+Micro LAP
+(Segment 2)
+Upto 15 Lakhs
+LAP_Informal
+All Schemes
+GST Program
+As per limits
+Respective products
 
-Details of all cases at various stages shall appear on the dashboard
-/media/Underwriting/images/page4_full.png
+Customer Dedupe-Posidex
+Purpose
+: Posidex is used to assign unique Customer ID to applicant and to remove duplication
+of multiple ids being assigned to same customer.
+Under
+Verification Checks
+, User will receive following output for each applicant in Finverse
+under Posidex API Response.
+1.
+No Match
+: When applicant has not applied for any loan with ABHFL earlier. Match
+Count will be 0(zero) in such cases.
+2.
+Match Found
+: If applicant is existing customer of ABHFL. There will be 1 or more
+matches in such cases.
+/media/Underwriting/images/page4_img2.jpeg
+/media/Underwriting/images/page4_img3.jpeg
 
-Click “Sanction-
-In progress”
-/media/Underwriting/images/page5_full.png
+Assignment of Customer ID:
+1.
+In case of
+No Match:
+Since applicant is not existing customer of ABHFL, user will have
+to assign new Customer ID to applicant.
+User will have to select from drop down
+“Assigning New Customer ID as below match
+for the OLD customer ID are not perfect or appropriate match”.
+Once user selects the above-mentioned option from drop down, “
+Assign New
+Customer ID
+” tab will appear
+User will click on
+Assign New Customer ID
+tab to assign customer id.
+Once Customer ID is assigned, the id will appear and user can view the same.
+/media/Underwriting/images/page5_img2.jpeg
+/media/Underwriting/images/page5_img3.jpeg
+/media/Underwriting/images/page5_img4.jpeg
 
-Click on the application
-number  of the case
-/media/Underwriting/images/page6_full.png
-
-Application Summary page shall open
-/media/Underwriting/images/page7_full.png
-
-Click here to enter
-basic details of
-applicant
-/media/Underwriting/images/page8_full.png
-
-Enter basic details of applicant on this screen
-/media/Underwriting/images/page9_full.png
-
-Enter PAN number
-of applicant
-/media/Underwriting/images/page10_full.png
-
-Name is auto
-populated based
-on PAN no.
-/media/Underwriting/images/page11_full.png
-
-Select profession
-from dropdown.
-/media/Underwriting/images/page12_full.png
-
-Enter membership
-number
-/media/Underwriting/images/page13_full.png
-
-Select type of entity
-from dropdown
-/media/Underwriting/images/page14_full.png
-
-Enter date of
-incorporation
-/media/Underwriting/images/page15_full.png
-
-Select nature of
-business from
-dropdown
-/media/Underwriting/images/page16_full.png
-
-Enter business
-vintage here
-/media/Underwriting/images/page17_full.png
-
-Select relevant
-caution profile option
-from radio button
-/media/Underwriting/images/page18_full.png
-
-Select property
-owner option
-/media/Underwriting/images/page19_full.png
-
-Enter work location details of applicant
-/media/Underwriting/images/page20_full.png
-
-Enter pincode and State,
-city and district is auto
-populated
-/media/Underwriting/images/page21_full.png
-
-Select locality
-from dropdown
-/media/Underwriting/images/page22_full.png
-
-Enter street and
-building name
-/media/Underwriting/images/page23_full.png
-
-Enter flat no
-/media/Underwriting/images/page24_full.png
-
-Communication details are auto populated
-/media/Underwriting/images/page25_full.png
-
-Select preferred
-language from dropdown
-/media/Underwriting/images/page26_full.png
-
-Select options for
-data sharing
-consent
-/media/Underwriting/images/page27_full.png
-
-User can also add
-phone/email id
-/media/Underwriting/images/page28_full.png
-
-Click on save to
-continue
-/media/Underwriting/images/page29_full.png
-
-Click on save &
-next to proceed
-/media/Underwriting/images/page30_full.png
-
-Successful message appears on the screen
-/media/Underwriting/images/page31_full.png
-
-Enter basic details of co-applicant here
-/media/Underwriting/images/page32_full.png
-
-Enter PAN no.
-of co-applicant
-/media/Underwriting/images/page33_full.png
-
-Select type of
-entity from
-dropdown
-/media/Underwriting/images/page34_full.png
-
-Enter date of
-incorporation
-/media/Underwriting/images/page35_full.png
-
-Select nature of
-business from
-dropdown
-/media/Underwriting/images/page36_full.png
-
-Select relevant
-option from
-radio buttons
-/media/Underwriting/images/page37_full.png
-
-Select relevant
-option from
-radio buttons
-/media/Underwriting/images/page38_full.png
-
-Enter work location of co-applicant
-/media/Underwriting/images/page39_full.png
-
-Enter office
-address pincode
-/media/Underwriting/images/page40_full.png
-
-“State”, ‘city” and “district “are auto populated after entering pincode
-/media/Underwriting/images/page41_full.png
-
-Select locality
-from dropdown
-/media/Underwriting/images/page42_full.png
-
-Enter Street and
-building number
-/media/Underwriting/images/page43_full.png
-
-Enter Flat/floor
-number
-/media/Underwriting/images/page44_full.png
-
-Customer communication details auto populate
-/media/Underwriting/images/page45_full.png
-
-Select
-communication
-type from
-dropdown
-/media/Underwriting/images/page46_full.png
-
-Select the option
-to provide consent
-for data sharing
-/media/Underwriting/images/page47_full.png
-
-More communication
-details can be added
-from here
-/media/Underwriting/images/page48_full.png
-
-Click on save to
-continue
-/media/Underwriting/images/page49_full.png
-
-Click on save &
-next to proceed
-/media/Underwriting/images/page50_full.png
-
-Successful message appears on the screen
-/media/Underwriting/images/page51_full.png
-
-Verify KYC details of applicant
-/media/Underwriting/images/page52_full.png
-
-Click on the
-dropdown to
-check details
-/media/Underwriting/images/page53_full.png
-
-Click on save
-to proceed
-/media/Underwriting/images/page54_full.png
-
-Verify KYC details of co-applicant
-/media/Underwriting/images/page55_full.png
-
-User can edit the KYC details here if any changes needed
-Click on the
-dropdown to
-check details
-/media/Underwriting/images/page56_full.png
-
-Click on save
-to proceed
-/media/Underwriting/images/page57_full.png
-
-Click on NIC Code
-/media/Underwriting/images/page58_full.png
-
-Type the industry name and
-choose the appropriate option
-/media/Underwriting/images/page59_full.png
-
+2.
+In case of
+Match Found:
+As applicant is our existing customer, old Customer ID needs
+to be assigned to the applicant.
+Users will get the option to assign old customer Id against match found. User will have
+to expand the match results to get the
+Assign Old Customer
+tab
 Click on
-“Proceed”
-/media/Underwriting/images/page60_full.png
+Assign Old Customer
+tab and old id will be assigned to applicant.
+/media/Underwriting/images/page6_img2.jpeg
+/media/Underwriting/images/page6_img3.jpeg
 
-Relevant NIC Code
-will populate here
-/media/Underwriting/images/page61_full.png
+Property Dedupe-Posidex
+Purpose
+: Posidex is used to assign unique Property ID to collaterals and to remove duplication
+of multiple ids being assigned to same collateral.
+Under
+Property Details >>> Dedupe Results
+, User can see the match results by clicking on
+“Trigger Posidex Dedupe” for each collateral which is added on loan structure.
+1.
+No Match
+: When the collateral is coming for the first time on loan structure with ABHFL
+then the Match Count will be 0(zero) in such cases.
+2.
+Match Found
+: If Collateral exists with ABHFL then there will be 1 or more matches in
+such cases.
+/media/Underwriting/images/page7_img2.jpeg
+/media/Underwriting/images/page7_img3.jpeg
 
-Choose
-appropriate
-option
-/media/Underwriting/images/page62_full.png
+Assignment of Property ID:
+1.
+In case of
+No Match:
+Since property doesn’t exist with ABHFL, user will have to assign
+new UPI ID to collateral.
+User will have to click on
+“Assign New UPI ID”
+in case of zero matches
+or if the match
+found is inappropriate
+.
+Once user clicks on “
+Assign New UPI ID
+”, below screen will appear and UPI Id for said
+property will be assigned successfully.
+/media/Underwriting/images/page8_img2.jpeg
+/media/Underwriting/images/page8_img3.jpeg
 
-Details of Income from business and
-profession shall be displayed here
-/media/Underwriting/images/page63_full.png
+2.
+In case of
+Match Found:
+As property is existing with ABHFL, old Property ID needs to be
+assigned to the property.
+Users will get the option to assign old UPI Id against match found. Users will have to
+expand the match results to get the “
+Assign Old UPI ID”
+tab.
+Next step will be to click on “
+Assign Old UPI ID”
+tab and old id will be assigned to the
+property.
+/media/Underwriting/images/page9_img2.jpeg
+/media/Underwriting/images/page9_img3.jpeg
+/media/Underwriting/images/page9_img4.jpeg
+/media/Underwriting/images/page9_img5.jpeg
 
-Additional Income can be
-added or deleted from here
-/media/Underwriting/images/page64_full.png
-
-Choose “Income Sub Type”
-from the dropdown
-/media/Underwriting/images/page65_full.png
-
-Enter the amount
-/media/Underwriting/images/page66_full.png
-
-Enter amount for latest year
-/media/Underwriting/images/page67_full.png
-
-Enter amount for
-previous year
-/media/Underwriting/images/page68_full.png
-
-Choose for which year the income is
-considered from the dropdown
-/media/Underwriting/images/page69_full.png
-
-Eligibility shall be
-populated accordingly
-/media/Underwriting/images/page70_full.png
-
-Enter details of the Income tax paid by the applicant
-/media/Underwriting/images/page71_full.png
-
-Choose “Income Sub Type”
-from the dropdown
-/media/Underwriting/images/page72_full.png
-
-Enter the source
-/media/Underwriting/images/page73_full.png
-
-Enter amount for latest year
-/media/Underwriting/images/page74_full.png
-
-Enter amount for
-previous year
-/media/Underwriting/images/page75_full.png
-
-Choose for which year the income is
-considered from the dropdown
-/media/Underwriting/images/page76_full.png
-
-Eligibility shall be
-populated accordingly
-/media/Underwriting/images/page77_full.png
-
-More details can
-be added here
-/media/Underwriting/images/page78_full.png
-
-More incomes
-can be added
-here
-/media/Underwriting/images/page79_full.png
-
-Total of the Income
-details entered shall
-appear here
-/media/Underwriting/images/page80_full.png
-
-GPR details shall appear here and can be edited, as applicable
-/media/Underwriting/images/page81_full.png
-
-Click on “Save” to
-save the data
-/media/Underwriting/images/page82_full.png
-
-Click on “save & Next”
-/media/Underwriting/images/page83_full.png
-
-Request status shall be displayed here
-/media/Underwriting/images/page84_full.png
-
-Now we enter Income
-details of the co-applicant
-/media/Underwriting/images/page85_full.png
-
-Click on NIC Code
-/media/Underwriting/images/page86_full.png
-
-Type the industry name and
-choose the appropriate option
-/media/Underwriting/images/page87_full.png
-
+SOP- Finfort Initiation at Different Stages
+Purpose of Document:
+Currently Finverse is having option to initiate Finfort/Corpository if user
+wants to fetch ITR or GST of customer. This option is available at Sourcing as well as Underwriting
+Stage. This document provides the steps to be followed for Initiation and tracking of Finfort Order
+Finfort Initiation at Sourcing
+Step 1:
+Initiate Link
+a.
+At Income Details Screen, Sales Team will have
+Digi Income Fetch
+option.
+b.
+Click
+“Yes”
+if user wants to initiate link to customer for fetching ITR or GST or both.
+c.
 Click on
-“Proceed”
-/media/Underwriting/images/page88_full.png
-
-Relevant NIC Code
-will populate here
-/media/Underwriting/images/page89_full.png
-
-Choose
-appropriate
-option
-/media/Underwriting/images/page90_full.png
-
-Details of Income from business and profession shall be displayed here
-/media/Underwriting/images/page91_full.png
-
-Additional Income can be
-added or deleted from here
-/media/Underwriting/images/page92_full.png
-
-Choose “Income Sub Type”
-from the dropdown
-/media/Underwriting/images/page93_full.png
-
-Enter the source
-/media/Underwriting/images/page94_full.png
-
-Enter amount for latest year
-/media/Underwriting/images/page95_full.png
-
-Enter amount for
-previous year
-/media/Underwriting/images/page96_full.png
-
-Choose for which year the income is
-considered from the dropdown
-/media/Underwriting/images/page97_full.png
-
-Eligibility shall be
-populated accordingly
-/media/Underwriting/images/page98_full.png
-
-Choose “Income Sub Type”
-from the dropdown
-/media/Underwriting/images/page99_full.png
-
-Enter the source
-/media/Underwriting/images/page100_full.png
-
-Enter amount for latest year
-/media/Underwriting/images/page101_full.png
-
-Enter amount for
-previous year
-/media/Underwriting/images/page102_full.png
-
-Choose for which year the income is
-considered from the dropdown
-/media/Underwriting/images/page103_full.png
-
-Eligibility shall be
-populated accordingly
-/media/Underwriting/images/page104_full.png
-
-More details can
-be added here
-/media/Underwriting/images/page105_full.png
-
-More incomes
-can be added
-here
-/media/Underwriting/images/page106_full.png
-
-Total of the Income
-details entered shall
-appear here
-/media/Underwriting/images/page107_full.png
-
-Click on “Save” to
-save the data
-/media/Underwriting/images/page108_full.png
-
-Click on “Save & Next”
-/media/Underwriting/images/page109_full.png
-
-Request status shall be displayed here
-/media/Underwriting/images/page110_full.png
-
-This page displays the Additional Financial Details of the applicant, if any
-/media/Underwriting/images/page111_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page112_full.png
-
-Click to add “List
-of Signatories”
-/media/Underwriting/images/page113_full.png
-
-Once selected on “List of Signatories” the below mentioned fields will have to be entered
-/media/Underwriting/images/page114_full.png
-
-Save or Cancel as the case may be to
-move on to Open Charges section
-/media/Underwriting/images/page115_full.png
-
-Open Charges can be
-added by clicking on
-Add More Option
-Select
-appropriate
-option
-/media/Underwriting/images/page116_full.png
-
-Business reference data will be displayed here
-More data can
-be added from
-here
-/media/Underwriting/images/page117_full.png
-
-Click on “Save & Next”
-/media/Underwriting/images/page118_full.png
-
-Now we will enter the Additional Financial Details of the Co-applicant, if any
-/media/Underwriting/images/page119_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page120_full.png
-
-More data can
-be added from
-here
-/media/Underwriting/images/page121_full.png
-
-Business reference data will be displayed here
-More data can
-be added from
-here
-/media/Underwriting/images/page122_full.png
-
-Click on “Save & Next”
-/media/Underwriting/images/page123_full.png
-
-Ratio Analysis based on Profit and Loss shall be captured here
-We are doing it
-for the main
-applicant
-/media/Underwriting/images/page124_full.png
-
-Choose
-appropriate
-option
-/media/Underwriting/images/page125_full.png
-
-Ratio sheet can also be
-uploaded if available
-/media/Underwriting/images/page126_full.png
-
-Income details to
-be filled here
-/media/Underwriting/images/page127_full.png
-
-Enter Income as per Financials
-/media/Underwriting/images/page128_full.png
-
-Similarly enter Expense data
-/media/Underwriting/images/page129_full.png
-
-Enter the Liabilities as per Balance Sheet
-/media/Underwriting/images/page130_full.png
-
-Enter Assets details as per Balance Sheet
-/media/Underwriting/images/page131_full.png
-
-Financial ratios will be calculated accordingly
-/media/Underwriting/images/page132_full.png
-
-Cash Flow statement will be made accordingly
-/media/Underwriting/images/page133_full.png
-
-Once Cash Flow Statement is Saved, success message shall appear
-/media/Underwriting/images/page134_full.png
-
-Similarly a statement can be
-made for co-applicant
-/media/Underwriting/images/page135_full.png
-
-If not required, choose
-“Not required” here
-/media/Underwriting/images/page136_full.png
-
-Confirmation will be
-asked, choose “yes”
-/media/Underwriting/images/page137_full.png
-
-Click on “Save &Next”
-/media/Underwriting/images/page138_full.png
-
-A consolidated statement shall be displayed here
-/media/Underwriting/images/page139_full.png
-
-Click on “Save &Next”
-/media/Underwriting/images/page140_full.png
-
-Return back to the Application Summary page
-/media/Underwriting/images/page141_full.png
-
-Here we can see the stages of application and its progress
-/media/Underwriting/images/page142_full.png
-
-Application can be sent back to “Demog Data Entry” or “Financial Data Entry”, if required
-/media/Underwriting/images/page143_full.png
-
-Loan application can also be
-withdrawed by clicking here
-/media/Underwriting/images/page144_full.png
-
-Scroll down and Click on
-“Regulatory Details”
-/media/Underwriting/images/page145_full.png
-
-Regulatory details of the application shall be displayed here
-/media/Underwriting/images/page146_full.png
-
-Primary application details to be filled here
-/media/Underwriting/images/page147_full.png
-
-Select the “End usage of
-funds:” from the dropdown
-/media/Underwriting/images/page148_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page149_full.png
-
-Select “PSL Code”
-from the dropdown
-/media/Underwriting/images/page150_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page151_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page152_full.png
-
-Enter the number of
-residential properties
-owned including the
-applied loan
-/media/Underwriting/images/page153_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page154_full.png
-
-Select “Risk
-Category”
-from the
-dropdown
-/media/Underwriting/images/page155_full.png
-
-Relevant
-renewal date
-will be shown
-/media/Underwriting/images/page156_full.png
-
+E-Financial (ITR)
+if only ITR to be fetched.
+d.
 Click on
-“Save” to save
-the data
-/media/Underwriting/images/page157_full.png
-
-Click on “Save
-& Next”
-/media/Underwriting/images/page158_full.png
-
-Request process status shall appear here
-/media/Underwriting/images/page159_full.png
-
-Scroll down and Click on
-“Underwriting Checklist”
-/media/Underwriting/images/page160_full.png
-
-Click Options from Radio Buttons as applicable
-/media/Underwriting/images/page161_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page162_full.png
-
-Complete the checklist
-/media/Underwriting/images/page163_full.png
-
-/media/Underwriting/images/page164_full.png
-
-Click on “save
-“ to save the
-checklist data
-/media/Underwriting/images/page165_full.png
-
-Click on “Save
-& Next”
-/media/Underwriting/images/page166_full.png
-
-Now we proceed to the CAM/underwriting summary,
-/media/Underwriting/images/page167_full.png
-
-Once clicked on CAM Summary, we are directed to this page. Loan application summary is displayed here
-/media/Underwriting/images/page168_full.png
-
-Applicant details summary shall be displayed here
-/media/Underwriting/images/page169_full.png
-
-Background details summary will be displayed here
-Primary application details summary will be displayed here
-/media/Underwriting/images/page170_full.png
-
-Exposure details summary will be displayed here
-Eligibility parameter details will be displayed here
-/media/Underwriting/images/page171_full.png
-
-Ratios summary will be displayed here
-/media/Underwriting/images/page172_full.png
-
-Salary Credit summary will be displayed here
-Asset details summary will be displayed here
-/media/Underwriting/images/page173_full.png
-
-Banking details summary will be displayed here
-/media/Underwriting/images/page174_full.png
-
-Property Verification details summary will be displayed here
-/media/Underwriting/images/page175_full.png
-
-Verification details summary will be displayed here
-/media/Underwriting/images/page176_full.png
-
-Non-Financial Attributes shall reflect here
-/media/Underwriting/images/page177_full.png
-
-System driven NFA to be triggered
-using “Re-trigger BRE” option
-/media/Underwriting/images/page178_full.png
-
-Once triggered, system driven NFA
-shall reflect here along with approval
-authority levels
-/media/Underwriting/images/page179_full.png
-
-Additional NFA, if any, can be entered
-manually by clicking “Add NFA”
-/media/Underwriting/images/page180_full.png
-
-NFA description to be entered here
-/media/Underwriting/images/page181_full.png
-
-Basis the description, list of NFA
-documents shall reflect here, choose
-the NFA description as applicable
-/media/Underwriting/images/page182_full.png
-
-Once reflected, relevant approving
-authority shall reflect here
-/media/Underwriting/images/page183_full.png
-
-Add relevant remarks, if any
-Click on “Save”
-/media/Underwriting/images/page184_full.png
-
-Once saved, all system driven NFAs and
-manually entered NFAs shall reflect here
-/media/Underwriting/images/page185_full.png
-
-Enter Mitigants, if any
-Click “Save Mitigants”
-/media/Underwriting/images/page186_full.png
-
-Sanction conditions shall be displayed here
-/media/Underwriting/images/page187_full.png
-
-Additional sanction conditions, if
-any, can be added from here
-/media/Underwriting/images/page188_full.png
-
-Approval Flow data shall be entered here
-/media/Underwriting/images/page189_full.png
-
-Choose the “type of authority” as applicable from the dropdown
-/media/Underwriting/images/page190_full.png
-
-Choose the relevant designation
-/media/Underwriting/images/page191_full.png
-
-Relevant approver shall populate
-/media/Underwriting/images/page192_full.png
-
-Choose the relevant
-“Recommender(s)” from
-the dropdown
-/media/Underwriting/images/page193_full.png
-
-Enter relevant remarks
-Approve
-/media/Underwriting/images/page194_full.png
-
-Click on “Approve” to push
-case ahead
-Approve
-/media/Underwriting/images/page195_full.png
-
-After CAM Summary, we shall now initiate verification checks
-/media/Underwriting/images/page196_full.png
-
-Scroll down on the applicant summary page
-to the “Verifications and Evaluations” section
-/media/Underwriting/images/page197_full.png
-
-We can see the list of verifications
-pending for the given application
-/media/Underwriting/images/page198_full.png
-
-Click on
-“Personal
-Discussion” to
-initiate
-/media/Underwriting/images/page199_full.png
-
-We shall be able to see the personal discussion details of the applicant and co-applicant on this page
-/media/Underwriting/images/page200_full.png
-
-Click on three
-dots to get
-options
-/media/Underwriting/images/page201_full.png
-
-Click on
-“Initiate”
-/media/Underwriting/images/page202_full.png
-
-List of agencies for personal discussion evaluation shall be displayed
-/media/Underwriting/images/page203_full.png
-
-Choose the agency as required
-/media/Underwriting/images/page204_full.png
-
-Click on “Assign”
-/media/Underwriting/images/page205_full.png
-
-Status of initiation shall be displayed here
-/media/Underwriting/images/page206_full.png
-
-Personal
-discussion can be
-waived, as per
-UW’s discretion
-/media/Underwriting/images/page207_full.png
-
-Add relevant
-remarks
-/media/Underwriting/images/page208_full.png
-
-Click on “Submit”
-/media/Underwriting/images/page209_full.png
-
-Status of initiation shall be displayed here
-/media/Underwriting/images/page210_full.png
-
-Status will
-change to
-“Initiated”
-/media/Underwriting/images/page211_full.png
-
-Click on “field
-investigation”
-to initiate
-/media/Underwriting/images/page212_full.png
-
-Field investigation details for residence, office, and other
-properties shall be displayed here
-/media/Underwriting/images/page213_full.png
-
-Click on three
-dots to get
-options
-/media/Underwriting/images/page214_full.png
-
-Click on
-“Initiate”
-/media/Underwriting/images/page215_full.png
-
-List of agencies for field investigation evaluation shall be displayed
-/media/Underwriting/images/page216_full.png
-
-Choose the agency as required
-/media/Underwriting/images/page217_full.png
-
-Click on “Assign”
-/media/Underwriting/images/page218_full.png
-
-Once initiated, details of the same shall appear here
-/media/Underwriting/images/page219_full.png
-
-Similarly, we can initiate/waive off field
-investigation, as per discretion
-/media/Underwriting/images/page220_full.png
-
-Similarly, Primary collateral property field investigation can be initiated or waived off
-/media/Underwriting/images/page221_full.png
-
-Status will
-change to
-“Initiated”
-/media/Underwriting/images/page222_full.png
-
-Click on
-“Technical
-Evaluation” to
-initiate
-/media/Underwriting/images/page223_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page224_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page225_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page226_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page227_full.png
-
-Enter “Pincode”
-/media/Underwriting/images/page228_full.png
-
-State, City, and District shall
-populate according to Pincode
-/media/Underwriting/images/page229_full.png
-
-Select “Locality”
-from the
-dropdown
-/media/Underwriting/images/page230_full.png
-
-Select “Landmark”
-from the dropdown
-/media/Underwriting/images/page231_full.png
-
-Select
-appropriate
-option
-/media/Underwriting/images/page232_full.png
-
-Select “Unit Type”
-from the dropdown
-/media/Underwriting/images/page233_full.png
-
-Enter the
-“Project/Society/Commercial
-/Industrial/Estate name
-/media/Underwriting/images/page234_full.png
-
-Enter the
-“Building/Wing
-Name”
-/media/Underwriting/images/page235_full.png
-
-Enter the “Floor no.”
-/media/Underwriting/images/page236_full.png
-
-Enter the “Unit No.”
-/media/Underwriting/images/page237_full.png
-
-Select “transaction type”
-from the dropdown
-/media/Underwriting/images/page238_full.png
-
-More property and
-its details can be
-added from here
-/media/Underwriting/images/page239_full.png
-
-More contacts can
-be added from here
-/media/Underwriting/images/page240_full.png
-
-Click on “Proceed”
-/media/Underwriting/images/page241_full.png
-
-Dedupe results of the property shall be displayed here
-/media/Underwriting/images/page242_full.png
-
-Dedupe results can be refreshed,
-redone, or given an UPID from here
-/media/Underwriting/images/page243_full.png
-
-Click on “Proceed”
-/media/Underwriting/images/page244_full.png
-
-Next, we click on Validation & Checks tab to
-initiate the checks
-/media/Underwriting/images/page245_full.png
-
-Click on three dots and “Initiate”
-/media/Underwriting/images/page246_full.png
-
-List of agencies for technical evaluation shall be displayed
-/media/Underwriting/images/page247_full.png
-
-Choose the agency
-as required
-/media/Underwriting/images/page248_full.png
-
-Status of initiation shall be displayed here
-/media/Underwriting/images/page249_full.png
-
-Similarly, to
-waive off, click
-on “Waive “
-/media/Underwriting/images/page250_full.png
-
-Add remarks
-/media/Underwriting/images/page251_full.png
-
-Statius will show
-“Waived Off”
-/media/Underwriting/images/page252_full.png
-
-Similarly, we can initiate/waive off
-Technical, Legal, TSR as per discretion
-/media/Underwriting/images/page253_full.png
-
-Status will change
-to “In progress”
-/media/Underwriting/images/page254_full.png
-
-Once all verifications are done, by
-respective agencies, the status
-will change to “Completed” Case
-will now move to Disbursal
-/media/Underwriting/images/page255_full.png
-
-/media/Underwriting/images/page256_full.png
+E-Financial (ITR+GST)
+if both ITR and GST to be fetched. GST linked to customer PAN
+will be available in drop down in
+GST Number
+tab
+e.
+Enter
+Alternate Mobile Number
+and
+Alternate Email ID
+on which customer has requested
+link
+Imp Note
+:
+It is mandatory to input
+Alternate Mobile Number
+and
+Alternate Email id
+.
+/media/Underwriting/images/page10_img2.jpeg
+/media/Underwriting/images/page10_img3.jpeg
+
+Step 2: Tracking of Order Created
+a.
+Once IMD fees is paid by customer, link will be initiated to customer on mail id to complete
+the order. He will enter his credentials on Income Tax and GST portal and on successful
+authentication, the documents will be fetched.
+b.
+Once link is initiated, Sales team will be able to see Order Details in Pending Document
+section.
+c.
+Till the time, task is not completed by customer,
+Order Status
+will be
+“Response Awaited.”
+d.
+Once task is completed by customer,
+Order Status
+will change to
+“COMPLETED”.
+Also, the
+ITR will be removed from Mandatory document checklist from Pending documents section.
+/media/Underwriting/images/page11_img2.jpeg
+/media/Underwriting/images/page11_img3.jpeg
+/media/Underwriting/images/page11_img4.jpeg
+
+Tracking Finfort at CPH and Underwriting Stage
+
+To check Finfort Status, CPH or Underwriting team to refer
+Ratio Analysis
+and
+Additional
+Financials Details
+tab
+
+To check ITR, click on
+Ratio Analysis
+tab.  Source will be marked as “Electronically”. User can
+also see Finfort Id.
+Status
+will be
+Completed
+if customer has completed Finfort task.
+Imp Note
+: If source is changed from “Electronically” to “Manual” or “Not required”, Finfort
+task will not appear on Finverse screen and user will have to proceed manually to enter
+Financial Data on screen.
+
+To check GST, click on
+Additional Financial Details
+tab
+
+Under
+GSTR Details,
+user
+can
+see
+Order ID
+and
+Status
+/media/Underwriting/images/page12_img2.jpeg
+/media/Underwriting/images/page12_img3.jpeg
+
+Finfort- ITR Initiation and Tracking at Underwriting
+Step 1:
+To Initiate ITR fetch, click on
+Ratio Analysis
+tab
+Step 2
+: Source to selected as
+“Electronically”
+and click on
+Initiate
+Step 3:
+After Initiation, user will get success message and order ID will be generated under
+Finfort ID
+field.
+Status
+will be “In Progress” till the time task is not completed by customer.
+Imp Note
+:
+
+Please click on Save button after Initiation otherwise order will not be executed.
+
+In case, task is completed but Status is not updated then click on Refresh button (
+) to
+get the updated status.
+/media/Underwriting/images/page13_img2.jpeg
+/media/Underwriting/images/page13_img3.jpeg
+/media/Underwriting/images/page13_img4.jpeg
+
+Step 4:
+After successful completion of task by customer,
+Status
+will change to
+Completed
+and user
+can see Finfort Output in
+Document section
+under
+Income and Obligation Documents
+Finfort- GST Initiation and Tracking at Underwriting
+Step 1:
+To Initiate GST fetch, click on
+Additional Financial Details
+tab
+Step 2
+: Source to be selected as
+“Electronically”
+and click on
+Initiate
+Step 3
+: Tick on confirmation message and Click on
+Send
+/media/Underwriting/images/page14_img2.jpeg
+/media/Underwriting/images/page14_img3.jpeg
+/media/Underwriting/images/page14_img4.jpeg
+
+Step 4:
+After initiating,
+Order ID
+will be generated.
+Step 5:
+After successful completion of task by customer,
+Status
+will change to
+Completed
+and user
+can see Finfort Output in
+Document section
+under
+Income and Obligation Documents
+/media/Underwriting/images/page15_img2.jpeg
+
+SOP for Technical Waived Scenarios
+Purpose
+: There are scenarios where users waive Technical Evaluation process., for ex:
+in BT and Top-up cases where technical is already done in BT Deal and Technical is
+waived in Top-up Deal.
+This document mentions the steps to be followed if Technical is to be waived in any
+deal.
+Users to follow the below mentioned steps in deal where Technical is waived:
+Step 1
+: Credit user to waive Technical in
+Property Details
+Screen under
+Validation & Checks
+Step 2:
+Credit user to mention Valuation Amount in
+Eligibility Calculation
+Screen under the
+field
+Appraised Value Primary Collateral
+after clicking on
+Edit Appraised Value
+as
+Yes.
+Step 3:
+Credit user to Trigger LTV on Product Details Screen and ensure that LTV is correctly
+captured in
+LTV%
+field and
+LTV Decision
+is
+Accepted.
+Please ensure that the user clicks on
+Save and Next Button
+on
+Product Details
+screen to save LTV Decision.
+Step 4:
+Credit user to proceed with decision of case.
+Note:
+1.
+Credit Team to complete the above-mentioned steps before sending the case for
+decision. If technical is waived after approval and LTV decision is not saved in Product
+Details screen, user will have to Re-credit the case and again follow the pending steps.
+2.
+If two technical are required, then user will have to waive both the technical and follow
+above mentioned steps.
+3.
+Currently Finverse is not displaying Final LTV, please refer Cumulative LTV field to check
+LTV.
+4.
+User should capture property address in
+Property Details
+screen from technical report
+of Parent Deal, as property address on disbursement documents in such scenarios will
+be captured from
+Property Details
+screen only.  Also upload technical report of Parent
+Deal in
+Document
+section for future reference.
+
+Screenshot of above-mentioned steps:
+Step 1
+: Credit Team to waive Technical in
+Property Details
+Screen under
+Validation & Checks
+Step 2:
+Credit Team to mention Valuation Amount in
+Eligibility Calculation
+Screen under the
+field
+Appraised Value Primary Collateral
+after clicking on
+Edit Appraised Value
+as
+Yes.
+/media/Underwriting/images/page17_img2.jpeg
+/media/Underwriting/images/page17_img3.jpeg
+
+Step 3:
+Credit user to
+Trigger LTV
+on
+Product Details
+Screen and ensure that LTV is correctly
+captured in
+LTV%
+field and
+LTV Decision
+is
+Accepted.
+Please ensure that the user clicks on
+Save and Next Button
+on
+Product Details
+screen to save LTV Decision.
+/media/Underwriting/images/page18_img2.jpeg
+/media/Underwriting/images/page18_img3.jpeg
+
+SOP for FI Waiver Scenarios
+Purpose of Document:
+Currently the underwriting team must waive Field Investigation if Current
+Address of Applicant matches with E-KYC address. When the team waived FI in such scenarios, NFA
+was getting raised at ZCM level.
+An additional tab is developed in Finverse to cater for such scenarios where FI is not required.
+This document mentions the step to be followed for FI waived scenarios
+Steps for waive FI scenarios:
+
+While Initiating FI, user will get option “Waive off/Not Required”
+
+After selecting “Waive off/Not Required” option, user will have option “Not Required” and
+“Waive off”. User to select relevant options and capture appropriate Remarks and click on
+Submit
+/media/Underwriting/images/page19_img2.jpeg
+/media/Underwriting/images/page19_img3.jpeg
+
+
+Status will be updated as “Not Required” if user wants to waive FI as it is not required as per
+policy. Also, NFA related to FI waiver will not be raised, if “Not required” is selected
+/media/Underwriting/images/page20_img2.jpeg
+
+SOP for Query Module in Finverse
+Description:
+
+Query Module provides the feasibility to raise a query at any stage from Lead generation till
+closing of the Loan application in Finverse. Based on the user role and to whom the query to
+be raised, Finverse has Query Tab to raise the query and response as well.
+
+The following features are covered in this document which would explain the flow of Query
+Module to different groups.
+I.
+Raise a query To
+i.
+Internal
+ii.
+Agency
+iii.
+Customer
+II.
+Response to the query From
+i.
+Internal
+ii.
+Agency
+iii.
+Customer
+III.
+Query Status
+Process:
+I.
+Raise a Query
+
+At any User level (for raising or understanding to central team) or module level (for case level
+queries), there is provision for the user to raise a
+Clarification required
+(master
+based)/
+Document Required
+specific to application/
+Clarification required and document
+required
+either to Internal or Agency or customer from Query module in Finverse
+
+The queries are defined based on the module/stage (master driven) however the query can be
+raised to the customer only after completing sourcing section.
+
+Query module can also be raised used by Supervisor/Skip Level Managers if they want to provide
+any clarification/mitigants with regard to particular case
+
+Fields available in Query Module:
+a)
+Category
+: This field is having drop down values: Underwriting, Collateral Technical, Collateral
+Legal, Collateral TSR. User can select respective value from the drop down to specify the
+process for which he wants to raise query.
+b)
+Sub- Category–
+Query sub-category details are majorly classified in to 3 heads from masters they are:
+i.
+Raise Internally: Query will be raised to internal teams of ABHFL i.e., Demog Data Entry
+or Financial Data Entry etc.
+ii.
+Raise to Agency: Query will be raised to external agencies which are vendors of ABHFL
+i.e.,  Legal Agency, Technical Agency, FI Agency & PD Agencies.
+iii.
+Raise to Customer: Query will be raised to the respective customer with regard to their
+Loan application or for any other additional documents required by ABHFL.
+Sub-category Details
+are majorly classified to three heads as per the masters:
+i.
+Clarification Required
+ii.
+Document required
+iii.
+Clarification and Document Required.
+/media/Underwriting/images/page22_img2.jpeg
+/media/Underwriting/images/page22_img3.jpeg
+/media/Underwriting/images/page22_img4.jpeg
+
+c)
+Assign to
+:Selecting query responder/s
+For internal: Initiator of the query will be able to add the responder/s who have worked on the
+loan application and has an option to mark CC (optional) to the stake holders of the loan
+application.
+For Customers: Initiator of the query will be able to add the Responder/s (applicant or co-applicant
+or both) which will be auto populated and has an option to mark CC (optional) to the stake holders
+of the loan application
+For example,
+a.
+If Sourcing Team is raising a query for ‘Documents required’ and selects the applicant/co-
+applicants (To whomever the query related to), then the query will be sent to the
+applicant/co-applicant along with CC to respective sales teams (optional) if CC is marked.
+b.
+If Circle Head also want to get clarification, he also can use this module and raise query.
+Similarly Supervisor from other vertical can also use this module to add clarification/mitigates
+in particular case.
+/media/Underwriting/images/page23_img2.jpeg
+
+d)
+Title:
+There is “Title” query description field where the initiator can capture the query
+description in brief. It is free text and user can briefly describe the query for understanding
+of addressee.
+e)
+Message
+: Initiator of the query has the option to type the actual query (Free text) with max up
+to 1000 characters.
+f)
+Link/Upload Document:
+Initiator of the query has the option to Link/upload the document and
+send the query to respective stakeholders. This will help addressee to understand the subject
+document for which query is raised.
+/media/Underwriting/images/page24_img2.jpeg
+/media/Underwriting/images/page24_img3.jpeg
+/media/Underwriting/images/page24_img4.jpeg
+
+II.
+Response to the Query
+a)
+Response to ‘Raise Internally’
+1.
+Once the internal team receives the query, they can view it on their ‘Query’ screen
+and dashboard respectively.
+2.
+If the query is marked to multiple users/user groups, then any one of the users/user
+groups will be able to respond with solution to the query.
+3.
+The responder will be able to respond to the query by giving inputs and uploading
+documents (If required).
+4.
+After the response is submitted, notifications are triggered to the initiator.
+5.
+The responder to have an option to ‘Mark the query as Resolved and close the
+query or request for Additional Information’.
+6.
+If the initiator is not satisfied with the query resolution, then the initiator will be
+able to request for “additional information” and open the query.
+b)
+Response to ‘Raise to Customer’:
+1.
+In case the query is to upload any documents, once the Customer (primary applicant/co-
+applicant) receives the query, they will be able to respond through TML (Track my Loan).
+2.
+After the response is submitted, notifications are triggered to the initiator
+3.
+If the initiator is satisfied with the query resolution, then the initiator will be able to
+mark the query as Resolved and close the query.
+III.
+Query Status
+1.
+At any stage of the query, any internal user/user group, who are involved in the
+specific query, will be able to check the status, which will be of the following type
+a)
+Open
+b)
+Closed
+2.
+For example, when the query is initiated by the initiator, then the status will be ‘open’
+until it reaches to the responder.
+3.
+If the resolution is marked as resolved, it will be closed.
+4.
+If the resolution is not accepted by the initiator, then the initiator will un-check the
+‘Mark as Resolved’ and the status will be changed to open.
+5.
+So, the same status will be updated and visible to all the users/user group involved in
+the queries.
+6.
+If query is not closed, the user will not be able to decision the case.
+
+SOP for LEI Tagging
+Purpose of this Document:
+This document contains the steps to be followed by users for
+tagging
+Legal Entity Identifier
+(LEI) where a Non-Individual (Entity)
+is on loan structure and the aggregate exposure is more than 5
+crores.
+Steps to tag Legal Entity Identifier (LEI) :
+•
+Go to Regulatory Details >>> Priority Sector Lending
+•
+Click on right arrow to expand which is next to Applicant type (Refer Annexure – Screen
+1)
+•
+Select “LEI code Available” as Yes and enter the LEI no. (Refer Annexure – Screen 2)
+•
+Upon entering the LEI no., Karza integration would get triggered, and expiry date will get
+auto populated (Refer Annexure – Screen 3)
+Note: The LEI no. must be 20-digit alphanumeric characters.
+•
+Click on Save to proceed further
+To check Integration response, below steps to be followed:
+•
+Go to “Verification Checks” >>> Legal Entity Identifier (Refer Annexure - Screen 4)
+•
+If Integration Success, then click on API Response to view the response (Refer Annexure
+- Screen 5)
+Note: If Integration is not triggered then Re-trigger it to get the API response.
+
+Annexures
+Screen 1:
+Screen 2:
+Screen 3:
+/media/Underwriting/images/page27_img2.jpeg
+/media/Underwriting/images/page27_img3.jpeg
+/media/Underwriting/images/page27_img4.jpeg
+
+Screen 4:
+Screen 5:
+Sample Response
+/media/Underwriting/images/page28_img2.jpeg
+/media/Underwriting/images/page28_img3.jpeg
+
+SOP for CRE Tagging
+Purpose of this Document:
+This document contains the steps to be followed by users for
+tagging Commercial Real Estate (CRE).
+Scenarios covered for CRE Tagging
+•
+Technical not Completed
+•
+Technical Completed
+Steps to tag Commercial Real Estate (CRE) :
+Technical not completed:
+•
+Go to Regulatory Details >>> Commercial Real Estate
+•
+Enter no. of units owned including proposed loan in “Dwelling Units” field
+•
+If Technical is not completed then “
+CRE tagging
+” field to be updated manually (Refer
+Annexure – Screen 1)
+•
+Basis “
+CRE Tagging
+” selection, “
+CRE Flag
+” will be auto populated (manually (Refer
+Annexure – Screen 1)
+•
+Remarks to be mentioned if any
+•
+Click on Save & Next to proceed further
+Technical Completed :
+•
+Steps would remail same where Technical is completed
+•
+Only difference would be,
+CRE Tagging
+and
+CRE Flag
+will be auto populated basis
+“Dwelling units” mentioned.
+•
+Additionally, user can click on refresh icon “
+” to fetch the updated values for the
+field “
+CRE Tagging”
+and “
+CRE Flag”
+To check if there are any additional properties associated with PAN then below steps to be
+followed:
+•
+Go to “Verification Checks” >>> Fetch Asset (Refer Annexure - Screen 3)
+/media/Underwriting/images/page29_img2.jpeg
+
+•
+If Integration Success, then click on API Response to get the count of Asset ID’s (Refer
+Annexure - Screen 4)
+Note: If Integration is not triggered then Re-trigger it to get the API response.
+----------------------------------------------------------------------------------------------------------------
+Annexures
+Screen 1:
+Screen 2:
+/media/Underwriting/images/page30_img2.jpeg
+/media/Underwriting/images/page30_img3.jpeg
+
+Screen 3:
+Screen 4:
+Screen 5:
+Sample Response where count of Asset ID’s will appear
+/media/Underwriting/images/page31_img2.jpeg
+/media/Underwriting/images/page31_img3.jpeg
+/media/Underwriting/images/page31_img4.jpeg
+
+SOP for Documents Viewing
+Purpose of this Document:
+This document helps to understand the steps for viewing
+documents under category of heads in Finverse.
+•
+Enter the application no. in Global search for which documents to be viewed
+•
+Go to “Documents” from the left-hand menu to view the uploaded/system generated
+documents
+•
+Additionally, documents can be viewed by clicking on folder icon “
+” from right side.
+•
+Upon clicking on folder icon “
+” documents can be viewed category wise (Refer
+Annexure – Screen 1)
+•
+One can customise the view, by selecting the Left, Right, Top, Bottom & New to view the
+documents (Refer Annexure – Screen 2)
+•
+For detailed view, documents can be categorized basis applicants on loan structure
+along with the document source (Refer Annexure – Screen 3)
+•
+To download entire documents in the loan application, click on “DMS Folder View” >>
+Multi Download >> Select All Documents >> Download Selected (Refer Annexure –
+Screen 4)
+Note: Indicators mentioned against every document denotes:
+“S”
+= System Generated,
+“M”
+= Manual Upload,
+“D”
+= Digitally Fetched
+Example:
+/media/Underwriting/images/page32_img2.jpeg
+/media/Underwriting/images/page32_img3.jpeg
+/media/Underwriting/images/page32_img4.jpeg
+
+Documents Categorization stored under respective
+heads:
+Sr. No
+Type of Document
+Document Head
+1
+EKYC Output from Aadhar
+Identity Proof
+2
+Cibil Report
+Borrower Verification Documents
+3
+Finbox Analysis Report
+Borrower Verification Documents
+4
+PD report
+Borrower Verification Documents
+5
+FI report
+Borrower Verification Documents
+6
+Google Search
+Borrower Verification Documents
+7
+Finfort & GST output
+Income & Obligation Documents
+8
+Jocata and Finverse CAM
+CAM Related Attachments
+9
+Fees Acknowledgement
+Cheques & Related Documents
+10
+RCU report
+DMS View>>CAM Related Attachments
+11
+Sanction Letter
+Disbursement Documents
+
+Annexures
+Screen 1:
+/media/Underwriting/images/page34_img2.jpeg
+
+Screen 2:
+Screen 3:
+Screen 4:
+/media/Underwriting/images/page35_img2.jpeg
+/media/Underwriting/images/page35_img3.jpeg
+/media/Underwriting/images/page35_img4.jpeg
+/media/Underwriting/images/page35_img5.jpeg
+
+SOP for Score Cards
+Purpose of this Document:
+This document contains the steps to be followed by users to auto
+fetch Bureau and Retails Persona (Banking) Scores on Finverse.
+Currently Bureau Score is auto generated on Ezflo and User have to access Ezflo
+for copying the score on Finverse
+Functionality is now built on Finverse Scorecard tile to auto fetch the score on
+Finverse
+Steps to view Scores
+•
+Login to Finverse URL
+https://finverse.adityabirlacapital.com/
+•
+Search for application no.
+•
+Click on Scorecard Tile
+Once clicked on Scorecard tile for the first time, the scores will be
+auto triggered and displayed on screen.
+If score is not generated, then user will have to go on Ezflo and re-trigger the
+scores. Once score is generated, he can click “Re-trigger Scores” on Finverse
+Scorecard tile and latest score will be auto fetched on Finverse
+In case of any changes in data like addition/deletion of co-applicant, change in product,
+change in profile, change in loan amount etc, user can again re-generate the score by
+clicking on “Re-trigger Scores”.  (Refer Annexure)
+Note:
+“Re-trigger Scores” tab on Scorecard tile will only fetch score generated
+from Ezflo. It will not auto trigger Scores on Ezflo.
+Hyperlink is also available on Scorecard tile which user can refer to know Bureau
+Score card policy. Hyperlink named as “Policy Norms for Bureau Scorecard” (Refer
+Annexure 2)
+
+If the scores are not generated or there is difference in Score
+generated on Ezflo and that captured on Finverse then below NFAs
+would get raised.
+Steps to be followed by Credit Manager while
+decisioning the case
+Underwriter will take appropriate decisions based on score displayed in Finverse.
+If the case needs to be rejected due to low score, then underwriter will select “Rejection
+Reason” as per below screenshot by entering his/her remarks.
+/media/Underwriting/images/page37_img2.jpeg
+/media/Underwriting/images/page37_img3.jpeg
+
+Annexures
+Screen 1
+Screen 2
+/media/Underwriting/images/page38_img2.jpeg
+/media/Underwriting/images/page38_img3.jpeg
