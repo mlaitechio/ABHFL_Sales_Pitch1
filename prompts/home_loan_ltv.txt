@@ -13,12 +13,30 @@
 | Home Improvement Loan & Home Construction Loan                                                            |    Not to exceed 100% of cost of construction/improvement estimate subject to overall LTV as per HL grid      |
 | Plot loan for construction of house thereon                                                               |    75% of Documented Value or Market Value whichever is lower                                                 |
 | Low LTV                                                                                                   |  50% of the Market Value of HL<br>HL BT + Top up (top up < 20% of HL BT loan) - 50% of the Market Value<br>HL BT + Top up (top up > 20% of HL BT loan) - 40% of the Market Value |
-| Pragati HL- Type II                                                                                       | Formal/Surrogate 90% Assessed 85%     | Formal/Surrogate 80% Assessed 75% | Formal/Surrogate 75% Assessed 70% |
-| Pragati HL- Type III                                                                                      | Formal/Surrogate 85% Assessed 70%     | Formal/Surrogate 75% Assessed 70% | Formal/Surrogate 70% Assessed 70% |
-| Pragati HL- Type IV                                                                                       |                                        Formal/Surrogate 70% Assessed 60%                                      |
 | Pragati Plus HL Segment 1                                                                                 |                                        <75 Lacs 75% >75 Lacs 70%                                              |
 | Pragati Plus HL Segment 2                                                                                 |                                        <75 Lacs 80% >75 Lacs 75%                                              |
 
+### Pragati Home Loan LTV (Loan to Value) Grid
+
+
+| **Eligibility Income**  | **Type I**  | **Type II** |**Type III** | **Type IV** |
+|-------------------------|-------------|------------|-------------|-------------|
+| **Formal Income **        | NHB LTV  |NHB LTV    |   NHB LTV -5% | NHB LTV -10%  |
+| **Assessed Income**      | NHB LTV    |NHB LTV     | NHB LTV -10%   | NHB LTV -15%  |
+
+NHB LTV-
+1. Up to 30 Lacs- 90%
+2. 30 – 75 Lacs – 80%
+3. >75 Lacs – 75%
+
+Important Note:
+A. For Type III, 
+    Assessed Income : NHB-10% (80% for upto 30 Lakhs & 70% for loan amount from 30 to 75 Lakhs)
+B. For Type IV:
+    ▪ Formal/Surrogate Program : NHB-10% (80% for upto 30L & 70% for loan amount from 30 to 75 L)
+    ▪ Assessed Income : NHB-15% (75% for upto 30L & 65% for loan amount from 30 to 75 L)
+
+---
 
 |                                 | FOIR            |
 | ------------------------------- | --------------- |

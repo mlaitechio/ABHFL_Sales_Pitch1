@@ -73,10 +73,12 @@ NHB LTV-
 2. 30 – 75 Lacs – 80%
 3. >75 Lacs – 75%
 
-A. For Type III, Assessed Income : NHB-10% (80% for upto 30 Lakhs & 70% for loan amount from 30 to 75 Lakhs)
+Important Note:
+A. For Type III, 
+    Assessed Income : NHB-10% (80% for upto 30 Lakhs & 70% for loan amount from 30 to 75 Lakhs)
 B. For Type IV:
-▪ Formal/Surrogate Program : NHB-10% (80% for upto 30L & 70% for loan amount from 30 to 75 L)
-▪ Assessed Income : NHB-15% (75% for upto 30L & 65% for loan amount from 30 to 75 L)
+    ▪ Formal/Surrogate Program : NHB-10% (80% for upto 30L & 70% for loan amount from 30 to 75 L)
+    ▪ Assessed Income : NHB-15% (75% for upto 30L & 65% for loan amount from 30 to 75 L)
 
 ---
 
