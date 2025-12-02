@@ -1,0 +1,170 @@
+1
+Revised PAN Verification Process – SOP
+I. There has been a revision in the PAN verification process where earlier just entering
+the PAN number resulted in fetching of Name and DOB/DOI details
+II. Going ahead, PAN verification will happen only once the customer enters below
+details.
+For Individual
+For Non-Individual
+For Proprietorship
+PAN number
+PAN number
+PAN number
+First Name
+Name of the Entity/Firm
+Name as per PAN
+Middle Name*
+Date of Incorporation
+Date of Birth as per PAN
+Last Name*
+-
+-
+Date of Birth
+-
+-
+Individual
+/media/Revised_PAN_Verification_feature_SOP/images/page1_img2.jpeg
+*Enter DOB details and tab out to run the PAN validation
+
+2
+Non-Individual (Other than Proprietorship)
+Proprietorship
+III. Where all the PAN related fields aren’t verified, but some are green tick will appear against
+the ones verified. In the below example Pan Number and DOI are verified, however Company
+Name isn’t verified
+/media/Revised_PAN_Verification_feature_SOP/images/page2_img1.jpeg
+/media/Revised_PAN_Verification_feature_SOP/images/page2_img2.jpeg
+*Enter DOI details and tab out to run the PAN validation
+*Enter DOB details and tab out to run the PAN validation
+
+3
+IV. Changes w.r.t. PAN integration has happened in the below modules
+1. Sourcing
+2. File login
+3. DDE
+4. Underwriting
+5. Recredit
+6. APF
+7. Seller verification
+8. Agency
+1. Sourcing Stage
+i. At Sourcing stage Sales manager/executive has to enter PAN details as per the below
+mentioned grid to successfully validate the PAN and Save the details
+For Individual
+For Non-Individual
+For Proprietorship
+PAN number
+PAN number
+PAN number
+First Name
+Name of the Entity/Firm
+Name as per PAN
+Middle Name*
+Date of Incorporation
+Date of Birth as per PAN
+Last Name*
+-
+-
+Date of Birth
+-
+-
+/media/Revised_PAN_Verification_feature_SOP/images/page3_img1.png
+*Enter correct Company Name and Re-enter DOI details and tab out to run the PAN validation
+
+4
+2. File login
+i. All the details filled at Sourcing stage flows into File login stage. Revisions can be made as
+appropriate
+ii. Add Applicant option is available here to add co-app and any additions made
+iii. PAN related fields (PAN number + Name + DOB/DOI) once completely validated becomes
+non-editable
+Add Applicant -
+/media/Revised_PAN_Verification_feature_SOP/images/page4_img1.png
+/media/Revised_PAN_Verification_feature_SOP/images/page4_img2.png
+
+5
+3. Demographic Data entry
+i. All the details filled at Sourcing and any revisions made at File login stage, flows into this stage
+ii. Add Applicant option is available here to add co-app and any additions made. PAN
+verification runs for co-app too
+iii. PAN related fields (PAN number + Name + DOB/DOI) once completely validated becomes
+non-editable
+iv. Trigger PAN option would be available here where PAN details entered are incorrect. Where
+PAN details have been completely validated (PAN number + Name + DOB/DOI), then ‘Trigger
+PAN’ button wont be available
+Trigger PAN -:
+/media/Revised_PAN_Verification_feature_SOP/images/page5_img1.png
+*Enter DOB details and tab out to run the PAN validation
+
+6
+Add Applicant -:
+4&5. Underwriting/Recredit Stage
+/media/Revised_PAN_Verification_feature_SOP/images/page6_img1.jpeg
+/media/Revised_PAN_Verification_feature_SOP/images/page6_img2.png
+/media/Revised_PAN_Verification_feature_SOP/images/page6_img3.png
+*Enter DOI details and tab out to run the PAN validation
+
+7
+i. All the details filled at Sourcing and any revisions made at File login stage, flows into this stage
+ii. Add Applicant option is available here to add co-app and any additions made. PAN
+verification runs for co-app too
+iii. PAN related fields (PAN number + Name + DOB/DOI) once completely validated becomes
+non-editable
+iv. Trigger PAN option would be available here where PAN details entered are incorrect. Where
+PAN details have been completely validated (PAN number + Name + DOB/DOI), then ‘Trigger
+PAN’ button wont be available
+Trigger PAN -:
+/media/Revised_PAN_Verification_feature_SOP/images/page7_img1.png
+/media/Revised_PAN_Verification_feature_SOP/images/page7_img2.jpeg
+
+8
+Add Applicant -:
+6. APF stage
+i. Currently in the APF module there is provision to enter PAN. Going ahead PAN validation
+feature will work in this module as well in the below screens
+Add New Entity
+/media/Revised_PAN_Verification_feature_SOP/images/page8_img1.png
+/media/Revised_PAN_Verification_feature_SOP/images/page8_img2.png
+*Enter Last Name and tab out to run the PAN validation
+
+9
+Add New Project
+→
+Builder details
+7. Seller Verification
+i. Seller verification section, currently is a non-mandatory section
+ii. Where Seller verification details have been filled, and PAN is selected as mode of
+identification, PAN validation runs over here
+/media/Revised_PAN_Verification_feature_SOP/images/page9_img1.png
+/media/Revised_PAN_Verification_feature_SOP/images/page9_img2.png
+*Enter DOI details and tab out to run the PAN validation
+*Enter DOB details and tab out to run the PAN validation
+
+10
+/media/Revised_PAN_Verification_feature_SOP/images/page10_img1.jpeg
+/media/Revised_PAN_Verification_feature_SOP/images/page10_img2.png
+
+11
+8. Agency Creation
+i. Currently in the Agency creation module, there is provision to enter PAN, however going ahead
+PAN validation feature will work here too
+/media/Revised_PAN_Verification_feature_SOP/images/page11_img1.png
+/media/Revised_PAN_Verification_feature_SOP/images/page11_img2.png
+*Enter DOB details and tab out to run the PAN validation
+*Enter DOB details and tab out to run the PAN validation
+
+12
+Common Reasons for PAN not getting validated
+1. Name as per PAN printed card copy contains Surname first
+Name as per PAN copy -: Kumare Prashant
+Name as per IT database -: Prashant Kumare
+2. Name as per PAN contains single letter first name, however IT database contains complete
+name
+Name as per PAN copy -: G Prem Kumar
+Name as per IT database -: Prem Kumar Ganeshan
+/media/Revised_PAN_Verification_feature_SOP/images/page12_img1.jpeg
+/media/Revised_PAN_Verification_feature_SOP/images/page12_img2.png
+
+13
+/media/Revised_PAN_Verification_feature_SOP/images/page13_img1.jpeg
+/media/Revised_PAN_Verification_feature_SOP/images/page13_img2.png

@@ -1,0 +1,301 @@
+{
+  "file": "FineWise_new\\Payment Lounge Integration in Finverse - SOP.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "Payment Lounge Integration in Finverse - SOP"
+        },
+        {
+          "type": "text",
+          "text": "1. We have recently integrated Payment Lounge with Finverse, where customer payments"
+        },
+        {
+          "type": "text",
+          "text": "towards Processing fees will be routed through Payment lounge."
+        },
+        {
+          "type": "text",
+          "text": "2. At Sourcing stage, Sales team to continue existing process, of triggering payment link to the"
+        },
+        {
+          "type": "text",
+          "text": "customer. Sourcing"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Review Eligibility"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Trigger link"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page1_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page1_img2.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page1_img3.png"
+        },
+        {
+          "type": "text",
+          "text": "Refresh icon can be used"
+        },
+        {
+          "type": "text",
+          "text": "to fetch the latest status"
+        },
+        {
+          "type": "text",
+          "text": "Link can be disabled and resent, in case"
+        },
+        {
+          "type": "text",
+          "text": "of any issues using ‘Disable Link’ option"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "3. Once the payment link is triggered, it lands in the Customer Portal (TML), and customer can"
+        },
+        {
+          "type": "text",
+          "text": "make payment basis same"
+        },
+        {
+          "type": "text",
+          "text": "4. Modes of Payment will be – Scan QR, UPI based, Net Banking and Card based"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page2_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page2_img2.png"
+        },
+        {
+          "type": "text",
+          "text": "Net Banking based mode of payment"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page3_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page3_img2.png"
+        },
+        {
+          "type": "text",
+          "text": "Card based mode of payment"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page4_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page4_img2.png"
+        },
+        {
+          "type": "text",
+          "text": "Scan QR mode of payment"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page5_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page5_img2.png"
+        },
+        {
+          "type": "text",
+          "text": "UPI based mode of payment"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "5. Where transaction fails, Payment status will reflect same, the payment can be re-attempted"
+        },
+        {
+          "type": "text",
+          "text": "5. Where transaction is successful, application moves to the next screen and Application"
+        },
+        {
+          "type": "text",
+          "text": "number (series 3000..) will be generated."
+        },
+        {
+          "type": "text",
+          "text": "6. Once the Payment is completed ‘Payment Acknowledgement’ will be generated and stored"
+        },
+        {
+          "type": "text",
+          "text": "under Finverse Documents section and DMS"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page6_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page6_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "4. Any subsequent payment link trigger for collection of charges such as E- Agreement charges"
+        },
+        {
+          "type": "text",
+          "text": "can be done from Customer Worklist"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Fees & Charges section."
+        },
+        {
+          "type": "text",
+          "text": "5. Payment details will be available for reconciliation in both the Fees and Charges"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Payments"
+        },
+        {
+          "type": "text",
+          "text": "section, Payment Documents"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Cheques and Related documents"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Payment"
+        },
+        {
+          "type": "text",
+          "text": "Acknowledgement"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page7_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page7_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "8"
+        },
+        {
+          "type": "text",
+          "text": "6. Payment Lounge report is also available, which can be used for reconciliation of payments"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page8_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page8_img2.png"
+        }
+      ]
+    }
+  ]
+}

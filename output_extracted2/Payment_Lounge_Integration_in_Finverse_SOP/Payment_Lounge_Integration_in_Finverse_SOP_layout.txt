@@ -1,0 +1,71 @@
+
+1
+Payment Lounge Integration in Finverse - SOP
+1. We have recently integrated Payment Lounge with Finverse, where customer payments
+towards Processing fees will be routed through Payment lounge.
+2. At Sourcing stage, Sales team to continue existing process, of triggering payment link to the
+customer. Sourcing
+→
+Review Eligibility
+→
+Trigger link
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page1_img2.png
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page1_img3.png
+Refresh icon can be used
+to fetch the latest status
+Link can be disabled and resent, in case
+of any issues using ‘Disable Link’ option
+
+2
+3. Once the payment link is triggered, it lands in the Customer Portal (TML), and customer can
+make payment basis same
+4. Modes of Payment will be – Scan QR, UPI based, Net Banking and Card based
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page2_img1.png
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page2_img2.png
+Net Banking based mode of payment
+
+3
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page3_img1.png
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page3_img2.png
+Card based mode of payment
+
+4
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page4_img1.png
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page4_img2.png
+Scan QR mode of payment
+
+5
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page5_img1.png
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page5_img2.png
+UPI based mode of payment
+
+6
+5. Where transaction fails, Payment status will reflect same, the payment can be re-attempted
+5. Where transaction is successful, application moves to the next screen and Application
+number (series 3000..) will be generated.
+6. Once the Payment is completed ‘Payment Acknowledgement’ will be generated and stored
+under Finverse Documents section and DMS
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page6_img1.png
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page6_img2.png
+
+7
+4. Any subsequent payment link trigger for collection of charges such as E- Agreement charges
+can be done from Customer Worklist
+→
+Fees & Charges section.
+5. Payment details will be available for reconciliation in both the Fees and Charges
+→
+Payments
+section, Payment Documents
+→
+Cheques and Related documents
+→
+Payment
+Acknowledgement
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page7_img1.png
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page7_img2.png
+
+8
+6. Payment Lounge report is also available, which can be used for reconciliation of payments
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page8_img1.jpeg
+/media/Payment_Lounge_Integration_in_Finverse_SOP/images/page8_img2.png

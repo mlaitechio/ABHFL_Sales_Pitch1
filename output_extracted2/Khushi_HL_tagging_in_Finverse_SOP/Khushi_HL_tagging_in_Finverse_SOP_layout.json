@@ -1,0 +1,437 @@
+{
+  "file": "FineWise_new\\Khushi HL tagging in Finverse - SOP.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "Processing Khushi HL in Finverse – SOP"
+        },
+        {
+          "type": "text",
+          "text": "1. In line with the ABHFL Product offering we have added ‘Khushi HL’ as a sub variant in Finverse."
+        },
+        {
+          "type": "text",
+          "text": "Khushi HL will be available as a sub variant for below combinations"
+        },
+        {
+          "type": "text",
+          "text": "*This selection will be applicable only for Non-BT and RI selections"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page1_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page1_img2.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page1_img3.png"
+        },
+        {
+          "type": "text",
+          "text": "Segment"
+        },
+        {
+          "type": "text",
+          "text": "Product"
+        },
+        {
+          "type": "text",
+          "text": "Variant"
+        },
+        {
+          "type": "text",
+          "text": "Sub variant"
+        },
+        {
+          "type": "text",
+          "text": "Informal"
+        },
+        {
+          "type": "text",
+          "text": "Home Loan"
+        },
+        {
+          "type": "text",
+          "text": "Home Loan Purchase"
+        },
+        {
+          "type": "text",
+          "text": "Khushi HL New"
+        },
+        {
+          "type": "text",
+          "text": "Informal"
+        },
+        {
+          "type": "text",
+          "text": "Home Loan"
+        },
+        {
+          "type": "text",
+          "text": "Home Construction Loan"
+        },
+        {
+          "type": "text",
+          "text": "Khushi HL New"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "2. At Sourcing stage Sales executive/RM to capture the details as mentioned above and submit"
+        },
+        {
+          "type": "text",
+          "text": "the application ahead"
+        },
+        {
+          "type": "text",
+          "text": "3. Details as filled at Sourcing stage, will flow ahead to further stages – File login, DDE,"
+        },
+        {
+          "type": "text",
+          "text": "Underwriting. Revisions can be made to the sub-variant wherever needed"
+        },
+        {
+          "type": "text",
+          "text": "4. Benchmark Type applicable for Khushi HL is ARR17. At DDE stage (and even at stages ahead),"
+        },
+        {
+          "type": "text",
+          "text": "ARR17 will be visible, along with current configured rate against same. Currently benchmark"
+        },
+        {
+          "type": "text",
+          "text": "rate for ARR 17 is 5.5%"
+        },
+        {
+          "type": "text",
+          "text": "5. CPH team completes the checks, and pushes the application ahead to Underwriting. At"
+        },
+        {
+          "type": "text",
+          "text": "Underwriting stage, fulfilment of relevant criteria will be checked for Khushi HL. Where the"
+        },
+        {
+          "type": "text",
+          "text": "norms have not been met and sub variant is selected as Khushi HL, a ‘No Go’ NFA will be"
+        },
+        {
+          "type": "text",
+          "text": "triggered"
+        },
+        {
+          "type": "text",
+          "text": "Parameter"
+        },
+        {
+          "type": "text",
+          "text": "Value"
+        },
+        {
+          "type": "text",
+          "text": "Mapping"
+        },
+        {
+          "type": "text",
+          "text": "Remarks"
+        },
+        {
+          "type": "text",
+          "text": "Loan Amount"
+        },
+        {
+          "type": "text",
+          "text": "Maximum 20 lakhs"
+        },
+        {
+          "type": "text",
+          "text": "Product details"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Loan"
+        },
+        {
+          "type": "text",
+          "text": "amount"
+        },
+        {
+          "type": "text",
+          "text": "This is including both"
+        },
+        {
+          "type": "text",
+          "text": "Primary and"
+        },
+        {
+          "type": "text",
+          "text": "Secondary Product"
+        },
+        {
+          "type": "text",
+          "text": "Property Area"
+        },
+        {
+          "type": "text",
+          "text": "Maximum 60sqm"
+        },
+        {
+          "type": "text",
+          "text": "(645.83 sqft)"
+        },
+        {
+          "type": "text",
+          "text": "Technical task"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Carpet"
+        },
+        {
+          "type": "text",
+          "text": "area"
+        },
+        {
+          "type": "text",
+          "text": "Annual"
+        },
+        {
+          "type": "text",
+          "text": "Household"
+        },
+        {
+          "type": "text",
+          "text": "Income"
+        },
+        {
+          "type": "text",
+          "text": "Maximum 6 lakhs"
+        },
+        {
+          "type": "text",
+          "text": "Income details"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Total"
+        },
+        {
+          "type": "text",
+          "text": "Appraised Annual Income"
+        },
+        {
+          "type": "text",
+          "text": "Maximum 6 lakhs is"
+        },
+        {
+          "type": "text",
+          "text": "for Applicant + Co-"
+        },
+        {
+          "type": "text",
+          "text": "app/s on loan"
+        },
+        {
+          "type": "text",
+          "text": "structure whose"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page2_img1.jpeg"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "Income considered is"
+        },
+        {
+          "type": "text",
+          "text": "tagged as Yes"
+        },
+        {
+          "type": "text",
+          "text": "‘No Go’ NFA -:"
+        },
+        {
+          "type": "text",
+          "text": "Loan amount -:"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page3_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page3_img2.jpeg"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "Carpet Area -:"
+        },
+        {
+          "type": "text",
+          "text": "Annual Household Income -:"
+        },
+        {
+          "type": "text",
+          "text": "6. Maximum ROI that can be availed for Khushi HL is ARR17 + 7%. Where the RM mentions a"
+        },
+        {
+          "type": "text",
+          "text": "higher Proposed rate while availing Pricing Approval, a hard stop will be displayed as below."
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page4_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page4_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "Currently ARR 17 is configured as 5.5%, hence the maximum ROI that can be proposed for"
+        },
+        {
+          "type": "text",
+          "text": "Khushi HL will be 12.5%"
+        },
+        {
+          "type": "text",
+          "text": "7. Khushi HL tagging will be visible under Application form, Sanction letter, KFS wherever sub"
+        },
+        {
+          "type": "text",
+          "text": "variant details reflect. Some samples below"
+        },
+        {
+          "type": "text",
+          "text": "Application form -:"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page5_img1.jpeg"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "Jocata CAM  -:"
+        },
+        {
+          "type": "text",
+          "text": "Sanction Letter -:"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page6_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page6_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "Key Facts Statement -:"
+        },
+        {
+          "type": "text",
+          "text": "8. NDC DI checklist would have below point, against which fulfilment to be checked"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page7_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page7_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "8"
+        },
+        {
+          "type": "image",
+          "file": "/media/Khushi_HL_tagging_in_Finverse_SOP/images/page8_img1.png"
+        }
+      ]
+    }
+  ]
+}

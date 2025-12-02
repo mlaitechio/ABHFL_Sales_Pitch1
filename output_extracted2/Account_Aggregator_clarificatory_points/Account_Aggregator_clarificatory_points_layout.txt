@@ -1,0 +1,47 @@
+
+ACCOUNT AGGREGATOR – Clarificatory Points
+1.  How to handle instances, where Incomplete data is fetched from Account
+Aggregator, end post completion of Account Aggregator task and submission of
+requisite OTPs ?
+Answer -:
+Data fetched from Account Aggregator is basis the date range selected in Finverse.
+Where additional banking is needed, Account Aggregator task needs to be retriggered
+from Finverse, post filling in the requisite bank details as mentioned below
+/media/Account_Aggregator_clarificatory_points/images/page1_img1.png
+
+Post this the customer can click on Initiate and complete the rest steps from here, as
+mentioned in the SOP
+2. How to handle scenarios where excel output is not generated ?
+Answer -:
+/media/Account_Aggregator_clarificatory_points/images/page2_img1.png
+/media/Account_Aggregator_clarificatory_points/images/page2_img2.png
+
+Where the Banking Analysis mode is other than ‘Manual’ banking excel output will be
+available. Only where the mode is ‘Finbox Integration (Upload)’ or  ‘Finbox Integration
+(Send Link to Customer)’ .
+Where issue is being faced, despite verifying above, Jira to be raised to support team.
+3. How to move ahead, where bank details are not being fetched post entering mobile
+number in Track My Loan portal ?
+Answer -:
+Mobile number entered for Account Aggregator task in Track My Loan portal needs to be
+same as the one linked to the respective bank account, else details won’t be fetched
+Mobile number entry screen in Track My Loan portal as below
+/media/Account_Aggregator_clarificatory_points/images/page3_img1.png
+
+4. How to check the latest status of Account Aggregator task post initiation in Finverse ?
+Answer -:
+Once initiated the status of the Account Aggregator task will appear as ‘In Progress’, as
+below
+Once completed,  the status will appear as below  ‘Completed’ and the excel report
+output, fetched from Account Aggregator task will be visible on UI
+/media/Account_Aggregator_clarificatory_points/images/page4_img1.png
+/media/Account_Aggregator_clarificatory_points/images/page4_img2.png
+
+5. How to handle technical errors faced in Track My Portal, while completing Account
+Aggregator task post selecting the Account Aggregator vendor ?
+Answer -:
+Post selecting Account Aggregator partner from below, if technical errors or issues are
+faced, user can switch the partner and try to complete the process.
+Where issue is being faced, despite verifying above, Jira to be raised to support team.
+/media/Account_Aggregator_clarificatory_points/images/page5_img1.png
+/media/Account_Aggregator_clarificatory_points/images/page5_img2.jpeg

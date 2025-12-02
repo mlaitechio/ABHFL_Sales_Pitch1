@@ -1,0 +1,87 @@
+
+Multi Account Aggregator - SOP
+
+1.
+Click here
+option
+to
+complete To Do List on
+home screen.
+2.The pending task will
+also be displayed in
+To
+Do
+tab.
+
+/media/Multi_AA_SOP/images/page3_img1.jpeg
+Bank statement
+fetch trigger
+date and time is
+displayed here.
+Click on
+Proceed
+
+/media/Multi_AA_SOP/images/page4_img1.jpeg
+Enter your bank
+name in search
+bar or select
+from other banks
+options
+
+/media/Multi_AA_SOP/images/page5_img1.jpeg
+Click on
+Fetch
+using Phone
+number
+to get
+financial statement
+through Account
+Aggregator
+
+/media/Multi_AA_SOP/images/page6_img1.jpeg
+m
+Select Onemoney to
+proceed
+( Onemoney is preferred)
+
+/media/Multi_AA_SOP/images/page7_img1.png
+Enter Phone
+number
+linked to your
+account here.
+Click on
+Proceed.
+
+/media/Multi_AA_SOP/images/page8_img1.jpeg
+Enter OTP received
+on your number for
+verification.
+
+/media/Multi_AA_SOP/images/page9_img1.jpeg
+After entering
+OTP , click on
+verify to proceed
+
+/media/Multi_AA_SOP/images/page10_img1.png
+Select the Account
+from the list of linked
+accounts. All accounts
+linked to the phone
+number is displayed .
+****
+****
+****
+
+/media/Multi_AA_SOP/images/page11_img1.jpeg
+Click on I Agree to
+give consent to share
+financial statement.
+
+/media/Multi_AA_SOP/images/page12_img1.jpeg
+Confirmation message
+displays on the screen
+“
+Your bank Account is
+connected successfully”
+and your task will move to
+completed stage.

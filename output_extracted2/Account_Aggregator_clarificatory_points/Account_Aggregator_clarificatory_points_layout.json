@@ -1,0 +1,198 @@
+{
+  "file": "FineWise_new\\Account Aggregator clarificatory points.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "ACCOUNT AGGREGATOR – Clarificatory Points"
+        },
+        {
+          "type": "text",
+          "text": "1.  How to handle instances, where Incomplete data is fetched from Account"
+        },
+        {
+          "type": "text",
+          "text": "Aggregator, end post completion of Account Aggregator task and submission of"
+        },
+        {
+          "type": "text",
+          "text": "requisite OTPs ?"
+        },
+        {
+          "type": "text",
+          "text": "Answer -:"
+        },
+        {
+          "type": "text",
+          "text": "Data fetched from Account Aggregator is basis the date range selected in Finverse."
+        },
+        {
+          "type": "text",
+          "text": "Where additional banking is needed, Account Aggregator task needs to be retriggered"
+        },
+        {
+          "type": "text",
+          "text": "from Finverse, post filling in the requisite bank details as mentioned below"
+        },
+        {
+          "type": "image",
+          "file": "/media/Account_Aggregator_clarificatory_points/images/page1_img1.png"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "Post this the customer can click on Initiate and complete the rest steps from here, as"
+        },
+        {
+          "type": "text",
+          "text": "mentioned in the SOP"
+        },
+        {
+          "type": "text",
+          "text": "2. How to handle scenarios where excel output is not generated ?"
+        },
+        {
+          "type": "text",
+          "text": "Answer -:"
+        },
+        {
+          "type": "image",
+          "file": "/media/Account_Aggregator_clarificatory_points/images/page2_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Account_Aggregator_clarificatory_points/images/page2_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "Where the Banking Analysis mode is other than ‘Manual’ banking excel output will be"
+        },
+        {
+          "type": "text",
+          "text": "available. Only where the mode is ‘Finbox Integration (Upload)’ or  ‘Finbox Integration"
+        },
+        {
+          "type": "text",
+          "text": "(Send Link to Customer)’ ."
+        },
+        {
+          "type": "text",
+          "text": "Where issue is being faced, despite verifying above, Jira to be raised to support team."
+        },
+        {
+          "type": "text",
+          "text": "3. How to move ahead, where bank details are not being fetched post entering mobile"
+        },
+        {
+          "type": "text",
+          "text": "number in Track My Loan portal ?"
+        },
+        {
+          "type": "text",
+          "text": "Answer -:"
+        },
+        {
+          "type": "text",
+          "text": "Mobile number entered for Account Aggregator task in Track My Loan portal needs to be"
+        },
+        {
+          "type": "text",
+          "text": "same as the one linked to the respective bank account, else details won’t be fetched"
+        },
+        {
+          "type": "text",
+          "text": "Mobile number entry screen in Track My Loan portal as below"
+        },
+        {
+          "type": "image",
+          "file": "/media/Account_Aggregator_clarificatory_points/images/page3_img1.png"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "4. How to check the latest status of Account Aggregator task post initiation in Finverse ?"
+        },
+        {
+          "type": "text",
+          "text": "Answer -:"
+        },
+        {
+          "type": "text",
+          "text": "Once initiated the status of the Account Aggregator task will appear as ‘In Progress’, as"
+        },
+        {
+          "type": "text",
+          "text": "below"
+        },
+        {
+          "type": "text",
+          "text": "Once completed,  the status will appear as below  ‘Completed’ and the excel report"
+        },
+        {
+          "type": "text",
+          "text": "output, fetched from Account Aggregator task will be visible on UI"
+        },
+        {
+          "type": "image",
+          "file": "/media/Account_Aggregator_clarificatory_points/images/page4_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Account_Aggregator_clarificatory_points/images/page4_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "5. How to handle technical errors faced in Track My Portal, while completing Account"
+        },
+        {
+          "type": "text",
+          "text": "Aggregator task post selecting the Account Aggregator vendor ?"
+        },
+        {
+          "type": "text",
+          "text": "Answer -:"
+        },
+        {
+          "type": "text",
+          "text": "Post selecting Account Aggregator partner from below, if technical errors or issues are"
+        },
+        {
+          "type": "text",
+          "text": "faced, user can switch the partner and try to complete the process."
+        },
+        {
+          "type": "text",
+          "text": "Where issue is being faced, despite verifying above, Jira to be raised to support team."
+        },
+        {
+          "type": "image",
+          "file": "/media/Account_Aggregator_clarificatory_points/images/page5_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Account_Aggregator_clarificatory_points/images/page5_img2.jpeg"
+        }
+      ]
+    }
+  ]
+}

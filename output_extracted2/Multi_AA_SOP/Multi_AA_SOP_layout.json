@@ -1,0 +1,369 @@
+{
+  "file": "FineWise_new\\Multi AA_SOP.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "Multi Account Aggregator - SOP"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page2_img1.png"
+        },
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "text",
+          "text": "Click here"
+        },
+        {
+          "type": "text",
+          "text": "option"
+        },
+        {
+          "type": "text",
+          "text": "to"
+        },
+        {
+          "type": "text",
+          "text": "complete To Do List on"
+        },
+        {
+          "type": "text",
+          "text": "home screen."
+        },
+        {
+          "type": "text",
+          "text": "2.The pending task will"
+        },
+        {
+          "type": "text",
+          "text": "also be displayed in"
+        },
+        {
+          "type": "text",
+          "text": "To"
+        },
+        {
+          "type": "text",
+          "text": "Do"
+        },
+        {
+          "type": "text",
+          "text": "tab."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page3_img1.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "Bank statement"
+        },
+        {
+          "type": "text",
+          "text": "fetch trigger"
+        },
+        {
+          "type": "text",
+          "text": "date and time is"
+        },
+        {
+          "type": "text",
+          "text": "displayed here."
+        },
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "Proceed"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page4_img1.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "Enter your bank"
+        },
+        {
+          "type": "text",
+          "text": "name in search"
+        },
+        {
+          "type": "text",
+          "text": "bar or select"
+        },
+        {
+          "type": "text",
+          "text": "from other banks"
+        },
+        {
+          "type": "text",
+          "text": "options"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page5_img1.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "Fetch"
+        },
+        {
+          "type": "text",
+          "text": "using Phone"
+        },
+        {
+          "type": "text",
+          "text": "number"
+        },
+        {
+          "type": "text",
+          "text": "to get"
+        },
+        {
+          "type": "text",
+          "text": "financial statement"
+        },
+        {
+          "type": "text",
+          "text": "through Account"
+        },
+        {
+          "type": "text",
+          "text": "Aggregator"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page6_img1.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "m"
+        },
+        {
+          "type": "text",
+          "text": "Select Onemoney to"
+        },
+        {
+          "type": "text",
+          "text": "proceed"
+        },
+        {
+          "type": "text",
+          "text": "( Onemoney is preferred)"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page7_img1.png"
+        },
+        {
+          "type": "text",
+          "text": "Enter Phone"
+        },
+        {
+          "type": "text",
+          "text": "number"
+        },
+        {
+          "type": "text",
+          "text": "linked to your"
+        },
+        {
+          "type": "text",
+          "text": "account here."
+        },
+        {
+          "type": "text",
+          "text": "Click on"
+        },
+        {
+          "type": "text",
+          "text": "Proceed."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page8_img1.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "Enter OTP received"
+        },
+        {
+          "type": "text",
+          "text": "on your number for"
+        },
+        {
+          "type": "text",
+          "text": "verification."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page9_img1.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "After entering"
+        },
+        {
+          "type": "text",
+          "text": "OTP , click on"
+        },
+        {
+          "type": "text",
+          "text": "verify to proceed"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page10_img1.png"
+        },
+        {
+          "type": "text",
+          "text": "Select the Account"
+        },
+        {
+          "type": "text",
+          "text": "from the list of linked"
+        },
+        {
+          "type": "text",
+          "text": "accounts. All accounts"
+        },
+        {
+          "type": "text",
+          "text": "linked to the phone"
+        },
+        {
+          "type": "text",
+          "text": "number is displayed ."
+        },
+        {
+          "type": "text",
+          "text": "****"
+        },
+        {
+          "type": "text",
+          "text": "****"
+        },
+        {
+          "type": "text",
+          "text": "****"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page11_img1.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "Click on I Agree to"
+        },
+        {
+          "type": "text",
+          "text": "give consent to share"
+        },
+        {
+          "type": "text",
+          "text": "financial statement."
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "image",
+          "file": "/media/Multi_AA_SOP/images/page12_img1.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "Confirmation message"
+        },
+        {
+          "type": "text",
+          "text": "displays on the screen"
+        },
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "text",
+          "text": "Your bank Account is"
+        },
+        {
+          "type": "text",
+          "text": "connected successfully”"
+        },
+        {
+          "type": "text",
+          "text": "and your task will move to"
+        },
+        {
+          "type": "text",
+          "text": "completed stage."
+        }
+      ]
+    }
+  ]
+}

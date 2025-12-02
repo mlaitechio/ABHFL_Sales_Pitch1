@@ -1,0 +1,105 @@
+
+1
+Processing Khushi HL in Finverse – SOP
+1. In line with the ABHFL Product offering we have added ‘Khushi HL’ as a sub variant in Finverse.
+Khushi HL will be available as a sub variant for below combinations
+*This selection will be applicable only for Non-BT and RI selections
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page1_img2.png
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page1_img3.png
+Segment
+Product
+Variant
+Sub variant
+Informal
+Home Loan
+Home Loan Purchase
+Khushi HL New
+Informal
+Home Loan
+Home Construction Loan
+Khushi HL New
+
+2
+2. At Sourcing stage Sales executive/RM to capture the details as mentioned above and submit
+the application ahead
+3. Details as filled at Sourcing stage, will flow ahead to further stages – File login, DDE,
+Underwriting. Revisions can be made to the sub-variant wherever needed
+4. Benchmark Type applicable for Khushi HL is ARR17. At DDE stage (and even at stages ahead),
+ARR17 will be visible, along with current configured rate against same. Currently benchmark
+rate for ARR 17 is 5.5%
+5. CPH team completes the checks, and pushes the application ahead to Underwriting. At
+Underwriting stage, fulfilment of relevant criteria will be checked for Khushi HL. Where the
+norms have not been met and sub variant is selected as Khushi HL, a ‘No Go’ NFA will be
+triggered
+Parameter
+Value
+Mapping
+Remarks
+Loan Amount
+Maximum 20 lakhs
+Product details
+→
+Loan
+amount
+This is including both
+Primary and
+Secondary Product
+Property Area
+Maximum 60sqm
+(645.83 sqft)
+Technical task
+→
+Carpet
+area
+Annual
+Household
+Income
+Maximum 6 lakhs
+Income details
+→
+Total
+Appraised Annual Income
+Maximum 6 lakhs is
+for Applicant + Co-
+app/s on loan
+structure whose
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page2_img1.jpeg
+
+3
+Income considered is
+tagged as Yes
+‘No Go’ NFA -:
+Loan amount -:
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page3_img1.jpeg
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page3_img2.jpeg
+
+4
+Carpet Area -:
+Annual Household Income -:
+6. Maximum ROI that can be availed for Khushi HL is ARR17 + 7%. Where the RM mentions a
+higher Proposed rate while availing Pricing Approval, a hard stop will be displayed as below.
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page4_img1.jpeg
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page4_img2.png
+
+5
+Currently ARR 17 is configured as 5.5%, hence the maximum ROI that can be proposed for
+Khushi HL will be 12.5%
+7. Khushi HL tagging will be visible under Application form, Sanction letter, KFS wherever sub
+variant details reflect. Some samples below
+Application form -:
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page5_img1.jpeg
+
+6
+Jocata CAM  -:
+Sanction Letter -:
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page6_img1.png
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page6_img2.png
+
+7
+Key Facts Statement -:
+8. NDC DI checklist would have below point, against which fulfilment to be checked
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page7_img1.png
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page7_img2.png
+
+8
+/media/Khushi_HL_tagging_in_Finverse_SOP/images/page8_img1.png

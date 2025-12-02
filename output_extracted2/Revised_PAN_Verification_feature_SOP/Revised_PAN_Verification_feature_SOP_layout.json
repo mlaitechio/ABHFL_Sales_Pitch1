@@ -1,0 +1,706 @@
+{
+  "file": "FineWise_new\\Revised - PAN Verification feature - SOP.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "items": [
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "Revised PAN Verification Process – SOP"
+        },
+        {
+          "type": "text",
+          "text": "I. There has been a revision in the PAN verification process where earlier just entering"
+        },
+        {
+          "type": "text",
+          "text": "the PAN number resulted in fetching of Name and DOB/DOI details"
+        },
+        {
+          "type": "text",
+          "text": "II. Going ahead, PAN verification will happen only once the customer enters below"
+        },
+        {
+          "type": "text",
+          "text": "details."
+        },
+        {
+          "type": "text",
+          "text": "For Individual"
+        },
+        {
+          "type": "text",
+          "text": "For Non-Individual"
+        },
+        {
+          "type": "text",
+          "text": "For Proprietorship"
+        },
+        {
+          "type": "text",
+          "text": "PAN number"
+        },
+        {
+          "type": "text",
+          "text": "PAN number"
+        },
+        {
+          "type": "text",
+          "text": "PAN number"
+        },
+        {
+          "type": "text",
+          "text": "First Name"
+        },
+        {
+          "type": "text",
+          "text": "Name of the Entity/Firm"
+        },
+        {
+          "type": "text",
+          "text": "Name as per PAN"
+        },
+        {
+          "type": "text",
+          "text": "Middle Name*"
+        },
+        {
+          "type": "text",
+          "text": "Date of Incorporation"
+        },
+        {
+          "type": "text",
+          "text": "Date of Birth as per PAN"
+        },
+        {
+          "type": "text",
+          "text": "Last Name*"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Date of Birth"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Individual"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page1_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page1_img2.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "*Enter DOB details and tab out to run the PAN validation"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "items": [
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "text": "Non-Individual (Other than Proprietorship)"
+        },
+        {
+          "type": "text",
+          "text": "Proprietorship"
+        },
+        {
+          "type": "text",
+          "text": "III. Where all the PAN related fields aren’t verified, but some are green tick will appear against"
+        },
+        {
+          "type": "text",
+          "text": "the ones verified. In the below example Pan Number and DOI are verified, however Company"
+        },
+        {
+          "type": "text",
+          "text": "Name isn’t verified"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page2_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page2_img2.jpeg"
+        },
+        {
+          "type": "text",
+          "text": "*Enter DOI details and tab out to run the PAN validation"
+        },
+        {
+          "type": "text",
+          "text": "*Enter DOB details and tab out to run the PAN validation"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "items": [
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "text": "IV. Changes w.r.t. PAN integration has happened in the below modules"
+        },
+        {
+          "type": "text",
+          "text": "1. Sourcing"
+        },
+        {
+          "type": "text",
+          "text": "2. File login"
+        },
+        {
+          "type": "text",
+          "text": "3. DDE"
+        },
+        {
+          "type": "text",
+          "text": "4. Underwriting"
+        },
+        {
+          "type": "text",
+          "text": "5. Recredit"
+        },
+        {
+          "type": "text",
+          "text": "6. APF"
+        },
+        {
+          "type": "text",
+          "text": "7. Seller verification"
+        },
+        {
+          "type": "text",
+          "text": "8. Agency"
+        },
+        {
+          "type": "text",
+          "text": "1. Sourcing Stage"
+        },
+        {
+          "type": "text",
+          "text": "i. At Sourcing stage Sales manager/executive has to enter PAN details as per the below"
+        },
+        {
+          "type": "text",
+          "text": "mentioned grid to successfully validate the PAN and Save the details"
+        },
+        {
+          "type": "text",
+          "text": "For Individual"
+        },
+        {
+          "type": "text",
+          "text": "For Non-Individual"
+        },
+        {
+          "type": "text",
+          "text": "For Proprietorship"
+        },
+        {
+          "type": "text",
+          "text": "PAN number"
+        },
+        {
+          "type": "text",
+          "text": "PAN number"
+        },
+        {
+          "type": "text",
+          "text": "PAN number"
+        },
+        {
+          "type": "text",
+          "text": "First Name"
+        },
+        {
+          "type": "text",
+          "text": "Name of the Entity/Firm"
+        },
+        {
+          "type": "text",
+          "text": "Name as per PAN"
+        },
+        {
+          "type": "text",
+          "text": "Middle Name*"
+        },
+        {
+          "type": "text",
+          "text": "Date of Incorporation"
+        },
+        {
+          "type": "text",
+          "text": "Date of Birth as per PAN"
+        },
+        {
+          "type": "text",
+          "text": "Last Name*"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "Date of Birth"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "text",
+          "text": "-"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page3_img1.png"
+        },
+        {
+          "type": "text",
+          "text": "*Enter correct Company Name and Re-enter DOI details and tab out to run the PAN validation"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "items": [
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "2. File login"
+        },
+        {
+          "type": "text",
+          "text": "i. All the details filled at Sourcing stage flows into File login stage. Revisions can be made as"
+        },
+        {
+          "type": "text",
+          "text": "appropriate"
+        },
+        {
+          "type": "text",
+          "text": "ii. Add Applicant option is available here to add co-app and any additions made"
+        },
+        {
+          "type": "text",
+          "text": "iii. PAN related fields (PAN number + Name + DOB/DOI) once completely validated becomes"
+        },
+        {
+          "type": "text",
+          "text": "non-editable"
+        },
+        {
+          "type": "text",
+          "text": "Add Applicant -"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page4_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page4_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "items": [
+        {
+          "type": "text",
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "3. Demographic Data entry"
+        },
+        {
+          "type": "text",
+          "text": "i. All the details filled at Sourcing and any revisions made at File login stage, flows into this stage"
+        },
+        {
+          "type": "text",
+          "text": "ii. Add Applicant option is available here to add co-app and any additions made. PAN"
+        },
+        {
+          "type": "text",
+          "text": "verification runs for co-app too"
+        },
+        {
+          "type": "text",
+          "text": "iii. PAN related fields (PAN number + Name + DOB/DOI) once completely validated becomes"
+        },
+        {
+          "type": "text",
+          "text": "non-editable"
+        },
+        {
+          "type": "text",
+          "text": "iv. Trigger PAN option would be available here where PAN details entered are incorrect. Where"
+        },
+        {
+          "type": "text",
+          "text": "PAN details have been completely validated (PAN number + Name + DOB/DOI), then ‘Trigger"
+        },
+        {
+          "type": "text",
+          "text": "PAN’ button wont be available"
+        },
+        {
+          "type": "text",
+          "text": "Trigger PAN -:"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page5_img1.png"
+        },
+        {
+          "type": "text",
+          "text": "*Enter DOB details and tab out to run the PAN validation"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "items": [
+        {
+          "type": "text",
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "Add Applicant -:"
+        },
+        {
+          "type": "text",
+          "text": "4&5. Underwriting/Recredit Stage"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page6_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page6_img2.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page6_img3.png"
+        },
+        {
+          "type": "text",
+          "text": "*Enter DOI details and tab out to run the PAN validation"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "items": [
+        {
+          "type": "text",
+          "text": "7"
+        },
+        {
+          "type": "text",
+          "text": "i. All the details filled at Sourcing and any revisions made at File login stage, flows into this stage"
+        },
+        {
+          "type": "text",
+          "text": "ii. Add Applicant option is available here to add co-app and any additions made. PAN"
+        },
+        {
+          "type": "text",
+          "text": "verification runs for co-app too"
+        },
+        {
+          "type": "text",
+          "text": "iii. PAN related fields (PAN number + Name + DOB/DOI) once completely validated becomes"
+        },
+        {
+          "type": "text",
+          "text": "non-editable"
+        },
+        {
+          "type": "text",
+          "text": "iv. Trigger PAN option would be available here where PAN details entered are incorrect. Where"
+        },
+        {
+          "type": "text",
+          "text": "PAN details have been completely validated (PAN number + Name + DOB/DOI), then ‘Trigger"
+        },
+        {
+          "type": "text",
+          "text": "PAN’ button wont be available"
+        },
+        {
+          "type": "text",
+          "text": "Trigger PAN -:"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page7_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page7_img2.jpeg"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "items": [
+        {
+          "type": "text",
+          "text": "8"
+        },
+        {
+          "type": "text",
+          "text": "Add Applicant -:"
+        },
+        {
+          "type": "text",
+          "text": "6. APF stage"
+        },
+        {
+          "type": "text",
+          "text": "i. Currently in the APF module there is provision to enter PAN. Going ahead PAN validation"
+        },
+        {
+          "type": "text",
+          "text": "feature will work in this module as well in the below screens"
+        },
+        {
+          "type": "text",
+          "text": "Add New Entity"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page8_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page8_img2.png"
+        },
+        {
+          "type": "text",
+          "text": "*Enter Last Name and tab out to run the PAN validation"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "items": [
+        {
+          "type": "text",
+          "text": "9"
+        },
+        {
+          "type": "text",
+          "text": "Add New Project"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "text",
+          "text": "Builder details"
+        },
+        {
+          "type": "text",
+          "text": "7. Seller Verification"
+        },
+        {
+          "type": "text",
+          "text": "i. Seller verification section, currently is a non-mandatory section"
+        },
+        {
+          "type": "text",
+          "text": "ii. Where Seller verification details have been filled, and PAN is selected as mode of"
+        },
+        {
+          "type": "text",
+          "text": "identification, PAN validation runs over here"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page9_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page9_img2.png"
+        },
+        {
+          "type": "text",
+          "text": "*Enter DOI details and tab out to run the PAN validation"
+        },
+        {
+          "type": "text",
+          "text": "*Enter DOB details and tab out to run the PAN validation"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "items": [
+        {
+          "type": "text",
+          "text": "10"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page10_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page10_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "items": [
+        {
+          "type": "text",
+          "text": "11"
+        },
+        {
+          "type": "text",
+          "text": "8. Agency Creation"
+        },
+        {
+          "type": "text",
+          "text": "i. Currently in the Agency creation module, there is provision to enter PAN, however going ahead"
+        },
+        {
+          "type": "text",
+          "text": "PAN validation feature will work here too"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page11_img1.png"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page11_img2.png"
+        },
+        {
+          "type": "text",
+          "text": "*Enter DOB details and tab out to run the PAN validation"
+        },
+        {
+          "type": "text",
+          "text": "*Enter DOB details and tab out to run the PAN validation"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "items": [
+        {
+          "type": "text",
+          "text": "12"
+        },
+        {
+          "type": "text",
+          "text": "Common Reasons for PAN not getting validated"
+        },
+        {
+          "type": "text",
+          "text": "1. Name as per PAN printed card copy contains Surname first"
+        },
+        {
+          "type": "text",
+          "text": "Name as per PAN copy -: Kumare Prashant"
+        },
+        {
+          "type": "text",
+          "text": "Name as per IT database -: Prashant Kumare"
+        },
+        {
+          "type": "text",
+          "text": "2. Name as per PAN contains single letter first name, however IT database contains complete"
+        },
+        {
+          "type": "text",
+          "text": "name"
+        },
+        {
+          "type": "text",
+          "text": "Name as per PAN copy -: G Prem Kumar"
+        },
+        {
+          "type": "text",
+          "text": "Name as per IT database -: Prem Kumar Ganeshan"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page12_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page12_img2.png"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "items": [
+        {
+          "type": "text",
+          "text": "13"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page13_img1.jpeg"
+        },
+        {
+          "type": "image",
+          "file": "/media/Revised_PAN_Verification_feature_SOP/images/page13_img2.png"
+        }
+      ]
+    }
+  ]
+}
