@@ -20,7 +20,7 @@
         • GST returns should not be ﬁled in one go & instance of delay in GST ﬁlling should not be more than 3 months in las 12 months.
         • The Net proﬁt margins to be applied on the turnover as per the below Industry Margins:
         • Manufacturing – 8% • Service – 6% • Trading – 4%
-          Max Loan tenure 20 years
+
     ** LTV: **
         • Home Loan: as per Regulatory LTV
         • Loan Against Property: 5% lower to Financial based method LTV norms.

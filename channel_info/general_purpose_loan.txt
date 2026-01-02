@@ -1,0 +1,35 @@
+HL BOOSTER GENERAL PURPOSE LOAN
+
+### What is it all about?
+
+Introduced to support eligible select customers in their home buying journey with General purpose loan (For Home Improvement, Interiors) up to 15% additional loan amount.
+
+### Product Details:
+
+**Type of Loan:** Bundled as an offering with Home loan purchase
+
+**Target Segment:**
+- Salaried customers – ABG/CAT A/CAT B
+- SEP/SENP with CIBIL score of 730+
+
+**Ticket Size:** Loan amount up to 50 lakh (Upto 15% additional loan amount)
+Max Loan Amount:
+Cat A+/A: 50 lakhs
+Other locations: 30 lakhs
+
+Loan Tenure: 
+Same as Home Loan tenure offered
+
+
+### Detailed Parameters:
+
+| Parameter | Norm |
+|---|---|
+| **Loan Amount** | Max loan amount Upto 50 lakhs |
+| **Eligible customer** | • Salaried customers – ABG/CAT A/CAT B<br>• SEP/SENP with CIBIL score of 730
+
++<br>• Applicable only as bundled offering with Home loans (New / Resale)<br>• Negative/Caution profile not to be funded |
+| Eligible Properties | • Applicable for Type I/II collaterals only<br>• Only for self occupation purpose, not to be funded for investment properties<br>• Purchase in approved APF projects only (Cat A & B developers only)<br>• Purchase of resale units<br>• Caution and negative properties/ in negative areas not be funded |
+| Loan Tenure | • Upto 30 yrs |
+| Current Market Value of Property | Total LTV for the loan (HL+ GPL) not to exceed 90% of MV of the property |
+| CIBIL Norm | Salaried: 700 & above<br>Self Employed: 730 & above |GPL Calculation Example:ParticularScenario 1Scenario 2Scenario 3Current Market Value of Property (A)70L1 Cr30LLTV (Bundled offering with HL) (B)80%75%90%Home Loan Amount (A*B) (C)56L75L27LAdditional GPL LTV applicable (D)10%15%N/AGPL Amount (A*D) (E)7L15LGPL not applicableTotal Amount (C+E) (F)63L90L27LEligible amount as per FOIR (G)70L85L27LFinal amount capped to eligibility - (Lower of F & G) (H)63L85L27LGPL applicableYesYesNo

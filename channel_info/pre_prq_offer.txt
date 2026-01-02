@@ -1,0 +1,243 @@
+Preapproved & Prequalified Offer (Active/Ever/Never Mortgage)
+
+1.1 Pre-Approved Norms
+1.1.1 Active Mortage and Ever Mortage
+
+Pre-approved norms for ABC Customer having active oe ever HL with other FI'score
+
+(Note: In Case of any deviation on below mentioned norms customer to be processed as per pre qaulified norms)
+
+| Category           | Parameters                                                        | Salaried                                                                                                                                                                                                          |   | Self Employed                                             |
+|--------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|-----------------------------------------------------------|
+| Product Norms      | Product Applicable                                                | HL                                                                                                                                                                                                                |   |                                                           |
+|                    | Target Customer                                                   | Active Mortgage Selected set history as per Bank Salaried Self-employed:                                                                                                                                          |   | with Ever Mortgage mentioned criteria category A,B and C) |
+|                    | Maximum Loan Amount                                               | 1 Cr                                                                                                                                                                                                                                                                         |
+|                    | Tenure                                                            | As per Existing Policy                                                                                                                                                                                                                                                      |
+|--------------------|
+| Login              | KYC Norms                                                         | As per KYC and AML Policy                                                                                                                                                                                                                                                   |
+|                    | Salary Slip/ITR for SENP                                          | No                                                                                                                                                                                                                |   | No                                                        |
+|                    | 12 months Bank statement Or Latest SOA from Repayment Date        | Yes                                                                                                                                                                                                               |   | Yes                                                       |
+|                    | LOD & FC from Current Lender                                      | Yes(Applicable for BT Case)                                                                                                                                                                                                                                                 |
+|--------------------|
+|                    | FI Residence & Office                                             | Yes(Mandatory)                                                                                                                                                                                                                                                             |
+| Verification       | PD                                                                | Tele PD                                                                                                                                                                                                           |   | As Per Revised PD norms( Refer Annexure 5                 |
+|                    | OCR ( For Fresh HL)                                               | As per existing HL policy                                                                                                                                                                                                                                                   |
+|                    | RCU                                                               | As per existing HL policy                                                                                                                                                                                                                                                   |
+|                    | Technical                                                         | As per existing HL policy                                                                                                                                                                                                                                                   |
+|                    | Legal                                                             | Waived for Yes Identified Peer Group (Refer Annexure 1)                                                                                                                                                                                                                    |
+|--------------------|
+| Financial Sanction | Bureau Norms                                                      | Cibil Score >700                                                                                                                                                                                                                                                            |
+|                    | RTR Norms                                                         | Below mentioned norms of all live loans to be checked from bureau: No 30+ DPD in latest 6 Months <br>No 90+ DPD in latest 6 Months  <br>No Overdue Amount as on Saction Date(exc. Credit Card Card overdue<10000)                                                           |
+|                    | Bounce Norms to be checked from Banking for all active term loans | Nil Bounce in latest 3 months<br>Maximum 1 bounce Maximum in latest 6 months <br>Maximum 2 bounce in latest 12 months                                                                                                                                                      |
+|                    | LTV And Tenure Norms                                              | As per HL policy                                                                                                                                                                                                                                                             |
+|                    | PDD(applicable for active HL takeover)                            | To be checked basis LOD                                                                                                                                                                                                                                                       |
+|                    | Eligibility                                                       |  Offer Populated in Ezy Flow to be validated with below mentioned criteria **Active HL**: Top up norms applicable on Sanction amount of ongoing loan <=11 MOB: BT allowed but No top-up allowed. >11 to 18 MOB: BT allowed and max top-up up to 10% >18 to 24 MOB: BT allowed and max top-up up to 15% >24 to 36 MOB: BT allowed and max top-up up to 20%. >36 MOB: BT allowed & max top-up up to 30% \n **Ever HL**: As per rolled out offer( Refer Annexure2.B) Eligibility derived through closed mortgage loan & MOB (offer amount rolled out separately) (Refer Annexure 2.B)|
+|--------------------|
+| Disbursements      | Enach and EAggreement                                             | Yes |
+
+
+1.2 Pre Qaulified Norms
+
+Pre Qaulified offer applicable fo ABC customers not part of Pre-approval poll.
+
+Product Norms
+| **Parameter**       | **Salaried**                                                    | **Self Employed**              |
+| ------------------- | --------------------------------------------------------------- | ------------------------------ |
+| Product Applicable  | HL and LAP                                                      | HL and LAP                     |
+| Applicable Customer | Existing ABC customers not eligible as per Pre Approved Program | Same                           |
+| Maximum Loan Amount | As per Existing Product Policy                                  | As per Existing Product Policy |
+
+Login Parameters
+| **Parameter**                  | **Salaried**                 | **Self Employed**            |
+| ------------------------------ | ---------------------------- | ---------------------------- |
+| Salary Slip/ITR for SENP       | Yes                          | Yes                          |
+| 6 months Bank Statement        | Yes                          | Yes                          |
+| Latest SOA from Repayment Date | Yes                          | Yes                          |
+| LOD & FC from Current Lender   | Yes (Applicable for BT Case) | Yes (Applicable for BT Case) |
+| KYC Norms                      | As per KYC and AML Policy    | As per KYC and AML Policy    |
+
+Verification Parameters
+| **Parameter**           | **Salaried**                                       | **Self Employed**                                  |
+| ----------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| FI Residence and Office | As per Revised FI Waiver Norms (Refer Annexure: 4) | As per Revised FI Waiver Norms (Refer Annexure: 4) |
+| PD                      | As per Revised PD Norm (Refer Annexure 5)          | As per Revised PD Norm (Refer Annexure 5)          |
+| Legal                   |                                        As per Existing Product Policy                     |
+| Technical               |                                        As per Existing Product Policy                     |
+| OCR                     |                                        As per Existing Product Policy                     |
+| RCU                     |                                         As per Existing Product Policy                    |
+
+
+Financial Sanction Parameters
+
+| **Parameter**                                                     | **Salaried** | **Self Employed**              |
+| ----------------------------------------------------------------- | ------------ | ------------------------------ |
+| Eligibility                                                       |                                              |
+| Bureau Norms                                                      |                                              |
+| RTR Norms of all live to be checked from Bureau                   |       As per Existing Product Policy         |
+| Bounce Norms to be checked from Banking for all active term loans |                                              |
+| LTV and Tenure Norms                                              |                                              |
+| PDD (Applicable for BT loans)                                     |                                              |
+| Top Up Norm on HL loan on Sanction amount (eligible for BT)       |                                              |
+
+Disbursement Parameters
+| **Parameter** | **Salaried** | **Self Employed** |
+| ------------- | ------------ | ----------------- |
+| Enach         | Yes          | Yes               |
+| EAgreement    | Yes          | Yes               |
+
+
+
+
+
+### **2.A. Active Mortgage**
+
+**Offer Calculation Basis**:
+Repayment track record of the latest active loan running.
+
+#### **Multiplier Applied on Sanction Amount (Based on MOB - Months on Book)**
+
+| **MOB (Months on Book)** | **BT (Balance Transfer)** | **Top-up Eligibility**       |
+| ------------------------ | ------------------------- | ---------------------------- |
+| <= 11 MOB                | Allowed                   | Not allowed                  |
+| > 11 to 18 MOB           | Allowed                   | Up to 10% of sanction amount |
+| > 18 to 24 MOB           | Allowed                   | Up to 15% of sanction amount |
+| > 24 to 36 MOB           | Allowed                   | Up to 20% of sanction amount |
+| > 36 MOB                 | Allowed                   | Up to 30% of sanction amount |
+
+---
+
+### **2.B. Ever Mortgage**
+
+**Eligibility Calculation**:
+Based on maximum mortgage loan amount ever served by the customer.
+Multiplier applied using:
+
+* Current **CIBIL score**
+* **Vintage** of disbursed loan
+
+#### **Multiplier Table by CIBIL Score and Vintage**
+
+| **CIBIL Score** | **Salaried - CAT A & B** | **Salaried - CAT C & NA** | **Self Employed** |       |         |       |       |         |       |
+| --------------- | ------------------------ | ------------------------- | ----------------- | ----- | ------- | ----- | ----- | ------- | ----- |
+|                 | <12 M                    | 13–18 M                   | >18 M             | <12 M | 13–18 M | >18 M | <12 M | 13–18 M | >18 M |
+| 701–725         | 100%                     | 110%                      | 115%              | 100%  | 105%    | 110%  | 100%  | 105%    | 110%  |
+| 726–750         | 110%                     | 115%                      | 120%              | 105%  | 110%    | 115%  | 105%  | 110%    | 115%  |
+| >750            | 120%                     | 130%                      | 130%              | 110%  | 115%    | 120%  | 110%  | 115%    | 120%  |
+
+---
+
+### **Notes:**
+
+* **Note 1**: Comparative bureau scores:
+
+| **CIBIL Range** | **Experian** | **CRIF** |
+| --------------- | ------------ | -------- |
+| 701–725         | 726–750      | 613–659  |
+| 726–750         | 751–775      | 670–715  |
+| >750            | >775         | >715     |
+
+* **Note 2**: "Vintage" is calculated from the **first disbursal date** of the **maximum loan ever served**.
+
+Here's the structured data extracted from the latest image, organized for clarity and optimized for LLM parsing:
+
+---
+
+## **2.C. Never Mortgage**
+
+### **Offer Amount Formula:**
+
+$$
+\text{Offer Amount} = \left[(70\% \times \text{Income}) - \text{Current Monthly Obligation}\right] \times 100
+$$
+
+### **Inputs:**
+
+* **Income** is derived using the **Income Estimation Model** (See Annexure 3).
+* **Current Monthly Obligation** is calculated based on standard ROI and loan tenure from bureau-reported products.
+
+---
+
+## **Annexure 3: Income Estimation Model**
+
+* Predicts **gross income** of a customer based on:
+
+  * Demographics
+  * Current obligations
+  * Occupation
+  * Economic factors
+* Attached file: `Income Estimation Model_v2.pptx`
+
+---
+
+## **Annexure 4: Revised PD Norms (Effective May 22, 2024)**
+
+| **Score Card** | **Score** | **Self Employed LA ≤ 50 Lacs** | **Cash Salaried** | **Bank Salaried** |
+| -------------- | --------- | ------------------------------ | ----------------- | ----------------- |
+| Bureau         | D1        | Not Allowed                    | Not Allowed       | Tele PD           |
+| Bureau         | D2        | Not Allowed                    | Not Allowed       | Tele PD           |
+| Bureau         | D3        | Physical PD                    | Physical PD       | Tele PD           |
+| Bureau         | D4        | Physical PD                    | Physical PD       | Tele PD           |
+| Bureau         | D5        | Physical PD                    | Physical PD       | Tele PD           |
+| Bureau         | D6        | Video PD\*                     | Physical PD       | Tele PD           |
+| Bureau         | D7        | Video PD\*                     | Physical PD       | Tele PD           |
+| Bureau         | D8        | Video PD\*                     | Physical PD       | Tele PD           |
+| Bureau         | D9        | Video PD\*                     | Physical PD       | Tele PD           |
+| Bureau         | D10       | Video PD\*                     | Physical PD       | Tele PD           |
+| Bureau         | NA        | Physical PD                    | Physical PD       | Tele PD           |
+
+> **Note:**
+> \*Video PD: Personal Discussion conducted over video call.
+
+---
+
+#ABCD - PA/PQ Process
+
+S. No
+Steps
+Pre-Approved/Pre-Qualified (PA/PQ)
+1
+Lead Source
+Targeted campaigns to existing ABC customers with PA/PQ offer
+2
+Customer Action
+Customer shows interest and sees offer amount on digital platforms..
+3
+Lead Warming
+Lead is sent to the VEM team, who then connects with the customer to probe the loan requirement
+4
+Lead Qualification
+VRM qualifies lead as doable or not.
+5
+Lead Assignment
+If doable, assigned to ABHFL Sales Manager  based on the predefined logic.
+
+Avenues Within ABCD
+Source
+Sub Source
+Offer Type
+ABCD
+MIX Ave
+ABCD
+PA/PQ 
+Pre Approved
+ABCD
+nues
+PQ Never HL 
+Within A
+BCD
+Pre Qualified
+ABCD 
+PA Ever HL 
+Pre Qualified
+
+PA/PQ Offer Check – ezFlo ( Credit Users )
+
+Step 1:
+Log in to the ezFlo using below URL
+https://ezflo.adityabirlacapital.com/
+Step 2:
+Select PA/PQ module from the Dashboard 
+Step 3:
+Enter customer’s mobile no to check the PA offer
+Step 4:
+The PA/PQ details page loads successfully - PA Offer Screen

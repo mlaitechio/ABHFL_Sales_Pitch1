@@ -1,0 +1,15 @@
+ABHFL BRANCH CATEGORIZATION
+
+The below table is to be read in conjunction with the product program where in new locations or geographies to be approved by Business Head and Product Head.
+
+The operating locations for loans offering are defined below:
+
+| Category | Locations |
+|---|---|
+| **A+** | Ahmedabad, Bangalore, Chennai, Delhi NCR, Ghaziabad, Hyderabad, Mumbai, Pune |
+| **A** | Chandigarh, Coimbatore, Indore, Jaipur, Lucknow, Surat |
+| **B** | Agra, Ambala, Aurangabad, Bhopal, Bhubaneshwar, Dehradun, Guntur, Kolkata, Ludhiana, Madurai, Mysuru, Nagpur, Nashik, Nellore, Ratlam, Salem, Tiruchirappalli, Udaipur, Ujjain, Vadodara, Vijayawada, Warangal |
+| **C** | Ajmer, Aligarh, Amravati, Erode, Haridwar, Jalandhar, Jodhpur, Kanpur Dehat, Karim Nagar, Mahabub Nagar, Meerut, Panipat, Patiala, Raipur, Rajkot, Ranchi, Tirupati, Vapi, Visakhapatnam |
+| **D** | Ahmed Nagar, Allahabad, Alwar, Anand, Ankleshwar, Bareilly, Bhatinda, Bhavnagar, Bhilwara, Bilahi, Bilaspur, Chhindwara, Davanagere, Dewas, Eluru, Gandhinagar, Guwahati, Gwalior, Hubli, Itarsi, Jabalpur, Jalgaon, Jamnagar, Jamshedpur, Jhansi, Junagadh, Kakinada, Karnal, Khandwa, Khargone, Kolhapur, Kota, Mahesana, Mangalore, Mathura, Navsari, Ongole, Palanpur, Pali, Puducherry, Rajahmundry, Ratnagiri, Roorkee, Saharanpur, Satna, Shivpuri, Sikar, Siliguri, Solapur, Sonipat, Surendra Nagar, Tiruppur, Valsad, Varanasi, Vellore, Yamuna Nagar |
+
+**Note:** New locations will be added time to time. Any exceptions to the above mentioned locations can be approved by Business Head and Products Head

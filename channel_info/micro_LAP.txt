@@ -1,0 +1,94 @@
+MICRO LAP
+
+### What is it all about?
+
+Introduced to cater to Affordable & Informal customers looking to avail LAP against collaterals with deviations
+
+### Product Details:
+
+**Type of Loan:** Term Loan (to be booked as non-HL) provided for business expansion
+
+**Target Segment:** Salaried / Self-employed / Partnership Firms / LLP
+
+**Ticket Size:** Minimum : Rs. 5 Lakhs 
+Maximum : Type II : CAT A+/A Locations : Rs. 75 Lakhs, CAT B : Rs 50 Lakhs & CAT C/D : 50 Lacs
+Maximum : Type  III Collaterals : CAT A+/A/B locations – Rs. 50 Lakhs,  CAT C/D  – Rs. 30 Lakhs  
+Maximum :  Type IV Collaterals : CAT A+/A locations – Rs. 50 Lakhs,  CAT B  : Rs 30 Lakhs & CAT C/D – Rs. 20 Lakhs
+Maximum :  Special Collaterals :  CAT A & A+ locations – Rs. 30 Lakhs, Others – Rs. 20 Lakhs 
+
+For Surat : Limit of CAT B to be applicable 
+
+**Loan Tenure:**
+- Minimum – 12 months
+- Maximum – 180 months
+
+**Eligible Products:** LAP – Self Occupied Residential Property & LAP – Self Occupied Commercial Property
+
+**Targeted Yield:** 14% - 18%
+
+### Detailed Parameters:
+
+### CIBIL Norms:
+- Score: >= 700 / NTC
+- Enquiries: <=7 in 3 months
+
+### Income Assessment Methods:
+- **Financial Based:** Salary Income – Bank credit & Cash Profit Method (CPM)
+- **Surrogate Based Methods:**
+  - Average Banking Program
+  - Credit Manager Assessed Income Program
+  - CA Assessed Income Program
+  - Cash Salaried
+
+### Business Stability:
+- **Salaried:** Minimum 3 years overall experience & min 6 months employment with current organization
+- **Self Employed:** Minimum >5 years of work experience in same profession
+
+### Residence Stability:
+- **Rented Residence:** Minimum 2 years residence stability in the same city & 1 year in current residence
+- **Owned Residence:** Minimum 1 year in current residence
+
+### Age Norms:
+- Min age: 25 yrs for Salaried & SENP
+- Max age: 60 yrs for Salaried & 65 Years for SENP (for Co-applicant if income is not considered, max age to be 75 yrs)
+- # Maximum age is at the end of loan tenure
+
+BT
+Minimum vintage for Balance Transfer and top up % (Top up limit on original Sanction Amount)
+ <12 MOB BT Not allowed
+ >12-18 MOB BT allowed and max top-up up to 10%
+ >18-24 MOB BT allowed and max top-up up to 15%
+ >24MOB BT allowed and Top-up as per financial and collateral eligibility
+
+Documentation:
+Proof of business to be established by credit manager during PD using surrogates like 3rd party verification, reference checks
+3rd party RCU verification of the Business proof established by Credit Managers
+Wallet transaction statements mandatory to be checked in bank statement
+
+Bureau Scorecard : SENP 1 and 2 Not allowed
+Coverage : NCGTC
+### FOIR:
+
+| Customer Profile | FOIR |
+|---|---|
+| SENP (Formal) | 70% |
+| Salaried Bank | 75% |
+| SEP | 70% |
+| SENP (Assessed) | 60% |
+| Salaried Cash | 50% |
+
+---
+LTV Grid
+    |------------------|---------------|------------|--------------|-------------|---------------|---------------|
+    | Eligibility      | Type II -     | Type II -  |  Type III -  |  Type III - |  Type IV/     |  Type IV/     |
+    | Program          | Residential   | Commercial |  Residential |  Commercial |  Special -    |  Special -    |
+    |                  |               |            |              |             |  Residential  |  Commercial   |
+    |------------------|---------------|------------|--------------|-------------|---------------|---------------|
+    | Formal Income    |  70%          | 65%        | 60%          | 55%         | 55%           | 50%           |
+    |------------------|---------------|------------|--------------|-------------|---------------|---------------|
+    | Assessed/        |               |            |              |             |               |               |
+    | Surrogate Income |  65%          | 60%        | 55%          | 50%         | 50%           | 45%           |
+    |------------------|---------------|------------|--------------|-------------|---------------|---------------|
+For Type II Collateral No further deviation allowed in LTV even to accommodate insurance/processing charges etc.
+ 
+

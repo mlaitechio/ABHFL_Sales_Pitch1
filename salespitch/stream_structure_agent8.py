@@ -13,18 +13,18 @@ from langchain.agents import AgentType
 from langchain_experimental.agents import create_pandas_dataframe_agent
 import time
 
-from .tools import create_tools
+from .tools import create_tools as create_tools_tools1
+from .channel_tools import create_tools as create_tools_channel
 from .prompts import generate_method_prompt, rag_prompt, sales_pitch_prompt
 from .agent_manager import create_agent, create_agent_executor, MEMORY_KEY, create_sales_pitch_agent
 
 load_dotenv()
-
 class ABHFL:
     is_function_calling = 0
     is_sales_pitch_active = False
     is_rag_function_active = False
 
-    def __init__(self, message):
+    def __init__(self, message,email):
         self.API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
         self.RESOURCE_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
         self.Completion_Model = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME")
@@ -48,6 +48,26 @@ class ABHFL:
         self.user_input = ""
         self.store = {}
         self.encoding = tiktoken.encoding_for_model("gpt-4-0613")
+        self.user_email = email  # Will be set when user provides their email
+
+    def set_user_email(self, email: str):
+        """Set the user's email address for tool selection."""
+        self.user_email = email.lower() if email else ""
+
+    def get_tools_based_on_email(self):
+        """Return tools based on user email domain.
+        
+        - If email ends with @adityabirlacapital.com: use tools1.create_tools
+        - If email ends with @abhfl.com: use channel_tools.create_tools
+        - Default: use tools1.create_tools
+        """
+        if self.user_email.endswith("@adityabirlacapital.com"):
+            return create_tools_tools1(self)
+        elif self.user_email.endswith("@abhfl.com"):
+            return create_tools_channel(self)
+        else:
+            # Default to tools1 if no email or unrecognized domain
+            return create_tools_tools1(self)
 
     def num_tokens_from_string(self, string: str) -> int:
         """Returns the number of tokens in a text string."""
@@ -67,26 +87,7 @@ class ABHFL:
         else:
             self.message.insert(0, SystemMessage(content=content))
 
-    # def generate_method(self, prompt_name):
-    #     """Generic method to handle various prompts and update system message."""
-    #     prompt = generate_method_prompt(prompt_name, self.user_input)
-    #     if prompt:
-    #         replaced = False
-    #         for i, message in enumerate(self.message):
-    #             if isinstance(message, SystemMessage):
-    #                 self.message[i] = SystemMessage(content=prompt)
-    #                 replaced = True
-    #                 break
-    #         if not replaced:
-    #             self.message.append(SystemMessage(content=prompt))
-    #         return prompt
-    #     return None
-
-    # def collateral_type(self):
-    #     return self.generate_method("Collateral")
-
-    # ... other generate_method wrappers ...
-
+    
     def all_other_information(self, *args, **kwargs):
         """Function provides all details for products using RAG."""
         if not ABHFL.is_rag_function_active:
@@ -148,8 +149,8 @@ class ABHFL:
         self.user_input = user_input
         self.message.append(HumanMessage(content=user_input))
 
-        # Create tools and agent
-        tools = create_tools(self)
+        # Create tools based on user's email domain
+        tools = self.get_tools_based_on_email()
         agent = create_agent(self.client, tools)
         agent_executor = create_agent_executor(agent, tools)
 
@@ -177,7 +178,7 @@ class ABHFL:
             try:
                 ensure_message_length_within_limit()
                 async for chunk in agent_executor.astream_events(
-                    {"input": user_input, "chat_history": self.message}, version="v1"
+                    {"input": user_input, "chat_history": self.message}, version="v2"
                 ):
                     
                     yield chunk
@@ -185,3 +186,4 @@ class ABHFL:
                 error_message = f"An error occurred: {e}"
                 # print(error_message)
                 yield {"error": error_message}
+        

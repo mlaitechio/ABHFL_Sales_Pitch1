@@ -1,0 +1,48 @@
+GROSS PROFIT METHOD
+
+**Loan Amount:**
+- Minimum → 75 L for Metros and 50 L for Non-Metros
+- Maximum → 15 CR
+
+**FOIR:** Max 60%
+
+**LTV:** As per Product
+
+**Applicable for SENP Customers**
+
+### Eligibility Calculation
+
+Based on average of 2 years GP as per financials capped to a 50% growth over the previous year
+
+**Requirements:**
+- Min cash profit of INR 4 Lakhs
+- Min loan amount: INR 75 Lakhs for Metros & INR 50 lakhs for Non Metros
+- Max decline in turnover or Gross Profit by 20%
+
+**Target market for this program:**
+- Manufacturing businesses
+- Traders who purchase stock in their own books, this needs to be reflected in the financials
+
+**Gross Profit Calculation:**
+- Gross Profit to be reflected in the financials. If the same is not reflected in the financials, the same can be taken from 3CB/3CD (Tax audit report)
+- Interest paid in last 6 months (Annualized Interest) on CC/OD limits to be deducted for eligibility computation purposes
+- Other income can be considered up to 100% of the Eligible Income
+
+### Rental Income
+
+**Income from House Property/Rental Income**
+
+Subject to property mortgaged and rentals escrowed with ABHFL can be considered 100% (i.e. actual net rent)
+
+**Rent consideration norm:**
+
+Current rentals as per copy of lease deed (min 3 months old) with credits reflecting into bank account (6 months period) / occupancy verified by Risk team or in the absence of registered lease agreement, average of last 2 years rentals as reflecting in the ITR
+
+### Documentation
+
+- Latest 6 months banking required from the operating account
+- Loan up to 1 Cr based on ITR/unaudited financials
+- Mandatory 2 years audited financials for loans greater than 1 Cr
+
+---
+

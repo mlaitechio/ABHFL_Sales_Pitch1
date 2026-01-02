@@ -1,6 +1,9 @@
 import os
 import json
+import logging
 from langchain.tools import StructuredTool
+
+logger = logging.getLogger(__name__)
 from .eligibility_calcultor1 import home_loan_eligibility
 from .part_payment1 import part_payment
 from .emi_cal2 import emi_calc
@@ -170,8 +173,10 @@ def create_output_extract_tools(base_dir="output_extracted2"):
                     summary_data = json.load(f)
                 # You can customize how to extract summary
                 description = summary_data.get("summarization", description)
-            except Exception:
-                pass
+            except json.JSONDecodeError as e:
+                logger.warning(f"Invalid JSON in summary file {summary_file}: {e}")
+            except IOError as e:
+                logger.warning(f"Failed to read summary file {summary_file}: {e}")
 
         # Define the function for this tool
         def make_tool_function(layout_path):
@@ -395,7 +400,7 @@ StructuredTool.from_function(
         "ABHFL_branch_categorization", "pragati_home_loan", "pragati_plus", "pragati_aashiyana", "general_purpose_loan", "micro_LAP",
         "micro_CF", "step_up", "step_down", "extended_tenure", "lease_rental_discounting",
         "express_balance_transfer_program", "prime_hl", "prime_lap", "priority_balance_transfer",
-        "semi_fixed", "staff_loan_price", "power_pitches", "nri_assesment_criteria", "PMAY",
+        "semi_fixed", "staff_loan_price", "power_pitches", "nri_assesment_criteria", "PMAY","compliance",
         "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","pre_prq_offer","approved_list_of_financers_mortage_takeover","FOIR_LTV_Max_loan_Grid_Affordable","Go_No_Go_Credit_Filters","Income_Eligibility_Method","Income_Ownership_Matrix","Risk_Assessment_Parameters","Balloon_Payment_prime","Bullet_Payment_prime","Funding_Hotel_Industrial_Educational_Institutes_Norms","Industry_Margin_List","Negative_Collateral","Negative_and_caution_Profiles","Negative_Country_List_for_NRI","Under_Construction_Property_Funding_Norms","Norms_for_Defense_Personnel","Norms_for_HIL_HEL_HCL","sector_specific_norms","insuarance","Norms_ppr_PHCL","Khushi_home_loan","Bureau_Scorecard"
     ]
     

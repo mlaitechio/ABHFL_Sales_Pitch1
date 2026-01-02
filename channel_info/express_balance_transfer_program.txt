@@ -1,0 +1,47 @@
+EXPRESS BT PROGRAM
+
+### What is it all about?
+
+Introduced to cater to customers seeking to fasttrack their balance transfer with avail top-up loan to meet your additional requirements with ease.
+
+### Product Details:
+
+**Type of Loan:** Home Loan Balance Transfer and Top-up
+
+**Target Segment:**
+- Salaried customer
+- Self-employed customers
+
+**Ticket Size:** Loan amount up to 3 Crores
+
+**Loan Tenure:** Loan tenure up to 25 years
+
+### Detailed Parameters:
+
+| Parameters | ABC existing Customers - SENP & Salaried (Others) | New to ABC – HL | New to ABC - LAP |
+|---|---|---|---|
+| **Product Applicable** | HL | HL | LAP |
+| **Loan Amount** | Upto 3 Crs | Upto 3 Crs | Upto 1 Crs |
+| **CIBIL** | Salaried – 700-730<br>SEP &SENP – 700+ | 700+ | 700+ |
+| **Tenure** | HL - Salaried - 25 yrs<br>HL - SEP/SENP - 20 yrs | HL - Salaried - 25 yrs<br>HL - SEP/SENP - 20 yrs | LAP - 15 yrs |
+| **LTV** | HL - As per NHB norms | HL - As per NHB norms | LAP - Resi: 65%<br>LAP - Comm: 55% |
+| **Income Documents & Bank Statement** | Salaried: 3 months salary slip, Form 16 + 6 months Bank statement<br>SEP / SENP: Latest 2 yrs Financials + 6 months Bank statement | | |
+| **Vintage Norms** | Salaried: Overall exp of 3 years and 6 months in current organization<br>SEP / SENP: Minimum Vintage of 3 years | | |
+| **BT + Top Up applicable basis Repayment Track (RTR)** | Minimum vintage for Balance Transfer and top up % (Top up limit on original Sanction Amount)<br>1. < 11 MOB: BT allowed but No top-up allowed<br>2. > 11 to 18 MOB: BT allowed and max top-up up to 10%<br>3. > 18 to 24 MOB: BT allowed and max top-up up to 15%<br>4. > 24 to 36 MOB: BT allowed and max top-up up to 20%<br>5. > 36 MOB: BT allowed & max top-up up to 30% | | |
+
+### BT + TOP UP ILLUSTRATION:
+
+| Particular | Scenario 1 | Scenario 2 | Scenario 3 |
+|---|---|---|---|
+| Current Market Value of Property (A) | 1.20 Cr. | 1.20 Cr. | 1.20 Cr. |
+| MOB | 15 months | 24 months | 24 months |
+| Loan amount sanctioned (B) | 70L | 70L | 70L |
+| Current O/S (C) | 66L | 63L | 58L |
+| Top up multiplier on Original Sanction amount basis MOB (D) | 1.10x | 1.15x | 1.30x |
+| Additional top up ((B*D)-C) (E) | 11L | 17.5L | 33L |
+| Total amount eligible as per RTR (F) | 77L | 80.5L | 91L |
+| LTV % (G) | 75% | 75% | 75% |
+| Total Amount as per LTV (A*G) (H) | 90L | 90L | 90L |
+| BT+Top Up Loan (Lower of E & H) | 77L | 80.5L | 90L |
+
+---

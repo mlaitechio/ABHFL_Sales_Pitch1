@@ -1,0 +1,65 @@
+LEASE RENTAL DISCOUNTING (LRD)
+
+**Loan Amount:**
+- Minimum → 50 lacs - CAT A/B/C
+- Maximum:
+  - CAT A/B (Commercial/Industrial Property) - No Limit
+  - CAT C (Only Commercial Property) - 5 Cr
+  - CAT D (Only Commercial Property) - 3 Cr
+
+### Loan Tenure:
+
+- CAT A & B - Upto 15 years or unexpired lease /LOI period whichever is earlier
+- CAT C/D - Upto 10 years or unexpired lease /LOI period whichever is earlier
+
+### NPV%:
+
+- 90% of Net rent (Post TDS & Taxes effect) - CAT A/B/C
+- 80% of Net rent (Post TDS & Taxes effect) - CAT D
+
+### LTV:
+
+
+| Property Type  | CAT-A                                        | CAT-B                                        | CAT-C               | CAT-D                   |
+| -------------- | -------------------------------------------- | -------------------------------------------- | ------------------- | ----------------------- |
+| **Commercial** | 75% for up to 10 Cr.<br>70% for above 10 Cr. | 70% for up to 10 Cr.<br>65% for above 10 Cr. | 65% for loan amount | 65% for all loan amount |
+| **Industrial** | 55%                                          | 55%                                          | NA                  | NA                      |
+| **Warehouse**  | 65%                                          | 65%                                          | NA                  | NA                      |
+
+
+CIBIL Score:
+
+CIBIL Score of NTC/730 +
+
+### Lessees Acceptance Criteria:
+
+Companies/Partnership/LLP/Pvt. Firm meeting below criteria:
+
+| CAT Type | Turnover | PAT | Net Worth | Vintage |
+|---|---|---|---|---|
+| CAT A Indian | >=500 Cr | +ve | +ve | - |
+| CAT A MNC* | >= 5 billion USD | >=200 million in India | - | 24 months |
+| CAT B Indian | <500 - >=250 Crs | +ve | +ve | - |
+| CAT B MNC* | >= 5 billion USD | >=200 million in India | - | 12 months |
+| CAT C Indian | <250 - >=100 Crs | +ve | +ve | - |
+| CAT D Indian | <100 - >=50 Crs | +ve | +ve | 10 years |
+
+*Indian subsidiary/franchisee (operating for more than 2 years) of an MNC with Equity in subsidiary >= 50% (this could be less than 50% if specific sector FDI limits are regulated/restricted due to government policy e.g. Insurance sector)
+
+### LRD Calculation Example:
+
+| Heads / Property Type | CAT-A Commercial/Industrial/Warehouse | CAT-B Commercial/Industrial/Warehouse | CAT-C Only Commercial | CAT-D Only Commercial |
+|---|---|---|---|---|
+| Gross Rent | 10,00,000 | 7,00,000 | 5,00,000 | 2,00,000 |
+| TDS/Taxes/Other deductions | 1,00,000 | 70,000 | 50,000 | 20,000 |
+| Maintenance # | 30,000 | 21,000 | 15,000 | 6,000 |
+| Net Rent eligible for NPV (A-B-C) | 8,70,000 | 6,09,000 | 4,35,000 | 1,74,000 |
+| NPV% | 90% | 90% | 90% | 80% |
+| Eligible EMI amt. for offering the Loan (D*E) | 7,83,000 | 5,48,100 | 3,91,500 | 1,39,200 |
+| ROI (only for representation purpose) | 9.50%* | 9.75%* | 10.65%* | 10.85%* |
+| Tenure (in months) | 180 | 180 | 120 | 120 |
+| Approx. Eligible Loan Amt. | 7.49 Cr.* | 5.17 Cr.* | 2.88 Cr* | 1.01 Cr* |
+
+# Maintenance is assumed @3% of Gross Rent
+*ROI may change based on Property type & accordingly Eligible Loan amt. will also change
+

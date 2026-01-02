@@ -28,7 +28,9 @@ def get_foir(customer_type, net_monthly_income):
 
 def get_eligible_emi(net_monthly_income, obligations, FOIR):
     if net_monthly_income != 0:
-        eligible_emi = (net_monthly_income * (FOIR / 100)) - obligations
+        if isinstance(FOIR, str):
+            return FOIR
+        eligible_emi = (net_monthly_income * (float(FOIR) / 100)) - obligations
         return eligible_emi
     else:
         return "please provide a positive income"

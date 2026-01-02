@@ -1,0 +1,113 @@
+---
+
+# **Semi-Fixed Rate of Interest Offering**
+
+This product is designed for customers who want stability **and** flexibility. It is suitable for **salaried individuals** and **small business owners** (e.g., food stalls, tea shops, vegetable/fruit vendors, and similar setups).
+
+Alright, here’s the straight-up, cleaned-up, **simplified extraction** from all the slides you gave. No fluff. No corporate jargon. Just the data in clear tables.
+
+---
+
+# ✅ **1. PRODUCT OVERVIEW (SEMI-FIXED PRODUCT)**
+
+### **Core Features**
+
+| Feature              | Details                                                                 |
+| -------------------- | ----------------------------------------------------------------------- |
+| Fixed Tenure Options | **2 / 3 / 5 years**                                                     |
+| Rate Type            | Fixed during chosen tenure → switches to Floating afterwards            |
+| Customization        | Fixed → Semi-Fixed and Semi-Fixed → Fixed allowed                       |
+| Purpose              | Stability initially + floating flexibility later                        |
+| Extension Allowed    | Up to **3 extensions** during loan life (conversion charges applicable) |
+
+---
+
+# ✅ **2. PROGRAM BENEFITS**
+
+| Benefit Category           | Explanation                                                        |
+| -------------------------- | ------------------------------------------------------------------ |
+| Stability & Predictability | Lower EMI burden during fixed period; better financial planning    |
+| Agile & Adaptability       | Automatically adapts to current floating market after fixed period |
+| Benefit of Saving          | Mixes fixed rate security + floating rate potential savings        |
+| Optimal Balance            | Protects customer from extreme market volatility                   |
+
+---
+
+# ✅ **3. PROPOSED PRODUCT NORMS**
+
+### **3.1 ROI (Interest Rate) – Additional Rate Over Existing ROI**
+
+| Product                  | Fixed Tenure | Additional ROI |
+| ------------------------ | ------------ | -------------- |
+| **Pragati Aashiyana HL** | 2 Years      | **+0.50%**     |
+|                          | 3 Years      | **+0.35%**     |
+|                          | 5 Years      | **+0.25%**     |
+| **Micro LAP**            | 2 Years      | **+0.60%**     |
+|                          | 3 Years      | **+0.50%**     |
+|                          | 5 Years      | **+0.30%**     |
+
+### **3.3 Other Norms**
+
+| Category               | Rule                                                        |
+| ---------------------- | ----------------------------------------------------------- |
+| Login & Processing Fee | Same as floating-rate products                              |
+| Semi-Fixed Extension   | Max **3 extensions**, all chargeable per conversion pricing |
+
+---
+
+# ✅ **4. CONVERSION CHARGES**
+
+### **4.1 During Semi-Fixed Tenure**
+
+| Conversion Period | Charges               |
+| ----------------- | --------------------- |
+| 1–2 Years         | **2% of POS + Taxes** |
+| 2–3 Years         | **2% of POS + Taxes** |
+| 3–5 Years         | **1% of POS + Taxes** |
+
+---
+
+### **4.2 Floating → Semi-Fixed Conversion**
+
+| Tenure Chosen | Charges               |
+| ------------- | --------------------- |
+| 2 Years       | **2% of POS + Taxes** |
+| 3 Years       | **2% of POS + Taxes** |
+| 5 Years       | **1% of POS + Taxes** |
+
+---
+
+# ✅ **5. FORECLOSURE CHARGES**
+
+### **During Fixed Rate Tenure**
+
+| Product              | Fixed Tenure    | Foreclosure Charge    |
+| -------------------- | --------------- | --------------------- |
+| Pragati Aashiyana HL | 2 / 3 / 5 Years | **2% of POS + Taxes** |
+| Micro LAP            | 2 / 3 / 5 Years | **4% of POS + Taxes** |
+
+### **During Floating Tenure**
+
+→ **As per current MITC**
+
+## **Rate of Interest Structure**
+
+The interest rate is **fixed during the initial tenure**, then converts to a **floating rate (ROI) + fixed spread**, depending on the product and selected fixed period.
+
+### **Fixed Tenure & Spread Table**
+
+| **Fixed Tenure** | **Pragati Aashiyana Home Loan** | **Micro LAP** |
+| ---------------- | ------------------------------- | ------------- |
+| **2 Years**      | ROI + 0.50%                     | ROI + 0.60%   |
+| **3 Years**      | ROI + 0.35%                     | ROI + 0.50%   |
+| **5 Years**      | ROI + 0.25%                     | ROI + 0.30%   |
+
+---
+
+## **Maximum Overall Tenure**
+
+* **Pragati Aashiyana HL (Segment 1):** Up to **20 years**
+* **Pragati Aashiyana HL (Segment 2):** Up to **15 years**
+* **Micro LAP:** Up to **15 years**
+
+---

@@ -1,0 +1,140 @@
+Here are the details extracted from the provided images regarding the **Pragati Aashiyana - Informal HL (Segment 1)** product from Aditya Birla Capital:
+
+## 🏠 Pragati Aashiyana - Informal HL (Segment 1): Overview & Product Norms
+
+### 🎯 Target Segment and Loan Types
+
+| Parameter | Norms |
+| :--- | :--- |
+| **Target Segment** | \* Salaried Individual<br>\* Self Employed Non-Professional (SENP)<br>\* Self Employed Professional (SEP)<br>\* Partnership Firms / LLP<br>\* Setup with **Permanent Structure** (e.g., Kirana Stores, Traders, Garage, Auto spare parts) |
+| **Profile** | Owners of Machinery maintenance shops, Tea stalls, Vegetable & Fruits shops, Pan-Bidi shops, Puja Samagri shops, Food Stalls with permanent set up |
+| **Type of Transaction** | \* Home Loan (HL)<br>\* Home Extension Loan (HEL)<br>\* Improvement Loan (HIL)<br>\* Plot Purchase Loan<br>\* Plot + Home Construction Loan (PHCL)<br>\* Home Construction Loan (HCL) |
+
+-----
+
+### 💰 Loan Details
+
+| Parameter | Norms |
+| :--- | :--- |
+| **Minimum Loan** | INR 5 Lakhs |
+| **Maximum Loan** | INR 50 Lakhs |
+| **Tenure** | \* Min 12 months<br>\* Max 240 months<br>\* HIL - Max 180 months |
+| **Rate of Interest** | As per rolled out by the product team. |
+| **Coverage** | NCGTC |
+| **Targeted Yield** | $13.25\%$ + |
+
+-----
+
+### 📋 Customer & Income Norms
+
+| Parameter | Norms |
+| :--- | :--- |
+| **Minimum Income** | \* **SENP/SEP:** Net Income of INR 1 lac p.a.<br>\* **Salaried:** Net Salary of INR 7,000 p.m. |
+| **Income Assessment Norms** | \* Salary Income<br>\* Cash profit Program<br>\* Credit Manager Assessed Income Program<br>\* Credit Manager Enhanced Assessed Income Program<br>\* Cash Salary Based<br>\* Average Banking Program<br>\* Gross Receipt Program<br>\* Low LTV |
+| **CIBIL Norms (where income is considered)** | 650 & above, NTC (New to Credit) |
+
+#### **FOIR Norms (Fixed Obligation to Income Ratio)**
+
+| Customer Profile | FOIR |
+| :--- | :--- |
+| Salaried Bank | Upto 75% (Slab Wise FOIR Applicable) |
+| Salaried Cash | 50% |
+| SENP (Formal) | 70% |
+| SENP (Assessed) | 60% |
+| SEP | 70% |
+
+> **Note:** FOIR deviation will be taken only for 3rd party payment – insurance and proc. Fee (upper cap of 8%).
+
+-----
+
+### 🔑 Stability & Collateral Norms
+
+| Parameter | Norms |
+| :--- | :--- |
+| **KYC Norms** | As per existing norms |
+| **Acceptable Collateral** | Type I/II/III/IV & Special Collateral. Location Specific Collateral notes as approved by the NCC. **Vetting of external vendor report by Internal Technical mandatory.** |
+| **Business Stability** | Minimum **3 year** of operations from same location |
+| **Residence Stability** | \* **Owned Residence:** 3 years in work area/native area<br>\* **Rented Residence:** Minimum 2 years residence stability in the same city and 1 year in current residence. |
+| **Employment Stability** | Latest **6 months** banking statement required from the operating account. |
+
+-----
+
+### 📝 Documentation & Bureau Score Norms
+
+| Parameter | Norms |
+| :--- | :--- |
+| **Documentation** | \* Proof of business to be established by credit manager during PD using surrogates like 3rd party verification, reference checks.<br>\* 3rd party RCU verification of the Business proof established by Credit Managers.<br>\* Wallet transaction statements mandatory to be checked in bank statement. |
+| **Bureau Scorecard Norms** | \* For Decile 1&2,<br>\* In case of SENP, only HL allowed up to **INR 30 Lacs** with min **ROI of 13.5%**<br>\* Cash Salaried and LA \> INR 30 Lacs are not allowed. |
+
+-----
+
+### 📊 LTV (Loan to Value) by Bureau Scorecard Decile
+
+This table shows the LTV based on the Bureau Scorecard Decile and Collateral Type (1, 2, 3, 4, Special). *Regulatory LTV* and *RBI LTV* are key benchmarks used.
+
+Bureau Scorecard Decile,Collateral Type 1,Collateral Type 2,Collateral Type 3 & 4,Special Collateral
+1 & 2,Regulatory LTV (for -SENP/Salaried),\text{Regulatory LTV - 10%} (for -SENP/Salaried),N/A,N/A
+3,N/A,N/A,N/A,N/A
+4,Regulatory LTV,\text{Regulatory LTV - 5%},N/A,N/A
+6-10,RBI LTV,RBI LTV,\text{RBI LTV - 5%},\text{RBI LTV - 10%}
+*Note: The table layout is complex. The green shading (RBI LTV) covers Deciles 6-10 for Collateral 1 and 2. The pink shading (RBI LTV - 10%) covers Deciles 6-10 for Special Collateral.*
+
+Here are the extracted details for the **Pragati Aashiyana - Informal (Segment 2)** product, presented in a clear, human-readable format:
+
+## 🏡 Pragati Aashiyana - Informal (Segment 2): Detailed Norms
+
+### 🎯 Overview & Facility Details
+
+| Parameter | Description |
+| :--- | :--- |
+| **Target Segment** | SENP (Small & Micro Business) operating from **temporary structure**. |
+| **Profile** | Owners of Machinery maintenance shops, Tea stalls, Vegetable & Fruits shops, Pan-Bidi shops, Puja Samagri shops, Food Stalls. |
+| **Type of Facility** | Home Loan (HL) & Loan Against Property (LAP). |
+| **Other Loan Types** | Home Loan, Home Extension Loan, Home Improvement Loan, Plot Purchase Loan, Plot + Home Construction Loan, Home Construction Loan, LAP Residential/Commercial. |
+| **Targeted Yield** | $14\%+$. |
+
+-----
+
+### 💰 Loan Amount, Tenure, and Age Norms
+
+| Parameter | Norm Descriptions |
+| :--- | :--- |
+| **Loan Amount** | Minimum: Rs. 5 Lakhs; Maximum: Rs. 15 Lakhs. |
+| **Loan Tenure** | Minimum: 12 months; Maximum: 180 months for HL & LAP (120 months for Plot Purchase). |
+| **Age Norms** | Minimum age: 25 years; Maximum age: 65 years (For Co-applicant, if income is not considered, max age is 75 yrs). **Note:** Maximum age is at the end of the loan tenure. |
+
+-----
+
+### 💵 Income, Business, and Residence Norms
+
+| Parameter | Norm Descriptions |
+| :--- | :--- |
+| **Minimum Income** | **SENP/SEP:** Net Income of INR 1 lac p.a.; **Salaried:** Net Salary of INR 7,000 p.m.. |
+| **Income Assessment Method** | Credit Manager Assessed Income Program. |
+| **FOIR** | $50\%$ of Income assessed. Additional FOIR applicable only for 3rd party payment – insurance and processing Fees with upper cap of $8\%$ over & above the FOIR norms. |
+| **Business Stability** | Minimum 3 years operating from same location. |
+| **Residence Stability** | **Owned Residence:** 3 years in work area/native area. **Rented Residence:** Minimum 2 years residence stability in the same city & 1 year in current residence. **Note:** If Property location is in work area, then the Borrower/Family should be staying and if property location is in native place, then Family should be mandatorily staying. |
+
+-----
+
+### 📋 Credit, Collateral, and Documentation Norms
+
+| Parameter | Norm Descriptions |
+| :--- | :--- |
+| **CIBIL** | Score: $\ge 700 / \text{NTC}$; Enquiries: $\le 7$ in 3 months. |
+| **KYC Norms** | As per existing norms. |
+| **Rate of Interest** | As per rolled out by the product team. |
+| **Eligible/Acceptable Collateral** | Type I/II/III/IV & Special Collateral. Location specific Collateral notes as approved by the NCC. Vetting of external vendor report by Internal Technical is mandatory. |
+| **Documentation** | \* **Business vintage proof:** Municipal Corporation License or Any local competent authority. Proof of Business to be established during PD by credit manager using surrogate like Third party verification, reference checks (in absence of documents).<br>\* **Wallet transaction statement** (Paytm, Phonepe etc) mandatory and no deviations allowed.<br>\* **Bank Statement:** Latest 6 months banking required from the operating account. |
+
+-----
+
+### 📊 LTV (Loan to Value) Norms (Simplified)
+
+The LTV is determined by the Bureau Scorecard Decile and Collateral Type, using either Regulatory LTV or RBI LTV as benchmarks.
+
+| Bureau Scorecard Decile | Collateral Type 1 | Collateral Type 2 | Collateral Type 3 & 4 | Special Collateral |
+| :---: | :---: | :---: | :---: | :---: |
+| **1 & 2** | $\text{Regulatory LTV}$ (for -SENP/Salaried) | $\text{Regulatory LTV - 10%}$ (for -SENP/Salaried) | **N/A** | **N/A** |
+| **4** | $\text{Regulatory LTV}$ | $\text{Regulatory LTV - 5%}$ | **N/A** | **N/A** |
+| **6-10** | $\text{RBI LTV}$ | $\text{RBI LTV}$ | $\text{RBI LTV - 5%}$ | $\text{RBI LTV - 10%}$ |

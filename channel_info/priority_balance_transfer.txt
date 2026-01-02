@@ -1,0 +1,52 @@
+PRIORITY BT PROGRAM
+
+### What is it all about?
+
+Introduced to cater to ABC employees and ABC Salaried Customers seeking balance transfer option with attractive interest rate.
+
+### Product Details:
+
+**Type of Loan:** Home Loan Balance Transfer
+
+**Target Segment:** ABC employees, ABC Salaried Customers
+
+**Ticket Size:** Loan amount up to 3 Crores
+
+**Loan Tenure:** Loan tenure up to 30 years
+
+**Documentation:**
+- No income documents required
+- Only Sanction Letter, Statement of Account (SOA) & List of documents (LOD) from BT Bank required
+
+### Detailed Parameters:
+
+| Parameter | ABC Employees | ABC Customers – Salaried – Cat A & B employers only |
+|---|---|---|
+| **Product Applicable** | HL & LAP | HL |
+| **Login Employee Vintage with current organization** | 6 months | 6 months |
+| **Documentation** | • No income documents required<br>• No legal required for BT from Top 13 institutions | • No income documents required<br>• No legal required for BT from Top 13 institutions |
+| **Minimum vintage for Balance Transfer and top up % (Top up limit on original Sanction Amount)** | 1. < 11 MOB: BT allowed but No top-up allowed<br>2. > 11 to 18 MOB: BT allowed and max top-up up to 10%<br>3. > 18 to 24 MOB: BT allowed and max top-up up to 15%<br>4. > 24 to 36 MOB: BT allowed and max top-up up to 20%<br>5. > 36 MOB: BT allowed & max top-up up to 30% | |
+| **Loan Amount** | Upto 3 Crs | Upto 1 Cr |
+| **CIBIL** | 675 & above | 730 & above |
+| **Tenure** | HL - 30 yrs<br>LAP - 15 yrs | HL - 30 yrs |
+| **LTV** | HL - As per NHB norms<br>LAP - Resi: 70%<br>LAP - Comm: 60% | HL - As per NHB norms |
+
+Here is the list of the top 13 Financial Institutions (FI’s) for the Priority BT in a tabular format:
+
+| **Sr No** | **List of Top 13 FI's for Priority BT**      |
+|-----------|------------------------------------------------|
+| 1         | HDFC Bank                                      |
+| 2         | ICICI Bank                                     |
+| 3         | Axis Bank                                      |
+| 4         | Kotak Mahindra Bank                            |
+| 5         | Standard Chartered Bank (SCB)                  |
+| 6         | HSBC                                           |
+| 7         | State Bank of India (SBI)                      |
+| 8         | Bank of Baroda                                 |
+| 9         | Bank of India                                  |
+| 10        | Punjab National Bank (PNB)                     |
+| 11        | ICICI Home Finance Ltd                         |
+| 12        | Tata Capital Housing Finance                   |
+| 13        | PNB Housing Finance                            |
+
+

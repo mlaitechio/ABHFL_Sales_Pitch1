@@ -1,0 +1,51 @@
+## 3. SALARY INCOME METHOD
+
+**Loan Amount:**
+- Minimum → 50L
+- Maximum → 15 CR
+
+**FOIR:** Grid below
+
+**LTV:** As per product
+
+**Note:** Core Income → Net Salary as per Salary Slip (excluding arrears)
+
+### FOIR Grid Based on Annual Net Income
+
+| Annual Net Income Levels (INR) | FOIR |
+|---|---|
+| Eligible income less than 5 lakhs | 60% |
+| Eligible income greater than 5 lakhs but less than 12 lakhs | 65% |
+| Eligible income greater than 12 lakhs but less than 24 lakhs | 70% |
+| Eligible income greater than INR 24 lakhs | 75% |
+
+### Eligibility Computation
+
+**Eligible Income =** Core Income + Bonus + LTA + Income from House Property/Rental Income + Other Income
+
+### Income Consideration Norms:
+
+**Core Income:**
+- Net salary (excluding arrears) → 100%
+
+**Bonus:**
+- Fixed Bonus: Average of last 6 months/2 quarters → 100%
+- Performance Linked Bonus: Average of last 2 years → 50%
+
+**Annual LTA:**
+- Subject to maximum of 5% Gross Salary → 100%
+
+### Other Income Norms:
+
+- Agricultural Income: As per ITR, avg of last 2 years → 100%
+- Income from Other Sources: As per ITR, avg of last 2 years → 100%
+- Other Income capped at 100% of (Core Income + Bonus & LTA)
+- Income from House Property/Rentals → 100%
+
+### Other Norms:
+
+- Bank Statements reflecting regular salary credits (cash salary not allowed) needs to be collected for all the salaried cases
+- Salary Certificate must show details of income and deductions. Such certificate should not be more than 1 months old
+- For change in employment cases, appointment letter copy will be required for the new salary along with previous employer salary details
+
+---

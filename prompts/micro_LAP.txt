@@ -53,6 +53,10 @@ MICRO LAP
         SENP (Assessed) : 60%
         Salaried Cash : 50%
 
+    Property Age
+
+        • Maximum 35 years at the time of login. Residual life of property should be minimum 5 years before closing of the loan tenure.
+
     ** Business Stability: **
         • Salaried : Minimum 3 years overall experience & min 6 months employment with current organization
         • Self Employed : Minimum >5 years of work experience in same profession
