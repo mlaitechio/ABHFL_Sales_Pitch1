@@ -1,0 +1,189 @@
+Mailer 01: 
+Q. What is KYC?
+Ans- KYC (Know Your Customer) is a mandatory process used by ABHFL to collect information about the customer’s identity, address, type of business, and financial status and verify this information to make sure it is correct. This helps ABHFL to know who they are dealing with and ensures that their services are not misused for illegal activities like Money laundering, Terrorist financing, Proliferation financing (Funding weapons of mass destruction).
+Mailer 02: 
+Q. Which are the Official Valid Documents (OVD) for KYC?
+Ans- Below are the Official Valid Documents, with the person’s name and address:
+•	Passport
+•	Driving license
+•	Aadhaar card (proof of Aadhaar number)
+•	Voter ID issued by the Election Commission of India
+•	NREGA job card signed by a State Government officer
+•	Letter from the National Population Register
+Mailer 03: 
+Q. What documents can be accepted as proof of address if the OVD provided by the customer does not have an updated address?
+Ans- Any one of the following mentioned documents as proof of address at time of declaration as per Annexure shared in the KYC policy along with Aadhar acknowledgement before disbursement.
+I.	Utility bill which is not more than two months old of any service provider (electricity, telephone, post-paid mobile phone, piped gas, water bill),
+II.	Property or Municipal tax receipt,
+III.	Pension or family pension payment orders (PPOs) issued to retired employees by Government Departments or Public Sector Undertakings, if they contain the address,
+IV.	Letter of allotment of accommodation from employer issued by State Government or Central Government Departments, statutory or regulatory bodies, public sector undertakings, scheduled commercial banks, financial institutions and listed companies and leave and license agreements with such employers allotting official accommodation.
+V.	Bank Passbook / Latest Bank Account Statement (First page showing complete address, in case of passbook pages showing latest transactions should also be taken on records)
+Note-
+These cases will have to marked under PDD for submission of ‘Updated OVD’ for a period of three months from the date of disbursement.
+Mailer 4:
+Q. Which all documents are required to onboard an NRI customer?
+Ans- Below are the list of documents.
+1.	PAN or Form 60 (Mandatory)
+2.	Copy of any of the below List of officially valid documents:
+•	Voter ID 
+•	Valid Passport 
+•	Driving license 
+•	Proof of possession of Aadhaar  
+•	Job card issued by NREGA 
+•	Letter issued by the National Population Register 
+
+Note - Where the OVD presented by a foreign national does not contain the details of address, in such case the documents issued by the Government departments of foreign jurisdictions and letter issued by the Foreign Embassy or Mission in India shall be accepted as proof of address. 
+Mailer 5:
+Q. Which all documents are required for onboarding a customer who is a Proprietor?
+Ans- Below are the list of documents.
+1.	PAN or Form 60 (Mandatory)
+2.	Any two of the below documents -
+(i)	Registration certificate including Udyam Registration Certificate (URC) issued by the Government.
+(ii)	Certificate/ License issued by the municipal authorities under Shop and Establishment Act.
+(iii)	Sales and income tax returns.
+(iv)	(provisional/final). 23CST/VAT/ GST certificate
+(v)	Certificate/registration document issued by Sales Tax/Service Tax/Professional Tax authorities.
+(vi)	IEC (Importer Exporter Code) issued to the proprietary concern by the office of DGFT/ License/ Certificate of practice issued in the name of the proprietary concern by any professional body incorporated under a statute.
+(vii)	Complete Income Tax Return (not just the acknowledgement) in the name of the sole proprietor where the firm's income is reflected, duly authenticated/acknowledged by the Income Tax authorities.
+(viii)	Utility bills such as electricity, water, and landline telephone bills. (Not older than 2 months)
+
+
+Mailer 6:
+Q. Which all documents are required for onboarding a customer who is a Partnership firm?
+Ans- Below are the list of documents which are required mandatorily,
+I.	Registration certificate; 
+II.	Partnership deed; 
+III.	Permanent Account Number of the partnership firm 
+IV.	One copy of officially valid document and Permanent Account Numbers or Form 60 of managers, officers or employees holding an attorney to transact on the company’s behalf.
+V.	Beneficial Ownership Declaration as per Annexure (On letter head of Company /Partnership/Trust/Body) along with the KYC documents of beneficial owners and managers, officers or employees, as the case may be, holding an attorney to transact on the firm’s behalf.
+VI.	The names of all the partners.
+VII.	The address proof of registered office and the operational address proof of its business if it is different.
+Mailer 7:
+Q. Which all documents are required for onboarding a customer who is a Company?
+Ans- Below are the list of documents which are required mandatorily,
+(i)	Certificate of incorporation; 
+(ii)	Memorandum and Articles of Association; 
+(iii)	Permanent Account Number of the company 
+(iv)	A resolution from the Board of Directors and power of attorney granted to its managers, officers or employees to transact on its behalf; 
+(v)	One copy of officially valid document and Permanent Account Numbers or Form 60 of managers, officers or employees holding an attorney to transact on the company’s behalf.
+(vi)	Beneficial Ownership Declaration as per Annexure (On letter head of Company /Partnership/Trust/Body) along with the KYC documents of beneficial owners and managers, officers or employees, as the case may be, holding an attorney to transact on the company’s behalf
+(vii)	The names of the relevant persons holding senior management position
+(viii)	The address proof of registered office and the operational address proof of its business if it is different.
+
+
+
+
+Mailer 8:
+Q. Which all documents are required for onboarding a customer who is an Unincorporated association or a body of individuals?
+Ans- Below are the list of documents which are required mandatorily,
+I.	Resolution of the managing body of such association or body of individuals;
+II.	Permanent Account Number or Form No 60 of the unincorporated association or a body of individuals
+III.	Power of attorney granted to him to transact on its behalf;
+IV.	One copy of officially valid document and Permanent Account Numbers or Form 60 of managers, officers or employees holding an attorney to transact on the company’s behalf.
+V.	Beneficial Ownership Declaration as per Annexure (On letter head of Company /Partnership/Trust/Body) along with KYC documents of its beneficial owners and managers, officers or employees, as the case may be, holding an attorney to transact on its behalf.
+Mailer 9:
+Q. Who qualifies as a Beneficial Owner?
+Ans- It depends on the type of entity:
+I.	Companies: Any individual owning more than 10% of the shares or capital or profits of the company.
+II.	Partnership Firms: Any partner with more than 10% of capital or profits of the partnership.
+III.	Unincorporated Associations/BOIs: Any member with more than 15% of the property or capital or profits of the unincorporated association or body of individuals
+IV.	Trusts: Any settlor, trustee, protector, or beneficiary with 10% or more interest in the trust and any other natural person exercising ultimate effective control over the trust through a chain of control or ownership.
+ Mailer 10:
+Q. Who can sign the BO declaration?
+Ans- Authorized signatories vary by entity type:
+•	Partnership: Active Partner
+•	Limited Liability Partnership (LLP): Designated Partner
+•	Trust: Trustee
+•	Society/Club/Association of Persons (AOP): Senior Member
+•	Company: Authorized official per Board Resolution
+Mailer 11:
+Q. What is the Risk categorization of BO customers?
+Ans- All BO accounts would be classified as ‘High Risk’ accounts and will be subject to enhanced monitoring on-going basis.
+Mailer 12:
+Q. Who is considered a Politically Exposed Person (PEP)?
+Ans- Individuals who are or have been entrusted with prominent public functions by a foreign country. This includes:
+I.	Heads of state or government
+II.	Senior politicians
+III.	Senior government, judicial, or military officials
+IV.	Senior executives of state-owned corporations 
+V.	Important political party official
+
+Mailer 13:
+Q. Are family members and close associates of PEPs also considered PEPs?
+Ans- Yes. Spouses, children, parents, and business partners of PEPs are often classified as PEPs due to their potential access to illicit gains or confidential.
+Mailer 14:
+Q. What due diligence are required to onboard a PEP as a customer or as a BO?
+Ans- Below due diligence needs to be performed before onboarding-
+I.	Sufficient information including information about the sources of funds/ wealth, accounts of family members and close relatives is gathered on the PEP.
+II.	The identity of the person shall have been verified before accepting the PEP as a customer.
+III.	For any lending/ business relationship with PEP or with family members or close associates of PEP, formal approval from the Chief Credit Officer is required.
+IV.	All such accounts are subjected to enhanced monitoring on an on-going basis.
+V.	In the event of an existing customer or the beneficial owner of an existing account subsequently becoming a PEP, approval from Chief Credit Officer is required.
+
+
+Mailer 15:
+Q. What is the Risk categorization of PEP Customers?
+Ans- All PEP accounts would be classified as ‘High Risk’ accounts and will be subject to enhanced monitoring on-going basis.
+Mailer 16:
+Q. What documents are required to update name in KYC after marriage?
+Ans- You need to submit:
+I.	A marriage certificate issued by the State Government or
+II.	A Gazette notification indicating the name change.
+III.	A certified copy of an Officially Valid Document (OVD) in your existing (old) name
+
+Mailer 01:
+Q. What is Money Laundering?
+Ans- Money Laundering is the process of making dirty money look clean. It is a process of disguising the illegal source of funds which could have been received from fraud, theft, corruption, drug trafficking or any other criminal activity so that they can be used without detection of the illegal activity that produced them.
+Mailer 02:
+Q. What is Risk Categorization in KYC/AML?
+Ans- Risk categorization is the process of classifying customers into Low, Medium, or High 
+Mailer 03:
+Q. What Factors Influence Risk Categorization?
+Ans- Risk is assessed based on:
+I.	Customer Profile: Customer’s identity, social / financial status, nature of business activity, and information about the customer’s business and its location.
+II.	Geographic Location: High-risk jurisdictions
+III.	Legal Structure: For entities like LLPs, trusts, corporates
+IV.	Financial Indicators: Net worth, turnover, credit rating
+V.	Behavioral Patterns: Unusual transactions, non-clear of ownership
+
+Mailer 04:
+Q. Who are considered Low-Risk Customers?
+Ans- These customers have predictable financial behavior and operate in well-regulated environments. Indicative list includes. 
+I.	Salaried employees whose salary structures are well defined,
+II.	People belonging to lower economic strata of the society whose accounts show small balances and low turnover, Government departments & Government owned companies, regulators, and statutory bodies, etc. In such cases, the policy may require that only the basic requirements of verifying the identity and location of the customer are to be met.
+Mailer 05:
+Q. Who are considered Medium-Risk Customers?
+Ans- These customers may show occasional deviations in financial behavior or operate in moderately risky sectors. Indicative list includes.
+I.	Self Employed Individuals or Partnership firms other than firms with sleeping partners or other legal entities.
+II.	Association of Persons / Body of individuals (irrespective of the business activity undertaken by them)
+Mailer 06:
+Q. Who are considered High-Risk Customers?
+Ans- These customers pose a higher risk due to their financial activities, affiliations, or geographic location. Examples include.
+I.	Trust/HUF/Societies/NGO/trusts, Charitable Organization, Organizations receiving donations.
+II.	Non-resident Indians / Foreign Nationals / Merchant Navy Employee.
+III.	Politically Exposed Persons (PEPs) / Influential Persons.
+IV.	Sleeping Partners or Partnership firms with family members acting as Sleeping Partner.
+V.	Companies having close family shareholding or beneficial ownership.
+VI.	Shell Companies.
+VII.	High net worth individuals.
+VIII.	Individuals/ legal entities dealing in gems & jewellery, art & antique and auction houses, or Multi-Level Marketing companies.
+
+Mailer 07:
+Q. What is the frequency of updating the KYC of the Customers?
+Ans- The frequency of KYC updates depends on the customer’s risk category:
+I.	High-risk: At least once every 2 years
+II.	Medium-risk: At least once every 8 years
+III.	Low-risk: At least once every 10 years
+
+Mailer 08:
+Q. What are the modes for periodic Updation of KYC?
+Ans- Ways to update KYC are as follows-
+1.	Branch Visit: Customers can update their KYC at the branch where they avail loan.
+2.	Self-Declaration: If there is:
+a.	No change in KYC details, or
+b.	Only a change in address, self-declaration of the new address shall be obtained from the customer using digital and non-digital modes, through customer’s email-id registered with ABHFL.
+
+Mailer 09:
+Q. Does the ABHFL give due notices to the customer for completing his pending periodic Updation of KYC?
+Ans- Yes. ABHFL inform its customers ahead of time about the need to update their KYC details regularly and in case if customer doesn’t update their KYC by the due date, ABHFL sends reminders to them, even if they were already informed earlier.
+	
