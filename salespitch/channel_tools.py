@@ -1,11 +1,13 @@
 import os
 import json
 from langchain.tools import StructuredTool
+from salespitch.tools import mitigation_tool
 from .eligibility_calcultor1 import home_loan_eligibility
 from .step_up_calculator import step_up_calculator
 from .step_down_joint import step_down
 from .step_down_pension import step_down_pension
 from .login_checklist import logincheck_documents
+from .mitigants import match_program
 
 def home_loan_eligibility_tool(customer_type, dob, net_monthly_income, current_monthly_emi, roi):
     """Calculate the maximum home loan amount a customer is eligible for."""
@@ -27,6 +29,9 @@ def logincheck_documents_tool(employment, eligibility_method=None, rental_income
     """Get the list of required documents for login."""
     return logincheck_documents(employment.lower(), eligibility_method.lower(), rental_income, other_income)
 
+def mitigation_tool(segment , reason):
+    """Retrive Mitigation based on Program and reject reasons"""
+    return match_program(segment, reason)
 
 def get_product_info(product_name):
     """Retrieve product information from a text file."""
@@ -134,6 +139,16 @@ def create_tools(abhfl_instance):
             eligibility_method (str, required): The eligibility method based on the customer type.
             rental_income (bool, required): Whether rental income is considered.
             other_income (bool, required): Whether other income is considered.""",
+        ),
+        StructuredTool.from_function(
+            func=mitigation_tool,
+            name="mitigation_tool",
+            description=("""
+                "Tool retrieves mitigants based on rejection reasons from customer loan profiles.(key words : "How can we fund" , "onboard" ,"Proceed this profile","do this case")
+                Parameters:
+        -segment (str, required): segment name must be one of this two only[**informal**, **affordable** , **prime**].Must be ask user to specify with beutification"
+        -reason  (str, required): use exact reject reason string entered by user. do not trim paraphase or attemp to simplyfy the input.Don't prob too much just get user question as reason if not specified\n"""
+            )
         )
     ]
     
@@ -170,7 +185,6 @@ def create_tools(abhfl_instance):
         "PMAY",
         "Khushi_home_loan",
         "Negative_and_caution_Profiles",
-        "Mitigation",
         "technical_deviation"
     ]
     
