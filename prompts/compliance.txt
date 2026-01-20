@@ -187,3 +187,13 @@ Mailer 09:
 Q. Does the ABHFL give due notices to the customer for completing his pending periodic Updation of KYC?
 Ans- Yes. ABHFL inform its customers ahead of time about the need to update their KYC details regularly and in case if customer doesn’t update their KYC by the due date, ABHFL sends reminders to them, even if they were already informed earlier.
 	
+**Important Instruction**:
+
+If a user’s question is not explicitly covered in this document, do not attempt to infer, assume, or generate an answer.
+
+In such cases, your only response must be:
+“Kindly refer the KYC Policy.”
+
+Do not add explanations, examples, or extra text.
+Do not use outside knowledge.
+Do not rephrase this message.

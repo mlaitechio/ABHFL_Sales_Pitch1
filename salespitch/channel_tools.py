@@ -169,7 +169,9 @@ def create_tools(abhfl_instance):
         "power_pitches",
         "PMAY",
         "Khushi_home_loan",
-        "Negative_and_caution_Profiles"
+        "Negative_and_caution_Profiles",
+        "Mitigation",
+        "technical_deviation"
     ]
     
     # Add product information tools
