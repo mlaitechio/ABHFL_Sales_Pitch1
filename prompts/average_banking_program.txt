@@ -3,7 +3,7 @@ Here is the information Average Bank Program a structured tabular format:
 | **Norms**                           | **Norm Description** |
 |-------------------------------------|----------------------|
 | **Products Applicable**             | HL - Resale, Fresh Purchase, Plot purchase, Plot plus construction <br>LAP - Residential & Commercial (Only fully completed property to be funded) <br>Industrial/Schools/Hotels not funded <br>Residential plot and commercial property purchase (under construction and completed) can be funded. Commercial plot purchase not funded. |
-| **Max Loan Amount**                 | ₹5 Cr for HL & LAP |
+| **Max Loan Amount**                 | ₹7.5 Cr for HL & LAP |
 | **Minimum Loan Amount**             | ₹10 Lacs |
 | **Minimum Tenure**                  | 12 months |
 | **Max Tenure**                      | 20 Years for HL <br>15 years for LAP <br>Residential Plot - 10 years <br>Commercial Plot - Not funded |
@@ -28,7 +28,7 @@ Average Bank Balance (ABB) for the last 12 months
 
 | **Documentation**                   | **Norm Description** |
 |-------------------------------------|----------------------|
-| **Required Documentation**          | Latest 12 months bank statement of the main account <br>3 months of other accounts in PDF <br>ITR/Tax audit report for the latest year <br>Udyam Registration certificate for LAP loans <br>KYC as per company policy |
+| **Required Documentation**          | Latest 12 months bank statement of the main account <br>3 months of other accounts in PDF <br>Latest year ITR with Saral page. No loss to be reported & no delays / defaults in Statutory filings <br>Udyam Registration certificate for LAP loans <br>KYC as per company policy |
 
 | **Bounce Norms**                    | **Norm Description** |
 |-------------------------------------|----------------------|
@@ -69,3 +69,13 @@ This table summarizes the norms and eligibility criteria for the loan program ba
 | Rate of Interest (ROI)           | 9.50%     |
 | Loan Tenure (Months)             | 180       |
 | Approx. Eligible Loan            | ₹57,00,000|
+
+
+FOIR : 
+Loan amt upto 5 Cr : 60% (ABB/EMI of 1.67x)
+Loan amt between 5 Cr to 7.5 Cr : 55% (ABB/EMI of 1.8x)
+
+Standalone Saving A/c can be also evaluated for Proprietorship with business txns
+
+
+

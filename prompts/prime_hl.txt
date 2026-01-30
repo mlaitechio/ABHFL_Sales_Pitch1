@@ -100,12 +100,15 @@ above & FOIR upto 80%)
 | :--- | :--- |
 | Home Loan (HL) | 20 years* |
 | Home Extension Loan (HEL) | 20 years |
-| Home Improvement Loan (HIL) | 15 years |
+| Home Improvement Loan (HIL) | 20 years |
 | Plot + Home Construction Loan (PHCL)² | 20 years |
 | Home Construction Loan (HCL) | 20 years |
 
-*\* For ABG Staff & employees of Cat A & B companies (as defined by Products & Risk), tenure up to 30 years, tenure upto 25 years for other salaried customers & tenure upto 20 years for self-employed customers on home loans for purchase of completed dwellings, under construction properties & self-construction of property loans can be offered*
+Salaried (HL) : 30 yrs for all bank salaried customers
+tenure upto 25 years for self-employed customers on home loans for purchase of completed dwellings, under construction properties & self-construction of property loans can be offered*
 
 **Note :**
 - Under-construction Period i.e. PEMI period can extend to a maximum of 36 months.
 - ² Plot + Home construction cases will be booked as 1 loan account with tenure as per Product Program. Loan will be in Pre EMI till the time the loan is fully disbursed or Plot purchase loan & Home construction loan to be booked separately with EMI to be started for Plot purchase loan & Home construction loan will be in Pre EMI till the time the loan is fully disbursed.
+
+Max Tenure for Salaried at Maturity : 70 yrs

@@ -29,8 +29,8 @@ UNLOCK YOUR PROPERTY'S POTENTIAL
 
 | **Applicability**              | **Norm Description** |
 |--------------------------------|----------------------|
-| **Customer Profile**           | Applicable for SENP/SEP customers only <br> Approval by NCC only |
-| **Loan Amount & Tenure**       | Maximum loan amount: ₹5 Cr <br> Maximum tenure: 15 years |
+| **Customer Profile**           | Applicable for SENP/SEP customers <br> Approval by NCC only.|   for Salaried 1. Allowed for CAT A Employer 2. Loan Amount upto 50 Lakhs |
+| **Loan Amount & Tenure**       |  Maximum loan amount Self Employed : ₹5 Cr <br> Max Tenure for LAP :  20 yrs for loan amt > 10 Crs (15 yrs for less than 10 Crs) 20 yrs allowed for MV funding cases booked with HL and F&F disbursal to customer |Salaried Max Loan Amount upto 50 Lakhs|
 | **Eligibility Calculations**   | Cash profit method with deviation allowed on FOIR norms |
 | **Loan-to-Value (LTV)**        | 50% of plot value |
 | **Collateral**                 | Only plots developed for residential purposes <br> Developed by Approved Builders or Statutory Housing Development bodies (like HUDA, BDA, MHADA etc.) <br> Under Approved Projects <br> Govt. approved/govt. layout plots |
