@@ -209,3 +209,4 @@ Rates:
 
 Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method
 
+*Floor rate of 10 bps lower for Type II Collateral with CIBIL Score of 750 & above

@@ -209,4 +209,4 @@ Floor rate (segment 1)
 
 Note : 
 - Floor rate to be 100 bps higher for CM Assessed & Cash Salaried Method
-
+Ticket size upto 20 lakhs for Type I collateral to be priced at Micro LAP Type II Collateral

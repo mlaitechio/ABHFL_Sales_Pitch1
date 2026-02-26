@@ -49,3 +49,22 @@ Assessment: Mortgage Takeover (Express BT and Priority BT) Program
 
 Kindly cascade to all the team members, please get in touch with Product/Risk team for any query.
 ** The above circular and policy circulation for Internal purpose only **
+
+Bureau Scorecard applicability for below scenarios treatment
+
+ 
+
+Bureau Scorecard generation not required
+Both Applicant & Co-applicant are NTC
+Applicant is NTC and the co-applicant is a non-individual entity, or vice versa.
+Micro CF Product
+In all other cases where the bureau score is not generated, the concerned team shall re-initiate the process or raise a JIRA ticket for resolution
+ 
+
+Bureau Scorecard to be re-evaluated & may change
+Change in Applicant profile (Salaried to Self-Employed or vice versa).
+Addition or deletion of a co-applicant.
+Change in product.
+Swapping of applicant and co-applicant.
+Change in the CIBIL bureau report of any applicant or co-applicant.
+Change in the requested loan amount.

@@ -129,3 +129,5 @@ Location and type of property loan amount cap Breach 	Micro LAP 	Auto 	CCO
 Micro CF Deviation:
 1. Loan amt  between 5 Cr to 10 Cr : Deviation with NCM 
 2. Loan amt above 10 Cr : Deviation with CCO
+
+Informal Loan amount >50 Lakhs SENP & LAP & decile 1 & 2. – No Go

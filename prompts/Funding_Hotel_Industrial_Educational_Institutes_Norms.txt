@@ -1,79 +1,17 @@
-Funding Hotel , Industrial and Educational Institutes Norms
-
-
-+-------------+---------------------+------------------+--------------+
-| >           | > Industrial        | > Nursing        | > Hotel      |
-|  Collateral |                     | > Home/Hospital  |              |
-| > Type      |                     |                  |              |
-+=============+=====================+==================+==============+
-| > Min Loan  | > 50 lacs           | > 50 lacs        | > 50 lacs    |
-| > Amount    |                     |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > Max       | > 10 years          | > 7 years        | > 7 years    |
-| > tenure    |                     |                  |              |
-+-------------+---------------------+------------------+--------------+
-| >           | > Self-occupied     | > Self-Occupied  | > S          |
-|  Collateral | > collateral in     | > with up to 100 | elf-occupied |
-|             | > which small       | > beds           | >            |
-|             | > ancillary units   |                  |  collaterals |
-|             | > with light        |                  |              |
-|             | > manufacturing     |                  |              |
-|             | > activities can be |                  |              |
-|             | > considered.       |                  |              |
-|             | >                   |                  |              |
-|             | > Collateral with   |                  |              |
-|             | > heavy machinery & |                  |              |
-|             | > embedded          |                  |              |
-|             | > machinery not to  |                  |              |
-|             | > be funded         |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > Occupancy | > Rented /Vacant /  | > Rented /Vacant |              |
-|             | > or vacant         | > not to be      |              |
-|             | > industrial land   | > funded         |              |
-|             | > not to be funded  |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > LTV       | > 50%               |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > Business  | > Operating from    | > Operating from |              |
-| > Stability | > the same premises | > the same       |              |
-| >           | > from last 5 years | > premises from  |              |
-| >           | > with experience   | > last 5 years   |              |
-| /Experience | > of 7 years        |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > RTR       | > RTR of 12 months  |                  |              |
-|             | > with EMI value of |                  |              |
-|             | > at least 1/3rd of |                  |              |
-|             | > proposed EMI or   |                  |              |
-|             | >                   |                  |              |
-|             | > Term loan, OD     |                  |              |
-|             | > /CC, Drop OD of   |                  |              |
-|             | > at least 30% of   |                  |              |
-|             | > proposed loan     |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > CIBIL     | > 750 +             |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > Minimum   | > 28 years          |                  |              |
-| > Age of    |                     |                  |              |
-| > borrower  |                     |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > Main      | > Major shareholder |                  |              |
-| > Borrower  | > /key management   |                  |              |
-|             | > personnel should  |                  |              |
-|             | > be main borrower  |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > END use   | > Business          | > Business       | > Business   |
-|             | > expansion or      | > expansion or   | > expansion  |
-|             | > working capital   | > working        | > or working |
-|             | >                   | > capital        | > capital    |
-|             | > BT of OD /CC not  |                  |              |
-|             | > allowed           |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > Insurance | > Collateral        |                  |              |
-|             | > Insurance         |                  |              |
-|             | > mandatory         |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > Approval  | > National Credit   |                  |              |
-| > Level     | > Head & above      |                  |              |
-+-------------+---------------------+------------------+--------------+
-| > ABB /EMI  | > Min 1.0 time      |                  |              |
-+-------------+---------------------+------------------+--------------+
+| Parameter                           | Industrial                                                                                                                                                                                                                                                                                                     | Nursing Home / Hospital                                | Hotel                                 |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------- |
+| **Min Loan Amount**                 | 50 lacs                                                                                                                                                                                                                                                                                                        | 50 lacs                                                | 50 lacs                               |
+| **Max Tenure**                      | **15 years**                                                                                                                                                                                                                                                                                                   | **10 years**                                           | **10 years**                          |
+| **Max Loan**                        | **10 Cr**                                                                                                                                                                                                                                                                                                      | **10 Cr**                                              | **10 Cr**                             |
+| **Collateral**                      | Self-occupied collateral in which small ancillary units with light manufacturing activities can be considered. <br><br>Collateral with heavy machinery & embedded machinery **not to be funded**. <br><br>Loans for purchase of **industrial plot allowed**. <br>Loan against **industrial plot not allowed**. | Self-occupied with **up to 100 beds**                  | Self-occupied collaterals             |
+| **Occupancy**                       | Rented / Vacant / vacant industrial land **not to be funded**                                                                                                                                                                                                                                                  | Rented / Vacant **not to be funded**                   | Self-occupied                         |
+| **LTV**                             | Loan against **occupied industrial property: 60%** <br><br>**LTV norms for Industrial plot purchase:** <br>• Authority / Direct Allotment – **Lower of 50% of MV or 60% of Allotment Value** <br>• Non-Direct Allotment Plot – **50% of MV or 90% of Allotment Value**                                         | As per **commercial property LTV**                     | As per **commercial property LTV**    |
+| **Business Stability / Experience** | Operating from the same premises from last **5 years** with experience of **7 years**                                                                                                                                                                                                                          | Operating from the same premises from last **5 years** | Same                                  |
+| **RTR**                             | RTR of **12 months** with EMI value of at least **1/3rd of proposed EMI** <br>or <br>Term loan / OD / CC – **Drop OD of at least 30% of proposed loan**                                                                                                                                                        | Same                                                   | Same                                  |
+| **CIBIL**                           | 750+                                                                                                                                                                                                                                                                                                           | Same                                                   | Same                                  |
+| **Minimum Age of Borrower**         | 28 years                                                                                                                                                                                                                                                                                                       | Same                                                   | Same                                  |
+| **Main Borrower**                   | Major shareholder / key management personnel should be main borrower                                                                                                                                                                                                                                           | Same                                                   | Same                                  |
+| **End Use**                         | Business expansion or working capital <br>**BT of OD / CC not allowed**                                                                                                                                                                                                                                        | Business expansion or working capital                  | Business expansion or working capital |
+| **Insurance**                       | Collateral insurance mandatory                                                                                                                                                                                                                                                                                 | Same                                                   | Same                                  |
+| **Approval Level**                  | National Credit Head & above                                                                                                                                                                                                                                                                                   | Same                                                   | Same                                  |
+| **ABB / EMI**                       | Min **1.0 time**                                                                                                                                                                                                                                                                                               | Same                                                   | Same                                  |
