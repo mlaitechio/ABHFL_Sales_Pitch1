@@ -14,20 +14,38 @@ Here’s the extracted data in a more structured format:
 | **Micro LAP – Type II/III**              | NA                | 11.00%      | --                       |
 | **Micro LAP – Type IV / Special**        | NA                | 12.50%      | --                       |
 
-HL – Type I Collateral
-CIBIL Score> 1 Cr50 L to 1 Cr< 50 L800 & above7.85%7.95%8.05%750 - 7997.95%8.05%8.15%Others8.05%8.15%8.25%
-Additional Information:
+*Applicable for ABC & ABG Poornata Employees*
 
-GPL: Premium of 100 bps on HL Rate
-Type II Collateral: 100 bps premium on above rate
-Type III/IV Collateral: 200 bps premium on above rate
+### 2.1 Home Loan (HL) – Type I Collateral
 
-### Note:
-   For HL – Floor rate at MD & CEO as per below
+| CIBIL Score | Ticket > 1 Cr | Ticket 50L to 1 Cr | Ticket < 50L |
+|-------------|--------------|---------------------|--------------|
+| 800 & above | 7.70% | 7.80% | 7.90% |
+| 750 – 799 | 7.85% | 7.95% | 8.05% |
+| Others | 7.95% | 8.05% | 8.15% |
 
-a. > 1 Cr: 7.60%
-b. 50 L to 1 Cr: 7.75%
-c. < 50 L: 8.00%
+**Premiums:**
+- GPL: **+100 bps** on HL Rate
+- Type II Collateral: **+100 bps** on above rate
+- Type III/IV Collateral: **+200 bps** on above rate
+
+> **Floor Rate (MD & CEO approval):** > 1 Cr: **7.60%** | 50L–1Cr: **7.75%** | < 50L: **7.85%**
+
+---
+
+### 2.2 LAP – Staff Loans
+
+| Product | Ticket | ROI % |
+|---------|--------|-------|
+| LAP – Type I | NA | 9.45% |
+| Micro LAP – Type II/III | NA | 11.00% |
+| Micro LAP – Type IV/Special | NA | 12.50% |
+
+> - No deviation allowed on Rate of Interest & fees for Staff loans
+> - Exception: LAP – Type I, Floor rate **@8.95%** at BH level
+> - No channel payouts (DSA & RP) applicable for staff cases
+
+---
 
 For Staff loans, no deviation allowed on Rate of Interest & fees except for LAP – Type 1, Floor rate @8.95% at BH level
 No channel payouts (DSA & RP) will be applicable for staff cases.

@@ -21,12 +21,13 @@ Regular HL - Pricing Grid
 | CM Assessed / Cash Salary                                                             | 1.00%                | 1.50%        |
 | HL Booster (GPL Loan)                                                                 | +1.00%               | +0.25%       |
 
+CIBIL 750+: Floor rate lower by **0.10%** for respective customer profile
 Note: For CIBIL Score  < 700, 50 bps premium to be charged for Salaried/SEP  & 75 bps for SENP  on above RAAC rate and also applicable on floor rate   
 
 For Type 1 Collateral  : Regular HL Rate to be referred 
 Deviation Grid & Floor rates:
 | Collateral Type | Salaried/SEP | SENP  |
 | --------------- | ------------ | ----- |
-| Type I          | 9.00%        | 9.25% |
+| Type I          | 8.65%        | 8.90% |
 
 Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method

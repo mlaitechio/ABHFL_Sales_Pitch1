@@ -63,6 +63,7 @@ PRIME HL Pricing Grid:
 | CIBIL above 730                      | 9.55%               | 9.80%  |
 | CIBIL 700 to 730 (inclusive) & NTC   | 9.80%               | 10.05% |
 
+ 🔴 **RAAC Rate for CIBIL 800+ & FOIR ≤ 80%:** Salaried/SEP: **8.75%** | SENP: **9.00%**
 ### 2. Processing Fee
 
 | Processing Fee (excl. GST)     | Direct / RP Sourcing | DSA Sourcing |
@@ -85,14 +86,18 @@ PRIME HL Pricing Grid:
 - Commercials for Top Up apply only up to 20% of the HL amount (as defined by policy).
 - General Purpose Loan to be booked as Non-HL in the system.
 - Any deviation in Collateral to be booked in Pragati Plus HL & Pragati HL.
-- For CIBIL Score of 800 & above and F OIR : Upto 80%, RAAC rate of 8.90% for Salaried & 9.15% for SEP/SENP applicable
 
-### Deviation Grid & Floor rates :
-    Salaried/SEP: 8.25%
-    SENP – CPM: 8.4%
-    SENP – Surrogate: 9.25%
-Floor rate : Salaried/SEP : 7.75% & SENP: 8.00% (Only for CIBIL Score : 800 &
-above & FOIR upto 80%)
+## Deviation Grid & Floor Rates
+
+| CIBIL Category | Salaried/SEP Floor | SENP Floor |
+|----------------|-------------------|------------|
+| CIBIL 800+ & FOIR ≤ 80% | 7.75% | 8.00% |
+| CIBIL 750+ | 7.95% | 8.10% |
+| CIBIL 700-750 / NTC – CPM | 8.05% | 8.20% |
+| CIBIL 700-750 / NTC – Surrogate | 8.05% | 9.05% |
+
+> 🔴 **CIBIL < 700:** +50 bps for Salaried/SEP | +75 bps for SENP on RAAC rate & floor rate
+> Any deviation in Collateral → book in Pragati Plus HL & Pragati HL
 
 ### Tenure for various products :
 

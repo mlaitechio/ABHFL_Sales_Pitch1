@@ -201,11 +201,12 @@ CIBIL score 700-730 & NTC:
 
 Deviation Grid & Floor 
 Rates:
-    | Collateral Type | Salaried / SEP | Self Employed |
-    | --------------- | -------------- | ------------- |
-    | Type II         | 10.00%         | 10.50%        |
-    | Type III        | 11.00%         | 11.50%        |
-    | Type IV         | 12.00%         | 12.50%        |
+
+| Collateral Type | Salaried/SEP Floor | Self Employed Floor |
+|----------------|-------------------|---------------------|
+| Type II** | 9.65% | 10.15% |
+| Type III | 10.65% | 11.15% |
+| Type IV | 11.65% | 12.15% |
 
 Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method
 

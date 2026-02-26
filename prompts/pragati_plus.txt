@@ -48,18 +48,32 @@
 
 
 Pricing Matrix:
-Segment 1 (Assessed Income):
-  CIBIL above 730: 10.75%
-  CIBIL 700 to 730 (inclusive) & NTC: 11.25%
-Segment 2 (Bank Salaried):
-  CIBIL above 730: 10.00%
-  CIBIL 700 to 730 (inclusive) & NTC: 10.50%
+## Rate of Interest
 
-For CIBIL Score  < 700, 50 bps premium to be charged for Salaried & 75 bps for SENP Profile on above RAAC rate and also applicable on floor rate
-Processing Fees:
-- Salary Income: 0.25% (Direct/RP Sourcing), 0.50% (DSA Sourcing)
-- Assessed Income: 1.00% (Direct/RP Sourcing), 1.50% (DSA Sourcing)
+| Segment | Collateral | Profile | CIBIL 750+ | CIBIL 700-750/NTC |
+|---------|------------|---------|------------|-------------------|
+| Segment 1 – Assessed Income | Type I | SENP | 10.75% | 11.25% |
+| Segment 2 – Bank Salaried | Type II | Salaried | 10.00% | 10.50% |
 
-Deviation & Floor rates
-  Segment 1 (SENP) : 10%
-  Segment 2 (Bank Salaried) : 9.50% (Govt, Cat A/B) & 9.75% (Other Salaried)
+---
+
+### Processing Fees
+
+| Income Type | Direct/RP Sourcing | DSA Sourcing |
+|-------------|-------------------|--------------|
+| Salary Income | 0.25% | 0.50% |
+| Assessed Income | 1.00% | 1.50% |
+
+---
+
+### Deviation Grid & Floor Rates
+
+| Segment | CIBIL 750+ Floor | Others Floor |
+|---------|-----------------|-------------|
+| Segment 1 – SENP | 9.55% | 9.65% |
+| Segment 2 – Govt/Cat A/B | 9.05% | 9.15% |
+| Segment 2 – Other Salaried | 9.30% | 9.40% |
+
+> 🔴 **CIBIL < 700:** +50 bps Salaried | +75 bps SENP on RAAC rate & floor rate
+
+---
