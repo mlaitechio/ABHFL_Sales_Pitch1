@@ -2,7 +2,7 @@ AVERAGE BANKING PROGRAM (ABP)
 
 **Loan Amount:**
 - Minimum → 10 lacs
-- Maximum → 5 CR for HL & LAP
+- Maximum → 7.5 CR for HL & LAP
 
 **Eligibility = 60% * ABB (A - B - C - D + E)**
 
