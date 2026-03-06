@@ -154,7 +154,7 @@ def create_tools(abhfl_instance):
     
     # Product information tools
     product_names = [
-        # "Collateral",
+        "Collateral",
         "salary_income_method",
         "cash_profit_method",
         "gross_turnover_method",
