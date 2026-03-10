@@ -2,7 +2,7 @@ LOW LTV METHOD
 
 **Loan Amount:**
 - Minimum → A+/A city limits – 40 lacs, other locations – 20 lacs
-- Maximum → 3 CR
+- Maximum → 5 Cr (HL) , 3 Cr (LAP)
 
 **FOIR:** Not Applicable*
 
@@ -39,11 +39,16 @@ Mandatory for all cases
 ### Documentation
 
 - Bank statement of latest 12 months of the main account and 3 months statement of other accounts (as mentioned in the financials)
-- ITR/ Computation and Financials for last 2 years
-
+- Latest year ITR with Saral page. No loss to be reported & no delays / defaults in Statutory filings .ITR/ Computation and Financials for last 2 years
 ### Caution profiles
 
-Caution/Negative profiles are not to be funded
+Caution Proﬁles:
+        Caution & Negative profile allowed with following addition 
+        Bar & Restaurant 
+        Entertainment & Art related business, movie halls, malls, Banquet halls,
+        Disco Pubs, Diamond dealer & jewelers, Including Imitation Jewellers
+        Govt. Contractor 
+        Coaching Institutions & tuitions 
 
 ### Customer Equity
 
