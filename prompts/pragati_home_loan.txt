@@ -60,28 +60,6 @@ Self Employed: Rs 1,00,000 per annum.
 
 ---
 
-### LTV (Loan to Value) Grid
-
-
-| **Eligibility Income**  | **Type I**  | **Type II** |**Type III** | **Type IV** |
-|-------------------------|-------------|------------|-------------|-------------|
-| **Formal Income **        | NHB LTV  |NHB LTV    |   NHB LTV -5% | NHB LTV -10%  |
-| **Assessed Income**      | NHB LTV    |NHB LTV     | NHB LTV -10%   | NHB LTV -15%  |
-
-NHB LTV-
-1. Up to 30 Lacs- 90%
-2. 30 – 75 Lacs – 80%
-3. >75 Lacs – 75%
-
-Important Note:
-A. For Type III, 
-    Assessed Income : NHB-10% (80% for upto 30 Lakhs & 70% for loan amount from 30 to 75 Lakhs)
-B. For Type IV:
-    ▪ Formal/Surrogate Program : NHB-10% (80% for upto 30L & 70% for loan amount from 30 to 75 L)
-    ▪ Assessed Income : NHB-15% (75% for upto 30L & 65% for loan amount from 30 to 75 L)
-
----
-
 
 ### Loan Amount (in Crs) - Based on Collateral Type and Location
 
@@ -213,6 +191,8 @@ Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method
 *Floor rate of 10 bps lower for Type II Collateral with CIBIL Score of 750 & above
 
 ## LTV Grid : Loan Amount < 50 Lakhs (Pragati Home)
+Important Note : **Bureau score is important so must mention in all ltv related answer**
+
 
 | Bureau Score | Type I | Type II | Type III | Type IV |
 |---|---|---|---|---|
@@ -233,3 +213,12 @@ Note: Floor rate to be 50 bps higher for CM assessed & Cash salaried method
 | Product | Income Program | Type I | Type II | Type III | Type IV |
 |---|---|---|---|---|---|---|
 | **Pragati HL** | Formal / Surrogate Income | Reg. LTV Norms | Reg. LTV Norms | Reg. LTV norm -5% | As per less than 50 lacs grid above |
+
+
+NHB LTV-
+1. Up to 30 Lacs- 90%
+2. 30 – 75 Lacs – 80%
+3. >75 Lacs – 75%
+
+
+---
