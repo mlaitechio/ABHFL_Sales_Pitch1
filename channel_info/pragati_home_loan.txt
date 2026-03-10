@@ -63,10 +63,29 @@ Mortgage Takeover
 ### LTV (Loan to Value) Grid
 
 
-| **Eligibility Income**  | **Type I**  | **Type II** |**Type III** | **Type IV** |
-|-------------------------|-------------|------------|-------------|-------------|
-| **Formal Income **      | NHB LTV     |NHB LTV     |   NHB LTV -5% | NHB LTV -10%  |
-| **Assessed Income**     | NHB LTV     |NHB LTV     | NHB LTV -10%   | NHB LTV -15%  |
+## LTV Grid : Loan Amount < 50 Lakhs (Pragati Home)
+Important Note : **Bureau score is important so must mention in all ltv related answer**
+
+
+| Bureau Score | Type I | Type II | Type III | Type IV |
+|---|---|---|---|---|
+| **Decile 1** | Reg LTV (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) |
+| **Decile 2** | Reg LTV (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) |
+| **Decile 3** | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) |
+| **Decile 4** | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) |
+| **Decile 5** | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) |
+| **Decile 6** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) |
+| **Decile 7** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) |
+| **Decile 8** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) |
+| **Decile 9** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) |
+| **Decile 10** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) |
+| **Decile NA** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) |
+
+## B. Loan Amount > 50 Lakhs (Pragati Home Loan)
+
+| Product | Income Program | Type I | Type II | Type III | Type IV |
+|---|---|---|---|---|---|---|
+| **Pragati HL** | Formal / Surrogate Income | Reg. LTV Norms | Reg. LTV Norms | Reg. LTV norm -5% | As per less than 50 lacs grid above |
 
 NHB LTV-
 1. Up to 30 Lacs- 90%

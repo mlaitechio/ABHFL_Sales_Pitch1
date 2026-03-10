@@ -138,3 +138,20 @@ The LTV is determined by the Bureau Scorecard Decile and Collateral Type, using 
 | **1 & 2** | $\text{Regulatory LTV}$ (for -SENP/Salaried) | $\text{Regulatory LTV - 10%}$ (for -SENP/Salaried) | **N/A** | **N/A** |
 | **4** | $\text{Regulatory LTV}$ | $\text{Regulatory LTV - 5%}$ | **N/A** | **N/A** |
 | **6-10** | $\text{RBI LTV}$ | $\text{RBI LTV}$ | $\text{RBI LTV - 5%}$ | $\text{RBI LTV - 10%}$ |
+
+## LTV Grid : Loan Amount < 50 Lakhs (Pragati Aashiyana)
+Important Note : **Bureau score is important so must mention in all ltv related answer**
+
+| Bureau Score | Type I | Type II | Type III | Type IV | Special |
+|---|---|---|---|---|---|
+| **Decile 1** | Reg LTV (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) |
+| **Decile 2** | Reg LTV (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) | Reg LTV minus (10%) (SENP¹) |
+| **Decile 3** | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) | Reg LTV minus (10%) |
+| **Decile 4** | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) | Reg LTV minus (10%) |
+| **Decile 5** | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) | Reg LTV minus (10%) |
+| **Decile 6** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) |
+| **Decile 7** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) |
+| **Decile 8** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) |
+| **Decile 9** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) |
+| **Decile 10** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) |
+| **Decile NA** | Reg LTV | Reg LTV | Reg LTV | Reg LTV minus (5%) | Reg LTV minus (10%) |
