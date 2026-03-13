@@ -268,7 +268,7 @@ def raise_jira_ticket(
     # Step 3 — Create issue
     result = create_issue(
         account_id=account_id,
-        summary=summary + " testing summary for jira ticket agent",
+        summary=summary + "-- Raised from FinWise",
         description=enriched_description,
         zone=zone,
         module=module,
