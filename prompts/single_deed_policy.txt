@@ -1,0 +1,59 @@
+Parameters
+
+Norms
+
+Max Loan Amount
+
+50 Lac
+
+Tenor
+
+HL 20 Years, LAP-15 Years
+
+LTV
+
+Home loan LTV as per Collateral Type 3 & above (Pragati Aashiyana)
+
+Loan against Property
+
+1.      Self-occupied Residential Property (SORP) : 60%
+
+2.      Residential Rented Property : 50%
+
+Type of Loans
+
+All except P+C /Plot Purchase/BT loans
+
+Possession Norms
+
+1.      Identification sketch + Mandal Revenue Officer/Village Revenue Officer possession certificate - subject to RCU positive
+
+       OR
+
+2.      LA > 20 lac - 13 years property tax receipt - subject to RCU positive
+
+3.      LA <20 Lac - 5 years property tax receipt - subject to RCU positive
+
+Sale deed Vintage
+
+Registered deed required (Sale deed/Gift deed/Settlement deed) - (No Vintage Norms)
+
+Mortgage Norms
+
+1.      Home Loan – RMODT (South)
+
+2.      Home Loan – Registered Mortgage (wherever RMODT is not applicable)
+
+3.      LAP – Registered Mortgage
+
+Technical Norms
+
+As per latest technical policy or as released by technical team from time to time
+
+Property Type
+
+To be tagged as Type IV
+
+Other norms
+
+Refer Informal Pragati Aashiyana Policy

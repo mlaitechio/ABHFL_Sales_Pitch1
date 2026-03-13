@@ -18,6 +18,7 @@ from .Select_calculator import select_calculator
 from .property_faq import get_qna_by_location_from_file
 from .location_cat import get_location_details
 from .mitigants import match_program
+from .jira_ticket import raise_jira_ticket
 
 
 def home_loan_eligibility_tool(customer_type, dob, net_monthly_income, current_monthly_emi, roi):
@@ -211,6 +212,33 @@ Rule: Image paths = MANDATORY by default for all queries. Exception only if user
 
     return tools
 
+def make_raise_jira_ticket_tool(abhfl_instance):
+    """Factory that creates a Jira ticket tool pre-filled with the logged-in user's identity."""
+    def raise_jira_ticket_tool(
+        summary: str,
+        description: str,
+        zone: str,
+        module: str,
+        category: str,
+        sub_category: str,
+        sub_sub_category: str,
+        application_no: str = None,
+        application_name: str = None) -> dict | None:
+        """Raise a JIRA ticket. Email and display name are taken from the logged-in user automatically."""
+        return raise_jira_ticket(
+            abhfl_instance.user_email,
+            summary,
+            description,
+            zone,
+            module,
+            category,
+            sub_category,
+            sub_sub_category,
+            application_no=application_no,
+            application_name=application_name,
+        )
+    return raise_jira_ticket_tool
+
 def create_tools(abhfl_instance):
     """Create and return a list of StructuredTools."""
     tools = [
@@ -383,12 +411,31 @@ StructuredTool.from_function(
 StructuredTool.from_function(
     func=mitigation_tool,
     name="mitigation_tool",
-    description=("""
+    description="""
         "Tool retrieves mitigants based on rejection reasons from customer loan profiles.(key words : "How can we fund" , "onboard" ,"Proceed this profile","do this case")
          Parameters:
 -segment (str, required): segment name must be one of this two only[**informal**, **affordable** , **prime**].Must be ask user to specify with beutification"
 -reason  (str, required): use exact reject reason string entered by user. do not trim paraphase or attemp to simplyfy the input.Don't prob too much just get user question as reason if not specified\n"""
-    )
+    ),
+StructuredTool.from_function(
+    func=make_raise_jira_ticket_tool(abhfl_instance),
+    name="raise_jira_ticket_tool",
+    description="""⚠ IMPORTANT: Only call this tool AFTER the user has explicitly confirmed the ticket details in Step 6 of the JIRA conversation flow. NEVER call this tool proactively or without confirmation.
+
+Raise a JIRA Service Desk ticket for the currently logged-in user.
+Email and display name are resolved automatically from the session — do NOT ask the user for them.
+Issue type is always set to Bug automatically — do NOT pass it.
+
+Parameters:
+summary (str, required): Brief summary/title of the issue.
+description (str, required): Detailed description of the issue.
+zone (str, required): Must be one of: north, south, east, west
+module (str, required): Must be one of: sourcing, login, dde_&_dqc, fde_&_fqc, underwriting, disbursement, master, technical, rcu, dashboard, lms_push
+category (str, required): Must be one of: verification, applicant_details, product_details, documents, approval
+sub_category (str, required): Must be one of: pan_verification, aadhar_verification, applicant_details, login_issue, api_integration, other
+sub_sub_category (str, required): Must be one of: self, other_user, personal_details, kyc_detail, loan_details, submit_for_underwriting, other
+application_no (str, optional): Application number if available (e.g. 'APP-123456'). Leave empty if not provided.
+application_name (str, optional): Application name Must be one of: Stellar, Salesforce, Finverse, A3S""",
 ),
     ]
 
@@ -401,7 +448,7 @@ StructuredTool.from_function(
         "micro_CF", "step_up", "step_down", "extended_tenure", "lease_rental_discounting",
         "express_balance_transfer_program", "prime_hl", "prime_lap", "priority_balance_transfer",
         "semi_fixed", "staff_loan_price", "power_pitches", "nri_assesment_criteria", "PMAY","compliance",
-        "Competitors", "home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","pre_prq_offer","approved_list_of_financers_mortage_takeover","FOIR_LTV_Max_loan_Grid_Affordable","Go_No_Go_Credit_Filters","Income_Eligibility_Method","Income_Ownership_Matrix","Risk_Assessment_Parameters","Balloon_Payment_prime","Bullet_Payment_prime","Funding_Hotel_Industrial_Educational_Institutes_Norms","Industry_Margin_List","Negative_Collateral","Negative_and_caution_Profiles","Negative_Country_List_for_NRI","Under_Construction_Property_Funding_Norms","Norms_for_Defense_Personnel","Norms_for_HIL_HEL_HCL","sector_specific_norms","insuarance","Norms_ppr_PHCL","Khushi_home_loan","Bureau_Scorecard"
+        "Competitors","home_loan_ltv", "ftnr_queries" ,"select" ,"deviation_matrix","credit_approval_authority","APF","technical_deviation","deviation_delegation_matrix_affordable","non_targeted_profile","pre_prq_offer","approved_list_of_financers_mortage_takeover","FOIR_LTV_Max_loan_Grid_Affordable","Go_No_Go_Credit_Filters","Income_Eligibility_Method","Income_Ownership_Matrix","Risk_Assessment_Parameters","Balloon_Payment_prime","Bullet_Payment_prime","Funding_Hotel_Industrial_Educational_Institutes_Norms","Industry_Margin_List","Negative_Collateral","Negative_and_caution_Profiles","Negative_Country_List_for_NRI","Under_Construction_Property_Funding_Norms","Norms_for_Defense_Personnel","Norms_for_HIL_HEL_HCL","sector_specific_norms","insuarance","Norms_ppr_PHCL","Khushi_home_loan","Bureau_Scorecard","single_deed_policy"
     ]
     
     for product_name in product_names:
