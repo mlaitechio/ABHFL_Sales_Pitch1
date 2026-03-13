@@ -20,6 +20,18 @@ JIRA_API_TOKEN = os.getenv("JIRA_API_TOKEN")
 
 AUTH = HTTPBasicAuth(JIRA_USERNAME, JIRA_API_TOKEN)
 
+SESSION = requests.Session()
+SESSION.auth = AUTH
+SESSION.headers.update({"Accept": "application/json"})
+
+# Proxy is mandatory on this server — direct connection to Atlassian is blocked
+if os.getenv("USE_PROXY", "false").lower() == "true":
+    SESSION.proxies = {
+        "http":  "http://185.46.212.88:80",
+        "https": "http://185.46.212.88:443",
+    }
+REQUEST_TIMEOUT = (10, 30)  # (connect_timeout, read_timeout) in seconds
+
 
 # ─── Field Mappings (lowercase_underscore key → JIRA ID) ─────────────────────
 
@@ -97,7 +109,6 @@ def resolve_field(field_name: str, label: str) -> str:
     mapping = FIELD_MAPS.get(field_name)
     if mapping is None:
         raise ValueError(f"Unknown field: '{field_name}'")
-    # Normalize input: lowercase, spaces → underscores
     normalized = label.strip().lower().replace(" ", "_")
     if normalized in mapping:
         return mapping[normalized]
@@ -114,21 +125,17 @@ def validate_account(email: str) -> tuple[str, str] | tuple[None, None]:
     Returns (accountId, displayName) if found, (None, None) otherwise.
     """
     url = f"{JIRA_BASE_URL}/rest/api/3/user/search"
-    headers = {"Accept": "application/json"}
     params = {"query": email}
 
-    response = requests.get(url, headers=headers, params=params, auth=AUTH)
-
-    if response.status_code == 200:
-        users = response.json()
-        if users and len(users) > 0:
-            account_id = users[0].get("accountId")
-            display_name = users[0].get("displayName", "")
-            return account_id, display_name
-        else:
-            return None, None
-    else:
+    try:
+        response = SESSION.get(url, params=params, timeout=REQUEST_TIMEOUT)
+        if response.status_code == 200:
+            users = response.json()
+            if users:
+                return users[0].get("accountId"), users[0].get("displayName", "")
         return None, None
+    except requests.exceptions.RequestException as e:
+        raise RuntimeError(f"Jira API error in validate_account: {e}")
 
 
 # ─── 2. Create Customer ─────────────────────────────────────────────────────
@@ -138,19 +145,23 @@ def create_customer(display_name: str, email: str) -> str | None:
     Returns the accountId of the newly created customer.
     """
     url = f"{JIRA_BASE_URL}/rest/servicedeskapi/customer"
-    headers = {"Content-Type": "application/json"}
     payload = {
         "displayName": display_name,
         "email": email
     }
 
-    response = requests.post(url, headers=headers, json=payload, auth=AUTH)
-
-    if response.status_code in (200, 201):
-        data = response.json()
-        return data.get("accountId")
-    else:
+    try:
+        response = SESSION.post(
+            url,
+            headers={"Content-Type": "application/json"},
+            json=payload,
+            timeout=REQUEST_TIMEOUT
+        )
+        if response.status_code in (200, 201):
+            return response.json().get("accountId")
         return None
+    except requests.exceptions.RequestException as e:
+        raise RuntimeError(f"Jira API error in create_customer: {e}")
 
 
 # ─── 3. Create Issue ─────────────────────────────────────────────────────────
@@ -171,10 +182,6 @@ def create_issue(
     All dropdown fields accept lowercase_underscore labels (e.g. "north").
     """
     url = f"{JIRA_BASE_URL}/rest/servicedeskapi/request"
-    headers = {
-        "Accept": "application/json",
-        "Content-Type": "application/json",
-    }
 
     payload = {
         "serviceDeskId": "8",
@@ -192,13 +199,19 @@ def create_issue(
         },
         "raiseOnBehalfOf": account_id,
     }
-    # print("Payload for JIRA issue creation:", payload)  # Debugging line
-    response = requests.post(url, headers=headers, json=payload, auth=AUTH)
 
-    if response.status_code in (200, 201):
-        return response.json()
-    else:
+    try:
+        response = SESSION.post(
+            url,
+            headers={"Content-Type": "application/json"},
+            json=payload,
+            timeout=REQUEST_TIMEOUT
+        )
+        if response.status_code in (200, 201):
+            return response.json()
         return {"error": response.status_code, "detail": response.text}
+    except requests.exceptions.RequestException as e:
+        raise RuntimeError(f"Jira API error in create_issue: {e}")
 
 
 # ─── Main Flow (called by the agent tool) ────────────────────────────────────
@@ -231,9 +244,8 @@ def raise_jira_ticket(
       sub_category   : pan_verification | aadhar_verification | applicant_details | login_issue | api_integration | other
       sub_sub_category: self | other_user | personal_details | kyc_detail | loan_details | submit_for_underwriting | other
     """
-    # Enrich description with optional context fields
+    print(module, category, sub_category, sub_sub_category, application_no, application_name, summary, description, email, zone)
 
-    # print(module , category , sub_category , sub_sub_category , application_no , application_name , summary , description , email,  zone )
     enriched_description = description
     if application_name:
         enriched_description += f"\n\nApplication: {application_name}"
@@ -245,9 +257,7 @@ def raise_jira_ticket(
 
     # Step 2 — Create if not found (derive display_name from email as fallback)
     if account_id is None:
-        # Derive a readable name from email: john.doe@... → "John Doe"
         local = email.split("@", 1)[0]
-        # split on anything that isn't a letter
         parts = re.split(r"[^A-Za-z]+", local)
         parts = [p for p in parts if p]
         display_name = " ".join(p.title() for p in parts)
@@ -258,7 +268,7 @@ def raise_jira_ticket(
     # Step 3 — Create issue
     result = create_issue(
         account_id=account_id,
-        summary=summary + "-- Raised from FinWise",
+        summary=summary + " testing summary for jira ticket agent",
         description=enriched_description,
         zone=zone,
         module=module,
@@ -270,7 +280,6 @@ def raise_jira_ticket(
 
     if result and "error" not in result:
         issue_key = result.get("issueKey", "N/A")
-        # issue_id = result.get("issueId", "N/A")
         return f"✅ JIRA ticket created successfully!\nIssue Key: {issue_key}\n"
     elif result and "error" in result:
         return f"❌ Failed to create JIRA ticket. Status: {result['error']}\nDetail: {result['detail']}"
