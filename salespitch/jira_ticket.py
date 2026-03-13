@@ -233,7 +233,7 @@ def raise_jira_ticket(
     """
     # Enrich description with optional context fields
 
-    print(module , category , sub_category , sub_sub_category , application_no , application_name , summary , description , email,  zone )
+    # print(module , category , sub_category , sub_sub_category , application_no , application_name , summary , description , email,  zone )
     enriched_description = description
     if application_name:
         enriched_description += f"\n\nApplication: {application_name}"
@@ -258,7 +258,7 @@ def raise_jira_ticket(
     # Step 3 — Create issue
     result = create_issue(
         account_id=account_id,
-        summary=summary + " testing summary for jira ticket agent",
+        summary=summary + "-- Raised from FinWise",
         description=enriched_description,
         zone=zone,
         module=module,
